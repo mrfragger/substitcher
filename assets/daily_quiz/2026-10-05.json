@@ -1,0 +1,889 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْخَلْقِ فِي الْقُرْآنِ",
+        "nameEn": "Verbs of Creation in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "خَلَقَكُمْ",
+            "en": "created you",
+            "ref": "7:189",
+            "verse": "۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًۭا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَـٰلِحًۭا لَّنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+            "verseEn": "It is He who created you from one soul and created from it its mate that he might dwell in security with her. And when he [i.e., man] covers her, she carries a light burden [i.e., a pregnancy] and continues therein. And when it becomes heavy, they both invoke Allāh, their Lord, \"If You should give us a good [child], we will surely be among the grateful.\""
+          },
+          {
+            "ar": "جَعَلَ",
+            "en": "made",
+            "ref": "43:10",
+            "verse": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًۭا وَجَعَلَ لَكُمْ فِيهَا سُبُلًۭا لَّعَلَّكُمْ تَهْتَدُونَ",
+            "verseEn": "[The one] who has made for you the earth a bed and made for you upon it roads that you might be guided"
+          },
+          {
+            "ar": "فَطَرَهُنَّ",
+            "en": "created them",
+            "ref": "21:56",
+            "verse": "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّـٰهِدِينَ",
+            "verseEn": "He said, \"[No], rather, your Lord is the Lord of the heavens and the earth who created them, and I, to that, am of those who testify."
+          },
+          {
+            "ar": "نَبْرَأَهَا",
+            "en": "We bring it into existence",
+            "ref": "57:22",
+            "verse": "مَآ أَصَابَ مِن مُّصِيبَةٍۢ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَـٰبٍۢ مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ",
+            "verseEn": "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being - indeed that, for Allāh, is easy -"
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتُ الْخُصُومَةِ وَالنَّجْوَى",
+        "nameEn": "Words of dispute and secret counsel in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "يُجَادِلُونَ",
+            "en": "dispute",
+            "ref": "42:35",
+            "verse": "وَيَعْلَمَ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِنَا مَا لَهُم مِّن مَّحِيصٍۢ",
+            "verseEn": "And [that is so] those who dispute concerning Our signs may know that for them there is no place of escape."
+          },
+          {
+            "ar": "يُحَادُّونَ",
+            "en": "oppose",
+            "ref": "58:5",
+            "verse": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُوا۟ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ",
+            "verseEn": "Indeed, those who oppose Allāh and His Messenger are abased as those before them were abased. And We have certainly sent down verses of clear evidence. And for the disbelievers is a humiliating punishment"
+          },
+          {
+            "ar": "تَخَاصُمُ",
+            "en": "(the) quarreling",
+            "ref": "38:64",
+            "verse": "إِنَّ ذَٰلِكَ لَحَقٌّۭ تَخَاصُمُ أَهْلِ ٱلنَّارِ",
+            "verseEn": "Indeed, that is truth [i.e., reality] - the quarreling of the people of the Fire."
+          },
+          {
+            "ar": "نَجْوَى",
+            "en": "secret counsel",
+            "ref": "58:7",
+            "verse": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+            "verseEn": "Have you not considered that Allāh knows what is in the heavens and what is on the earth? There are not three in a private conversation but that He is the fourth of them, nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did, on the Day of Resurrection. Indeed Allāh is, of all things, Knowing."
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتُ مُلْكِ سُلَيْمَانَ",
+        "nameEn": "Elements of Sulayman's Dominion in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "مُلْكًا",
+            "en": "a kingdom",
+            "ref": "38:35",
+            "verse": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًۭا لَّا يَنۢبَغِى لِأَحَدٍۢ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+            "verseEn": "He said, \"My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower.\""
+          },
+          {
+            "ar": "بَنَّاءٍ",
+            "en": "builder",
+            "ref": "38:37",
+            "verse": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍۢ وَغَوَّاصٍۢ",
+            "verseEn": "And [also] the devils [of jinn] - every builder and diver."
+          },
+          {
+            "ar": "سُلْطَانٍ",
+            "en": "a reason",
+            "ref": "27:21",
+            "verse": "لَأُعَذِّبَنَّهُۥ عَذَابًۭا شَدِيدًا أَوْ لَأَا۟ذْبَحَنَّهُۥٓ أَوْ لَيَأْتِيَنِّى بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
+            "verseEn": "I will surely punish him with a severe punishment or slaughter him unless he brings me clear authorization.\""
+          },
+          {
+            "ar": "الطَّيْرِ",
+            "en": "(of) the birds",
+            "ref": "27:16",
+            "verse": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ",
+            "verseEn": "And Solomon inherited David. He said, \"O people, we have been taught the language of birds, and we have been given from all things. Indeed, this is evident bounty.\""
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتُ الْجَزَاءِ فِي سُورَةِ التِّينِ",
+        "nameEn": "Words of Degradation and Judgment in Surah at-Tin",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَسْفَلَ",
+            "en": "(to the) lowest",
+            "ref": "95:5",
+            "verse": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+            "verseEn": "Then We return him to the lowest of the low,"
+          },
+          {
+            "ar": "مَمْنُونٍ",
+            "en": "ending",
+            "ref": "95:6",
+            "verse": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+            "verseEn": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted."
+          },
+          {
+            "ar": "يُكَذِّبُكَ",
+            "en": "causes you to deny",
+            "ref": "95:7",
+            "verse": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+            "verseEn": "So what yet causes you to deny the Recompense?"
+          },
+          {
+            "ar": "أَحْكَمِ",
+            "en": "(the) Most Just",
+            "ref": "95:8",
+            "verse": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+            "verseEn": "Is not Allāh the most just of judges?"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "تولى",
+    "display": "تَوَلَّىٰ",
+    "hint": "Turned away (from the truth)",
+    "verseRef": "96:13",
+    "arabicVerse": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+    "verse": "96:13 - Have you seen if he denies and turns away -"
+  },
+  "deduction": {
+    "title": "The Trust Entrusted to the River",
+    "intro": "A soul faced an impossible decree, where the life of a newborn hung in the balance. Guided by divine inspiration, a desperate command was obeyed, and a precious secret was set adrift on the current, only to be returned in a way unforeseen.",
+    "clues": [
+      "I lived under the shadow of a tyrant who commanded the killing of newborn males.",
+      "A divine inspiration came to me, instructing me to take a desperate and heart-wrenching action.",
+      "I placed my precious infant in a chest and set it upon the flowing river.",
+      "My heart became empty, and I almost revealed the secret, but Allah strengthened my resolve.",
+      "I sent someone to follow the child's journey downstream as the current carried the chest away.",
+      "The child was found by the household of the tyrant, and eventually, I was reunited with my child and became the nursemaid."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Mother of Prophet Musa",
+          "Asiya (Wife of Pharaoh)",
+          "Maryam (Mother of Prophet Isa)",
+          "The wife of Prophet Lut",
+          "The mother of Prophet Yahya (wife of Zakariya)"
+        ],
+        "answer": "Mother of Prophet Musa"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "She placed her child in a chest and set it on the river",
+          "She hid her child in a cave",
+          "She abandoned her child in the desert",
+          "She threw her child into a fire",
+          "She left her child at the door of a mosque"
+        ],
+        "answer": "She placed her child in a chest and set it on the river"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A chest set afloat on the river",
+          "A burning bush",
+          "A staff that turned into a snake",
+          "A table spread with food from heaven",
+          "A she-camel sent as a sign"
+        ],
+        "answer": "A chest set afloat on the river"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "She was reunited with her child and nursed him",
+          "She never saw her child again",
+          "She was executed by the tyrant",
+          "She became a queen in Egypt",
+          "She migrated to another land and lived in exile"
+        ],
+        "answer": "She was reunited with her child and nursed him"
+      }
+    },
+    "verseRef": "28:7",
+    "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+    "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+  },
+  "scramble": {
+    "verseRef": "41:35",
+    "reference": "Surah Fussilat (41:35)",
+    "segments": [
+      "وَمَا يُلَقَّاهَا",
+      "إِلَّا الَّذِينَ صَبَرُوا",
+      "وَمَا يُلَقَّاهَا",
+      "إِلَّا",
+      "ذُو حَظٍّ عَظِيمٍ"
+    ],
+    "translations": [
+      "And not it is granted except",
+      "(to) those who (are) patient",
+      "and not it is granted",
+      "except (to the) owner",
+      "(of) fortune great"
+    ],
+    "hint": "The rare spiritual reward of patience and noble character — turning enmity into devoted friendship.",
+    "arabic": "وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍۢ",
+    "words": [
+      "وَمَا يُلَقَّىٰهَآ إِلَّا",
+      "ٱلَّذِينَ صَبَرُوا۟",
+      "وَمَا يُلَقَّىٰهَآ",
+      "إِلَّا ذُو",
+      "حَظٍّ عَظِيمٍۢ"
+    ],
+    "verseEn": "But none is granted it except those who are patient, and none is granted it except one having a great portion [of good]."
+  },
+  "roothive": {
+    "center": "ب",
+    "outer": [
+      "ي",
+      "م",
+      "ا",
+      "ت",
+      "ن",
+      "ه"
+    ],
+    "root": {
+      "letters": "بين",
+      "display": "ب ي ن",
+      "translit": "b-y-n",
+      "meaning": "This root centers on something becoming clear or distinct—the moment when confusion gives way to evident truth. Built words stretch that idea: some describe making things clear, others name the clear proof itself, and some point to what has become evident.",
+      "occurrences": 523,
+      "lemmaCount": 12
+    },
+    "words": [
+      {
+        "w": "ابن",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ابْن",
+            "gloss": "son",
+            "type": "noun",
+            "root": "بني",
+            "count": 63,
+            "ref": "2:87",
+            "pos": 11,
+            "alt": [
+              "sons",
+              "children"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ابي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَبَى",
+            "gloss": "refused",
+            "type": "verb",
+            "root": "أبي",
+            "count": 13,
+            "ref": "2:34",
+            "pos": 9,
+            "alt": [
+              "refuse"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "باب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "باب",
+            "gloss": "gates",
+            "type": "noun",
+            "root": "بوب",
+            "count": 27,
+            "ref": "6:44",
+            "pos": 8,
+            "alt": [
+              "gate",
+              "doors"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بنت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بِنْت",
+            "gloss": "daughters",
+            "type": "noun",
+            "root": "بني",
+            "count": 17,
+            "ref": "43:16",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "بني",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بُنَىّ",
+            "gloss": "children",
+            "type": "noun",
+            "root": "بني",
+            "count": 80,
+            "ref": "2:83",
+            "pos": 4,
+            "alt": [
+              "children of israel",
+              "sons"
+            ]
+          },
+          {
+            "lemma": "بَنَى",
+            "gloss": "construct",
+            "type": "verb",
+            "root": "بني",
+            "count": 11,
+            "ref": "40:36",
+            "pos": 4,
+            "alt": [
+              "build"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "بهت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بُهِتَ",
+            "gloss": "became dumbfounded",
+            "type": "verb",
+            "root": "بهت",
+            "count": 2,
+            "ref": "2:258",
+            "pos": 36,
+            "alt": [
+              "bewilder"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "بيت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَيْت",
+            "gloss": "houses",
+            "type": "noun",
+            "root": "بيت",
+            "count": 65,
+            "ref": "3:96",
+            "pos": 3,
+            "alt": [
+              "house",
+              "homes"
+            ]
+          },
+          {
+            "lemma": "بَيَّتَ",
+            "gloss": "plan by night",
+            "type": "verb",
+            "root": "بيت",
+            "count": 4,
+            "ref": "4:81",
+            "pos": 7,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "بين",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بَيْن",
+            "gloss": "between",
+            "type": "noun",
+            "root": "بين",
+            "count": 266,
+            "ref": "2:66",
+            "pos": 4,
+            "alt": [
+              "before",
+              "among"
+            ]
+          },
+          {
+            "lemma": "بَيَّنُ",
+            "gloss": "makes clear",
+            "type": "verb",
+            "root": "بين",
+            "count": 35,
+            "ref": "2:68",
+            "pos": 5,
+            "alt": [
+              "to make clear",
+              "allah makes clear"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "بَيِّن",
+            "gloss": "clear",
+            "type": "adjective",
+            "root": "بين",
+            "count": 1,
+            "ref": "18:15",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "ماب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَآب",
+            "gloss": "place of return",
+            "type": "noun",
+            "root": "أوب",
+            "count": 9,
+            "ref": "13:29",
+            "pos": 8,
+            "alt": [
+              "return"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نبا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَبَأ",
+            "gloss": "news",
+            "type": "noun",
+            "root": "نبأ",
+            "count": 29,
+            "ref": "3:44",
+            "pos": 3,
+            "alt": [
+              "story"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نبي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَبِيّ",
+            "gloss": "prophet",
+            "type": "noun",
+            "root": "نبأ",
+            "count": 75,
+            "ref": "2:91",
+            "pos": 24,
+            "alt": [
+              "prophets",
+              "any prophet"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ابنت",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "ابْنَت",
+            "gloss": "daughter",
+            "type": "noun",
+            "root": "بني",
+            "count": 2,
+            "ref": "66:12",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "اناب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَنابَ",
+            "gloss": "turns",
+            "type": "verb",
+            "root": "نوب",
+            "count": 11,
+            "ref": "11:88",
+            "pos": 35,
+            "alt": [
+              "turn",
+              "turns back"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "انبا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَنۢبَأَ",
+            "gloss": "inform",
+            "type": "verb",
+            "root": "نبأ",
+            "count": 4,
+            "ref": "2:31",
+            "pos": 10,
+            "alt": [
+              "had informed",
+              "informed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "انبت",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَنۢبَتَ",
+            "gloss": "grows",
+            "type": "verb",
+            "root": "نبت",
+            "count": 16,
+            "ref": "2:61",
+            "pos": 15,
+            "alt": [
+              "causes to grow"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "بنان",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَنان",
+            "gloss": "fingertip",
+            "type": "noun",
+            "root": "بنن",
+            "count": 2,
+            "ref": "8:12",
+            "pos": 23
+          }
+        ]
+      },
+      {
+        "w": "بيات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَيات",
+            "gloss": "night",
+            "type": "noun",
+            "root": "بيت",
+            "count": 3,
+            "ref": "7:4",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "بيان",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "بَيان",
+            "gloss": "declaration",
+            "type": "noun",
+            "root": "بين",
+            "count": 3,
+            "ref": "3:138",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "بينه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "بَيِّنَة",
+            "gloss": "clear",
+            "type": "noun",
+            "root": "بين",
+            "count": 71,
+            "ref": "2:99",
+            "pos": 5,
+            "alt": [
+              "clear proof",
+              "clear proofs"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تبين",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "تَبَيَّنَ",
+            "gloss": "becomes distinct",
+            "type": "verb",
+            "root": "بين",
+            "count": 18,
+            "ref": "2:109",
+            "pos": 19,
+            "alt": [
+              "became clear",
+              "become clear"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "مبين",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُبِين",
+            "gloss": "manifest",
+            "type": "active participle",
+            "root": "بين",
+            "count": 119,
+            "ref": "2:168",
+            "pos": 16,
+            "alt": [
+              "clear",
+              "open"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متاب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاب",
+            "gloss": "repentance",
+            "type": "noun",
+            "root": "توب",
+            "count": 2,
+            "ref": "25:71",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "منيب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُنِيب",
+            "gloss": "oft-returning",
+            "type": "active participle",
+            "root": "نوب",
+            "count": 7,
+            "ref": "11:75",
+            "pos": 5,
+            "alt": [
+              "turning",
+              "turns"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نبات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نَبات",
+            "gloss": "vegetation",
+            "type": "noun",
+            "root": "نبت",
+            "count": 9,
+            "ref": "3:37",
+            "pos": 6,
+            "alt": [
+              "plants",
+              "rearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بنيان",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بُنْيان",
+            "gloss": "structure",
+            "type": "noun",
+            "root": "بني",
+            "count": 7,
+            "ref": "18:21",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "بهتان",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بُهْتان",
+            "gloss": "slander",
+            "type": "noun",
+            "root": "بهت",
+            "count": 6,
+            "ref": "4:20",
+            "pos": 15,
+            "alt": [
+              "false accusation"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بهيمه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بَهِيمَة",
+            "gloss": "beast",
+            "type": "noun",
+            "root": "بهم",
+            "count": 3,
+            "ref": "5:1",
+            "pos": 8,
+            "alt": [
+              "quadruped"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تبيان",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تِبْيان",
+            "gloss": "clarification",
+            "type": "noun",
+            "root": "بين",
+            "count": 1,
+            "ref": "16:89",
+            "pos": 18
+          }
+        ]
+      },
+      {
+        "w": "مبينه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُبَيِّنَة",
+            "gloss": "open",
+            "type": "active participle",
+            "root": "بين",
+            "count": 6,
+            "ref": "4:19",
+            "pos": 21,
+            "alt": [
+              "clear"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "تَسْتَبِينَ",
+        "gloss": "becomes manifest",
+        "type": "verb",
+        "root": "بين",
+        "count": 1,
+        "ref": "6:55",
+        "pos": 4,
+        "form": 10
+      },
+      {
+        "lemma": "مُسْتَبِين",
+        "gloss": "clear",
+        "type": "active participle",
+        "root": "بين",
+        "count": 1,
+        "ref": "37:117",
+        "pos": 3
+      },
+      {
+        "lemma": "يُبِينُ",
+        "gloss": "clear",
+        "type": "verb",
+        "root": "بين",
+        "count": 1,
+        "ref": "43:52",
+        "pos": 11,
+        "form": 4
+      }
+    ],
+    "maxScore": 66,
+    "featuredRoot": "بين"
+  }
+}

@@ -471,9 +471,9 @@ class SidePanel extends StatelessWidget {
                     panelMode == PanelMode.colors ||
                     panelMode == PanelMode.subs ||
                     panelMode == PanelMode.luts) ...[
-                  const SizedBox(height: 16),
+                  const SizedBox(height: 6),
                   _buildSearchBar(),
-                  SizedBox(height: panelMode == PanelMode.playlist ? 0 : 16),
+                  SizedBox(height: panelMode == PanelMode.playlist ? 0 : 6),
                 ],
                 Expanded(
                   child: _buildPanelContent(context),
@@ -650,8 +650,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 164),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 164),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 166),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 166),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -669,6 +669,77 @@ class SidePanel extends StatelessWidget {
     );
   }
 
+  Widget _compactField({
+    required TextEditingController controller,
+    required FocusNode focusNode,
+    required String hint,
+    required IconData icon,
+    required bool showClear,
+    required ValueChanged<String> onChanged,
+  }) {
+    return SizedBox(
+      height: 32,
+      child: TextField(
+        controller: controller,
+        focusNode: focusNode,
+        style: const TextStyle(color: Colors.white, fontSize: 14),
+        decoration: InputDecoration(
+          isDense: true,
+          hintText: hint,
+          hintStyle: const TextStyle(color: Colors.white54, fontSize: 14),
+          prefixIcon: Icon(icon, color: Colors.white54, size: 18),
+          prefixIconConstraints:
+              const BoxConstraints(minWidth: 36, minHeight: 32),
+          suffixIcon: showClear
+              ? IconButton(
+                  icon: const Icon(Icons.clear, color: Colors.white54, size: 18),
+                  padding: EdgeInsets.zero,
+                  constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
+                  onPressed: () {
+                    controller.clear();
+                    onChanged('');
+                  },
+                )
+              : null,
+          suffixIconConstraints:
+              const BoxConstraints(minWidth: 32, minHeight: 32),
+          filled: true,
+          fillColor: Colors.black26,
+          border: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(8),
+            borderSide: BorderSide.none,
+          ),
+          contentPadding:
+              const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+        ),
+        onChanged: onChanged,
+      ),
+    );
+  }
+
+  Widget _compactChip(String label, bool selected, VoidCallback onTap,
+      {Color selectedColor = Colors.deepPurple}) {
+    return ChoiceChip(
+      label: Text(label, style: const TextStyle(fontSize: 12)),
+      selected: selected,
+      onSelected: (_) => onTap(),
+      selectedColor: selectedColor,
+      materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+      labelStyle: TextStyle(color: selected ? Colors.white : Colors.white54),
+    );
+  }
+
+  ButtonStyle _compactButtonStyle(Color bg, {double horizontal = 16}) {
+    return ElevatedButton.styleFrom(
+      backgroundColor: bg,
+      foregroundColor: Colors.white,
+      padding: EdgeInsets.symmetric(horizontal: horizontal, vertical: 0),
+      minimumSize: const Size(0, 32),
+      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+      textStyle: const TextStyle(fontSize: 13),
+    );
+  }
+
   Widget _buildSearchBar() {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16),
@@ -676,88 +747,28 @@ class SidePanel extends StatelessWidget {
         children: [
           Expanded(
             flex: 3,
-            child: TextField(
+            child: _compactField(
               controller: searchController,
               focusNode: searchFocusNode,
-              style: const TextStyle(color: Colors.white, fontSize: 14),
-              decoration: InputDecoration(
-                hintText: '/ Search... (Ctrl/⌘)⌫',
-                hintStyle: const TextStyle(color: Colors.white54),
-                prefixIcon:
-                    const Icon(Icons.search, color: Colors.white54, size: 20),
-                suffixIcon: searchQuery.isNotEmpty
-                    ? IconButton(
-                        icon: const Icon(Icons.clear,
-                            color: Colors.white54, size: 20),
-                        onPressed: () {
-                          searchController.clear();
-                          onSearchChanged('');
-                        },
-                      )
-                    : null,
-                filled: true,
-                fillColor: Colors.black26,
-                border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(8),
-                  borderSide: BorderSide.none,
-                ),
-                contentPadding:
-                    const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-              ),
+              hint: '/ Search... (Ctrl/⌘)⌫',
+              icon: Icons.search,
+              showClear: searchQuery.isNotEmpty,
               onChanged: onSearchChanged,
             ),
           ),
           const SizedBox(width: 8),
-          ChoiceChip(
-            label: const Text('AND', style: TextStyle(fontSize: 12)),
-            selected: searchUseAnd,
-            onSelected: (selected) => onSearchAndSelected(),
-            selectedColor: Colors.deepPurple,
-            labelStyle: TextStyle(
-              color: searchUseAnd ? Colors.white : Colors.white54,
-            ),
-          ),
+          _compactChip('AND', searchUseAnd, onSearchAndSelected),
           const SizedBox(width: 4),
-          ChoiceChip(
-            label: const Text('OR', style: TextStyle(fontSize: 12)),
-            selected: !searchUseAnd,
-            onSelected: (selected) => onSearchOrSelected(),
-            selectedColor: Colors.deepPurple,
-            labelStyle: TextStyle(
-              color: !searchUseAnd ? Colors.white : Colors.white54,
-            ),
-          ),
+          _compactChip('OR', !searchUseAnd, onSearchOrSelected),
           const SizedBox(width: 8),
           Expanded(
             flex: 2,
-            child: TextField(
+            child: _compactField(
               controller: excludeController,
               focusNode: excludeFocusNode,
-              style: const TextStyle(color: Colors.white, fontSize: 14),
-              decoration: InputDecoration(
-                hintText: 'Exclude...',
-                hintStyle: const TextStyle(color: Colors.white54),
-                prefixIcon:
-                    const Icon(Icons.block, color: Colors.white54, size: 20),
-                suffixIcon: excludeTerms.isNotEmpty
-                    ? IconButton(
-                        icon: const Icon(Icons.clear,
-                            color: Colors.white54, size: 20),
-                        onPressed: () {
-                          excludeController.clear();
-                          onExcludeChanged('');
-                        },
-                      )
-                    : null,
-                filled: true,
-                fillColor: Colors.black26,
-                border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(8),
-                  borderSide: BorderSide.none,
-                ),
-                contentPadding:
-                    const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-              ),
+              hint: 'Exclude...',
+              icon: Icons.block,
+              showClear: excludeTerms.isNotEmpty,
               onChanged: onExcludeChanged,
             ),
           ),
@@ -990,34 +1001,12 @@ class SidePanel extends StatelessWidget {
               ),
               const SizedBox(width: 12),
               Expanded(
-                child: TextField(
+                child: _compactField(
                   controller: skipChapterController,
                   focusNode: skipChapterFocusNode,
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
-                  decoration: InputDecoration(
-                    hintText: 'any of these terms',
-                    hintStyle: const TextStyle(color: Colors.white54),
-                    prefixIcon: const Icon(Icons.skip_next,
-                        color: Colors.white54, size: 20),
-                    suffixIcon: skipChapterTerms.isNotEmpty
-                        ? IconButton(
-                            icon: const Icon(Icons.clear,
-                                color: Colors.white54, size: 20),
-                            onPressed: () {
-                              skipChapterController.clear();
-                              onSkipChapterChanged('');
-                            },
-                          )
-                        : null,
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(8),
-                      borderSide: BorderSide.none,
-                    ),
-                    contentPadding:
-                        const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                  ),
+                  hint: 'any of these terms',
+                  icon: Icons.skip_next,
+                  showClear: skipChapterTerms.isNotEmpty,
                   onChanged: onSkipChapterChanged,
                 ),
               ),
@@ -1734,16 +1723,19 @@ class SidePanel extends StatelessWidget {
     return Column(
       children: [
         Padding(
-          padding: const EdgeInsets.all(16.0),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
           child: Column(
             children: [
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  _buildColoringModeButton(ColoringMode.words, '1 Words', null),
+                  _buildColoringModeButton(ColoringMode.words, '1 Words'),
                   const SizedBox(width: 12),
-                  _buildColoringModeButton(ColoringMode.letters, '2 Letters',
-                      'breaks on ligature fonts'),
+                  Tooltip(
+                    message: 'breaks on ligature fonts',
+                    waitDuration: const Duration(milliseconds: 500),
+                    child: _buildColoringModeButton(ColoringMode.letters, '2 Letters'),
+                  ),
                   const SizedBox(width: 24),
                   _buildColorFilterButton('3 All', 'all'),
                   const SizedBox(width: 12),
@@ -2001,7 +1993,7 @@ class SidePanel extends StatelessWidget {
     return Column(
       children: [
         Padding(
-          padding: const EdgeInsets.all(16.0),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
@@ -2011,13 +2003,8 @@ class SidePanel extends StatelessWidget {
               const SizedBox(width: 12),
               ElevatedButton(
                 onPressed: () => onLutSelected(LutItem(name: '', path: ''), -1),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.grey[800],
-                  foregroundColor: Colors.white,
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                ),
-                child: const Text('3 None', style: TextStyle(fontSize: 14)),
+                style: _compactButtonStyle(Colors.grey[800]!, horizontal: 14),
+                child: const Text('3 None', style: TextStyle(fontSize: 13)),
               ),
               if (selectedLutName != null) ...[
                 const SizedBox(width: 24),
@@ -2132,37 +2119,30 @@ class SidePanel extends StatelessWidget {
     final isActive = lutFilterMode == mode;
     return ElevatedButton(
       onPressed: () => onLutFilterModeChanged(mode),
-      style: ElevatedButton.styleFrom(
-        backgroundColor: isActive ? Colors.amber[800] : Colors.grey[800],
-        foregroundColor: Colors.white,
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-      ),
+      style: _compactButtonStyle(
+          isActive ? Colors.amber[800]! : Colors.grey[800]!,
+          horizontal: 14),
       child: Text(
         label,
         style: TextStyle(
-          fontSize: 14,
+          fontSize: 13,
           fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
         ),
       ),
     );
   }
 
-  Widget _buildColoringModeButton(
-      ColoringMode mode, String label, String? tooltip) {
+  Widget _buildColoringModeButton(ColoringMode mode, String label) {
     final isActive = coloringMode == mode;
     return ElevatedButton(
-      onPressed: () {
-        onColoringModeChanged(mode);
-      },
-      style: ElevatedButton.styleFrom(
-        backgroundColor: isActive ? Colors.deepPurple : Colors.grey[800],
-        foregroundColor: Colors.white,
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-      ),
+      onPressed: () => onColoringModeChanged(mode),
+      style: _compactButtonStyle(
+          isActive ? Colors.deepPurple : Colors.grey[800]!,
+          horizontal: 14),
       child: Text(
         label,
         style: TextStyle(
-          fontSize: 14,
+          fontSize: 13,
           fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
         ),
       ),
@@ -2262,11 +2242,7 @@ class SidePanel extends StatelessWidget {
                   Expanded(
                     child: ElevatedButton(
                       onPressed: () => onSearchSubtitles(subsSearchQuery),
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.deepPurple,
-                        foregroundColor: Colors.white,
-                        padding: const EdgeInsets.symmetric(vertical: 16),
-                      ),
+                      style: _compactButtonStyle(Colors.deepPurple),
                       child: const Text('Search Subtitles & Paragraphs'),
                     ),
                   ),
@@ -2275,22 +2251,16 @@ class SidePanel extends StatelessWidget {
                     onPressed: isExportingMarkdown ? null : onExportMarkdown,
                     icon: isExportingMarkdown
                         ? const SizedBox(
-                            width: 16,
-                            height: 16,
+                            width: 14,
+                            height: 14,
                             child: CircularProgressIndicator(
                               strokeWidth: 2,
-                              valueColor:
-                                  AlwaysStoppedAnimation<Color>(Colors.white),
+                              valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
                             ),
                           )
-                        : const Icon(Icons.file_download),
+                        : const Icon(Icons.file_download, size: 16),
                     label: const Text('Export md'),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.blueGrey[700],
-                      foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(
-                          horizontal: 24, vertical: 16),
-                    ),
+                    style: _compactButtonStyle(Colors.blueGrey[700]!, horizontal: 20),
                   ),
                   const SizedBox(width: 8),
                   Expanded(
@@ -2301,13 +2271,11 @@ class SidePanel extends StatelessWidget {
                       child: ElevatedButton.icon(
                         onPressed: isIndexingChapters
                             ? null
-                            : (hasChapterIndex
-                                ? null
-                                : onIndexPlaylistChapters),
+                            : (hasChapterIndex ? null : onIndexPlaylistChapters),
                         icon: isIndexingChapters
                             ? const SizedBox(
-                                width: 16,
-                                height: 16,
+                                width: 14,
+                                height: 14,
                                 child: CircularProgressIndicator(
                                     strokeWidth: 2, color: Colors.white),
                               )
@@ -2316,15 +2284,12 @@ class SidePanel extends StatelessWidget {
                                     ? Icons.check_circle
                                     : Icons.manage_search,
                                 color: Colors.white,
+                                size: 16,
                               ),
                         label: Text(hasChapterIndex
                             ? 'Search Playlist Chapters'
                             : 'Index Playlist Chapters'),
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.lightBlue,
-                          foregroundColor: Colors.white,
-                          padding: const EdgeInsets.symmetric(vertical: 16),
-                        ),
+                        style: _compactButtonStyle(Colors.lightBlue),
                       ),
                     ),
                   ),
@@ -2377,93 +2342,30 @@ class SidePanel extends StatelessWidget {
                   children: [
                     Expanded(
                       flex: 3,
-                      child: TextField(
+                      child: _compactField(
                         controller: chapterSearchController,
                         focusNode: chapterSearchFocusNode,
-                        style:
-                            const TextStyle(color: Colors.white, fontSize: 14),
-                        decoration: InputDecoration(
-                          hintText: 'Search playlist chapters...',
-                          hintStyle: const TextStyle(color: Colors.white54),
-                          prefixIcon: const Icon(Icons.search,
-                              color: Colors.white54, size: 20),
-                          suffixIcon: chapterSearchQuery.isNotEmpty
-                              ? IconButton(
-                                  icon: const Icon(Icons.clear,
-                                      color: Colors.white54, size: 20),
-                                  onPressed: () {
-                                    chapterSearchController.clear();
-                                    onSearchPlaylistChapters('');
-                                  },
-                                )
-                              : null,
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(8),
-                            borderSide: BorderSide.none,
-                          ),
-                          contentPadding: const EdgeInsets.symmetric(
-                              horizontal: 12, vertical: 8),
-                        ),
+                        hint: 'Search playlist chapters...',
+                        icon: Icons.search,
+                        showClear: chapterSearchQuery.isNotEmpty,
                         onChanged: onSearchPlaylistChapters,
                       ),
                     ),
                     const SizedBox(width: 8),
-                    ChoiceChip(
-                      label: const Text('AND', style: TextStyle(fontSize: 12)),
-                      selected: chapterSearchUseAnd,
-                      onSelected: (selected) => onChapterSearchAndSelected(),
-                      selectedColor: Colors.lightBlue,
-                      labelStyle: TextStyle(
-                        color:
-                            chapterSearchUseAnd ? Colors.white : Colors.white54,
-                      ),
-                    ),
+                    _compactChip('AND', chapterSearchUseAnd, onChapterSearchAndSelected,
+                        selectedColor: Colors.lightBlue),
                     const SizedBox(width: 4),
-                    ChoiceChip(
-                      label: const Text('OR', style: TextStyle(fontSize: 12)),
-                      selected: !chapterSearchUseAnd,
-                      onSelected: (selected) => onChapterSearchOrSelected(),
-                      selectedColor: Colors.lightBlue,
-                      labelStyle: TextStyle(
-                        color: !chapterSearchUseAnd
-                            ? Colors.white
-                            : Colors.white54,
-                      ),
-                    ),
+                    _compactChip('OR', !chapterSearchUseAnd, onChapterSearchOrSelected,
+                        selectedColor: Colors.lightBlue),
                     const SizedBox(width: 8),
                     Expanded(
                       flex: 2,
-                      child: TextField(
+                      child: _compactField(
                         controller: chapterExcludeController,
                         focusNode: chapterExcludeFocusNode,
-                        style:
-                            const TextStyle(color: Colors.white, fontSize: 14),
-                        decoration: InputDecoration(
-                          hintText: 'Exclude...',
-                          hintStyle: const TextStyle(color: Colors.white54),
-                          prefixIcon: const Icon(Icons.block,
-                              color: Colors.white54, size: 20),
-                          suffixIcon: chapterExcludeTerms.isNotEmpty
-                              ? IconButton(
-                                  icon: const Icon(Icons.clear,
-                                      color: Colors.white54, size: 20),
-                                  onPressed: () {
-                                    chapterExcludeController.clear();
-                                    onChapterExcludeChanged('');
-                                  },
-                                )
-                              : null,
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(8),
-                            borderSide: BorderSide.none,
-                          ),
-                          contentPadding: const EdgeInsets.symmetric(
-                              horizontal: 12, vertical: 8),
-                        ),
+                        hint: 'Exclude...',
+                        icon: Icons.block,
+                        showClear: chapterExcludeTerms.isNotEmpty,
                         onChanged: onChapterExcludeChanged,
                       ),
                     ),
@@ -3066,18 +2968,14 @@ class SidePanel extends StatelessWidget {
   Widget _buildColorFilterButton(String label, String mode) {
     final isActive = colorFilterMode == mode;
     return ElevatedButton(
-      onPressed: () {
-        onColorFilterModeChanged(mode);
-      },
-      style: ElevatedButton.styleFrom(
-        backgroundColor: isActive ? Colors.deepPurple : Colors.grey[800],
-        foregroundColor: Colors.white,
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-      ),
+      onPressed: () => onColorFilterModeChanged(mode),
+      style: _compactButtonStyle(
+          isActive ? Colors.deepPurple : Colors.grey[800]!,
+          horizontal: 14),
       child: Text(
         label,
         style: TextStyle(
-          fontSize: 14,
+          fontSize: 13,
           fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
         ),
       ),
@@ -3201,13 +3099,13 @@ class _WordsPanelState extends State<_WordsPanel> {
     return Column(
       children: [
         Container(
-          padding: const EdgeInsets.all(16),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
           decoration: const BoxDecoration(
             border: Border(bottom: BorderSide(color: Colors.white24)),
           ),
           child: Wrap(
-            spacing: 8,
-            runSpacing: 8,
+            spacing: 6,
+            runSpacing: 6,
             children: [
               ...widget.orderedKeys.map((wordCount) {
                 final label = wordCount == 1 ? 'Words' : '$wordCount-Word';
@@ -3228,9 +3126,9 @@ class _WordsPanelState extends State<_WordsPanel> {
                         : (isSelected
                             ? Colors.deepPurple
                             : Colors.deepPurple.withAlpha(64)),
-                    padding:
-                        const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                    minimumSize: Size.zero,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 0),
+                    minimumSize: const Size(0, 28),
+                    tapTargetSize: MaterialTapTargetSize.shrinkWrap,
                     disabledBackgroundColor: Colors.deepPurple.withAlpha(64),
                   ),
                   child: Text(

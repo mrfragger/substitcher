@@ -1,0 +1,790 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مُفْرَدَاتٌ مِنْ سُورَةِ الْأَعْلَى",
+        "nameEn": "Key terms from Surah Al-A'la",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "قَدَّرَ",
+            "en": "measured",
+            "ref": "87:3",
+            "verse": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+            "verseEn": "And who destined and [then] guided"
+          },
+          {
+            "ar": "أَخْرَجَ",
+            "en": "brings forth",
+            "ref": "87:4",
+            "verse": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+            "verseEn": "And who brings out the pasture"
+          },
+          {
+            "ar": "يَعْلَمُ",
+            "en": "knows",
+            "ref": "87:7",
+            "verse": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+            "verseEn": "Except what Allāh should will. Indeed, He knows what is declared and what is hidden."
+          },
+          {
+            "ar": "النَّارَ",
+            "en": "(in) the Fire",
+            "ref": "87:12",
+            "verse": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+            "verseEn": "[He] who will [enter and] burn in the greatest Fire,"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ يَوْمِ الْقِيَامَةِ فِي الْقُرْآنِ",
+        "nameEn": "Names of the Day of Resurrection in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "السَّاعَةُ",
+            "en": "the Hour",
+            "ref": "30:12",
+            "verse": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ",
+            "verseEn": "And the Day the Hour appears the criminals will be in despair."
+          },
+          {
+            "ar": "الْآخِرَةِ",
+            "en": "the Hereafter",
+            "ref": "30:7",
+            "verse": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
+            "verseEn": "They know what is apparent of the worldly life, but they, of the Hereafter, are unaware."
+          },
+          {
+            "ar": "الْحِسَابِ",
+            "en": "(of) the Account",
+            "ref": "40:27",
+            "verse": "وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ",
+            "verseEn": "But Moses said, \"Indeed, I have sought refuge in my Lord and your Lord from every arrogant one who does not believe in the Day of Account.\""
+          },
+          {
+            "ar": "التَّنَادِ",
+            "en": "(of) Calling",
+            "ref": "40:32",
+            "verse": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ",
+            "verseEn": "And O my people, indeed I fear for you the Day of Calling -"
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتٌ مِنْ سُورَةِ الْجِنِّ",
+        "nameEn": "Key terms from Surah Al-Jinn",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "آمَنَّا",
+            "en": "so we believe",
+            "ref": "72:2",
+            "verse": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+            "verseEn": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone."
+          },
+          {
+            "ar": "شُهُبًا",
+            "en": "and flaming fires",
+            "ref": "72:8",
+            "verse": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًۭا شَدِيدًۭا وَشُهُبًۭا",
+            "verseEn": "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames."
+          },
+          {
+            "ar": "رَشَدًا",
+            "en": "(the) right path",
+            "ref": "72:14",
+            "verse": "وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَـٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَـٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا",
+            "verseEn": "And among us are Muslims [in submission to Allāh], and among us are the unjust. And whoever has become Muslim - those have sought out the right course."
+          },
+          {
+            "ar": "لِبَدًا",
+            "en": "a compacted mass",
+            "ref": "72:19",
+            "verse": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًۭا",
+            "verseEn": "And that when the Servant [i.e., Prophet] of Allāh stood up supplicating Him, they almost became about him a compacted mass.\""
+          }
+        ]
+      },
+      {
+        "name": "خِدَاعُ إِخْوَةِ يُوسُفَ",
+        "nameEn": "Deceptive elements in the plot of Yusuf's brothers",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "اُقْتُلُوا",
+            "en": "Kill",
+            "ref": "12:9",
+            "verse": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَـٰلِحِينَ",
+            "verseEn": "Kill Joseph or cast him out to [another] land; the countenance [i.e., attention] of your father will [then] be only for you, and you will be after that a righteous people.\""
+          },
+          {
+            "ar": "لَنَاصِحُونَ",
+            "en": "surely well-wishers",
+            "ref": "12:11",
+            "verse": "قَالُوا۟ يَـٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ",
+            "verseEn": "They said, \"O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?"
+          },
+          {
+            "ar": "يَبْكُونَ",
+            "en": "weeping",
+            "ref": "12:16",
+            "verse": "وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ",
+            "verseEn": "And they came to their father at night, weeping."
+          },
+          {
+            "ar": "الذِّئْبُ",
+            "en": "the wolf",
+            "ref": "12:17",
+            "verse": "قَالُوا۟ يَـٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَـٰدِقِينَ",
+            "verseEn": "They said, \"O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "أشتات",
+    "display": "أَشْتَاتًا",
+    "hint": "Scattered, separate groups — the way people will emerge apart from one another, as in the short surah named after a violent quake",
+    "verseRef": "99:6",
+    "arabicVerse": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "verse": "99:6 - That Day, the people will depart separated [into categories] to be shown [the result of] their deeds."
+  },
+  "deduction": {
+    "title": "The Truth That Silenced the Court",
+    "intro": "In a palace where denial reigned and power was absolute, a gathering of skilled practitioners stood before an unexpected challenge. The air crackled with anticipation as the two paths of falsehood and truth were about to collide. Little did the assembled ones know that this encounter would transform their lives forever and etch their story into the sacred text.",
+    "clues": [
+      "We were renowned for our skill in illusions and were gathered by a powerful ruler to confront a challenger.",
+      "When the moment came, we cast our instruments and awaited the outcome, confident in our craft.",
+      "But what we witnessed made our own devices seem like mere toys, and our hearts recognized the undeniable truth.",
+      "We fell to the ground in prostration, declaring our belief in the Lord of Moses and Aaron, despite the rage of the ruler.",
+      "That ruler threatened us with the most brutal punishment, vowing to crucify us and cut our limbs opposite ways.",
+      "We remained steadfast, saying we preferred the judgment of our Lord over any worldly consequence, and we were martyred for our faith."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Sorcerers of Pharaoh",
+          "The People of the Cave",
+          "The Companions of the Wood",
+          "The Disciples of Isa",
+          "The People of the Elephant"
+        ],
+        "answer": "The Sorcerers of Pharaoh"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "A magic contest against Musa",
+          "A fire thrown upon them",
+          "A flood that drowned them",
+          "A drought and famine",
+          "An earthquake"
+        ],
+        "answer": "A magic contest against Musa"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Staffs and ropes that turned into snakes",
+          "A burning bush",
+          "A she-camel",
+          "An ark of wood",
+          "A whale"
+        ],
+        "answer": "Staffs and ropes that turned into snakes"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Executed for faith, promised Paradise",
+          "Drowned in the sea",
+          "Became rulers of Egypt",
+          "Remained followers of Pharaoh",
+          "Inherited the land"
+        ],
+        "answer": "Executed for faith, promised Paradise"
+      }
+    },
+    "verseRef": "20:70",
+    "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+    "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+  },
+  "scramble": {
+    "verseRef": "16:53",
+    "reference": "Surah An-Nahl (16:53)",
+    "segments": [
+      "وَمَا بِكُم مِّن نِّعْمَةٍ",
+      "فَمِنَ اللَّهِ",
+      "ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ",
+      "فَإِلَيْهِ",
+      "تَجْأَرُونَ"
+    ],
+    "translations": [
+      "And whatever you have of",
+      "favor (is) from Allah",
+      "Then when",
+      "touches you the adversity",
+      "then to Him you cry for help"
+    ],
+    "hint": "A powerful reminder that every blessing comes from Allah, and He alone is our refuge in times of hardship",
+    "arabic": "وَمَا بِكُم مِّن نِّعْمَةٍۢ فَمِنَ ٱللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيْهِ تَجْـَٔرُونَ",
+    "words": [
+      "وَمَا بِكُم مِّن",
+      "نِّعْمَةٍۢ فَمِنَ ٱللَّهِ ۖ",
+      "ثُمَّ إِذَا",
+      "مَسَّكُمُ ٱلضُّرُّ",
+      "فَإِلَيْهِ تَجْـَٔرُونَ"
+    ],
+    "verseEn": "And whatever you have of favor - it is from Allāh. Then when adversity touches you, to Him you cry for help."
+  },
+  "roothive": {
+    "center": "ب",
+    "outer": [
+      "ء",
+      "ا",
+      "ل",
+      "ي",
+      "ت",
+      "غ"
+    ],
+    "root": {
+      "letters": "بغي",
+      "display": "ب غ ي",
+      "translit": "b-gh-y",
+      "meaning": "The core idea is intense seeking or wanting, which easily slips into going beyond proper limits. From seeking come words meaning to seek; from overstepping come terms for rebels, the unchaste, and wrongful grudging acts.",
+      "occurrences": 96,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "ابل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "إِبِل",
+            "gloss": "camels",
+            "type": "noun",
+            "root": "أبل",
+            "count": 2,
+            "ref": "6:144",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "ابي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَبَى",
+            "gloss": "refused",
+            "type": "verb",
+            "root": "أبي",
+            "count": 13,
+            "ref": "2:34",
+            "pos": 9,
+            "alt": [
+              "refuse"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "باء",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "باءَ",
+            "gloss": "draws",
+            "type": "verb",
+            "root": "بوأ",
+            "count": 6,
+            "ref": "3:162",
+            "pos": 6,
+            "alt": [
+              "be laden",
+              "incurred"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "باب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "باب",
+            "gloss": "gates",
+            "type": "noun",
+            "root": "بوب",
+            "count": 27,
+            "ref": "6:44",
+            "pos": 8,
+            "alt": [
+              "gate",
+              "doors"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "باغ",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "باغ",
+            "gloss": "disobedient",
+            "type": "active participle",
+            "root": "بغي",
+            "count": 3,
+            "ref": "2:173",
+            "pos": 16,
+            "alt": [
+              "desiring"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بال",
+            "gloss": "case",
+            "type": "noun",
+            "root": "بول",
+            "count": 4,
+            "ref": "12:50",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "بغي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بَغَى",
+            "gloss": "oppresses",
+            "type": "verb",
+            "root": "بغي",
+            "count": 25,
+            "ref": "6:164",
+            "pos": 4,
+            "alt": [
+              "seek",
+              "desire"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "بَغْي",
+            "gloss": "grudging",
+            "type": "noun",
+            "root": "بغي",
+            "count": 11,
+            "ref": "2:90",
+            "pos": 10,
+            "alt": [
+              "jealousy",
+              "out of envy"
+            ]
+          },
+          {
+            "lemma": "بَغِيّ",
+            "gloss": "unchaste",
+            "type": "noun",
+            "root": "بغي",
+            "count": 2,
+            "ref": "19:20",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "بلغ",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَلَغَ",
+            "gloss": "reaches",
+            "type": "verb",
+            "root": "بلغ",
+            "count": 40,
+            "ref": "2:196",
+            "pos": 15,
+            "alt": [
+              "reached",
+              "reach"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "بَلَّغْ",
+            "gloss": "convey",
+            "type": "verb",
+            "root": "بلغ",
+            "count": 6,
+            "ref": "5:67",
+            "pos": 3,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "بيت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَيْت",
+            "gloss": "houses",
+            "type": "noun",
+            "root": "بيت",
+            "count": 65,
+            "ref": "3:96",
+            "pos": 3,
+            "alt": [
+              "house",
+              "homes"
+            ]
+          },
+          {
+            "lemma": "بَيَّتَ",
+            "gloss": "plan by night",
+            "type": "verb",
+            "root": "بيت",
+            "count": 4,
+            "ref": "4:81",
+            "pos": 7,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "غلب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "غَلَبُ",
+            "gloss": "overcame",
+            "type": "verb",
+            "root": "غلب",
+            "count": 15,
+            "ref": "2:249",
+            "pos": 53,
+            "alt": [
+              "achieves victory",
+              "have been defeated"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "غيب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "غَيْب",
+            "gloss": "unseen",
+            "type": "noun",
+            "root": "غيب",
+            "count": 49,
+            "ref": "2:33",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "اباء",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "آباء",
+            "gloss": "fathers",
+            "type": "noun",
+            "root": "أبو",
+            "count": 64,
+            "ref": "24:31",
+            "pos": 27
+          }
+        ]
+      },
+      {
+        "w": "ابلغ",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَبْلَغُ",
+            "gloss": "have conveyed to",
+            "type": "verb",
+            "root": "بلغ",
+            "count": 5,
+            "ref": "7:79",
+            "pos": 6,
+            "alt": [
+              "conveyed to",
+              "escort"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "بالغ",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بالِغ",
+            "gloss": "accomplish",
+            "type": "active participle",
+            "root": "بلغ",
+            "count": 6,
+            "ref": "5:95",
+            "pos": 25,
+            "alt": [
+              "reaching"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بغاء",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "بِغاء",
+            "gloss": "prostitution",
+            "type": "verbal noun",
+            "root": "بغي",
+            "count": 1,
+            "ref": "24:33",
+            "pos": 32
+          }
+        ]
+      },
+      {
+        "w": "بلاء",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَلاء",
+            "gloss": "trial",
+            "type": "noun",
+            "root": "بلو",
+            "count": 6,
+            "ref": "2:49",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "بلاغ",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَلاغ",
+            "gloss": "notification",
+            "type": "noun",
+            "root": "بلغ",
+            "count": 15,
+            "ref": "14:52",
+            "pos": 2,
+            "alt": [
+              "message"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بيات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَيات",
+            "gloss": "night",
+            "type": "noun",
+            "root": "بيت",
+            "count": 3,
+            "ref": "7:4",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "غالب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "غالِب",
+            "gloss": "overcome",
+            "type": "active participle",
+            "root": "غلب",
+            "count": 13,
+            "ref": "3:160",
+            "pos": 5,
+            "alt": [
+              "victorious",
+              "predominant"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "غايب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "غائِب",
+            "gloss": "absent",
+            "type": "active participle",
+            "root": "غيب",
+            "count": 3,
+            "ref": "7:7",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "ابتغي",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "ابْتَغَى",
+            "gloss": "seeks",
+            "type": "verb",
+            "root": "بغي",
+            "count": 34,
+            "ref": "3:85",
+            "pos": 2,
+            "alt": [
+              "seek",
+              "seeking"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "ابتلي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "ابْتَلَى",
+            "gloss": "tried",
+            "type": "verb",
+            "root": "بلو",
+            "count": 8,
+            "ref": "2:124",
+            "pos": 2,
+            "alt": [
+              "were tried"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "الباب",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَلْباب",
+            "gloss": "understanding",
+            "type": "noun",
+            "root": "لبب",
+            "count": 16,
+            "ref": "2:179",
+            "pos": 6,
+            "alt": [
+              "men of understanding"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "غيابت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "غَيابَت",
+            "gloss": "bottom",
+            "type": "noun",
+            "root": "غيب",
+            "count": 2,
+            "ref": "12:10",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "ابتغاء",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "ابْتِغاء",
+            "gloss": "pursuit",
+            "type": "verbal noun",
+            "root": "بغي",
+            "count": 14,
+            "ref": "2:207",
+            "pos": 6,
+            "alt": [
+              "seeking",
+              "order to make"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَنۢبَغِي",
+        "gloss": "is appropriate",
+        "type": "verb",
+        "root": "بغي",
+        "count": 6,
+        "ref": "19:92",
+        "pos": 2,
+        "alt": [
+          "was proper",
+          "suits"
+        ],
+        "form": 7
+      }
+    ],
+    "maxScore": 55,
+    "featuredRoot": "بغي"
+  }
+}

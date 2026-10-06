@@ -904,6 +904,65 @@ class _QuranPanelState extends State<QuranPanel> {
     );
   }
 
+  /// Pinned copy of the category header (Juz / Hizb / Rub / 14Day / 10Day)
+  Widget _buildStickyHeader(QuranIndexEntry entry) {
+    final category = _categoryForHeaderTopic(entry.topic)!;
+    final globalIndex = widget.entries.indexOf(entry);
+
+    return Container(
+      width: double.infinity,
+      decoration: BoxDecoration(
+        color: Theme.of(context).scaffoldBackgroundColor,
+        border: const Border(bottom: BorderSide(color: Colors.white12)),
+      ),
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
+      child: Row(
+        children: [
+          Expanded(
+            child: Directionality(
+              textDirection: isRtlQuranLanguage(widget.selectedLanguage)
+                  ? TextDirection.rtl
+                  : TextDirection.ltr,
+              child: Text.rich(
+                TextSpan(
+                  children: [
+                    ..._styledTopicSpans(
+                      entry.topic,
+                      const TextStyle(
+                        color: Colors.white,
+                        fontSize: _headerFontSize,
+                        fontWeight: FontWeight.w600,
+                      ),
+                      globalIndex,
+                    ),
+                    ..._completionHeaderSpans(entry.topic),
+                  ],
+                ),
+              ),
+            ),
+          ),
+          const SizedBox(width: 10),
+          GestureDetector(
+            onTap: () => _resetCompletion(category),
+            child: const Text('Reset',
+                style: TextStyle(color: Colors.greenAccent, fontSize: 12)),
+          ),
+          const SizedBox(width: 8),
+          GestureDetector(
+            onTap: () => _resetCompletion(category, track: 1),
+            child: const Text('Reset',
+                style: TextStyle(color: Colors.lightBlueAccent, fontSize: 12)),
+          ),
+          const SizedBox(width: 8),
+          Text(
+            '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
+            style: const TextStyle(color: Colors.white24, fontSize: 14),
+          ),
+        ],
+      ),
+    );
+  }
+
   void _showRefHistoryMenu(BuildContext context) {
     final RenderBox button = context.findRenderObject() as RenderBox;
     final RenderBox overlay =
@@ -2416,6 +2475,11 @@ class _QuranPanelState extends State<QuranPanel> {
   @override
   Widget build(BuildContext context) {
     final filtered = _filtered;
+    final QuranIndexEntry? stickyHeader = (filtered.isNotEmpty &&
+            !filtered.first.isSubtopic &&
+            _categoryForHeaderTopic(filtered.first.topic) != null)
+        ? filtered.first
+        : null;
 
     return Focus(
       autofocus: false,
@@ -2449,71 +2513,85 @@ class _QuranPanelState extends State<QuranPanel> {
                 children: [
                   Expanded(
                     flex: 3,
-                    child: TextField(
-                      controller: _searchController,
-                      focusNode: _searchFocusNode,
-                      style: const TextStyle(color: Colors.white, fontSize: 16),
-                      decoration: InputDecoration(
-                        hintText: '/ Search topics...',
-                        hintStyle: const TextStyle(color: Colors.white54),
-                        prefixIcon: const Icon(Icons.search,
-                            color: Colors.white54, size: 20),
-                        suffixIcon: _searchQuery.isNotEmpty
-                            ? IconButton(
-                                icon: const Icon(Icons.clear,
-                                    color: Colors.white54, size: 20),
-                                onPressed: () {
-                                  _searchController.clear();
-                                  widget.onSearchChanged('');
-                                },
-                              )
-                            : null,
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(8),
-                          borderSide: BorderSide.none,
+                    child: SizedBox(
+                      height: 32,
+                      child: TextField(
+                        controller: _searchController,
+                        focusNode: _searchFocusNode,
+                        style: const TextStyle(color: Colors.white, fontSize: 14),
+                        decoration: InputDecoration(
+                          isDense: true,
+                          hintText: '/ Search topics...',
+                          hintStyle: const TextStyle(color: Colors.white54, fontSize: 14),
+                          prefixIcon: const Icon(Icons.search, color: Colors.white54, size: 18),
+                          prefixIconConstraints:
+                              const BoxConstraints(minWidth: 36, minHeight: 32),
+                          suffixIcon: _searchQuery.isNotEmpty
+                              ? IconButton(
+                                  icon: const Icon(Icons.clear, color: Colors.white54, size: 18),
+                                  padding: EdgeInsets.zero,
+                                  constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
+                                  onPressed: () {
+                                    _searchController.clear();
+                                    widget.onSearchChanged('');
+                                  },
+                                )
+                              : null,
+                          suffixIconConstraints:
+                              const BoxConstraints(minWidth: 32, minHeight: 32),
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(8),
+                            borderSide: BorderSide.none,
+                          ),
+                          contentPadding:
+                              const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                         ),
-                        contentPadding: const EdgeInsets.symmetric(
-                            horizontal: 12, vertical: 8),
+                        onChanged: (v) => widget.onSearchChanged(v.trim().toLowerCase()),
                       ),
-                      onChanged: (v) =>
-                          widget.onSearchChanged(v.trim().toLowerCase()),
                     ),
                   ),
                   const SizedBox(width: 8),
                   Expanded(
                     flex: 2,
-                    child: TextField(
-                      controller: _excludeController,
-                      focusNode: _excludeFocusNode,
-                      style: const TextStyle(color: Colors.white, fontSize: 16),
-                      decoration: InputDecoration(
-                        hintText: 'Exclude...',
-                        hintStyle: const TextStyle(color: Colors.white54),
-                        prefixIcon: const Icon(Icons.block,
-                            color: Colors.white54, size: 20),
-                        suffixIcon: _excludeQuery.isNotEmpty
-                            ? IconButton(
-                                icon: const Icon(Icons.clear,
-                                    color: Colors.white54, size: 20),
-                                onPressed: () {
-                                  _excludeController.clear();
-                                  widget.onExcludeChanged('');
-                                },
-                              )
-                            : null,
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(8),
-                          borderSide: BorderSide.none,
+                    child: SizedBox(
+                      height: 32,
+                      child: TextField(
+                        controller: _excludeController,
+                        focusNode: _excludeFocusNode,
+                        style: const TextStyle(color: Colors.white, fontSize: 14),
+                        decoration: InputDecoration(
+                          isDense: true,
+                          hintText: 'Exclude...',
+                          hintStyle: const TextStyle(color: Colors.white54, fontSize: 14),
+                          prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 18),
+                          prefixIconConstraints:
+                              const BoxConstraints(minWidth: 36, minHeight: 32),
+                          suffixIcon: _excludeQuery.isNotEmpty
+                              ? IconButton(
+                                  icon: const Icon(Icons.clear, color: Colors.white54, size: 18),
+                                  padding: EdgeInsets.zero,
+                                  constraints: const BoxConstraints(minWidth: 32, minHeight: 32),
+                                  onPressed: () {
+                                    _excludeController.clear();
+                                    widget.onExcludeChanged('');
+                                  },
+                                )
+                              : null,
+                          suffixIconConstraints:
+                              const BoxConstraints(minWidth: 32, minHeight: 32),
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(8),
+                            borderSide: BorderSide.none,
+                          ),
+                          contentPadding:
+                              const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                         ),
-                        contentPadding: const EdgeInsets.symmetric(
-                            horizontal: 12, vertical: 8),
+                        onChanged: (v) => widget.onExcludeChanged(v.trim().toLowerCase()),
                       ),
-                      onChanged: (v) =>
-                          widget.onExcludeChanged(v.trim().toLowerCase()),
                     ),
                   ),
                   const SizedBox(width: 10),
@@ -2533,10 +2611,19 @@ class _QuranPanelState extends State<QuranPanel> {
                     DropdownButton<String>(
                       value: widget.selectedLanguage,
                       dropdownColor: const Color(0xFF2A2A2A),
-                      style:
-                          const TextStyle(color: Colors.white70, fontSize: 13),
+                      style: const TextStyle(color: Colors.white70, fontSize: 13),
                       underline: const SizedBox(),
                       isDense: true,
+                      icon: Tooltip(
+                        message: 'Quran index',
+                        preferBelow: true,
+                        textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF2A2A2A),
+                          borderRadius: BorderRadius.circular(6),
+                        ),
+                        child: const Icon(Icons.arrow_drop_down),
+                      ),
                       items: availableQuranIndexLanguages
                           .map((lang) => DropdownMenuItem(
                                 value: lang,
@@ -2739,7 +2826,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                    decoration: InputDecoration(
                                      hintText: 'Search loaded vtt verse text \"exact phrase\"',
                                      hintStyle: const TextStyle(color: Colors.white24, fontSize: 13),
-                                     prefixIcon: const Icon(Icons.menu_book, color: Colors.amber, size: 16),
+                                     prefixIcon: const Icon(Icons.menu_book, color: Colors.white24, size: 16),
                                      suffixIcon: widget.quranVerseSearchController.text.isNotEmpty
                                          ? IconButton(
                                              icon: const Icon(Icons.clear, color: Colors.white38, size: 16),
@@ -3003,13 +3090,19 @@ class _QuranPanelState extends State<QuranPanel> {
                                           },
                                   ),
                           ),
-                        ] else
+                        ] else ...[
+                          if (stickyHeader != null) _buildStickyHeader(stickyHeader),
                           Expanded(
-                          child: ScrollablePositionedList.builder(
-                            itemScrollController: _itemScrollController,
-                            itemCount: filtered.length,
-                            itemBuilder: (context, index) {
-                              final entry = filtered[index];
+                            child: ScrollablePositionedList.builder(
+                              itemScrollController: _itemScrollController,
+                              itemCount: filtered.length,
+                              itemBuilder: (context, index) {
+                              // Header is pinned above the list, so keep index 0 as a placeholder
+                                if (stickyHeader != null && index == 0) {
+                                  return const SizedBox.shrink();
+                                }
+
+                                final entry = filtered[index];
                               final globalIndex = widget.entries.indexOf(entry);
                               final hasActiveRef = entry.refs.any((r) =>
                                   _isActiveRef(r) ||
@@ -3052,7 +3145,6 @@ class _QuranPanelState extends State<QuranPanel> {
                                   ),
                                 );
                               }
-
                               final isExpanded = _expandedIndices.contains(globalIndex) ||
                                   _searchQuery.isNotEmpty ||
                                   hasActiveRef;
@@ -3309,6 +3401,7 @@ class _QuranPanelState extends State<QuranPanel> {
                             },
                           ),
                         ),
+                        ],
                       ],
                     ],
                   ),
