@@ -641,6 +641,19 @@ class _PlayerScreenState extends State<PlayerScreen>
     return '$surah:$ayah';
   }
 
+  ({int surah, int ayah})? get _currentQuranAyah {
+    if (!_isQuranVerseByVerse) return null;
+    final chapters = _currentAudiobook?.chapters;
+    if (chapters == null || chapters.isEmpty) return null;
+    if (_currentChapterIndex < 0 || _currentChapterIndex >= chapters.length) {
+      return null;
+    }
+    final m = RegExp(r'^(\d{3})(\d{3})')
+        .firstMatch(chapters[_currentChapterIndex].title);
+    if (m == null) return null;
+    return (surah: int.parse(m.group(1)!), ayah: int.parse(m.group(2)!));
+  }
+
   String _getSurahName(int surahNumber) {
     final surahs = getSurahsForLanguage(_quranIndexLanguage);
     final match = surahs.where((s) => s.number == surahNumber).firstOrNull;
@@ -9222,6 +9235,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   quranEntries: _quranEntries,
                   isQuranLoaded: _isQuranVerseByVerse,
                   activeQuranRef: _activeQuranRef,
+                  currentQuranAyah: _currentQuranAyah,
                   onQuranVerseSelected: _navigateToQuranVerse,
                   onRepeatRangeRequested: _playRangeWithRepeat,
                   onQuizVerseSelected: _navigateToQuranVerseFromQuiz,

@@ -243,6 +243,7 @@ class SidePanel extends StatelessWidget {
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
   final Function(String)? onLoadQuranAudiobook;
   final VoidCallback? onUnloadQuranAudiobook;
+  final ({int surah, int ayah})? currentQuranAyah;
 
   final List<SavedSearch> savedSearches;
   final Function(SavedSearch) onApplySavedSearch;
@@ -445,6 +446,7 @@ class SidePanel extends StatelessWidget {
     this.onLoadQuranAudiobook,
     this.onUnloadQuranAudiobook,
     this.onSearchLemma,
+    this.currentQuranAyah,
   });
 
   @override
@@ -910,6 +912,7 @@ class SidePanel extends StatelessWidget {
           entries: quranEntries,
           isQuranLoaded: isQuranLoaded,
           activeRef: activeQuranRef,
+          currentAyah: currentQuranAyah,
           onVerseSelected: onQuranVerseSelected,
           onPlayAllRequested: onQuranPlayAllRequested,
           searchFocusNode: quranSearchFocusNode,

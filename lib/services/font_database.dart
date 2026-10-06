@@ -10,7 +10,6 @@ class FontDatabase {
     'ZnikomitNo24': FontMetadata(fontName: 'ZnikomitNo24', mainCategory: FontCategory.free, subCategories: [FontCategory.ligatures], studio: FontCategory.gluk),
 
     // ==================== free/Various ====================
-    'Apollo Asm': FontMetadata(fontName: 'Apollo Asm', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Audiowide': FontMetadata(fontName: 'Audiowide', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Bisten': FontMetadata(fontName: 'Bisten', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Chrisye': FontMetadata(fontName: 'Chrisye', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
@@ -22,7 +21,6 @@ class FontDatabase {
     'Marhey': FontMetadata(fontName: 'Marhey', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Righteous': FontMetadata(fontName: 'Righteous', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Shojumaru': FontMetadata(fontName: 'Shojumaru', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Sinistre Dark': FontMetadata(fontName: 'Sinistre Dark', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Spicy Rice': FontMetadata(fontName: 'Spicy Rice', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Spongeboytt2': FontMetadata(fontName: 'Spongeboytt2', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Ultra': FontMetadata(fontName: 'Ultra', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),

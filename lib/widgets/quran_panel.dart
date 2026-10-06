@@ -38,6 +38,7 @@ class QuranPanel extends StatefulWidget {
   final List<QuranIndexEntry> entries;
   final bool isQuranLoaded;
   final QuranVerseRef? activeRef;
+  final ({int surah, int ayah})? currentAyah;
   final Function(QuranVerseRef, int) onVerseSelected;
   final FocusNode searchFocusNode;
   final FocusNode quranExcludeFocusNode;
@@ -102,6 +103,7 @@ class QuranPanel extends StatefulWidget {
     this.lastQuranAudiobook,
     this.onOpenAudiobook,
     this.onUnloadQuranAudiobook,
+    this.currentAyah,
   });
 
   @override
@@ -1079,9 +1081,34 @@ class _QuranPanelState extends State<QuranPanel> {
     }).toList();
 
     final active = widget.activeRef;
-    final activeIdx = active == null
-        ? -1
-        : refs.indexWhere((r) => _isSameRef(r, active));
+
+    int refEnd(QuranVerseRef r) =>
+        r.isFullSurah ? quranVerseCounts[r.surah]! : (r.toAyah ?? r.fromAyah);
+
+    // Position: real playing ayah if available, otherwise the active ref's start.
+    final pos = widget.currentAyah ??
+        (active == null ? null : (surah: active.surah, ayah: active.fromAyah));
+
+    int activeIdx = -1;
+    if (pos != null) {
+      // Last ref that starts at or before the current position.
+      for (int i = 0; i < refs.length; i++) {
+        final r = refs[i];
+        final startsBeforeOrAt = r.surah < pos.surah ||
+            (r.surah == pos.surah && r.fromAyah <= pos.ayah);
+        if (startsBeforeOrAt) activeIdx = i;
+      }
+
+      if (activeIdx != -1) {
+        final r = refs[activeIdx];
+        final finished = pos.surah > r.surah || pos.ayah >= refEnd(r);
+        // Finished this section (e.g. at 65:12 or 65:13) -> resume from next ref.
+        // If it was the last ref, activeIdx becomes refs.length and Resume hides.
+        if (finished) activeIdx++;
+      }
+    }
+
+    final showResume = activeIdx != -1 && activeIdx < refs.length;
 
     return Row(
       mainAxisSize: MainAxisSize.min,
@@ -1112,7 +1139,7 @@ class _QuranPanelState extends State<QuranPanel> {
             ),
           ),
         ),
-        if (activeIdx != -1) ...[
+        if (showResume) ...[
           const SizedBox(width: 6),
           GestureDetector(
             onTap: () => widget.onPlayAllRequested
@@ -2967,7 +2994,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),
                       child: Text('Surahs',
-                          style: const TextStyle(color: Colors.limeAccent, fontSize: 14)),
+                          style: const TextStyle(color: Colors.orangeAccent, fontSize: 14)),
                     ),
                     const SizedBox(width: 4),
                     Tooltip(
