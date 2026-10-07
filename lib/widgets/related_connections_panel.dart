@@ -129,7 +129,6 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       _scramblePool = [];
       _scrambleWrongFlash = {};
       _harfRevealed = {};
-      _harfRevealed = {};
       _rootHive = null;
     });
     try {
@@ -503,11 +502,11 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
         ...data.categories.asMap().entries.map((e) => _buildCategorySlot(e.key, e.value)),
         if (connectionsUnsolved) _buildPool(),
         if (_scramble != null) _buildScrambleCard(_scramble!),
+        if (_rootHive != null) _buildRootHiveCard(_rootHive!),
         if (_harf != null)
           ..._harf!.items.asMap().entries.map(
             (e) => _buildHarfCard(e.value, e.key),
           ),
-        if (_rootHive != null) _buildRootHiveCard(_rootHive!),
       ],
     );
   }
