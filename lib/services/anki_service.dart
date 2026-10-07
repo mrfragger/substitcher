@@ -27,7 +27,7 @@ class AnkiService {
 
       int extractedCount = 0;
       if (await outputMediaDir.exists()) {
-        final audioExtensions = ['mp3', 'm4a', 'ogg', 'wav', 'opus', 'flac'];
+        final audioExtensions = ['mp3', 'm4a', 'm4b', 'ogg', 'wav', 'opus', 'flac', 'mkv'];
         await for (final file in outputMediaDir.list()) {
           if (file is File) {
             final ext = path.extension(file.path).toLowerCase().replaceFirst('.', '');
@@ -424,7 +424,6 @@ class AnkiService {
       onProgress('Reading CSV file...', 0.0);
 
       final resolvedMediaDir = _findMediaDir(csvPath, matchByRange: matchByRange);
-      print('DEBUG mediaDir resolved: $resolvedMediaDir');
 
       final csvFile = File(csvPath);
 
@@ -558,7 +557,7 @@ class AnkiService {
 
             completedRepeat++;
             onProgress(
-              'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length} by encoding to 192 kbps opus',
+              'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length} by encoding to 192 kbps vbr opus',
               0.2 + (completedRepeat / chapters.length) * 0.5,
             );
           } finally {
@@ -588,7 +587,7 @@ class AnkiService {
         outputDir: encodedDir,
         bitrate: bitrate,
         onProgress: (current, total) {
-          onProgress('Encoding to $bitrate kbps opus $current/$total', 0.7 + (current / total) * 0.15);
+          onProgress('Encoding to $bitrate kbps vbr opus $current/$total', 0.7 + (current / total) * 0.15);
         },
       );
 
@@ -760,7 +759,7 @@ class AnkiService {
         if (File(directPath).existsSync()) return directPath;
 
         final noExt = path.join(mediaDir, path.basenameWithoutExtension(audioFile));
-        for (final ext in ['.opus', '.mp3', '.m4a', '.ogg', '.wav', '.flac']) {
+        for (final ext in ['.opus', '.mp3', '.m4a', '.m4b', '.ogg', '.mkv', '.wav', '.flac']) {
           final candidate = '$noExt$ext';
           if (File(candidate).existsSync()) return candidate;
         }

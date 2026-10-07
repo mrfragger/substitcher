@@ -169,9 +169,10 @@ class QuranPipelineService {
       targets[r] = d;
     }
     final bismillahDir = p.join(root, 'z_bismillah');
-    final nameRe = RegExp(r'^(\d{3})(\d{3})\.mp3$', caseSensitive: false);
+    final nameRe = RegExp(r'^(\d{3})_?(\d{3})\.mp3$', caseSensitive: false);
 
     var moved = 0, skipped = 0, bism = 0;
+    var sampleCopied = false;
     for (final f in mp3s) {
       final name = p.basename(f.path);
       final m = nameRe.firstMatch(name);
@@ -180,10 +181,15 @@ class QuranPipelineService {
         skipped++;
         continue;
       }
+      final cleanName = '${m.group(1)}${m.group(2)}.mp3';
+      if (cleanName == '002163.mp3') {
+        await f.copy(p.join(root, '002163 sample.mp3'));
+        sampleCopied = true;
+      }
       final sura = int.parse(m.group(1)!);
       if (m.group(2) == '000') {
         await Directory(bismillahDir).create(recursive: true);
-        await f.rename(p.join(bismillahDir, name));
+        await f.rename(p.join(bismillahDir, cleanName));
         bism++;
         continue;
       }
@@ -200,11 +206,16 @@ class QuranPipelineService {
         skipped++;
         continue;
       }
-      await f.rename(p.join(targets[target]!, name));
+      await f.rename(p.join(targets[target]!, cleanName));
       moved++;
     }
 
     log('Moved $moved mp3 files into range subdirectories.');
+    if (sampleCopied) {
+      log('Copied 002163.mp3 to root as "002163 sample.mp3"');
+    } else {
+      log('WARNING: 002163.mp3 not found, no sample copied');
+    }
     if (bism > 0) log('Moved $bism bismillah file(s) to z_bismillah/');
     if (skipped > 0) log('Skipped $skipped file(s) — see warnings above.');
     for (final r in ranges) {

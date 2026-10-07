@@ -993,6 +993,8 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       final result = await Process.run(
         _ffmpeg.ffmpegPath ?? 'ffmpeg',
         args,
+        stdoutEncoding: latin1,
+        stderrEncoding: latin1,
       );
 
       if (result.exitCode != 0) {

@@ -631,7 +631,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         _toast(
           'Organized mp3s into 7 folders'
           '${warnings > 0 ? ' ($warnings warnings)' : ''}',
-          color: warnings > 0 ? Colors.orange : Colors.green,
+          color: warnings > 0 ? Colors.blue : Colors.green,
         );
       }
     } catch (e) {
@@ -883,16 +883,27 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               style: const TextStyle(color: Colors.white54, fontSize: 12),
               children: [
                 const TextSpan(
-                  text: 'Select the folder holding the 001001.mp3-style files. '
+                  text: 'Select the folder holding the 001001.mp3 or 001_001.mp3 style files. '
                       'Download them from ',
                 ),
                 TextSpan(
-                  text: 'https://everyayah.com',
+                  text: 'everyayah.com',
                   style: const TextStyle(
                     color: Colors.lightBlue,
                   ),
                   recognizer: TapGestureRecognizer()
                     ..onTap = () => _launchUrl('https://everyayah.com'),
+                ),
+                const TextSpan(
+                  text: ' and '
+                ),
+                TextSpan(
+                  text: 'audio.qud.dev',
+                  style: const TextStyle(
+                    color: Colors.lightBlue,
+                  ),
+                  recognizer: TapGestureRecognizer()
+                    ..onTap = () => _launchUrl('https://audio.qud.dev/'),
                 ),
                 const TextSpan(
                   text: '. Creates quran_saheeh001-006_media … '
@@ -1397,10 +1408,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 const SizedBox(width: 6),
                 Expanded(
                   child: SelectableText(
-                    'CSV mode: audio files must be in a subfolder named '
+                    'audio files must be in a subfolder named '
                     '"${_csvPath != null ? path.basenameWithoutExtension(_csvPath!) : "<deck>"}_media" '
                     'next to the CSV.',
-                    style: const TextStyle(color: Colors.amber, fontSize: 14),
+                    style: const TextStyle(color: Colors.amber, fontSize: 11),
                   ),
                 ),
               ],
@@ -1518,7 +1529,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                   text: 'Create opus audiobooks with VTT subtitles from Anki .apkg files. Login to\n',
                 ),
                 TextSpan(
-                  text: 'https://ankiweb.net',
+                  text: 'ankiweb.net',
                   style: const TextStyle(
                     color: Colors.lightBlue,
                   ),

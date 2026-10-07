@@ -28,9 +28,10 @@ class FFmpegService {
     await _ensureBinaries();
 
     final ext = path.extension(audiobookPath).toLowerCase();
-    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
+    const supportedExts = {'.opus', '.m4a', '.m4b', '.ogg', '.mkv', '.mp3'};
+    if (!supportedExts.contains(ext)) {
       throw Exception(
-        'Only .opus, .m4a, and .m4b files are supported for chapter extraction',
+        'Only .opus, .m4a, .m4b, .ogg, .mkv and .mp3 files are supported for chapter extraction',
       );
     }
 
@@ -273,15 +274,20 @@ class FFmpegService {
   Future<Duration> getAudioDuration(String filePath) async {
     await _ensureBinaries();
     try {
-      final result = await Process.run(_ffprobePath!, [
-        '-v',
-        'error',
-        '-show_entries',
-        'format=duration',
-        '-of',
-        'default=noprint_wrappers=1:nokey=1',
-        filePath,
-      ]);
+      final result = await Process.run(
+        _ffprobePath!,
+        [
+          '-v',
+          'error',
+          '-show_entries',
+          'format=duration',
+          '-of',
+          'default=noprint_wrappers=1:nokey=1',
+          filePath,
+        ],
+        stdoutEncoding: latin1,
+        stderrEncoding: latin1,
+      );
 
       if (result.exitCode != 0) {
         throw Exception(result.stderr.toString());
@@ -298,15 +304,20 @@ class FFmpegService {
   Future<String> getAudioTitle(String filePath) async {
     await _ensureBinaries();
     try {
-      final result = await Process.run(_ffprobePath!, [
-        '-v',
-        'error',
-        '-show_entries',
-        'format_tags=title',
-        '-of',
-        'default=noprint_wrappers=1:nokey=1',
-        filePath,
-      ]);
+      final result = await Process.run(
+        _ffprobePath!,
+        [
+          '-v',
+          'error',
+          '-show_entries',
+          'format_tags=title',
+          '-of',
+          'default=noprint_wrappers=1:nokey=1',
+          filePath,
+        ],
+        stdoutEncoding: const Utf8Codec(allowMalformed: true),
+        stderrEncoding: const Utf8Codec(allowMalformed: true),
+      );
 
       final title = result.stdout.toString().trim();
       if (title.isEmpty) {
@@ -665,8 +676,8 @@ class FFmpegService {
           filePath,
         ],
         runInShell: false,
-        stdoutEncoding: utf8,
-        stderrEncoding: utf8,
+        stdoutEncoding: const Utf8Codec(allowMalformed: true),
+        stderrEncoding: const Utf8Codec(allowMalformed: true),
       );
 
       if (result.exitCode != 0) {
@@ -851,18 +862,23 @@ class FFmpegService {
 
     onProgress('Repeating audio ${times}x...');
 
-    final result = await Process.run(_ffmpegPath!, [
-      '-y',
-      '-stream_loop',
-      '${times - 1}',
-      '-i',
-      inputPath,
-      '-c:a',
-      'libopus',
-      '-b:a',
-      '${bitrate}k',
-      outputPath,
-    ]);
+    final result = await Process.run(
+      _ffmpegPath!,
+      [
+        '-y',
+        '-hide_banner',
+        '-loglevel', 'error',
+        '-stream_loop', '${times - 1}',
+        '-i', inputPath,
+        '-vn',
+        '-map_metadata', '-1',
+        '-c:a', 'libopus',
+        '-b:a', '${bitrate}k',
+        outputPath,
+      ],
+      stdoutEncoding: latin1,
+      stderrEncoding: latin1,
+    );
 
     if (result.exitCode != 0) {
       throw Exception('Failed to repeat audio: ${result.stderr}');

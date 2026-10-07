@@ -872,8 +872,9 @@ class _EncoderScreenState extends State<EncoderScreen> {
         filePath = result.files.first.path!;
       }
 
+      const allowedExts = {'.opus', '.m4a', '.m4b', '.ogg', '.mkv', '.mp3'};
       final ext = path.extension(filePath).toLowerCase();
-      if (ext != '.opus' && ext != '.m4a' && ext != '.m4b' && ext != '.mkv' && ext != '.ogg') {
+      if (!allowedExts.contains(ext)) {
         _showError('Please select an .opus, .m4a, .m4b, .ogg, .mkv or .mp3 file');
         return;
       }
