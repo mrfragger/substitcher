@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Basic Video Editing. Mac (dmg or homebrew), Linux (appimage, AUR, flatpak), Windows (zip), Android
+Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Basic Video Editing. Mac (dmg or homebrew), Linux (appimage, AUR), Windows (zip), Android
 
 ![](images/audiobook.gif)
 
@@ -430,7 +430,7 @@ if nothing appears, may need to install [Visual C++ 2015-2022 Redistributable](h
 </details>
 
 <details>
-<summary>Linux Appimage, AUR, Flatpak</summary>
+<summary>Linux Appimage, AUR</summary>
 
 Linux Appimage\
 appimage right click on file and choose Properties, then Permissions\
@@ -449,7 +449,7 @@ yay -S substitcher-bin
 paru -S substitcher-bin
 ```
 
-Flatpak
+Flatpak (no longer supported, use AppImage instead)
 ```bash
 flatpak install substitcher-x64.flatpak
 ```
