@@ -5,6 +5,7 @@ import 'package:flutter/gestures.dart';
 import 'package:path/path.dart' as path;
 import 'package:csv/csv.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
 import 'dart:ui';
 import 'dart:convert';
@@ -87,6 +88,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   late final QuranTokenizers _tokenizers;
   late final QuranPipelineService _quranService;
   bool _quranBusy = false;
+  bool _forceSplitVtt = false;
   String? _quranRoot;
   List<String> _quranLanguageDirs = [];
   String _quranStatus = '';
@@ -99,6 +101,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     super.initState();
     _tokenizers = QuranTokenizers(pythonExecutable: _pythonExecutable, log: _quranLogAdd);
     _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
+    _loadSavedRoot();
   }
 
   @override
@@ -289,7 +292,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
   }
 
-  void _toast(String message, {Color color = Colors.green}) {
+  void _toast(String message, {Color color = Colors.green, Duration duration = const Duration(seconds: 3)}) {
     if (!mounted) return;
     final messenger = ScaffoldMessenger.of(context);
     messenger.hideCurrentSnackBar();
@@ -297,7 +300,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       SnackBar(
         content: Text(message),
         backgroundColor: color,
-        duration: const Duration(seconds: 3),
+        duration: duration,
       ),
     );
   }
@@ -493,7 +496,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: const Text('Anki to Audiobook Converter'),
+        title: const Text('Anki / Quran csv to Audiobook Converter'),
         backgroundColor: Colors.grey[900],
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
@@ -590,6 +593,27 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _quranRoot = root;
     _lastQuranRoot = root;
     _quranLanguageDirs = QuranPipelineService.findLanguageDirs(root);
+    SharedPreferences.getInstance().then((p) => p.setString('quranRoot', root));
+  }
+
+  Future<void> _loadSavedRoot() async {
+    final prefs = await SharedPreferences.getInstance();
+    final saved = prefs.getString('quranRoot');
+    if (saved != null && await Directory(saved).exists()) {
+      if (mounted) setState(() => _refreshQuranRoot(saved));
+    }
+  }
+
+  Future<void> _selectRootFolder() async {
+    final startDir = (_lastQuranRoot != null && await Directory(_lastQuranRoot!).exists())
+        ? _lastQuranRoot
+        : null;
+    final dir = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select the Quran root folder',
+      initialDirectory: startDir,
+    );
+    if (dir == null) return;
+    setState(() => _refreshQuranRoot(dir));
   }
 
   Future<void> _runOrganizeMedia() async {
@@ -646,7 +670,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     var root = _quranRoot;
     if (root == null) {
       root = await FilePicker.platform.getDirectoryPath(
-        dialogTitle: 'Select root folder to extract the 7 quran_saheeh CSVs into',
+        dialogTitle: 'Select root folder to extract the 7 quran_saheeh csvs into',
       );
       if (root == null) return;
       setState(() => _refreshQuranRoot(root!));
@@ -656,7 +680,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       _quranElapsed = '';
       _quranBusy = true;
       _quranProgress = 0;
-      _quranStatus = 'Extracting quran_saheeh CSVs...';
+      _quranStatus = 'Extracting quran_saheeh csvs...';
     });
     try {
       final n = await QuranPipelineService.extractZipInIsolate(
@@ -675,8 +699,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
       _toast(
         missing.isEmpty
-            ? 'Extracted $n quran_saheeh CSVs'
-            : 'Extracted $n CSVs, still missing: ${missing.join(', ')}',
+            ? 'Extracted $n quran_saheeh csvs'
+            : 'Extracted $n csvs, still missing: ${missing.join(', ')}',
         color: missing.isEmpty ? Colors.green : Colors.orange,
       );
     } catch (e) {
@@ -722,8 +746,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       _toast(
         missing.isEmpty
             ? 'Unzipped $n files, ${_quranLanguageDirs.length} languages'
-            : 'Unzipped $n files, but quran_saheeh CSVs are missing '
-              '(click Unzip 7 quran_saheeh CSVs)',
+            : 'Unzipped $n files, but quran_saheeh csvs are missing '
+              '(click Unzip 7 quran_saheeh csvs)',
             color: missing.isEmpty ? Colors.green : Colors.orange,
       );
     } catch (e) {
@@ -734,9 +758,77 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
   }
 
+  /// Ranges whose root VTT already has split cues (a cue with no "sura,aya "
+  /// label), meaning it is not the original unsplit source VTT.
+  List<String> _alreadySplitVttRanges(String root) {
+    final labelRe = RegExp(r'^\d+,\d+\s');
+    final timeRe = RegExp(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s*-->');
+    final files = Directory(root).listSync().whereType<File>().toList();
+    final split = <String>[];
+
+    for (final range in QuranPipelineService.ranges) {
+      final vtt = files.where((f) {
+        final n = path.basename(f.path).toLowerCase();
+        return n.endsWith('.vtt') &&
+            n.contains(' $range ') &&
+            n.contains('verse by verse');
+      }).firstOrNull;
+      if (vtt == null) continue;
+
+      final lines = vtt.readAsStringSync().split(RegExp(r'\r?\n'));
+      for (var i = 0; i < lines.length - 1; i++) {
+        if (timeRe.hasMatch(lines[i].trim()) &&
+            !labelRe.hasMatch(lines[i + 1].trim())) {
+          split.add(range);
+          break;
+        }
+      }
+    }
+    return split;
+  }
+
+  List<String> _missingVerseByVerseRanges(String root) {
+    final names = Directory(root)
+        .listSync()
+        .whereType<File>()
+        .map((f) => path.basename(f.path).toLowerCase())
+        .toList();
+
+    bool has(String range, String ext) => names.any((n) =>
+        n.endsWith('.$ext') &&
+        n.contains(' $range ') &&
+        n.contains('verse by verse'));
+
+    return QuranPipelineService.ranges
+        .where((r) => !(has(r, 'opus') && has(r, 'vtt')))
+        .toList();
+  }
+
   Future<void> _runQuranPipeline() async {
     final root = _quranRoot;
     if (root == null) return;
+
+    final missing = _missingVerseByVerseRanges(root);
+    if (missing.isNotEmpty) {
+      _toast(
+        'Quran Verse by Verse not complete. Missing .opus/.vtt for: ${missing.join(', ')}',
+        color: Colors.red,
+        duration: const Duration(seconds: 10),
+      );
+      return;
+    }
+
+    final alreadySplit = _forceSplitVtt ? <String>[] : _alreadySplitVttRanges(root);
+    if (alreadySplit.isNotEmpty) {
+      _toast(
+        'The vtt files in the root are already split (${alreadySplit.join(', ')}). '
+        'Copy the unsplit vtts from the zsourcevtt folder into the root first, '
+        'or tick "Override split check" to run anyway.',
+        color: Colors.red,
+        duration: const Duration(seconds: 10),
+      );
+      return;
+    }
 
     _quranStartTime = DateTime.now();
     _quranElapsedTimer?.cancel();
@@ -828,7 +920,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ],
           ),
           Container(
-            height: 180,
+            height: 333,
             padding: const EdgeInsets.all(8),
             decoration: BoxDecoration(
               color: Colors.black26,
@@ -916,13 +1008,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           ),
           const SizedBox(height: 12),
           Wrap(
-            spacing: 12,
+            spacing: 6,
             runSpacing: 8,
             children: [
               ElevatedButton.icon(
                 onPressed: (_quranBusy || _isProcessing) ? null : _runOrganizeMedia,
-                icon: const Icon(Icons.folder_open, size: 18),
-                label: const Text('Select mp3 Folder'),
+                label: const Text('Select mp3 folder'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
@@ -930,8 +1021,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               ),
               ElevatedButton.icon(
                 onPressed: (_quranBusy || _isProcessing) ? null : _unzipRangeCsvs,
-                icon: const Icon(Icons.unarchive, size: 18),
-                label: const Text('Unzip 7 quran_saheeh CSVs'),
+                label: const Text('unzip 7 quran_saheeh CSVs'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
@@ -958,12 +1048,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           const Row(children: [
             Icon(Icons.subtitles, color: Colors.tealAccent, size: 20),
             SizedBox(width: 8),
-            Text('Quran translation CSVs & VTT subs',
+            Text('Quran translation csvs & vtt subs',
                 style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
           ]),
           const SizedBox(height: 6),
           const Text(
-            'Cleans the CSVs, splits them into 7 ranges, generates translated VTTs and splits long cues. '
+            'Cleans the csvs, splits them into 7 ranges, generates translated vtts and splits long cues. '
             'Works on every language subfolder in the root folder (the parent of the mp3 folder). '
             'To convert just one language, put it in its own subfolder. '
             'Khmer cue splitting uses Python (khmer-segmenter).',
@@ -973,16 +1063,36 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           Row(children: [
             ElevatedButton.icon(
               onPressed: _quranBusy ? null : _unzipBundledTranslations,
-              icon: const Icon(Icons.unarchive, size: 18),
               label: const Text('Unzip 82 Quran Translations'),
               style: ElevatedButton.styleFrom(backgroundColor: Colors.cyan.shade900, foregroundColor: Colors.white),
             ),
             const SizedBox(width: 12),
             ElevatedButton.icon(
               onPressed: (_quranBusy || _isProcessing || _quranRoot == null) ? null : _runQuranPipeline,
-              icon: const Icon(Icons.play_arrow, size: 20),
               label: const Text('Split vtt cues'),
               style: ElevatedButton.styleFrom(backgroundColor: Colors.cyan.shade900, foregroundColor: Colors.white),
+            ),
+            const SizedBox(height: 4),
+            Tooltip(
+              message: 'Override split check\n'
+                  'Run even if the root vtts look already split\n',
+              waitDuration: const Duration(milliseconds: 400),
+              preferBelow: false,
+              child: InkWell(
+                onTap: _quranBusy ? null : () => setState(() => _forceSplitVtt = !_forceSplitVtt),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Checkbox(
+                      value: _forceSplitVtt,
+                      onChanged: _quranBusy ? null : (v) => setState(() => _forceSplitVtt = v ?? false),
+                      activeColor: Colors.deepPurple,
+                    ),
+                    const Text('Override', style: TextStyle(color: Colors.white, fontSize: 13)),
+                    const SizedBox(width: 8),
+                  ],
+                ),
+              ),
             ),
           ]),
           const SizedBox(height: 8),
@@ -1049,7 +1159,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           builder: (context) => AlertDialog(
             title: const Text('Large CSV File'),
             content: Text(
-              'This CSV file is ${(fileSize / 1024 / 1024).toStringAsFixed(1)} MB.\n'
+              'This csv file is ${(fileSize / 1024 / 1024).toStringAsFixed(1)} MB.\n'
               'Preview will be limited to first $MAX_PREVIEW_ROWS rows and $MAX_PREVIEW_COLS columns.\n\n'
               'Continue?',
             ),
@@ -1381,18 +1491,25 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             children: [
               ElevatedButton.icon(
                 onPressed: _isProcessing ? null : _selectApkgFile,
-                icon: const Icon(Icons.folder_open, size: 18),
-                label: const Text('Select .apkg File'),
+                label: const Text('Select .apkg file'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
               ),
               const SizedBox(width: 12),
+                ElevatedButton.icon(
+                  onPressed: (_isProcessing || _quranBusy) ? null : _selectRootFolder,
+                  label: const Text('Select root folder'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.cyan.shade900,
+                    foregroundColor: Colors.white,
+                  ),
+                ),
+                const SizedBox(width: 12),
               ElevatedButton.icon(
                 onPressed: _isProcessing ? null : _selectCsvFile,
-                icon: const Icon(Icons.table_chart, size: 18),
-                label: const Text('Select CSV File'),
+                label: const Text('Select csv file'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,

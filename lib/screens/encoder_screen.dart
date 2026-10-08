@@ -1590,7 +1590,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
         setState(() {
           _statusMessage = splits.length > 1
               ? 'Creating audiobook ${splitIndex + 1}/${splits.length}...'
-              : 'Creating final audiobook...';
+              : 'Creating final opus chaptered audiobook...';
           _progress = 0.99;
         });
 

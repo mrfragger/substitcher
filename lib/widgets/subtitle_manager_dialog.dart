@@ -432,6 +432,63 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     return parts.last;
   }
 
+  /// Builds "Folder / file.vtt" with the folder (language) highlighted.
+  TextSpan _highlightedPath(String fullPath, {TextStyle? baseStyle}) {
+    final parts = fullPath.split(Platform.pathSeparator);
+    final fileName = parts.last;
+    final folderName = parts.length >= 2 ? parts[parts.length - 2] : null;
+
+    return TextSpan(
+      style: baseStyle,
+      children: [
+        if (folderName != null)
+          ..._parenSpans(
+            folderName,
+            style: const TextStyle(color: Colors.greenAccent),
+          ),
+        ..._parenSpans(folderName != null ? ' / $fileName' : fileName),
+      ],
+    );
+  }
+
+  /// Splits [text] into pieces: [..] is amber, everything else uses [style].
+  List<TextSpan> _bracketSpans(String text, {TextStyle? style}) {
+    final spans = <TextSpan>[];
+    var last = 0;
+    for (final m in RegExp(r'\[[^\]]*\]').allMatches(text)) {
+      if (m.start > last) {
+        spans.add(TextSpan(text: text.substring(last, m.start), style: style));
+      }
+      spans.add(TextSpan(
+        text: m.group(0),
+        style: const TextStyle(color: Colors.amber),
+      ));
+      last = m.end;
+    }
+    if (last < text.length) {
+      spans.add(TextSpan(text: text.substring(last), style: style));
+    }
+    return spans;
+  }
+
+  /// (...) is yellow, with any [..] inside it amber. Outside parentheses,
+  /// [..] is still amber and the rest uses [style].
+  List<TextSpan> _parenSpans(String text, {TextStyle? style}) {
+    const yellow = TextStyle(color: Colors.yellowAccent);
+    final spans = <TextSpan>[];
+    var last = 0;
+    for (final m in RegExp(r'\([^)]*\)').allMatches(text)) {
+      if (m.start > last) {
+        spans.addAll(_bracketSpans(text.substring(last, m.start), style: style));
+      }
+      spans.addAll(_bracketSpans(m.group(0)!, style: yellow));
+      last = m.end;
+    }
+    if (last < text.length) {
+      spans.addAll(_bracketSpans(text.substring(last), style: style));
+    }
+    return spans;
+  }
 
   int _findWordBoundary(String text, int pos) {
     for (int j = 0; j < 50; j++) {
@@ -676,9 +733,11 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                             child: Row(
                               children: [
                                 Expanded(
-                                  child: Text(
-                                    _displayPath(_primarySubtitle!),
-                                    style: const TextStyle(color: Colors.white, fontSize: 14),
+                                  child: Text.rich(
+                                    _highlightedPath(
+                                      _primarySubtitle!,
+                                      baseStyle: const TextStyle(color: Colors.white, fontSize: 14),
+                                    ),
                                   ),
                                 ),
                                 IconButton(
@@ -749,9 +808,11 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                             child: Row(
                               children: [
                                 Expanded(
-                                  child: Text(
-                                    _displayPath(_secondarySubtitle!),
-                                    style: const TextStyle(color: Colors.white, fontSize: 14),
+                                  child: Text.rich(
+                                    _highlightedPath(
+                                      _secondarySubtitle!,
+                                      baseStyle: const TextStyle(color: Colors.white, fontSize: 14),
+                                    ),
                                   ),
                                 ),
                                 IconButton(
@@ -870,10 +931,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               itemCount: filtered.length,
                               itemBuilder: (context, index) {
                                 final subtitle = filtered[index];
-                                final parts = subtitle.split(Platform.pathSeparator);
-                                final displayName = parts.length >= 2
-                                    ? '${parts[parts.length - 2]} / ${parts.last}'
-                                    : parts.last;
                                 final isPrimary = subtitle == _primarySubtitle;
                                 final isSecondary = subtitle == _secondarySubtitle;
 
@@ -889,18 +946,20 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                                     dense: true,
                                     visualDensity: const VisualDensity(horizontal: -2, vertical: -4),
                                     contentPadding: const EdgeInsets.symmetric(horizontal: 12),
-                                    title: Text(
-                                      displayName,
-                                      style: TextStyle(
-                                        fontSize: 12.5,
-                                        color: isPrimary
-                                            ? Colors.blue
-                                            : isSecondary
-                                                ? Colors.orange
-                                                : Colors.white70,
-                                        fontWeight: isPrimary || isSecondary
-                                            ? FontWeight.bold
-                                            : FontWeight.normal,
+                                    title: Text.rich(
+                                      _highlightedPath(
+                                        subtitle,
+                                        baseStyle: TextStyle(
+                                          fontSize: 12.5,
+                                          color: isPrimary
+                                              ? Colors.blue
+                                              : isSecondary
+                                                  ? Colors.orange
+                                                  : Colors.white70,
+                                          fontWeight: isPrimary || isSecondary
+                                              ? FontWeight.bold
+                                              : FontWeight.normal,
+                                        ),
                                       ),
                                     ),
                                     trailing: Row(
