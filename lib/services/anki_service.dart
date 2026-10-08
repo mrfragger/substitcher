@@ -6,8 +6,16 @@ import 'package:csv/csv.dart';
 import 'package:sqlite3/sqlite3.dart';
 import 'package:path/path.dart' as path;
 import 'package:html/parser.dart' as html_parser;
+import 'package:flutter/services.dart' show rootBundle;
 import '../services/ffmpeg_service.dart';
 import '../models/encoding_config.dart';
+
+class FirstAyahCopiedException implements Exception {
+  final String message;
+  FirstAyahCopiedException(this.message);
+  @override
+  String toString() => message;
+}
 
 class AnkiService {
   final FFmpegService _ffmpeg = FFmpegService();
@@ -493,6 +501,34 @@ class AnkiService {
         throw Exception('No valid chapters found.\nFront: ${columns[frontColumn]}\nBack: ${columns[backColumn]}\nAudio: ${columns[audioColumn]}');
       }
 
+      if (RegExp(r'001-006').hasMatch(path.basename(csvPath))) {
+        final hasFirstAyah = chapters.any((c) => RegExp(r'^001_?001$')
+            .hasMatch(path.basenameWithoutExtension(c['audioFile'] as String)));
+        if (!hasFirstAyah) {
+          final dest = File(path.join(resolvedMediaDir, '001001.mp3'));
+
+          if (await dest.exists()) {
+            // The file is there, so the CSV is the problem. Copying won't help.
+            throw Exception(
+              '001001.mp3 exists in $resolvedMediaDir, but the CSV has no usable '
+              'row for Sura 1, Aya 1 (row missing or audio cell empty).',
+            );
+          }
+
+          final data = await rootBundle.load('assets/quranversebyverse/001001.mp3');
+          await Directory(resolvedMediaDir).create(recursive: true);
+          await dest.writeAsBytes(
+            data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes),
+          );
+
+          throw FirstAyahCopiedException(
+            '001001.mp3 was missing, so the bundled copy was added to '
+            '$resolvedMediaDir. Click Create Audiobook again, or replace it '
+            'with your own 001001 first.',
+          );
+        }
+      }
+
       print('Found ${chapters.length} chapters to create');
       onProgress('Processing ${chapters.length} chapters...', 0.2);
 
@@ -628,7 +664,7 @@ class AnkiService {
 
         onProgress(
           numAudiobooks > 1
-              ? 'Creating audiobook $audiobookNum/$numAudiobooks: VTT subtitles...'
+              ? 'Creating audiobook $audiobookNum/$numAudiobooks: vtt subtitles...'
               : 'Creating VTT subtitle file...',
           progressBase,
         );
@@ -643,7 +679,7 @@ class AnkiService {
         onProgress(
           numAudiobooks > 1
               ? 'Creating audiobook $audiobookNum/$numAudiobooks: ${audiobookOpusFiles.length} chapters...'
-              : 'Creating final audiobook...',
+              : 'Creating final opus chaptered audiobook...',
           progressBase + progressRange * 0.5,
         );
 

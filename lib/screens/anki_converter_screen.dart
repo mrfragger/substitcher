@@ -7,11 +7,9 @@ import 'package:csv/csv.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
-import 'dart:ui';
 import 'dart:convert';
 import 'dart:async';
 import '../services/anki_service.dart';
-import '../services/ffmpeg_service.dart';
 import '../services/quran_tokenizers.dart';
 import '../services/quran_pipeline_service.dart';
 
@@ -62,6 +60,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   int? _lastAudioColumn;
   int? _lastSuraColumn;
   int? _lastAyaColumn;
+  List<int>? _lastQuranColumns; // front, back, audio, sura, aya
 
   bool _matchByRange = false;
   bool _showCsvPreview = false;
@@ -71,10 +70,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   List<Map<String, String>> _previewRows = [];
   String? _csvPath;
 
-  bool _isTransliterating = false;
-  String _transliterationStatus = '';
-  double _transliterationProgress = 0.0;
-  final List<String> _transliterationLog = [];
   bool _csvOnlyMode = false;
   bool _useFilenameAsChapterName = false;
   static String? _lastCsvDirectory;
@@ -94,6 +89,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   String _quranStatus = '';
   double _quranProgress = 0.0;
   final List<String> _quranLog = [];
+  bool _quranLogPaused = false;
+  List<String> _quranLogFrozen = [];
   Timer? _logTimer;
 
   @override
@@ -102,6 +99,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _tokenizers = QuranTokenizers(pythonExecutable: _pythonExecutable, log: _quranLogAdd);
     _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
     _loadSavedRoot();
+    _loadLastQuranColumns();
   }
 
   @override
@@ -123,15 +121,20 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ? _lastCsvDirectory
             : null);
 
-    final result = await FilePicker.platform.pickFiles(
-      dialogTitle: 'Select CSV File',
+    final r = _lastNextRanges();
+    final dialogTitle = r == null
+        ? 'Select CSV File'
+        : 'last ${r.$1}   Select CSV File${r.$2 != null ? '   next ${r.$2}' : ''}';
+
+    final file = await FilePicker.pickFile(
+      dialogTitle: dialogTitle,
       type: FileType.custom,
       allowedExtensions: ['csv'],
       initialDirectory: startDir,
     );
 
-    if (result != null && result.files.isNotEmpty) {
-      final filePath = result.files.first.path!;
+    if (file != null) {
+      final filePath = file.path!;
       _lastCsvDirectory = path.dirname(filePath);
 
       setState(() {
@@ -187,6 +190,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           _previewRows = previewRows;
           _totalNotes = csvData.length - 1;
           _processingStatus = 'Ready to configure columns';
+          _autoApplyQuranColumns(columns);
         });
 
         if (mounted) {
@@ -216,15 +220,54 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
   }
 
+  /// (last, next) ranges from the last finished audiobook, e.g. ('001-006', '007-015').
+  /// next is null after the final range. Returns null if there's nothing to show.
+  (String, String?)? _lastNextRanges() {
+    final m = RegExp(r'\d{3}-\d{3}').firstMatch(_lastOutputFilename ?? '');
+    if (m == null) return null;
+    final last = m.group(0)!;
+    final i = QuranPipelineService.ranges.indexOf(last);
+    if (i < 0) return null;
+    final next = i + 1 < QuranPipelineService.ranges.length
+        ? QuranPipelineService.ranges[i + 1]
+        : null;
+    return (last, next);
+  }
+
+  Future<void> _loadLastQuranColumns() async {
+    final prefs = await SharedPreferences.getInstance();
+    final cols = prefs.getStringList('lastQuranColumns')?.map(int.tryParse).toList();
+    if (cols != null && cols.length == 5 && !cols.contains(null)) {
+      _lastQuranColumns = cols.cast<int>();
+    }
+  }
+
+  bool _looksLikeQuranCsv(List<String> columns) {
+    final lower = columns.map((c) => c.trim().toLowerCase()).toList();
+    return lower.contains('sura') && lower.contains('aya');
+  }
+
+  void _autoApplyQuranColumns(List<String> columns) {
+    final saved = _lastQuranColumns;
+    if (saved == null || !_looksLikeQuranCsv(columns)) return;
+    if (saved.any((i) => i >= columns.length)) return;
+    _frontColumn = saved[0];
+    _backColumn = saved[1];
+    _audioColumn = saved[2];
+    _suraColumn = saved[3];
+    _ayaColumn = saved[4];
+    _useSuraAyah = true;
+  }
+
   Future<void> _selectApkgFile() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       dialogTitle: 'Select Anki .apkg File',
       type: FileType.custom,
       allowedExtensions: ['apkg'],
     );
 
-    if (result != null && result.files.isNotEmpty) {
-      final filePath = result.files.first.path!;
+    if (file != null) {
+      final filePath = file.path!;
 
       setState(() {
         _apkgFilePath = filePath;
@@ -289,6 +332,27 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           ),
         );
       }
+    }
+  }
+
+  void _beep() {
+    try {
+      if (Platform.isMacOS) {
+        Process.run('afplay', ['/System/Library/Sounds/Glass.aiff']);
+      } else if (Platform.isWindows) {
+        Process.run('powershell', ['-c', '[console]::beep(800,300)']);
+      } else if (Platform.isLinux) {
+        Process.run('sh', [
+          '-c',
+          'paplay /usr/share/sounds/freedesktop/stereo/complete.oga '
+              '|| canberra-gtk-play -i complete '
+              '|| printf "\\a"'
+        ]);
+      } else {
+        SystemSound.play(SystemSoundType.alert);
+      }
+    } catch (_) {
+      SystemSound.play(SystemSoundType.alert);
     }
   }
 
@@ -390,6 +454,16 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _lastSuraColumn = _useSuraAyah ? _suraColumn : null;
     _lastAyaColumn = _useSuraAyah ? _ayaColumn : null;
 
+    if (_useSuraAyah && _suraColumn != null && _ayaColumn != null) {
+      _lastQuranColumns = [
+        _frontColumn!, _backColumn!, _audioColumn!, _suraColumn!, _ayaColumn!,
+      ];
+      SharedPreferences.getInstance().then((p) => p.setStringList(
+            'lastQuranColumns',
+            _lastQuranColumns!.map((e) => e.toString()).toList(),
+          ));
+    }
+
     setState(() {
       _isProcessing = true;
       _processingStatus = 'Starting conversion...';
@@ -452,6 +526,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           _lastOutputFilename = '$_author - $_title.opus';
         });
 
+        _beep();
+
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Audiobook created successfully!'),
@@ -459,6 +535,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           ),
         );
       }
+    } on FirstAyahCopiedException catch (e) {
+      setState(() {
+        _isProcessing = false;
+        _processingStatus = '001001.mp3 was missing, copied';
+      });
+      _toast(e.message, color: Colors.teal, duration: const Duration(seconds: 10));
     } catch (e) {
       setState(() {
         _isProcessing = false;
@@ -489,6 +571,32 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     } else {
       return '${minutes}m ${seconds}s';
     }
+  }
+
+  Widget _buildLastNextHint() {
+    final r = _lastNextRanges();
+    if (r == null) return const SizedBox.shrink();
+    return Padding(
+      padding: const EdgeInsets.only(top: 8),
+      child: Text.rich(
+        TextSpan(
+          style: const TextStyle(color: Colors.white54, fontSize: 12),
+          children: [
+            TextSpan(
+              text: 'last ${r.$1}',
+              style: const TextStyle(color: Colors.blueAccent),
+            ),
+            if (r.$2 != null) ...[
+              const TextSpan(text: '   •   '),
+              TextSpan(
+                text: 'next ${r.$2}',
+                style: const TextStyle(color: Colors.greenAccent),
+              ),
+            ],
+          ],
+        ),
+      ),
+    );
   }
 
   @override
@@ -608,7 +716,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     final startDir = (_lastQuranRoot != null && await Directory(_lastQuranRoot!).exists())
         ? _lastQuranRoot
         : null;
-    final dir = await FilePicker.platform.getDirectoryPath(
+    final dir = await FilePicker.getDirectoryPath(
       dialogTitle: 'Select the Quran root folder',
       initialDirectory: startDir,
     );
@@ -623,7 +731,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ? _lastQuranRoot
             : null);
 
-    final dir = await FilePicker.platform.getDirectoryPath(
+    final dir = await FilePicker.getDirectoryPath(
       dialogTitle: 'Select folder containing the verse-by-verse mp3 files',
       initialDirectory: startDir,
     );
@@ -669,7 +777,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   Future<void> _unzipRangeCsvs() async {
     var root = _quranRoot;
     if (root == null) {
-      root = await FilePicker.platform.getDirectoryPath(
+      root = await FilePicker.getDirectoryPath(
         dialogTitle: 'Select root folder to extract the 7 quran_saheeh csvs into',
       );
       if (root == null) return;
@@ -714,7 +822,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   Future<void> _unzipBundledTranslations() async {
     var root = _quranRoot;
     if (root == null) {
-      root = await FilePicker.platform.getDirectoryPath(
+      root = await FilePicker.getDirectoryPath(
         dialogTitle: 'Select folder to unzip the Quran translations into',
       );
       if (root == null) return;
@@ -840,6 +948,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
     setState(() {
       _quranShowLog = true;
+      _quranLogPaused = false;
       _quranBusy = true;
       _quranProgress = 0;
       _quranStatus = 'Starting...';
@@ -860,6 +969,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         _quranStatus = 'Complete!';
         _quranProgress = 1.0;
       });
+      _beep();
     } catch (e) {
       setState(() => _quranStatus = 'Error: $e');
     } finally {
@@ -886,8 +996,19 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     });
   }
 
+  void _toggleQuranLogPause() {
+    setState(() {
+      _quranLogPaused = !_quranLogPaused;
+      _quranLogFrozen = _quranLogPaused ? List<String>.from(_quranLog) : [];
+    });
+  }
+
   Widget _buildQuranLogBox() {
     if (!_quranShowLog || _quranLog.isEmpty) return const SizedBox.shrink();
+
+    final lines = _quranLogPaused ? _quranLogFrozen : _quranLog;
+    final pending = (_quranLog.length - lines.length).clamp(0, 1 << 30);
+
     return Padding(
       padding: const EdgeInsets.only(top: 10),
       child: Column(
@@ -895,8 +1016,25 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         children: [
           Row(
             children: [
-              Text('${_quranLog.length} lines',
-                  style: const TextStyle(color: Colors.white38, fontSize: 11)),
+              IconButton(
+                tooltip: _quranLogPaused ? 'Resume log' : 'Pause log',
+                visualDensity: VisualDensity.compact,
+                icon: Icon(
+                  _quranLogPaused ? Icons.play_arrow : Icons.pause,
+                  size: 18,
+                  color: _quranLogPaused ? Colors.orangeAccent : Colors.white70,
+                ),
+                onPressed: _toggleQuranLogPause,
+              ),
+              Text(
+                _quranLogPaused
+                    ? '${lines.length} lines  •  paused (+$pending new)'
+                    : '${lines.length} lines',
+                style: TextStyle(
+                  color: _quranLogPaused ? Colors.orangeAccent : Colors.white38,
+                  fontSize: 11,
+                ),
+              ),
               const Spacer(),
               TextButton.icon(
                 icon: const Icon(Icons.copy, size: 14),
@@ -915,7 +1053,11 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               TextButton.icon(
                 icon: const Icon(Icons.delete_outline, size: 14),
                 label: const Text('Clear'),
-                onPressed: () => setState(_quranLog.clear),
+                onPressed: () => setState(() {
+                  _quranLog.clear();
+                  _quranLogFrozen = [];
+                  _quranLogPaused = false;
+                }),
               ),
             ],
           ),
@@ -929,9 +1071,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             child: SelectionArea(
               child: ListView.builder(
                 reverse: true,
-                itemCount: _quranLog.length,
+                itemCount: lines.length,
                 itemBuilder: (context, i) {
-                  final line = _quranLog[_quranLog.length - 1 - i];
+                  final line = lines[lines.length - 1 - i];
                   final bad = line.contains('WARNING') || line.contains('ERROR');
                   return Text(
                     line,
@@ -980,20 +1122,14 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 ),
                 TextSpan(
                   text: 'everyayah.com',
-                  style: const TextStyle(
-                    color: Colors.lightBlue,
-                  ),
+                  style: const TextStyle(color: Colors.lightBlue),
                   recognizer: TapGestureRecognizer()
                     ..onTap = () => _launchUrl('https://everyayah.com'),
                 ),
-                const TextSpan(
-                  text: ' and '
-                ),
+                const TextSpan(text: ' and '),
                 TextSpan(
                   text: 'audio.qud.dev',
-                  style: const TextStyle(
-                    color: Colors.lightBlue,
-                  ),
+                  style: const TextStyle(color: Colors.lightBlue),
                   recognizer: TapGestureRecognizer()
                     ..onTap = () => _launchUrl('https://audio.qud.dev/'),
                 ),
@@ -1008,24 +1144,24 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           ),
           const SizedBox(height: 12),
           Wrap(
-            spacing: 6,
+            spacing: 12,
             runSpacing: 8,
             children: [
-              ElevatedButton.icon(
+              ElevatedButton(
                 onPressed: (_quranBusy || _isProcessing) ? null : _runOrganizeMedia,
-                label: const Text('Select mp3 folder'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
+                child: const Text('Select mp3 folder'),
               ),
-              ElevatedButton.icon(
+              ElevatedButton(
                 onPressed: (_quranBusy || _isProcessing) ? null : _unzipRangeCsvs,
-                label: const Text('unzip 7 quran_saheeh CSVs'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
+                child: const Text('unzip 7 quran_saheeh CSVs'),
               ),
             ],
           ),
@@ -1060,41 +1196,57 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             style: TextStyle(color: Colors.white54, fontSize: 12),
           ),
           const SizedBox(height: 12),
-          Row(children: [
-            ElevatedButton.icon(
-              onPressed: _quranBusy ? null : _unzipBundledTranslations,
-              label: const Text('Unzip 82 Quran Translations'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.cyan.shade900, foregroundColor: Colors.white),
-            ),
-            const SizedBox(width: 12),
-            ElevatedButton.icon(
-              onPressed: (_quranBusy || _isProcessing || _quranRoot == null) ? null : _runQuranPipeline,
-              label: const Text('Split vtt cues'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.cyan.shade900, foregroundColor: Colors.white),
-            ),
-            const SizedBox(height: 4),
-            Tooltip(
-              message: 'Override split check\n'
-                  'Run even if the root vtts look already split\n',
-              waitDuration: const Duration(milliseconds: 400),
-              preferBelow: false,
-              child: InkWell(
-                onTap: _quranBusy ? null : () => setState(() => _forceSplitVtt = !_forceSplitVtt),
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Checkbox(
-                      value: _forceSplitVtt,
-                      onChanged: _quranBusy ? null : (v) => setState(() => _forceSplitVtt = v ?? false),
-                      activeColor: Colors.deepPurple,
-                    ),
-                    const Text('Override', style: TextStyle(color: Colors.white, fontSize: 13)),
-                    const SizedBox(width: 8),
-                  ],
+          Wrap(
+            spacing: 12,
+            runSpacing: 8,
+            crossAxisAlignment: WrapCrossAlignment.center,
+            children: [
+              ElevatedButton(
+                onPressed: _quranBusy ? null : _unzipBundledTranslations,
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.cyan.shade900,
+                  foregroundColor: Colors.white,
+                ),
+                child: const Text('Unzip 82 Quran Translations'),
+              ),
+              ElevatedButton(
+                onPressed: (_quranBusy || _isProcessing || _quranRoot == null)
+                    ? null
+                    : _runQuranPipeline,
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.cyan.shade900,
+                  foregroundColor: Colors.white,
+                ),
+                child: const Text('Split vtt cues'),
+              ),
+              Tooltip(
+                message: 'Override split check\n'
+                    'Run even if the root vtts look already split',
+                waitDuration: const Duration(milliseconds: 400),
+                preferBelow: false,
+                child: InkWell(
+                  onTap: _quranBusy
+                      ? null
+                      : () => setState(() => _forceSplitVtt = !_forceSplitVtt),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Checkbox(
+                        value: _forceSplitVtt,
+                        onChanged: _quranBusy
+                            ? null
+                            : (v) => setState(() => _forceSplitVtt = v ?? false),
+                        activeColor: Colors.deepPurple,
+                      ),
+                      const Text('Override',
+                          style: TextStyle(color: Colors.white, fontSize: 13)),
+                      const SizedBox(width: 8),
+                    ],
+                  ),
                 ),
               ),
-            ),
-          ]),
+            ],
+          ),
           const SizedBox(height: 8),
           Text(
             _quranRoot == null
@@ -1440,11 +1592,11 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(
+          const Row(
             children: [
-              const Icon(Icons.book, color: Colors.lightBlue, size: 20),
-              const SizedBox(width: 8),
-              const Text(
+              Icon(Icons.book, color: Colors.lightBlue, size: 20),
+              SizedBox(width: 8),
+              Text(
                 'Anki .apkg File or csv / Quran csv',
                 style: TextStyle(
                   color: Colors.white,
@@ -1487,36 +1639,37 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               ),
             ),
           const SizedBox(height: 12),
-          Row(
+          Wrap(
+            spacing: 12,
+            runSpacing: 8,
             children: [
-              ElevatedButton.icon(
+              ElevatedButton(
                 onPressed: _isProcessing ? null : _selectApkgFile,
-                label: const Text('Select .apkg file'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
+                child: const Text('Select .apkg file'),
               ),
-              const SizedBox(width: 12),
-                ElevatedButton.icon(
-                  onPressed: (_isProcessing || _quranBusy) ? null : _selectRootFolder,
-                  label: const Text('Select root folder'),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.cyan.shade900,
-                    foregroundColor: Colors.white,
-                  ),
-                ),
-                const SizedBox(width: 12),
-              ElevatedButton.icon(
-                onPressed: _isProcessing ? null : _selectCsvFile,
-                label: const Text('Select csv file'),
+              ElevatedButton(
+                onPressed: (_isProcessing || _quranBusy) ? null : _selectRootFolder,
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
+                child: const Text('Select root folder'),
+              ),
+              ElevatedButton(
+                onPressed: _isProcessing ? null : _selectCsvFile,
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.cyan.shade900,
+                  foregroundColor: Colors.white,
+                ),
+                child: const Text('Select csv file'),
               ),
             ],
           ),
+          _buildLastNextHint(),
           if (_csvOnlyMode) ...[
             const SizedBox(height: 10),
             Row(
@@ -1716,6 +1869,24 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                     textStyle: const TextStyle(fontSize: 12),
                   ),
                 ),
+                const SizedBox(width: 8),
+                ElevatedButton.icon(
+                  onPressed: () => setState(() {
+                    _frontColumn = null;
+                    _backColumn = null;
+                    _audioColumn = null;
+                    _suraColumn = null;
+                    _ayaColumn = null;
+                  }),
+                  icon: const Icon(Icons.clear, size: 16),
+                  label: const Text('Clear'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.cyan.shade900,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    textStyle: const TextStyle(fontSize: 12),
+                  ),
+                ),
             ],
           ),
           const SizedBox(height: 8),
@@ -1736,7 +1907,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                     ),
                     const SizedBox(height: 8),
                     DropdownButtonFormField<int>(
-                      value: _frontColumn,
+                      key: ValueKey(_frontColumn),
+                       initialValue: _frontColumn,
                       decoration: const InputDecoration(
                         filled: true,
                         fillColor: Colors.black26,
@@ -1770,7 +1942,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                     ),
                     const SizedBox(height: 8),
                     DropdownButtonFormField<int>(
-                      value: _backColumn,
+                      key: ValueKey(_backColumn),
+                       initialValue: _backColumn,
                       decoration: const InputDecoration(
                         filled: true,
                         fillColor: Colors.black26,
@@ -1804,7 +1977,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                     ),
                     const SizedBox(height: 8),
                     DropdownButtonFormField<int>(
-                      value: _audioColumn,
+                      key: ValueKey(_audioColumn),
+                       initialValue: _audioColumn,
                       decoration: const InputDecoration(
                         filled: true,
                         fillColor: Colors.black26,
@@ -1843,7 +2017,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       ),
                       const SizedBox(height: 8),
                       DropdownButtonFormField<int>(
-                        value: _suraColumn,
+                        key: ValueKey(_suraColumn),
+                         initialValue: _suraColumn,
                         decoration: const InputDecoration(
                           filled: true,
                           fillColor: Colors.black26,
@@ -1877,7 +2052,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       ),
                       const SizedBox(height: 8),
                       DropdownButtonFormField<int>(
-                        value: _ayaColumn,
+                        key: ValueKey(_ayaColumn),
+                         initialValue: _ayaColumn,
                         decoration: const InputDecoration(
                           filled: true,
                           fillColor: Colors.black26,
@@ -2072,7 +2248,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                                 const Text('Audio Repetitions', style: TextStyle(color: Colors.white70, fontSize: 14)),
                                 const SizedBox(height: 8),
                                 DropdownButtonFormField<int>(
-                                  initialValue: _audioRepetitions,
+                                   initialValue: _audioRepetitions,
                                   decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
                                   dropdownColor: const Color(0xFF1E1E1E),
                                   style: const TextStyle(color: Colors.white),
@@ -2289,6 +2465,25 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       children: [
         Row(
           children: [
+            ElevatedButton.icon(
+              onPressed: () {
+                if (_scrollController.hasClients) {
+                  _scrollController.animateTo(
+                    0,
+                    duration: const Duration(milliseconds: 500),
+                    curve: Curves.easeOutCubic,
+                  );
+                }
+              },
+              icon: const Icon(Icons.vertical_align_top, size: 20),
+              label: const Text('Top', style: TextStyle(fontSize: 16)),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.cyan.shade900,
+                foregroundColor: Colors.white,
+                padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 24),
+              ),
+            ),
+            const SizedBox(width: 16),
             Expanded(
               child: ElevatedButton.icon(
                 onPressed: canConvert ? _startConversion : null,
@@ -2350,9 +2545,23 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               children: [
                 const Icon(Icons.check_circle, color: Colors.green, size: 20),
                 const SizedBox(width: 8),
-                Text(
-                  'Last conversion completed in $_lastProcessingTime${_lastOutputFilename != null ? '  $_lastOutputFilename' : ''}',
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
+                Expanded(
+                  child: Text.rich(
+                    TextSpan(
+                      style: const TextStyle(color: Colors.white, fontSize: 14),
+                      children: [
+                        TextSpan(
+                          text: 'Last conversion completed in $_lastProcessingTime'
+                              '${_lastOutputFilename != null ? '  $_lastOutputFilename' : ''}',
+                        ),
+                        if (_lastNextRanges()?.$2 != null)
+                          TextSpan(
+                            text: '   Next ${_lastNextRanges()!.$2}',
+                            style: const TextStyle(color: Colors.greenAccent),
+                          ),
+                      ],
+                    ),
+                  ),
                 ),
               ],
             ),

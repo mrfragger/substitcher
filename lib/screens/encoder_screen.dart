@@ -864,12 +864,12 @@ class _EncoderScreenState extends State<EncoderScreen> {
       }
 
       if (filePath == null) {
-        final result = await FilePicker.platform.pickFiles(
+        final file = await FilePicker.pickFile(
           type: FileType.custom,
           allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv', 'mp3'],
         );
-        if (result == null || result.files.isEmpty) return;
-        filePath = result.files.first.path!;
+        if (file == null) return;
+        filePath = file.path!;
       }
 
       const allowedExts = {'.opus', '.m4a', '.m4b', '.ogg', '.mkv', '.mp3'};
@@ -915,22 +915,21 @@ class _EncoderScreenState extends State<EncoderScreen> {
     }
 
 
-  Future<void> _pickFiles() async {
-    try {
-      final result = await FilePicker.platform.pickFiles(
-        allowMultiple: true,
-        type: FileType.custom,
-        allowedExtensions: ['mp3', 'm4a', 'aac', 'opus', 'ogg', 'flac', 'wav', 'wma', 'webm', 'mkv', 'mp4'],
-        initialDirectory: _lastOpenedDirectory,
-      );
+    Future<void> _pickFile() async {
+      try {
+        final files = await FilePicker.pickFiles(
+          type: FileType.custom,
+          allowedExtensions: ['mp3', 'm4a', 'aac', 'opus', 'ogg', 'flac', 'wav', 'wma', 'webm', 'mkv', 'mp4'],
+          initialDirectory: _lastOpenedDirectory,
+        );
 
-      if (result == null) return;
+        if (files.isEmpty) return;
 
-      setState(() => _loading = true);
+        setState(() => _loading = true);
 
-      final audioFiles = <AudioFile>[];
-      for (final file in result.files) {
-        if (file.path == null) continue;
+        final audioFiles = <AudioFile>[];
+        for (final file in files) {
+          if (file.path == null) continue;
 
         try {
           final info = await _ffmpeg.getAudioInfo(file.path!);
@@ -966,7 +965,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
   Future<void> _pickFolder() async {
     try {
-      final result = await FilePicker.platform.getDirectoryPath(
+      final result = await FilePicker.getDirectoryPath(
         initialDirectory: _lastOpenedDirectory,
       );
 
@@ -2871,7 +2870,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
               child: Tooltip(
                 message: 'Hold ⌘ (Mac) or Ctrl (Win/Linux) to select multiple files',
                 child: ElevatedButton.icon(
-                  onPressed: (_encoding || _extracting) ? null : _pickFiles,
+                  onPressed: (_encoding || _extracting) ? null : _pickFile,
                   icon: const Icon(Icons.add),
                   label: const Text('Add Files'),
                   style: ElevatedButton.styleFrom(

@@ -49,15 +49,15 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
   ];
 
   Future<void> _selectVttFile() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       type: FileType.custom,
       allowedExtensions: ['vtt'],
       dialogTitle: 'Select VTT file to process',
     );
 
-    if (result != null && result.files.isNotEmpty) {
+    if (file != null) {
       setState(() {
-        _selectedVttPath = result.files.first.path!;
+        _selectedVttPath = file.path!;
         _statusMessage = 'Selected: ${path.basename(_selectedVttPath!)}';
         _outputPath = null;
       });
@@ -438,7 +438,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
   }
 
   Future<void> _batchProcessDirectory() async {
-      final result = await FilePicker.platform.getDirectoryPath(
+      final result = await FilePicker.getDirectoryPath(
         dialogTitle: 'Select directory containing VTT files',
       );
 

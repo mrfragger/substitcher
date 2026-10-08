@@ -104,15 +104,14 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   Future<void> _loadAudiobook() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       type: FileType.custom,
       allowedExtensions: ['opus', 'm4a', 'm4b'],
       dialogTitle: 'Select Audiobook',
     );
 
-    if (result == null || result.files.isEmpty) return;
-
-    final filePath = result.files.first.path!;
+    if (file == null) return;
+    final filePath = file.path!;
 
     setState(() {
       _loading = true;

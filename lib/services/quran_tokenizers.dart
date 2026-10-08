@@ -92,7 +92,11 @@ for line in sys.stdin:
           return _jieba!.cut(text).map((e) => e.toString()).toList();
         case 'japanese':
           _tiny ??= TinySegmenter();
-          return _tiny!.segment(text);
+          final jt = _tiny!.segment(text);
+          if (_warned.add('japanese-sample')) {
+            log('  Japanese sample tokens (${jt.length}): ${jt.take(10).join(' | ')}');
+          }
+          return jt;
         case 'korean':
           return text.split(' ');
         case 'thai':
@@ -110,12 +114,11 @@ for line in sys.stdin:
     return script == 'khmer' ? _khmerSpaceTokens(text) : text.characters.toList();
   }
 
-  /// dart_jieba reads its dictionary from the filesystem, so copy the bundled
-  /// asset to the temp directory once and point it there.
   Future<JiebaSegmenter> _loadJieba() async {
     final tmp = await getTemporaryDirectory();
     final file = File(p.join(tmp.path, _jiebaTempName));
     if (!await file.exists() || await file.length() == 0) {
+      await file.parent.create(recursive: true);
       final data = await rootBundle.load(_jiebaAsset);
       await file.writeAsBytes(
         data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes),

@@ -190,12 +190,12 @@ void initState() {
   }
 
   Future<void> _selectWhisperExecutable() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       dialogTitle: 'Select Whisper Executable',
     );
 
-    if (result != null && result.files.isNotEmpty) {
-      await _whisperService.setWhisperExecutable(result.files.first.path!);
+    if (file != null) {
+      await _whisperService.setWhisperExecutable(file.path!);
       setState(() {});
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -209,7 +209,7 @@ void initState() {
   }
 
   Future<void> _selectModelDirectory() async {
-    final result = await FilePicker.platform.getDirectoryPath(
+    final result = await FilePicker.getDirectoryPath(
       dialogTitle: 'Select Whisper Models Directory',
     );
 
@@ -288,7 +288,7 @@ void initState() {
   }
 
   Future<void> _selectChaptersDirectory() async {
-    final result = await FilePicker.platform.getDirectoryPath(
+    final result = await FilePicker.getDirectoryPath(
       dialogTitle: 'Select encodedchapters Directory',
     );
 

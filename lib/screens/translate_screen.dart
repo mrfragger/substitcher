@@ -149,13 +149,13 @@ class _TranslateScreenState extends State<TranslateScreen> {
   }
 
   Future<void> _pickVttFile() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       dialogTitle: 'Select VTT file to translate',
       type: FileType.custom,
       allowedExtensions: ['vtt'],
     );
-    if (result == null || result.files.isEmpty) return;
-    final p = result.files.first.path!;
+    if (file == null) return;
+    final p = file.path!;
     final content = await File(p).readAsString();
     final cues = _service.parseVtt(content);
 
@@ -175,29 +175,29 @@ class _TranslateScreenState extends State<TranslateScreen> {
   }
 
   Future<void> _pickModel() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       dialogTitle: 'Select TranslateGemma GGUF model',
       type: FileType.custom,
       allowedExtensions: ['gguf'],
     );
-    if (result == null || result.files.isEmpty) return;
-    await _service.setModelPath(result.files.first.path!);
+    if (file == null) return;
+    await _service.setModelPath(file.path!);
     setState(() {});
-    _showSnack('Model set: ${path.basename(result.files.first.path!)}');
+    _showSnack('Model set: ${path.basename(file.path!)}');
   }
 
   Future<void> _pickLlamaExecutable() async {
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       dialogTitle: 'Select llama-server executable',
     );
-    if (result == null || result.files.isEmpty) return;
-    await _service.setLlamaExecutable(result.files.first.path!);
+    if (file == null) return;
+    await _service.setLlamaExecutable(file.path!);
     setState(() {});
     _showSnack('llama-server set');
   }
 
   Future<void> _startModelDownload() async {
-    final dir = await FilePicker.platform.getDirectoryPath(
+    final dir = await FilePicker.getDirectoryPath(
       dialogTitle: 'Select folder to save model',
     );
     if (dir == null) return;

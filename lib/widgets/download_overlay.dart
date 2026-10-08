@@ -287,7 +287,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
   }
   
   Future<void> _pickDirectory() async {
-    final result = await FilePicker.platform.getDirectoryPath();
+    final result = await FilePicker.getDirectoryPath();
     if (result != null) {
       await DownloadService.saveDownloadDirectory(result);
       setState(() {

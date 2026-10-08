@@ -2743,12 +2743,12 @@ class _PlayerScreenState extends State<PlayerScreen>
       if (shouldUseCurrentDir == true) {
         directoryToAdd = currentDir;
       } else if (shouldUseCurrentDir == false) {
-        directoryToAdd = await FilePicker.platform.getDirectoryPath();
+        directoryToAdd = await FilePicker.getDirectoryPath();
       } else {
         return;
       }
     } else {
-      directoryToAdd = await FilePicker.platform.getDirectoryPath();
+      directoryToAdd = await FilePicker.getDirectoryPath();
     }
 
     if (directoryToAdd == null) return;
@@ -3985,7 +3985,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _setPlaylistDirectory() async {
-    final result = await FilePicker.platform.getDirectoryPath();
+    final result = await FilePicker.getDirectoryPath();
     if (result == null) return;
     await _scanPlaylist(result);
     if (mounted) {
@@ -4661,7 +4661,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _setCustomFontDirectory() async {
-    final result = await FilePicker.platform.getDirectoryPath();
+    final result = await FilePicker.getDirectoryPath();
     if (result == null) return;
 
     CustomFontLoader.clearCustomFonts(slot: 1);
@@ -4685,7 +4685,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _setCustomFontDirectory2() async {
-    final result = await FilePicker.platform.getDirectoryPath();
+    final result = await FilePicker.getDirectoryPath();
     if (result == null) return;
 
     CustomFontLoader.clearCustomFonts(slot: 2);
@@ -5174,16 +5174,16 @@ class _PlayerScreenState extends State<PlayerScreen>
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
     final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
 
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       type: FileType.custom,
       allowedExtensions: ['srt', 'vtt'],
       dialogTitle: 'Select Secondary Subtitle File',
       initialDirectory: vttDir,
     );
+    if (file == null) return;
 
-    if (result == null || result.files.isEmpty) return;
-
-    final subtitlePath = result.files.first.path!;
+    final subtitlePath = file.path;
+    if (subtitlePath == null) return;
 
     try {
       setState(() {
@@ -6802,24 +6802,17 @@ class _PlayerScreenState extends State<PlayerScreen>
             initialDir = audiobookDir;
           }
         }
-        final result = await FilePicker.platform.pickFiles(
+        final file = await FilePicker.pickFile(
           type: FileType.custom,
-          allowedExtensions: [
-            'opus',
-            'mkv',
-            'mp4',
-            'webm',
-            'avi',
-            'mov',
-            'm4v'
-          ],
+          allowedExtensions: ['opus', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
           initialDirectory: initialDir,
         );
-        if (result == null || result.files.isEmpty) {
+        if (file == null) {
           return;
         }
-        selectedPath = result.files.first.path!;
-      }
+        selectedPath = file.path;
+        if (selectedPath == null) return;
+        }
 
       if (YouTubeService.isSupportedUrl(selectedPath!)) {
         final historyItem = _history.firstWhere(
@@ -7102,16 +7095,15 @@ class _PlayerScreenState extends State<PlayerScreen>
       initialDirectory = vttDir;
     }
 
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       type: FileType.custom,
       allowedExtensions: ['srt', 'vtt'],
       dialogTitle: 'Select Subtitle File',
       initialDirectory: initialDirectory,
     );
-
-    if (result == null || result.files.isEmpty) return;
-
-    var subtitlePath = result.files.first.path!;
+    if (file == null) return;
+    var subtitlePath = file.path;
+    if (subtitlePath == null) return;
 
     try {
       if (path.extension(subtitlePath).toLowerCase() == '.srt') {
@@ -12408,14 +12400,14 @@ class _PlayerScreenState extends State<PlayerScreen>
                     icon: const Icon(Icons.file_open, color: Colors.white70),
                     tooltip: 'Select cookies.txt file',
                     onPressed: () async {
-                      final result = await FilePicker.platform.pickFiles(
+                      final file = await FilePicker.pickFile(
                         type: FileType.custom,
                         allowedExtensions: ['txt'],
                         dialogTitle: 'Select YouTube cookies.txt',
                       );
-                      if (result != null) {
+                      if (file != null && file.path != null) {
                         setDialogState(() {
-                          prefs.cookiesFilePath = result.files.single.path;
+                          prefs.cookiesFilePath = file.path;
                         });
                       }
                     },

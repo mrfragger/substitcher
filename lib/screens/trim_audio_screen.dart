@@ -16,7 +16,7 @@ class TrimAudioScreen extends StatefulWidget {
 class _TrimAudioScreenState extends State<TrimAudioScreen> {
   final FFmpegService _ffmpegService = FFmpegService();
   final ScrollController _scrollController = ScrollController();
-  
+
   List<AudioFile> _files = [];
   bool _loading = false;
   bool _trimming = false;
@@ -24,13 +24,13 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
   String _statusMessage = '';
   double _progress = 0.0;
   int _completedFiles = 0;
-  
+
   final _trimBeginController = TextEditingController(text: '0:00');
   final _trimEndController = TextEditingController(text: '0:00');
-  
+
   List<String> _previewFiles = [];
   bool _hasPreview = false;
-  
+
   final Map<int, Player> _players = {};
   final Map<int, bool> _isPlaying = {};
   final Map<int, Duration> _currentPositions = {};
@@ -49,7 +49,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
 
   int _parseTimeToSeconds(String time) {
     if (time.isEmpty || time == '0:00') return 0;
-    
+
     final parts = time.split(':');
     if (parts.length == 1) {
       return int.tryParse(parts[0]) ?? 0;
@@ -61,22 +61,21 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
     return 0;
   }
 
-  Future<void> _pickFiles() async {
+  Future<void> _pickFile() async {
     try {
-      final result = await FilePicker.platform.pickFiles(
-        allowMultiple: true,
+      final files = await FilePicker.pickFiles(
         type: FileType.custom,
         allowedExtensions: ['mp3', 'm4a', 'aac', 'opus', 'ogg', 'flac', 'wav', 'wma', 'mp4', 'mkv'],
       );
-      
-      if (result == null) return;
-      
+
+      if (files.isEmpty) return;
+
       setState(() => _loading = true);
-      
+
       final audioFiles = <AudioFile>[];
-      for (final file in result.files) {
+      for (final file in files) {
         if (file.path == null) continue;
-        
+
         try {
           final info = await _ffmpegService.getAudioInfo(file.path!);
           audioFiles.add(info);
@@ -84,38 +83,38 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
           print('Error loading ${file.name}: $e');
         }
       }
-      
+
       audioFiles.sort((a, b) => a.path.compareTo(b.path));
-      
+
       setState(() {
         _files = audioFiles;
         _loading = false;
         _hasPreview = false;
       });
-      
+
       _cleanupPreview();
     } catch (e) {
       setState(() => _loading = false);
       _showError('Error picking files: $e');
     }
   }
-  
+
   Future<void> _pickFolder() async {
     try {
-      final result = await FilePicker.platform.getDirectoryPath();
-      
+      final result = await FilePicker.getDirectoryPath();
+
       if (result == null) return;
-      
+
       setState(() => _loading = true);
-      
+
       final audioFiles = await _ffmpegService.listAudioFilesInDirectory(result);
-      
+
       setState(() {
         _files = audioFiles;
         _loading = false;
         _hasPreview = false;
       });
-      
+
       _cleanupPreview();
     } catch (e) {
       setState(() => _loading = false);
@@ -139,61 +138,61 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
       _showError('No files selected');
       return;
     }
-    
+
     final trimBeginSecs = _parseTimeToSeconds(_trimBeginController.text);
     final trimEndSecs = _parseTimeToSeconds(_trimEndController.text);
-    
+
     if (trimBeginSecs == 0 && trimEndSecs == 0) {
       _showError('Please specify trim duration for beginning or end');
       return;
     }
-    
+
     _cleanupPreview();
-    
+
     setState(() {
       _previewing = true;
       _statusMessage = 'Generating preview for first 6 files...';
       _progress = 0.0;
     });
-    
+
     try {
       final previewCount = _files.length < 6 ? _files.length : 6;
       final previewFiles = <String>[];
-      
+
       final firstFilePath = _files[0].path;
       final sourceDir = path.dirname(firstFilePath);
       final previewDir = path.join(sourceDir, 'trim_preview');
-      
+
       final dir = Directory(previewDir);
       if (await dir.exists()) {
         await dir.delete(recursive: true);
       }
       await dir.create(recursive: true);
-      
+
       for (int i = 0; i < previewCount; i++) {
         final file = _files[i];
         final outputPath = '$previewDir/${path.basename(file.path)}';
-        
+
         setState(() {
           _statusMessage = 'Trimming preview ${i + 1}/$previewCount: ${path.basename(file.path)}';
           _progress = (i + 1) / previewCount;
         });
-        
+
         await _trimFile(
           inputPath: file.path,
           outputPath: outputPath,
           trimBeginSecs: trimBeginSecs,
           trimEndSecs: trimEndSecs,
         );
-        
+
         previewFiles.add(outputPath);
-        
+
         final player = Player();
         _players[i] = player;
         _isPlaying[i] = false;
         _currentPositions[i] = Duration.zero;
         _durations[i] = Duration.zero;
-        
+
         player.stream.duration.listen((duration) {
           if (mounted) {
             setState(() {
@@ -201,7 +200,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
             });
           }
         });
-        
+
         player.stream.position.listen((position) {
           if (mounted) {
             setState(() {
@@ -209,7 +208,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
             });
           }
         });
-        
+
         player.stream.playing.listen((playing) {
           if (mounted) {
             setState(() {
@@ -217,7 +216,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
             });
           }
         });
-        
+
         player.stream.completed.listen((completed) {
           if (completed && mounted) {
             setState(() {
@@ -225,19 +224,19 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
             });
           }
         });
-        
+
         await player.open(Media(outputPath), play: false);
       }
-      
+
       setState(() {
         _previewing = false;
         _previewFiles = previewFiles;
         _hasPreview = true;
         _statusMessage = 'Preview generated! Listen to trimmed files below';
       });
-      
+
       _showSuccess('Preview files created successfully');
-      
+
       WidgetsBinding.instance.addPostFrameCallback((_) {
         if (_scrollController.hasClients) {
           _scrollController.animateTo(
@@ -247,7 +246,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
           );
         }
       });
-      
+
     } catch (e) {
       setState(() {
         _previewing = false;
@@ -260,7 +259,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
   Future<void> _playPausePreview(int index) async {
     final player = _players[index];
     if (player == null) return;
-    
+
     if (_isPlaying[index] == true) {
       await player.pause();
     } else {
@@ -271,7 +270,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
   Future<void> _seekToPosition(int index, Duration position) async {
     final player = _players[index];
     if (player == null) return;
-    
+
     await player.seek(position);
   }
 
@@ -284,11 +283,11 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
     final duration = await _ffmpegService.getAudioDuration(inputPath);
     final totalDurationSecs = duration.inSeconds;
     final outputDurationSecs = totalDurationSecs - trimBeginSecs - trimEndSecs;
-    
+
     if (outputDurationSecs <= 0) {
       throw Exception('Trim duration exceeds file duration');
     }
-    
+
     await _ffmpegService.trimAudioPrecise(
       inputPath: inputPath,
       outputPath: outputPath,
@@ -302,67 +301,67 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
       _showError('No files selected');
       return;
     }
-    
+
     final trimBeginSecs = _parseTimeToSeconds(_trimBeginController.text);
     final trimEndSecs = _parseTimeToSeconds(_trimEndController.text);
-    
+
     if (trimBeginSecs == 0 && trimEndSecs == 0) {
       _showError('Please specify trim duration for beginning or end');
       return;
     }
-    
+
     final startTime = DateTime.now();
-    
+
     setState(() {
       _trimming = true;
       _progress = 0.0;
       _completedFiles = 0;
       _statusMessage = 'Starting trim process...';
     });
-    
+
     try {
       final firstFilePath = _files[0].path;
       final sourceDir = path.dirname(firstFilePath);
-      
+
       final now = DateTime.now();
       final timestamp = '${now.year}_${now.month.toString().padLeft(2, '0')}_${now.day.toString().padLeft(2, '0')}_${now.hour.toString().padLeft(2, '0')}_${now.minute.toString().padLeft(2, '0')}_${now.second.toString().padLeft(2, '0')}';
-      
+
       final outputDir = path.join(sourceDir, 'trimmed_$timestamp');
-      
+
       await Directory(outputDir).create(recursive: true);
-      
+
       for (int i = 0; i < _files.length; i++) {
         final file = _files[i];
         final outputPath = '$outputDir/${path.basename(file.path)}';
-        
+
         setState(() {
           _statusMessage = 'Trimming ${i + 1}/${_files.length}: ${path.basename(file.path)}';
           _progress = (i + 1) / _files.length;
         });
-        
+
         await _trimFile(
           inputPath: file.path,
           outputPath: outputPath,
           trimBeginSecs: trimBeginSecs,
           trimEndSecs: trimEndSecs,
         );
-        
+
         setState(() {
           _completedFiles++;
         });
       }
-      
+
       setState(() {
         _trimming = false;
         _statusMessage = 'Complete! Trimmed files: $outputDir';
       });
-      
+
       final elapsed = DateTime.now().difference(startTime);
       final minutes = elapsed.inMinutes;
       final seconds = elapsed.inSeconds.remainder(60);
-      
+
       _showSuccess('Trimming completed in ${minutes}m ${seconds}s!');
-      
+
     } catch (e) {
       setState(() {
         _trimming = false;
@@ -381,7 +380,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
       ),
     );
   }
-  
+
   void _showSuccess(String message) {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
@@ -396,7 +395,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
-    
+
     if (hours > 0) {
       return '${hours}h ${minutes}m ${seconds}s';
     } else {
@@ -446,7 +445,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
                     ),
                   ),
                   const SizedBox(height: 32),
-                  
+
                   Expanded(
                     child: SingleChildScrollView(
                       controller: _scrollController,
@@ -454,17 +453,17 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
                         children: [
                           _buildTrimSettingsSection(),
                           const SizedBox(height: 24),
-                          
+
                           if (_files.isNotEmpty) ...[
                             _buildFileListSection(),
                             const SizedBox(height: 24),
                           ],
-                          
+
                           if (_hasPreview) ...[
                             _buildPreviewSection(),
                             const SizedBox(height: 24),
                           ],
-                          
+
                           if (_trimming || _previewing) ...[
                             _buildProgressSection(),
                             const SizedBox(height: 24),
@@ -473,7 +472,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
                       ),
                     ),
                   ),
-                  
+
                   _buildActionButtons(),
                 ],
               ),
@@ -694,7 +693,7 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
     final position = _currentPositions[index] ?? Duration.zero;
     final isPlaying = _isPlaying[index] ?? false;
     final fileName = path.basename(_previewFiles[index]);
-    
+
     return Container(
       margin: const EdgeInsets.only(bottom: 16),
       padding: const EdgeInsets.all(16),
@@ -827,14 +826,14 @@ class _TrimAudioScreenState extends State<TrimAudioScreen> {
   Widget _buildActionButtons() {
     final canPreview = _files.isNotEmpty && !_trimming && !_previewing;
     final canTrim = _files.isNotEmpty && !_trimming && !_previewing;
-    
+
     return Column(
       children: [
         Row(
           children: [
             Expanded(
               child: ElevatedButton.icon(
-                onPressed: (_trimming || _previewing) ? null : _pickFiles,
+                onPressed: (_trimming || _previewing) ? null : _pickFile,
                 icon: const Icon(Icons.add),
                 label: const Text('Add Files'),
                 style: ElevatedButton.styleFrom(

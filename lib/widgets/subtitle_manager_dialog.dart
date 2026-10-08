@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:convert';
 import '../quran/quran_index.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
@@ -117,16 +118,16 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       }
     }
 
-    final result = await FilePicker.platform.pickFiles(
+    final file = await FilePicker.pickFile(
       type: FileType.custom,
       allowedExtensions: ['srt', 'vtt'],
       dialogTitle: 'Select Subtitle File',
       initialDirectory: initialDirectory,
     );
 
-    if (result == null || result.files.isEmpty) return;
+    if (file == null) return;
 
-    var subtitlePath = result.files.first.path!;
+    var subtitlePath = file.path!;
 
     if (subtitlePath.contains('_vttshow')) {
       final prefs = await SharedPreferences.getInstance();
@@ -213,24 +214,29 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       final base = path.basenameWithoutExtension(widget.currentAudiobookPath!);
       suggestedName = '${base}_vttshow.vtt';
     }
-    final savePath = await FilePicker.platform.saveFile(
-      dialogTitle: 'New VttShow File',
-      fileName: suggestedName,
-      allowedExtensions: ['vtt'],
-      type: FileType.custom,
-      initialDirectory: initialDirectory,
-    );
-    if (savePath == null) return;
-    final finalPath = savePath.endsWith('_vttshow.vtt')
-        ? savePath
-        : savePath.replaceAll(RegExp(r'\.vtt$'), '_vttshow.vtt');
-
     const template = 'WEBVTT\n\n'
         '00:00:00.000 --> 00:00:10.000\n'
         'New slide\n\n'
         'VTTSHOW\n'
         '00:00:00.000 --> 00:00:10.000 {},{},{},{},{},{},{},{}\n';
 
+    final saved = await FilePicker.saveFile(
+      dialogTitle: 'New VttShow File',
+      fileName: suggestedName,
+      allowedExtensions: ['vtt'],
+      type: FileType.custom,
+      initialDirectory: initialDirectory,
+      bytes: Uint8List.fromList(utf8.encode(template)),
+    );
+    if (saved == null) return;
+
+    var finalPath = saved.toFilePath();
+    if (!finalPath.endsWith('_vttshow.vtt')) {
+      final fixed = finalPath.replaceAll(RegExp(r'\.vtt$'), '_vttshow.vtt');
+      final f = File(finalPath);
+      if (await f.exists()) await f.rename(fixed);
+      finalPath = fixed;
+    }
     await File(finalPath).writeAsString(template);
 
     final prefs = await SharedPreferences.getInstance();

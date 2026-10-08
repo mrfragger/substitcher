@@ -34,7 +34,7 @@ class _DenoiseScreenState extends State<DenoiseScreen> {
   }
 
   Future<void> _pickFolder() async {
-    final result = await FilePicker.platform.getDirectoryPath();
+    final result = await FilePicker.getDirectoryPath();
     if (result == null) return;
 
     final audioFiles = await _ffmpeg.listAudioFilesInDirectory(result);
