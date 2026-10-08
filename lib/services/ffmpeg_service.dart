@@ -374,7 +374,7 @@ class FFmpegService {
       '-y',
     ];
 
-    print('DEBUG: Full command: $_ffmpegPath ${args.join(" ")}');
+    // print('DEBUG: Full command: $_ffmpegPath ${args.join(" ")}');
 
     final process = await Process.start(_ffmpegPath!, args);
 

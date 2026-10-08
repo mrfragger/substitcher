@@ -576,24 +576,28 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   Widget _buildLastNextHint() {
     final r = _lastNextRanges();
     if (r == null) return const SizedBox.shrink();
-    return Padding(
-      padding: const EdgeInsets.only(top: 8),
-      child: Text.rich(
-        TextSpan(
-          style: const TextStyle(color: Colors.white54, fontSize: 12),
-          children: [
-            TextSpan(
-              text: 'last ${r.$1}',
-              style: const TextStyle(color: Colors.blueAccent),
-            ),
-            if (r.$2 != null) ...[
-              const TextSpan(text: '   •   '),
+    return Align(
+      alignment: Alignment.centerRight,
+      child: Padding(
+        padding: const EdgeInsets.only(top: 8),
+        child: Text.rich(
+          TextSpan(
+            style: const TextStyle(color: Colors.white54, fontSize: 14),
+            children: [
               TextSpan(
-                text: 'next ${r.$2}',
-                style: const TextStyle(color: Colors.greenAccent),
+                text: 'last ${r.$1}',
+                style: const TextStyle(color: Colors.blueAccent),
               ),
+              if (r.$2 != null) ...[
+                const TextSpan(text: '   •   '),
+                TextSpan(
+                  text: 'next ${r.$2}',
+                  style: const TextStyle(color: Colors.greenAccent),
+                ),
+              ],
             ],
-          ],
+          ),
+          textAlign: TextAlign.right,
         ),
       ),
     );
@@ -625,9 +629,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       child: Row(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
-                          Expanded(child: _buildApkgFileSection()),
+                          Expanded(child: _buildOutputDirectorySection()),
                           const SizedBox(width: 24),
-                          Expanded(child: _buildOrganizeMediaSection()),
+                          Expanded(child: _buildQuranVttSection()),
                         ],
                       ),
                     ),
@@ -636,9 +640,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       child: Row(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
-                          Expanded(child: _buildOutputDirectorySection()),
+                          Expanded(child: _buildApkgFileSection()),
                           const SizedBox(width: 24),
-                          Expanded(child: _buildQuranVttSection()),
+                          Expanded(child: _buildOrganizeMediaSection()),
                         ],
                       ),
                     ),
@@ -1597,7 +1601,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               Icon(Icons.book, color: Colors.lightBlue, size: 20),
               SizedBox(width: 8),
               Text(
-                'Anki .apkg File or csv / Quran csv',
+                'Anki .apkg file or csv / Quran csv',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 16,
@@ -1640,6 +1644,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ),
           const SizedBox(height: 12),
           Wrap(
+            alignment: WrapAlignment.end,
             spacing: 12,
             runSpacing: 8,
             children: [
@@ -1698,6 +1703,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     required String text,
   }) {
     return Container(
+      width: double.infinity,
       padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
         color: Colors.black26,
@@ -1710,6 +1716,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           Expanded(
             child: Text(
               text,
+              textAlign: TextAlign.left,
               style: const TextStyle(color: Colors.white70, fontSize: 12),
             ),
           ),
