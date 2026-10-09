@@ -3813,6 +3813,7 @@ noblequran.com Schemas
 - The Factors That Constitute Marriageable Age 4:6; 6:152; 24:59
 - Jibrīl Is the Holy, Trustworthy Spirit Who Brought the Qurʾān From Allah to the Prophet 2:97; 16:102; 26:192
 - Aid, Victory and Domination Is for Allah and His Messengers 30:47; 37:171-173; 40:51; 58:21
+
 Matching Phrases 13 words
 - And certainly were messengers ridiculed before you, but those who mocked them were enveloped by that which they used to ridicule. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
 - And to Madyan [We sent] their brother Shu'ayb. He said, 'O my people, worship Allah; you have no deity other than Him.' (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
@@ -3827,6 +3828,7 @@ Matching Phrases 13 words
 - From the sky, rain, and gives life thereby to the earth after its lifelessness. Indeed, in that is a sign for a people... (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
 - Indeed, those who disbelieve – never will their wealth or their children avail them against Allah at all. And those are... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
 - Who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
 Matching Phrases 12 words
 - Have they not traveled through the land and observed how was the end of those before them? They were greater than them in strength... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
 - Indeed, Allah will admit those who believe and do righteous deeds to gardens beneath which rivers flow. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
@@ -3845,6 +3847,7 @@ Matching Phrases 12 words
 - And no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you of what you used to do. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
 - And We said, 'Descend, being to one another enemies. And for you on the earth is a place of settlement and enjoyment for a time.' (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
 - Say, 'Are the two males forbidden or the two females or that which the wombs of the two females contain?' (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
 Matching Phrases 11 words
 - And I do not ask you for it any reward; my reward is only from the Lord of the worlds. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
 - Then have they not traveled through the earth and observed how was the end of those before them? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
@@ -3877,38 +3880,7 @@ Matching Phrases 11 words
 - Dedicated to other than Allah. But whoever is forced [by necessity], neither transgressing nor exceeding the limit, then indeed, (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - And when it is said to them, "Follow what Allah has revealed," they say, "Rather, we will follow that which..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - He said, "O my people, worship Allah; you have no deity other than Him. Then will you not fear Him?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
-Matching Phrases 11 words
-- And I do not ask you for it any reward; my reward is only from the Lord of the worlds. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
-- Then have they not traveled through the earth and observed how was the end of those before them? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
-- They travel through the earth and observe how was the end of those before them; they were... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
-- Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of the guided ones. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
-- Who created the heavens and the earth in six days; then He established Himself above the Throne. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
-- And who is more unjust than one who invents about Allah a lie or denies His verses? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
-- It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
-- They have certainly disbelieved who say, "Allah is the Messiah, son of Mary." Say, (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
-- The blind from their error; you cannot make hear except those who believe in Our verses, so they are Muslims [submitting to Allah]. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
-- The example of the worldly life is like water which We have sent down from the sky, and the vegetation of the earth mingled with it. (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
-- In it [the ark] of each [creature] two mates, and your family – except those for whom the decree has preceded. (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
-- I do not say to you that I have the treasuries of Allah, nor do I know the unseen, nor do I say... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
-- Indeed, Allah is the possessor of bounty for the people, but most of the people are not grateful. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
-- And no sign comes to them from the signs of their Lord except that they turn away from it. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
-- And fear a Day when no soul will suffice for another soul at all, nor will any intercession be accepted from it. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
-- Indeed, you cannot make the dead hear, nor can you make the deaf hear the call when they turn away, retreating. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
-- Forbidden to you are dead animals, blood, the flesh of swine, and what has been dedicated to other than Allah. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
-- Whatever is in the heavens and whatever is on the earth exalts Allah, and He is the Exalted in Might, the Wise. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
-- Except those who repent after that and reform; then indeed, Allah is Forgiving and Merciful. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
-- The prophets from their Lord. We make no distinction between any of them, and we are to Him Muslims [submitting]. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
-- From your Lord to warn a people to whom no warner has come before you, so that they may... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
-- O Prophet, strive against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination. (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
-- Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
-- He said, "My Lord, make for me a sign." He said, "Your sign is that you will not speak to the people..." (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
-- So turn your face toward al-Masjid al-Haram. And wherever you [believers] are, turn your faces toward it. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
-- O Children of Israel, remember My favor which I have bestowed upon you and that I preferred you over the worlds. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
-- Seven fat cows which seven lean ones would eat, and seven green ears of grain and others dry. (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
-- And for every nation is a [specified] term. So when their term has come, they will not remain behind an hour, nor will they precede [it]. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
-- Dedicated to other than Allah. But whoever is forced [by necessity], neither transgressing nor exceeding the limit, then indeed, (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
-- And when it is said to them, "Follow what Allah has revealed," they say, "Rather, we will follow that which..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
-- He said, "O my people, worship Allah; you have no deity other than Him. Then will you not fear Him?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+
 Matching Phrases 10 words
 - They travel through the earth and observe how was the end of those before them. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
 - And who is more unjust than one who invents about Allah a lie or denies? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
@@ -3965,6 +3937,7 @@ Matching Phrases 10 words
 - What has come to you of knowledge; you have not besides Allah any protector nor... (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
 - And when We bestow favor upon man, he turns away and distances himself; but when evil touches him... (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
 - And nothing smaller than that or larger except that it is in a clear book. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
 Matching Phrases 9 words
 - So he said, "O my people, worship Allah; you have no deity other than Him." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
 - Then have they not traveled through the earth and observed how was the end of those before? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
@@ -4051,6 +4024,7 @@ Matching Phrases 9 words
 - For them is a drink of scalding water and a painful punishment because they used to disbelieve. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Should we invoke besides Allah that which does not benefit us nor harm us? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - That Allah knows what is in the heavens and what is on the earth. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+
 Matching Phrases 8 words
 - And who is more unjust than one who invents about Allah a lie? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
 - Indeed, in that is a sign, but most of them were not believers. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
@@ -4205,6 +4179,7 @@ Matching Phrases 8 words
 - Allah extends provision for whom He wills of His servants and restricts [it]. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - And you will be returned to the Knower of the unseen and the seen, and He will inform you of what you used to... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - And those of [blood] relationship are more entitled [to inheritance] in the decree of Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+
 cmds - Commands, Exhortations, Prohibitions, Instructions
 - fard / wajib (فرض / واجب) — obligatory (must do; sin to omit)
 - mustahabb / mandub (مستحب / مندوب) — recommended (rewarded if done, not sinful if omitted)
@@ -4482,6 +4457,7 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Seek knowledge and understanding. Read and reflect upon the Quran 96:1–5
 - Encourage feeding of the poor 107:3
 - sources: islamtees.uk by Abu Yahya Imran Rafiq article entitled A List of (Some) Instructions, Exhortations, Commands and Prohibitions in the Qur’an, beingmuslimah.org, messageinternational.org
+
 Quizzes
 - also referred to as Umm Al-Quran ({{{Mother}}} of the Quran) 1:0
 - He is the Lord of everything, its Creator, and its Manager. Al-Ālamūn ({{{worlds}}}) is the plural of Al-'Ālam ({{{world}}}) and refers to all in existence other than Allah. 1:2
