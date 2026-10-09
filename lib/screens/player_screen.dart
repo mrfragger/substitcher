@@ -9,7 +9,6 @@ import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
 import 'package:image/image.dart' as img;
-import 'package:substitcher/models/pause_mode.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'dart:async';
 import 'dart:io';
@@ -27,7 +26,6 @@ import '../models/frequency_item.dart';
 import '../models/history_item.dart';
 import '../models/bookmark.dart';
 import '../models/subtitle_cue.dart';
-import '../models/pause_mode.dart';
 import '../models/subtitle_preferences.dart';
 import '../models/lut_item.dart';
 import '../models/vtt_show_style.dart';
@@ -68,8 +66,6 @@ import '../quran/quran_verse_search_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/juz_duration_calculator.dart';
 import '../quran/quran_word_audio_player.dart';
-
-enum FontColorOverride { none, black, white }
 
 class SubtitleSearchResult {
   final Duration time;
@@ -134,7 +130,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     with WidgetsBindingObserver {
   static const double _universalShadowOffset = 6.0;
   static const double _universalStrokeWidth = 3.0;
-  FontColorOverride _fontColorOverride = FontColorOverride.none;
+  FontColorOverride _fontColorOverride = FontColorOverride.white;
   FontColorOverride _secondaryFontColorOverride = FontColorOverride.none;
   bool _secondaryBlurShadowEnabled = false;
   late final WindowListener _windowListener;
@@ -142,7 +138,8 @@ class _PlayerScreenState extends State<PlayerScreen>
   final player = Player();
   late final VideoController _videoController;
   final ItemScrollController _chapterScrollController = ItemScrollController();
-  final ScrollController _playlistScrollController = ScrollController();
+  final ItemScrollController _playlistItemScrollController =
+      ItemScrollController();
   final ScrollController _historyScrollController = ScrollController();
   final FocusNode _focusNode = FocusNode();
 
@@ -259,8 +256,10 @@ class _PlayerScreenState extends State<PlayerScreen>
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
   String _defaultConversionType = 'none';
-  ColorPaletteFilter _defaultColorCategoryFilter = ColorPaletteFilter.all;
+  ColorPaletteFilter _defaultColorCategoryFilter = ColorPaletteFilter.twentyTwelveColors;
   bool _defaultColorCycleActive = false;
+  String? _defaultLutPath;
+  String? _defaultLutName;
   String _selectedFont = 'System Default';
   int _selectedFontIndex = -1;
   String? _customFontDirectory;
@@ -365,7 +364,21 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'all';
-  ColorPaletteFilter _colorFilter = ColorPaletteFilter.all;
+  ColorPaletteFilter _colorFilterValue = ColorPaletteFilter.twentyTwelveColors;
+  ColorPaletteFilter get _colorFilter => _colorFilterValue;
+  set _colorFilter(ColorPaletteFilter f) {
+    _colorFilterValue = f;
+    final isWhiteGroup = switch (f) {
+      ColorPaletteFilter.twentyColors ||
+      ColorPaletteFilter.twelveColors ||
+      ColorPaletteFilter.twentyTwelveColors =>
+        true,
+      _ => false,
+    };
+    _fontColorOverride =
+        isWhiteGroup ? FontColorOverride.white : FontColorOverride.none;
+    _blurShadowEnabled = !isWhiteGroup;
+  }
 
   bool _blurShadowEnabled = false;
 
@@ -552,7 +565,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     _sleepTimer?.cancel();
     _pauseModeTimer?.cancel();
     player.dispose();
-    _playlistScrollController.dispose();
     _historyScrollController.dispose();
     _focusNode.dispose();
     _searchController.dispose();
@@ -1167,34 +1179,45 @@ class _PlayerScreenState extends State<PlayerScreen>
     if (_defaultColorPalette != null) {
       await prefs.setString('defaultColorPalette', _defaultColorPalette!);
     }
-    await prefs.setInt('fontColorOverride', _fontColorOverride.index);
     await prefs.setString('sleepTimerAction',
         _sleepTimerAction == SleepTimerAction.closeApp ? 'close' : 'pause');
-    await prefs.setInt(
-        'defaultColorCategoryFilter', _defaultColorCategoryFilter.index);
+    await prefs.setString(
+        'defaultColorCategoryFilterName', _defaultColorCategoryFilter.name);
     await prefs.setBool('defaultColorCycleActive', _defaultColorCycleActive);
+    if (_defaultLutPath != null && _defaultLutName != null) {
+      await prefs.setString('defaultLutPath', _defaultLutPath!);
+      await prefs.setString('defaultLutName', _defaultLutName!);
+    } else {
+      await prefs.remove('defaultLutPath');
+      await prefs.remove('defaultLutName');
+    }
   }
 
   Future<void> _loadDefaultSettings() async {
     final prefs = await SharedPreferences.getInstance();
-    final fontColorOverride =
-        FontColorOverride.values[prefs.getInt('fontColorOverride') ?? 0];
     final sleepTimerAction = prefs.getString('sleepTimerAction') ?? 'pause';
+    final defaultFilterName = prefs.getString('defaultColorCategoryFilterName');
+    final filterName = prefs.getString('colorCategoryFilterName');
     setState(() {
       _defaultFont = prefs.getString('defaultFont') ?? 'System Default';
+      _defaultLutPath = prefs.getString('defaultLutPath');
+      _defaultLutName = prefs.getString('defaultLutName');
       _defaultConversionType =
           prefs.getString('defaultConversionType') ?? 'none';
       _defaultColorPalette = prefs.getString('defaultColorPalette');
-      _fontColorOverride = fontColorOverride;
-      _defaultColorCategoryFilter = ColorPaletteFilter
-          .values[prefs.getInt('defaultColorCategoryFilter') ?? 0];
+      _defaultColorCategoryFilter = ColorPaletteFilter.values.firstWhere(
+        (f) => f.name == defaultFilterName,
+        orElse: () => ColorPaletteFilter.twentyTwelveColors,
+      );
       _defaultColorCycleActive =
           prefs.getBool('defaultColorCycleActive') ?? false;
       _sleepTimerAction = sleepTimerAction == 'close'
           ? SleepTimerAction.closeApp
           : SleepTimerAction.pauseOnly;
-      _colorFilter =
-          ColorPaletteFilter.values[prefs.getInt('colorCategoryFilter') ?? 0];
+      _colorFilter = ColorPaletteFilter.values.firstWhere(
+        (f) => f.name == filterName,
+        orElse: () => ColorPaletteFilter.twentyTwelveColors,
+      );
       _colorCycleActive = prefs.getBool('colorCycleActive') ?? false;
       _colorCycleInterval = prefs.getInt('colorCycleInterval') ?? 4;
     });
@@ -1208,12 +1231,17 @@ class _PlayerScreenState extends State<PlayerScreen>
       return;
     }
 
+    final prefs = await SharedPreferences.getInstance();
+    final currentLutPath = prefs.getString('selectedLutPath');
+
     setState(() {
       _defaultFont = _selectedFont;
       _defaultConversionType = _conversionType;
       _defaultColorPalette = _currentColorPalette?.name;
       _defaultColorCategoryFilter = _colorFilter;
       _defaultColorCycleActive = _colorCycleActive;
+      _defaultLutPath = _selectedLutName != null ? currentLutPath : null;
+      _defaultLutName = _selectedLutName != null ? _selectedLutName : null;
 
       _secondarySubtitleFont = _selectedFont;
       _secondaryColorPalette = _currentColorPalette;
@@ -1229,7 +1257,8 @@ class _PlayerScreenState extends State<PlayerScreen>
               'Conversion: $_defaultConversionType\n'
               'Color: ${_defaultColorPalette ?? 'None'}\n'
               'Filter: ${_defaultColorCategoryFilter.name}\n'
-              'Cycling: $_defaultColorCycleActive\n'),
+              'Cycling: $_defaultColorCycleActive\n'
+              'LUT: ${_defaultLutName ?? 'None'}\n'),
           duration: const Duration(seconds: 5),
         ),
       );
@@ -1270,6 +1299,20 @@ class _PlayerScreenState extends State<PlayerScreen>
       _secondaryColorPalette = _currentColorPalette;
     });
 
+    if (_defaultLutPath != null && _defaultLutName != null) {
+      await _selectLut(_defaultLutPath, _defaultLutName);
+      if (_availableLuts.isEmpty) await _scanAvailableLuts();
+      if (mounted) {
+        setState(() {
+          _selectedLutIndex =
+              _availableLuts.indexWhere((l) => l.path == _defaultLutPath);
+        });
+      }
+    } else {
+      await _selectLut(null, null);
+      if (mounted) setState(() => _selectedLutIndex = -1);
+    }
+
     await _saveFontSettings();
     await _applyConversion();
 
@@ -1281,8 +1324,9 @@ class _PlayerScreenState extends State<PlayerScreen>
               'Conversion: $_defaultConversionType\n'
               'Color: ${_defaultColorPalette ?? 'None'}\n'
               'Filter: ${_defaultColorCategoryFilter.name}\n'
-              'Cycling: $_defaultColorCycleActive\n'),
-          duration: const Duration(seconds: 4),
+              'Cycling: $_defaultColorCycleActive\n'
+              'LUT: ${_defaultLutName ?? 'None'}\n'),
+          duration: const Duration(seconds: 5),
         ),
       );
     }
@@ -2022,10 +2066,10 @@ class _PlayerScreenState extends State<PlayerScreen>
       font: _selectedFont,
       conversion: _conversionType == 'none' ? 'original' : _conversionType,
       fontColorOverride: switch (_fontColorOverride) {
-        FontColorOverride.black => 'black',
         FontColorOverride.white => 'white',
         FontColorOverride.none => 'none',
       },
+
       fontSize: _subtitleFontSize,
       lineSpacing: _subtitleLineSpacing,
       colorPalette: _currentColorPalette?.name,
@@ -2146,7 +2190,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           _subtitleLineSpacing = style.lineSpacing!;
         if (style.fontColorOverride != null) {
           _fontColorOverride = switch (style.fontColorOverride!) {
-            'black' => FontColorOverride.black,
             'white' => FontColorOverride.white,
             _ => FontColorOverride.none,
           };
@@ -2279,8 +2322,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     List<ColorPalette> palettes = ColorPalette.presets;
 
     switch (_colorFilter) {
-      case ColorPaletteFilter.all:
-        break;
       case ColorPaletteFilter.twentyColors:
         palettes = palettes.where((p) => p.colors.length == 20).toList();
         break;
@@ -2567,27 +2608,31 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   void _scrollToCurrentPlaylistItem() {
-    if (_showPanel &&
-        _panelMode == PanelMode.playlist &&
-        _currentAudiobook != null) {
-      WidgetsBinding.instance.addPostFrameCallback((_) {
-        if (_playlistScrollController.hasClients) {
-          final currentIndex = _playlist.indexOf(_currentAudiobook!.path);
-          if (currentIndex == -1) return;
-          final maxScroll = _playlistScrollController.position.maxScrollExtent;
-          if (maxScroll <= 0) return;
-          final totalItems = _playlist.length;
-          if (totalItems <= 1) return;
-          final percentage = currentIndex / (totalItems - 1);
-          final targetScroll = maxScroll * percentage;
-          _playlistScrollController.animateTo(
-            targetScroll,
-            duration: const Duration(milliseconds: 300),
-            curve: Curves.easeInOut,
-          );
-        }
-      });
-    }
+    if (!_showPanel ||
+        _panelMode != PanelMode.playlist ||
+        _currentAudiobook == null) return;
+
+    final index = _getFilteredPlaylist().indexOf(_currentAudiobook!.path);
+    if (index == -1) return;
+
+    Future.delayed(const Duration(milliseconds: 300), () {
+      if (!mounted) return;
+      if (_playlistItemScrollController.isAttached) {
+        _playlistItemScrollController.scrollTo(
+          index: index,
+          duration: const Duration(milliseconds: 300),
+          curve: Curves.easeInOut,
+          alignment: 0.1,
+        );
+      } else {
+        Future.delayed(const Duration(milliseconds: 300), () {
+          if (!mounted) return;
+          if (_playlistItemScrollController.isAttached) {
+            _playlistItemScrollController.jumpTo(index: index, alignment: 0.1);
+          }
+        });
+      }
+    });
   }
 
   void _scrollToTopOfHistory() {
@@ -5443,13 +5488,11 @@ class _PlayerScreenState extends State<PlayerScreen>
             ? _parseColor(effectivePalette.effectiveShadowColor(0))
             : fontColor;
 
-        color = !useShadowColor &&
-                effectiveFontColorOverride != FontColorOverride.none
-            ? (effectiveFontColorOverride == FontColorOverride.black
-                ? Colors.black87
-                : Colors.white70)
-            : baseColor;
-        foreground = null;
+            color = !useShadowColor &&
+                    effectiveFontColorOverride != FontColorOverride.none
+                ? Colors.white70
+                : baseColor;
+            foreground = null;
       }
 
       return TextSpan(
@@ -5561,13 +5604,11 @@ class _PlayerScreenState extends State<PlayerScreen>
             ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex))
             : color;
 
-        textColor = !useShadowColor &&
-                effectiveFontColorOverride != FontColorOverride.none
-            ? (effectiveFontColorOverride == FontColorOverride.black
-                ? Colors.black87
-                : Colors.white70)
-            : baseColor;
-        foreground = null;
+            textColor = !useShadowColor &&
+                    effectiveFontColorOverride != FontColorOverride.none
+                ? Colors.white70
+                : baseColor;
+            foreground = null;
       }
 
       spans.add(TextSpan(
@@ -5719,13 +5760,11 @@ class _PlayerScreenState extends State<PlayerScreen>
                 ? _parseColor(palette.effectiveShadowColor(colorIndex))
                 : color;
 
-            textColor =
-                !useShadowColor && fontColorOverride != FontColorOverride.none
-                    ? (fontColorOverride == FontColorOverride.black
-                        ? Colors.black87
-                        : Colors.white70)
-                    : baseColor;
-            foreground = null;
+                textColor =
+                    !useShadowColor && fontColorOverride != FontColorOverride.none
+                        ? Colors.white70
+                        : baseColor;
+                foreground = null;
           }
 
           spans.add(TextSpan(
@@ -5787,9 +5826,7 @@ class _PlayerScreenState extends State<PlayerScreen>
 
             textColor =
                 !useShadowColor && fontColorOverride != FontColorOverride.none
-                    ? (fontColorOverride == FontColorOverride.black
-                        ? Colors.black87
-                        : Colors.white70)
+                    ? Colors.white70
                     : baseColor;
             foreground = null;
           }
@@ -5896,9 +5933,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             : color;
 
         if (!useShadowColor && fontColorOverride != FontColorOverride.none) {
-          textColor = fontColorOverride == FontColorOverride.black
-              ? Colors.black87
-              : Colors.white70;
+          textColor = Colors.white70;
         }
         foreground = null;
       }
@@ -5976,13 +6011,11 @@ class _PlayerScreenState extends State<PlayerScreen>
             ? _parseColor(palette.effectiveShadowColor(colorIndex))
             : color;
 
-        textColor =
-            !useShadowColor && fontColorOverride != FontColorOverride.none
-                ? (fontColorOverride == FontColorOverride.black
-                    ? Colors.black87
-                    : Colors.white70)
-                : baseColor;
-        foreground = null;
+            textColor =
+                !useShadowColor && fontColorOverride != FontColorOverride.none
+                    ? Colors.white70
+                    : baseColor;
+            foreground = null;
       }
 
       spans.add(TextSpan(
@@ -8013,19 +8046,6 @@ class _PlayerScreenState extends State<PlayerScreen>
               HardwareKeyboard.instance.isShiftPressed) {
             if (event is KeyDownEvent) {
               setState(() {
-                _fontColorOverride = switch (_fontColorOverride) {
-                  FontColorOverride.none => FontColorOverride.black,
-                  FontColorOverride.black => FontColorOverride.white,
-                  FontColorOverride.white => FontColorOverride.none,
-                };
-              });
-              _saveDefaultSettings();
-            }
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyB &&
-              HardwareKeyboard.instance.isControlPressed) {
-            if (event is KeyDownEvent) {
-              setState(() {
                 _blurShadowEnabled = !_blurShadowEnabled;
               });
             }
@@ -8809,9 +8829,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                 _blurShadowEnabled = _secondaryBlurShadowEnabled;
                 _secondaryBlurShadowEnabled = tempBlur;
 
-                final tempFontColor = _fontColorOverride;
-                _fontColorOverride = _secondaryFontColorOverride;
-                _secondaryFontColorOverride = tempFontColor;
               });
 
               if (mounted) {
@@ -9028,7 +9045,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   historyScrollController: _historyScrollController,
                   getHistoryDurationAndProgress: _getHistoryDurationAndProgress,
                   getFilteredPlaylist: _getFilteredPlaylist,
-                  playlistScrollController: _playlistScrollController,
+                  playlistScrollController: _playlistItemScrollController,
                   getAudiobookDuration: _getAudiobookDuration,
                   showPlaylistDirectories: _showPlaylistDirectories,
                   onRefreshPlaylistDirectory: _refreshPlaylistDirectory,
@@ -9577,7 +9594,7 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   Future<void> _saveColorSettings() async {
     final prefs = await SharedPreferences.getInstance();
-    await prefs.setInt('colorCategoryFilter', _colorFilter.index);
+    await prefs.setString('colorCategoryFilterName', _colorFilter.name);
     await prefs.setBool('colorCycleActive', _colorCycleActive);
     await prefs.setInt('colorCycleInterval', _colorCycleInterval);
   }
@@ -9633,62 +9650,41 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   void _scrollToSelectedLut() {
-    if (_selectedLutIndex < 0) return;
-    final filteredLuts = _getFilteredLuts();
-    if (_selectedLutIndex >= _availableLuts.length) return;
-    final currentLut = _availableLuts[_selectedLutIndex];
-    final filteredIndex = filteredLuts.indexOf(currentLut);
-    if (filteredIndex == -1) return;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || !_lutItemScrollController.isAttached) return;
+      if (_selectedLutIndex < 0 ||
+          _selectedLutIndex >= _availableLuts.length) return;
 
-    Future.delayed(const Duration(milliseconds: 300), () {
-      if (!mounted) return;
-      if (_lutItemScrollController.isAttached) {
-        _lutItemScrollController.scrollTo(
-          index: filteredIndex,
-          duration: const Duration(milliseconds: 300),
-          curve: Curves.easeInOut,
-          alignment: 0.1,
-        );
-      } else {
-        Future.delayed(const Duration(milliseconds: 300), () {
-          if (!mounted) return;
-          if (_lutItemScrollController.isAttached) {
-            _lutItemScrollController.jumpTo(
-                index: filteredIndex, alignment: 0.1);
-          }
-        });
-      }
+      final pos =
+          _getFilteredLuts().indexOf(_availableLuts[_selectedLutIndex]);
+      if (pos == -1) return;
+
+      _lutItemScrollController.scrollTo(
+        index: pos,
+        alignment: 0.4,
+        duration: const Duration(milliseconds: 150),
+        curve: Curves.easeInOut,
+      );
     });
   }
 
   void _scrollToSelectedColor() {
-    if (_selectedColorIndex < 0 ||
-        _selectedColorIndex >= ColorPalette.presets.length) return;
-    final filteredColors = _getFilteredColors();
-    final currentPalette = ColorPalette.presets[_selectedColorIndex];
-    final filteredIndex = filteredColors.indexOf(currentPalette);
-    if (filteredIndex == -1) return;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || !_colorItemScrollController.isAttached) return;
+      if (_selectedColorIndex < 0 ||
+          _selectedColorIndex >= ColorPalette.presets.length) return;
 
-    Future.delayed(const Duration(milliseconds: 300), () {
-      if (!mounted) return;
-      if (_colorItemScrollController.isAttached) {
-        _colorItemScrollController.scrollTo(
-          index: filteredIndex,
-          duration: const Duration(milliseconds: 200),
-          curve: Curves.easeInOut,
-          alignment: 0.1,
-        );
-      } else {
-        Future.delayed(const Duration(milliseconds: 300), () {
-          if (!mounted) return;
-          if (_colorItemScrollController.isAttached) {
-            _colorItemScrollController.jumpTo(
-              index: filteredIndex,
-              alignment: 0.1,
-            );
-          }
-        });
-      }
+      final filteredColors = _getFilteredColors();
+      final pos =
+          filteredColors.indexOf(ColorPalette.presets[_selectedColorIndex]);
+      if (pos == -1) return;
+
+      _colorItemScrollController.scrollTo(
+        index: pos,
+        alignment: 0.4,
+        duration: const Duration(milliseconds: 150),
+        curve: Curves.easeInOut,
+      );
     });
   }
 
@@ -9995,6 +9991,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             },
             sliderHoverPosition: _sliderHoverPosition,
             repeatCount: _repeatCount,
+            selectedLutName: _selectedLutName,
             rangeRepeatLabel: _rangeRepeatLabel,
             hoveredChapterTitle: _hoveredChapterTitle,
             pauseMode: _pauseMode,
@@ -10122,15 +10119,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _vttShowEditMode = !_vttShowEditMode;
                     });
                   }
-                  break;
-                case 'useBlackFont':
-                  setState(() {
-                    _fontColorOverride = switch (_fontColorOverride) {
-                      FontColorOverride.none => FontColorOverride.black,
-                      FontColorOverride.black => FontColorOverride.white,
-                      FontColorOverride.white => FontColorOverride.none,
-                    };
-                  });
                   break;
                 case 'copyCurrentSubtitle':
                   _copyCurrentSubtitle();
@@ -10280,6 +10268,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       },
       sliderHoverPosition: _sliderHoverPosition,
       repeatCount: _repeatCount,
+      selectedLutName: _selectedLutName,
       rangeRepeatLabel: _rangeRepeatLabel,
       hoveredChapterTitle: _hoveredChapterTitle,
       pauseMode: _pauseMode,
@@ -10399,15 +10388,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                 _vttShowEditMode = !_vttShowEditMode;
               });
             }
-            break;
-          case 'useBlackFont':
-            setState(() {
-              _fontColorOverride = switch (_fontColorOverride) {
-                FontColorOverride.none => FontColorOverride.black,
-                FontColorOverride.black => FontColorOverride.white,
-                FontColorOverride.white => FontColorOverride.none,
-              };
-            });
             break;
           case 'copyCurrentSubtitle':
             _copyCurrentSubtitle();

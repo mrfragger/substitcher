@@ -2622,17 +2622,6 @@ class _QuranPanelState extends State<QuranPanel> {
                     ),
                   ),
                   const SizedBox(width: 10),
-                  Tooltip(
-                    message: '* no vtt - csv not on quranenc.com',
-                    preferBelow: true,
-                    textStyle: const TextStyle(color: Colors.white, fontSize: 12),
-                    decoration: BoxDecoration(
-                      color: const Color(0xFF2A2A2A),
-                      borderRadius: BorderRadius.circular(6),
-                    ),
-                    child: Text('*',
-                        style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 13)),
-                  ),
                   if (availableQuranIndexLanguages.length > 1) ...[
                     const SizedBox(width: 12),
                     DropdownButton<String>(
@@ -2642,9 +2631,28 @@ class _QuranPanelState extends State<QuranPanel> {
                       underline: const SizedBox(),
                       isDense: true,
                       icon: Tooltip(
-                        message: 'Quran index',
+                        richMessage: const TextSpan(
+                          style: TextStyle(fontSize: 12),
+                          children: [
+                            TextSpan(
+                              text: 'Quran Index\n',
+                              style: TextStyle(color: Colors.white),
+                            ),
+                            TextSpan(
+                              text: 'tafsir Mokhtasar\n',
+                              style: TextStyle(color: Colors.greenAccent),
+                            ),
+                            TextSpan(
+                              text: 'has tafsir translation\n',
+                              style: TextStyle(color: Colors.amber),
+                            ),
+                            TextSpan(
+                              text: '* no vtt on quranenc.com',
+                              style: TextStyle(color: Colors.lightBlueAccent),
+                            ),
+                          ],
+                        ),
                         preferBelow: true,
-                        textStyle: const TextStyle(color: Colors.white, fontSize: 12),
                         decoration: BoxDecoration(
                           color: const Color(0xFF2A2A2A),
                           borderRadius: BorderRadius.circular(6),

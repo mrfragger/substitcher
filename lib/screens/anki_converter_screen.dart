@@ -608,7 +608,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: const Text('Anki / Quran csv to Audiobook Converter'),
+        title: const Text('Anki / Quran csv to opus Audiobook Converter'),
         backgroundColor: Colors.grey[900],
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
@@ -870,8 +870,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
   }
 
-  /// Ranges whose root VTT already has split cues (a cue with no "sura,aya "
-  /// label), meaning it is not the original unsplit source VTT.
+  /// Ranges whose root vtt already has split cues (a cue with no "sura,aya "
+  /// label), meaning it is not the original unsplit source vtt.
   List<String> _alreadySplitVttRanges(String root) {
     final labelRe = RegExp(r'^\d+,\d+\s');
     final timeRe = RegExp(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s*-->');
@@ -1803,7 +1803,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               style: const TextStyle(color: Colors.white70, fontSize: 14),
               children: [
                 const TextSpan(
-                  text: 'Create opus audiobooks with VTT subtitles from Anki .apkg files. Login to\n',
+                  text: 'Create opus audiobooks with vtt subtitles from Anki .apkg files. Login to\n',
                 ),
                 TextSpan(
                   text: 'ankiweb.net',

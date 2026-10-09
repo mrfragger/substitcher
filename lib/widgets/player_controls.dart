@@ -1,10 +1,9 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import '../models/audiobook_metadata.dart';
-import '../models/pause_mode.dart';
 import '../models/color_palette.dart';
+import '../widgets/side_panel.dart';
 import 'package:path/path.dart' as path;
-import 'package:substitcher/models/pause_mode.dart';
 
 class PlayerControls extends StatelessWidget {
   final AudiobookMetadata audiobook;
@@ -48,6 +47,7 @@ class PlayerControls extends StatelessWidget {
   final VoidCallback onPreviousChapter;
   final VoidCallback onNextChapter;
   final int repeatCount;
+  final String? selectedLutName;
   final String? rangeRepeatLabel;
   final Function(int) onJumpToChapter;
   final VoidCallback onSkipBackward;
@@ -119,6 +119,7 @@ class PlayerControls extends StatelessWidget {
     required this.onPreviousChapter,
     required this.onNextChapter,
     required this.repeatCount,
+    required this.selectedLutName,
     required this.onJumpToChapter,
     required this.onSkipBackward,
     required this.onSkipForward,
@@ -605,6 +606,11 @@ class PlayerControls extends StatelessWidget {
                                 text: '$rangeRepeatLabel ',
                                 style: const TextStyle(color: Colors.white),
                               ),
+                            if (selectedLutName != null && selectedLutName!.isNotEmpty)
+                              TextSpan(
+                                text: '✦ $selectedLutName ',
+                                style: const TextStyle(color: Colors.white70),
+                              ),
                             if (repeatCount > 1)
                               TextSpan(
                                 text: 'Repeat ${repeatCount}x ',
@@ -689,11 +695,7 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'useBlurShadow',
-              child: Text('Blur on/off 2x cpu (Ctrl+b)'),
-            ),
-            const PopupMenuItem(
-              value: 'useBlackFont',
-              child: Text('Black/White/original Font (⇧B)'),
+              child: Text('Blur on/off 2x cpu (⇧B)'),
             ),
             const PopupMenuItem(
               value: 'hideChapterTitle',

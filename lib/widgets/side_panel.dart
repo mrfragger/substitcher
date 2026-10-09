@@ -8,7 +8,6 @@ import '../models/audiobook_metadata.dart';
 import '../models/color_palette.dart';
 import '../models/frequency_item.dart';
 import '../models/history_item.dart';
-import '../models/pause_mode.dart';
 import '../models/bookmark.dart';
 import '../models/font_category.dart';
 import '../models/lut_item.dart';
@@ -27,6 +26,10 @@ import 'alif_panel.dart';
 import '../alif/alif_letters.dart';
 import '../widgets/quran_list_panel.dart';
 
+enum ColoringMode { words, letters }
+enum PauseMode { disabled, pause2s, pause3s, pause5s, pause10s, dictionary }
+enum SleepTimerAction { closeApp, pauseOnly }
+enum FontColorOverride { none, white }
 enum PanelMode {
   chapters,
   history,
@@ -43,8 +46,18 @@ enum PanelMode {
   alif,
   luts,
 }
-
-enum ColoringMode { words, letters }
+enum ColorPaletteFilter {
+  twentyColors,
+  twelveColors,
+  twentyTwelveColors,
+  same,
+  three,
+  samethree,
+  fontWhite,
+  fontBlack,
+  borderWhite,
+  borderBlack,
+}
 
 class SidePanel extends StatelessWidget {
   static const ltr = '\u200E';
@@ -85,7 +98,7 @@ class SidePanel extends StatelessWidget {
   final Future<Map<String, dynamic>> Function(String, Duration)
       getHistoryDurationAndProgress;
   final List<String> Function() getFilteredPlaylist;
-  final ScrollController playlistScrollController;
+  final ItemScrollController playlistScrollController;
   final Future<String> Function(String) getAudiobookDuration;
   final List<Bookmark> Function() getFilteredBookmarks;
   final Function(int) onRemoveBookmark;
@@ -644,7 +657,7 @@ class SidePanel extends StatelessWidget {
                   _buildTabButton(
                       context, 'Fonts', PanelMode.fonts, fontsCount),
                   _buildTabButton(context, 'Colors', PanelMode.colors,
-                      ColorPalette.presets.length),
+                      getFilteredColors().length),
                   _buildTabButton(
                       context, 'Words', PanelMode.words, frequencyItems.length),
                   _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
@@ -652,8 +665,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 168),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 168),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 169),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 169),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -783,8 +796,10 @@ class SidePanel extends StatelessWidget {
       BuildContext context, String label, PanelMode mode, int count) {
     final isActive = panelMode == mode;
 
-    final isSpecialCollapsed =
-        isCollapsed && (mode == PanelMode.fonts || mode == PanelMode.colors);
+    final isSpecialCollapsed = isCollapsed &&
+        (mode == PanelMode.fonts ||
+            mode == PanelMode.colors ||
+            mode == PanelMode.luts);
 
     int? underlineIndex;
     switch (mode) {
@@ -1359,10 +1374,10 @@ class SidePanel extends StatelessWidget {
                     style: TextStyle(color: Colors.white54),
                   ),
                 )
-              : ListView.builder(
-                  controller: playlistScrollController,
-                  itemCount: filteredPlaylist.length,
-                  itemBuilder: (context, index) {
+                : ScrollablePositionedList.builder(
+                    itemScrollController: playlistScrollController,
+                    itemCount: filteredPlaylist.length,
+                    itemBuilder: (context, index) {
                     final filePath = filteredPlaylist[index];
                     final fileName = path.basenameWithoutExtension(filePath);
                     final isActive = currentAudiobook?.path == filePath;
@@ -1824,8 +1839,6 @@ class SidePanel extends StatelessWidget {
                 isDense: true,
                 items: const [
                   DropdownMenuItem(
-                      value: ColorPaletteFilter.all, child: Text('All')),
-                  DropdownMenuItem(
                       value: ColorPaletteFilter.twentyColors,
                       child: Text('20 colors')),
                   DropdownMenuItem(
@@ -1877,6 +1890,7 @@ class SidePanel extends StatelessWidget {
               padding: const EdgeInsets.all(16),
               child: ScrollablePositionedList.builder(
                 itemScrollController: colorItemScrollController,
+                physics: const ClampingScrollPhysics(),
                 itemCount: filteredColors.length,
                 itemBuilder: (context, index) {
                   final palette = filteredColors[index];
@@ -2045,6 +2059,7 @@ class SidePanel extends StatelessWidget {
           Expanded(
             child: ScrollablePositionedList.builder(
               itemScrollController: lutItemScrollController,
+              physics: const ClampingScrollPhysics(),
               padding: const EdgeInsets.all(16),
               itemCount: filteredLuts.length,
               itemBuilder: (context, index) {

@@ -1,0 +1,648 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَصَائِرُ الْآخِرَةِ",
+        "nameEn": "Outcomes of the Hereafter",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْعَذَابَ",
+            "en": "(with) the punishment",
+            "ref": "88:24",
+            "verse": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+            "verseEn": "Then Allāh will punish him with the greatest punishment."
+          },
+          {
+            "ar": "إِيَابَهُمْ",
+            "en": "(will be) their return",
+            "ref": "88:25",
+            "verse": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+            "verseEn": "Indeed, to Us is their return."
+          },
+          {
+            "ar": "حِسَابَهُم",
+            "en": "(is) their account",
+            "ref": "88:26",
+            "verse": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+            "verseEn": "Then indeed, upon Us is their account."
+          },
+          {
+            "ar": "جَنَّاتُ",
+            "en": "Gardens",
+            "ref": "98:8",
+            "verse": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًۭا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
+            "verseEn": "Their reward with their Lord will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them and they with Him. That is for whoever has feared his Lord."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْكَافِرِينَ فِي سُورَةِ الزُّخْرُفِ",
+        "nameEn": "Terms for the disbelievers in Surah Az-Zukhruf",
+        "color": "green",
+        "items": [
+          {
+            "ar": "مُسْرِفِينَ",
+            "en": "transgressing",
+            "ref": "43:5",
+            "verse": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًۭا مُّسْرِفِينَ",
+            "verseEn": "Then should We turn the message away, disregarding you, because you are a transgressing people?"
+          },
+          {
+            "ar": "كَفُورٌ",
+            "en": "surely (is) clearly ungrateful",
+            "ref": "43:15",
+            "verse": "وَجَعَلُوا۟ لَهُۥ مِنْ عِبَادِهِۦ جُزْءًا ۚ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌۭ مُّبِينٌ",
+            "verseEn": "But they have attributed to Him from His servants a portion. Indeed, man is clearly ungrateful."
+          },
+          {
+            "ar": "مُتْرَفُوهَا",
+            "en": "(the) wealthy ones of it",
+            "ref": "43:23",
+            "verse": "وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍۢ وَإِنَّا عَلَىٰٓ ءَاثَـٰرِهِم مُّقْتَدُونَ",
+            "verseEn": "And similarly, We did not send before you any warner into a city except that its affluent said, \"Indeed, we found our fathers upon a religion, and we are, in their footsteps, following.\""
+          },
+          {
+            "ar": "الْمُجْرِمِينَ",
+            "en": "the criminals",
+            "ref": "43:74",
+            "verse": "إِنَّ ٱلْمُجْرِمِينَ فِى عَذَابِ جَهَنَّمَ خَـٰلِدُونَ",
+            "verseEn": "Indeed, the criminals will be in the punishment of Hell, abiding eternally."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ مِنْ سُورَةِ الْمُطَفِّفِينَ",
+        "nameEn": "Key Terms in Surah Al-Mutaffifin on Fraud and Resurrection",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "يَسْتَوْفُونَ",
+            "en": "they take in full",
+            "ref": "83:2",
+            "verse": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+            "verseEn": "Who, when they take a measure from people, take in full."
+          },
+          {
+            "ar": "مَبْعُوثُونَ",
+            "en": "(will be) resurrected",
+            "ref": "83:4",
+            "verse": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+            "verseEn": "Do they not think that they will be resurrected"
+          },
+          {
+            "ar": "الْعَالَمِينَ",
+            "en": "(of) the worlds",
+            "ref": "83:6",
+            "verse": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "The Day when mankind will stand before the Lord of the worlds?"
+          },
+          {
+            "ar": "سِجِّينٌ",
+            "en": "(is) Sijjin",
+            "ref": "83:8",
+            "verse": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌۭ",
+            "verseEn": "And what can make you know what is sijjeen?"
+          }
+        ]
+      },
+      {
+        "name": "أَحْوَالٌ مَنْصُوبَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Circumstantial Adverbs (Hāl) in the Accusative",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "خَائِفًا",
+            "en": "fearing",
+            "ref": "28:21",
+            "verse": "فَخَرَجَ مِنْهَا خَآئِفًۭا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "So he left it, fearful and anticipating [apprehension]. He said, \"My Lord, save me from the wrongdoing people.\""
+          },
+          {
+            "ar": "جَمِيعًا",
+            "en": "together",
+            "ref": "2:148",
+            "verse": "وَلِكُلٍّۢ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ أَيْنَ مَا تَكُونُوا۟ يَأْتِ بِكُمُ ٱللَّهُ جَمِيعًا ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "For each [religious following] is a [prayer] direction toward which it faces. So race to [all that is] good. Wherever you may be, Allāh will bring you forth [for judgement] all together. Indeed, Allāh is over all things competent."
+          },
+          {
+            "ar": "رِجَالًا",
+            "en": "then (pray) on foot",
+            "ref": "2:239",
+            "verse": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًۭا ۖ فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+            "verseEn": "And if you fear [an enemy, then pray] on foot or riding. But when you are secure, then remember Allāh [in prayer], as He has taught you that which you did not [previously] know."
+          },
+          {
+            "ar": "طَوْعًا",
+            "en": "willingly",
+            "ref": "3:83",
+            "verse": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ",
+            "verseEn": "So is it other than the religion of Allāh they desire, while to Him have submitted [all] those within the heavens and earth, willingly or by compulsion, and to Him they will be returned?"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "بطشة",
+    "display": "الْبَطْشَةَ",
+    "hint": "An overwhelming, violent act of seizing — used in Surah Ad-Dukhan to describe a great day of divine vengeance",
+    "verseRef": "44:16",
+    "arabicVerse": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
+    "verse": "44:16 - The Day We will strike with the greatest assault, indeed, We will take retribution."
+  },
+  "deduction": {
+    "title": "The Unheeded Call in the Land of Arrogance",
+    "intro": "You stand in the ruins of a once-great civilization, where power and pride knew no bounds. A messenger walked among them, calling to the truth, but their hearts were hardened. The warning went unheeded, and the sky itself became an instrument of wrath. Who was this messenger, and what became of those who rejected the call?",
+    "clues": [
+      "I was sent to a people who were unmatched in strength and who built on every high place a monument.",
+      "My people considered themselves invincible and said, 'Who is mightier than us in strength?'",
+      "I called them to worship Allah alone, but they accused me of foolishness and lying.",
+      "They challenged me to bring the punishment I promised if I was truthful.",
+      "Allah sent upon them a barren wind that spared nothing it came upon.",
+      "I and those who believed with me were saved by Allah's mercy, while the disbelievers were utterly destroyed."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Shuaib",
+          "Prophet Lut",
+          "Prophet Nuh"
+        ],
+        "answer": "Prophet Hud"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "A devastating wind destroyed the disbelievers",
+          "A great flood engulfed the disbelievers",
+          "A shower of stones rained down",
+          "A loud shriek seized the disbelievers",
+          "An earthquake struck the disbelievers"
+        ],
+        "answer": "A devastating wind destroyed the disbelievers"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A relentless wind",
+          "A wooden ark",
+          "A she-camel",
+          "A rain of clay stones",
+          "A blazing fire"
+        ],
+        "answer": "A relentless wind"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Hud and the believers were saved, and the disbelievers were destroyed",
+          "Hud was raised to a high station",
+          "Hud was killed by his people",
+          "Hud's people repented and were spared",
+          "Hud left his people before any punishment"
+        ],
+        "answer": "Hud and the believers were saved, and the disbelievers were destroyed"
+      }
+    },
+    "verseRef": "7:72",
+    "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+    "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+  },
+  "scramble": {
+    "verseRef": "20:46",
+    "reference": "Surah Taha (20:46)",
+    "segments": [
+      "قال",
+      "لا تخافا",
+      "إني معكما",
+      "أسمع",
+      "وأرى"
+    ],
+    "translations": [
+      "He said (Do) not",
+      "fear Indeed, I Am",
+      "with you both",
+      "I hear",
+      "and I see"
+    ],
+    "hint": "Allah's reassuring words to two prophets facing a powerful tyrant — a reminder of His constant presence, hearing, and sight over all.",
+    "arabic": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+    "words": [
+      "قَالَ لَا",
+      "تَخَافَآ ۖ إِنَّنِى",
+      "مَعَكُمَآ",
+      "أَسْمَعُ",
+      "وَأَرَىٰ"
+    ],
+    "verseEn": "[Allāh] said, \"Fear not. Indeed, I am with you both; I hear and I see."
+  },
+  "roothive": {
+    "center": "ر",
+    "outer": [
+      "و",
+      "ف",
+      "م",
+      "ه",
+      "ع",
+      "ا"
+    ],
+    "root": {
+      "letters": "رفع",
+      "display": "ر ف ع",
+      "translit": "r-f-ʿ",
+      "meaning": "This root centers on the idea of lifting something upward, whether in a physical sense or in rank and honor. Its various forms spread out to express the action of raising, describe something lifted high, and name the one who elevates others.",
+      "occurrences": 29,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "امر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمْر",
+            "gloss": "command",
+            "type": "noun",
+            "root": "أمر",
+            "count": 166,
+            "ref": "2:117",
+            "pos": 6,
+            "alt": [
+              "matter",
+              "affair"
+            ]
+          },
+          {
+            "lemma": "أَمَرَ",
+            "gloss": "commands",
+            "type": "verb",
+            "root": "أمر",
+            "count": 77,
+            "ref": "2:27",
+            "pos": 10,
+            "alt": [
+              "commanded",
+              "has ordered"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "راع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "راعِ",
+            "gloss": "raina",
+            "type": "verb",
+            "root": "رعي",
+            "count": 2,
+            "ref": "2:104",
+            "pos": 6,
+            "alt": [
+              "\"raina"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "رفع",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "رَفَعَ",
+            "gloss": "raise",
+            "type": "verb",
+            "root": "رفع",
+            "count": 22,
+            "ref": "2:127",
+            "pos": 2,
+            "alt": [
+              "raised",
+              "raising"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "عرف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَرَفَ",
+            "gloss": "recognize",
+            "type": "verb",
+            "root": "عرف",
+            "count": 20,
+            "ref": "22:72",
+            "pos": 6,
+            "alt": [
+              "be known"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عُرْف",
+            "gloss": "one after another",
+            "type": "noun",
+            "root": "عرف",
+            "count": 2,
+            "ref": "77:1",
+            "pos": 2
+          },
+          {
+            "lemma": "عَرَّفَ",
+            "gloss": "made known",
+            "type": "verb",
+            "root": "عرف",
+            "count": 2,
+            "ref": "66:3",
+            "pos": 14,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "عمر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُمُر",
+            "gloss": "lifetime",
+            "type": "noun",
+            "root": "عمر",
+            "count": 7,
+            "ref": "10:16",
+            "pos": 14
+          },
+          {
+            "lemma": "عَمَرُ",
+            "gloss": "maintain",
+            "type": "verb",
+            "root": "عمر",
+            "count": 4,
+            "ref": "9:18",
+            "pos": 2,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "فار",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "فارَ",
+            "gloss": "boils up",
+            "type": "verb",
+            "root": "فور",
+            "count": 3,
+            "ref": "67:7",
+            "pos": 8,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مره",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَّة",
+            "gloss": "time",
+            "type": "noun",
+            "root": "مرر",
+            "count": 20,
+            "ref": "2:229",
+            "pos": 2,
+            "alt": [
+              "twice",
+              "times"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "رافع",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "رافِع",
+            "gloss": "raise",
+            "type": "active participle",
+            "root": "رفع",
+            "count": 1,
+            "ref": "3:55",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "رافه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَأْفَة",
+            "gloss": "pity for",
+            "type": "noun",
+            "root": "رأف",
+            "count": 2,
+            "ref": "24:2",
+            "pos": 12,
+            "alt": [
+              "compassion"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عروه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عُرْوَة",
+            "gloss": "handhold",
+            "type": "noun",
+            "root": "عرو",
+            "count": 2,
+            "ref": "2:256",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "عمره",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عُمْرَة",
+            "gloss": "umrah",
+            "type": "noun",
+            "root": "عمر",
+            "count": 2,
+            "ref": "2:196",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "عوره",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عَوْرَة",
+            "gloss": "private aspects",
+            "type": "noun",
+            "root": "عور",
+            "count": 4,
+            "ref": "24:31",
+            "pos": 61,
+            "alt": [
+              "times of privacy",
+              "exposed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فرار",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "فِرار",
+            "gloss": "flight",
+            "type": "noun",
+            "root": "فرر",
+            "count": 4,
+            "ref": "18:18",
+            "pos": 19,
+            "alt": [
+              "to flee"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اعراف",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَعْراف",
+            "gloss": "heights",
+            "type": "noun",
+            "root": "عرف",
+            "count": 2,
+            "ref": "7:46",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "رافعه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "رافِعَة",
+            "gloss": "raising up",
+            "type": "active participle",
+            "root": "رفع",
+            "count": 1,
+            "ref": "56:3",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "مرفوع",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَرْفُوع",
+            "gloss": "raised high",
+            "type": "passive participle",
+            "root": "رفع",
+            "count": 1,
+            "ref": "52:5",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "معروف",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَعْرُوف",
+            "gloss": "kindness",
+            "type": "passive participle",
+            "root": "عرف",
+            "count": 38,
+            "ref": "2:235",
+            "pos": 26,
+            "alt": [
+              "kind",
+              "honorable"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مرفوعه",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مَرْفُوعَة",
+            "gloss": "exalted",
+            "type": "passive participle",
+            "root": "رفع",
+            "count": 3,
+            "ref": "56:34",
+            "pos": 2,
+            "alt": [
+              "raised",
+              "raised high"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "رَفِيع",
+        "gloss": "possessor of the highest ranks",
+        "type": "adjective",
+        "root": "رفع",
+        "count": 1,
+        "ref": "40:15",
+        "pos": 1
+      }
+    ],
+    "maxScore": 45,
+    "featuredRoot": "رفع"
+  }
+}

@@ -20,6 +20,7 @@ import 'quran_index_Czech.dart';
 import 'quran_index_Danish.dart';
 import 'quran_index_Dari.dart';
 import 'quran_index_Dagbani.dart';
+import 'quran_index_Dhivehi.dart';
 import 'quran_index_Dutch.dart';
 import 'quran_index_Finnish.dart';
 import 'quran_index_French.dart';
@@ -554,6 +555,7 @@ const List<String> availableQuranIndexLanguages = [
   'Dagbani',
   'Danish *',
   'Dari',
+  'Dhivehi *',
   'Dutch',
   'Finnish *',
   'French',
@@ -672,6 +674,8 @@ String getQuranIndexRaw(String language) {
       return quranIndexDanishRaw;
     case 'Dari':
       return quranIndexDariRaw;
+    case 'Dhivehi *':
+      return quranIndexDhivehiRaw;
     case 'Dutch':
       return quranIndexDutchRaw;
     case 'Finnish *':
