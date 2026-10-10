@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:convert';
 import '../quran/quran_index.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
@@ -18,7 +17,7 @@ class SubtitleManagerDialog extends StatefulWidget {
   final VoidCallback onSwap;
   final VoidCallback onClearPrimary;
   final VoidCallback onClearSecondary;
-  final Function(String)? onVttShowCreated;
+  final Function(String)? onCaptionCreated;
 
   const SubtitleManagerDialog({
     super.key,
@@ -31,7 +30,7 @@ class SubtitleManagerDialog extends StatefulWidget {
     required this.onSwap,
     required this.onClearPrimary,
     required this.onClearSecondary,
-    this.onVttShowCreated,
+    this.onCaptionCreated,
   });
 
   @override
@@ -41,7 +40,6 @@ class SubtitleManagerDialog extends StatefulWidget {
 class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
   late String? _primarySubtitle;
   late String? _secondarySubtitle;
-  String? _lastVttShowPath;
   final TextEditingController _searchController = TextEditingController();
   final FocusNode _searchFocusNode = FocusNode();
   String _searchQuery = '';
@@ -52,7 +50,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     super.initState();
     _primarySubtitle = widget.primarySubtitle;
     _secondarySubtitle = widget.secondarySubtitle;
-    _loadLastVttShow();
 
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_primarySubtitle != null) _scrollToSubtitle(_primarySubtitle!);
@@ -64,13 +61,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     _searchController.dispose();
     _searchFocusNode.dispose();
     super.dispose();
-  }
-
-  Future<void> _loadLastVttShow() async {
-    final prefs = await SharedPreferences.getInstance();
-    setState(() {
-      _lastVttShowPath = prefs.getString('lastVttShowPath');
-    });
   }
 
   bool get _isQuranVerseByVerse =>
@@ -106,7 +96,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
   Future<void> _browseForSubtitle(BuildContext context, bool isPrimary) async {
     String? initialDirectory;
 
-    if (widget.currentAudiobookPath != null) {
       final audiobookDir = path.dirname(widget.currentAudiobookPath!);
       final audiobookBase = path.basenameWithoutExtension(widget.currentAudiobookPath!);
       final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
@@ -116,7 +105,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       } else {
         initialDirectory = audiobookDir;
       }
-    }
+
 
     final file = await FilePicker.pickFile(
       type: FileType.custom,
@@ -131,7 +120,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
 
     if (subtitlePath.contains('_vttshow')) {
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setString('lastVttShowPath', subtitlePath);
     }
 
     try {
@@ -181,8 +169,8 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       _primarySubtitle = filePath;
       _secondarySubtitle = null;
     });
-    if (widget.onVttShowCreated != null) {
-      widget.onVttShowCreated!(filePath);
+    if (widget.onCaptionCreated != null) {
+      widget.onCaptionCreated!(filePath);
     }
     WidgetsBinding.instance.addPostFrameCallback((_) => _scrollToSubtitle(filePath));
   }
@@ -206,54 +194,21 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     return vttLines.join('\n');
   }
 
-  Future<void> _createNewVttShow(BuildContext context) async {
-    String? initialDirectory;
-    String suggestedName = 'presentation_vttshow.vtt';
-    if (widget.currentAudiobookPath != null) {
-      initialDirectory = path.dirname(widget.currentAudiobookPath!);
-      final base = path.basenameWithoutExtension(widget.currentAudiobookPath!);
-      suggestedName = '${base}_vttshow.vtt';
+  Future<void> _createNewCaption(BuildContext context) async {
+    final out = path.join(
+        Directory.systemTemp.path, 'substitcher_caption.vtt');
+
+    if (!await File(out).exists()) {
+      await File(out).writeAsString(
+          'WEBVTT\n\n00:00:00.000 --> 99:59:59.000\nType your caption\n');
     }
-    const template = 'WEBVTT\n\n'
-        '00:00:00.000 --> 00:00:10.000\n'
-        'New slide\n\n'
-        'VTTSHOW\n'
-        '00:00:00.000 --> 00:00:10.000 {},{},{},{},{},{},{},{}\n';
 
-    final saved = await FilePicker.saveFile(
-      dialogTitle: 'New VttShow File',
-      fileName: suggestedName,
-      allowedExtensions: ['vtt'],
-      type: FileType.custom,
-      initialDirectory: initialDirectory,
-      bytes: Uint8List.fromList(utf8.encode(template)),
-    );
-    if (saved == null) return;
-
-    var finalPath = saved.toFilePath();
-    if (!finalPath.endsWith('_vttshow.vtt')) {
-      final fixed = finalPath.replaceAll(RegExp(r'\.vtt$'), '_vttshow.vtt');
-      final f = File(finalPath);
-      if (await f.exists()) await f.rename(fixed);
-      finalPath = fixed;
-    }
-    await File(finalPath).writeAsString(template);
-
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString('lastVttShowPath', finalPath);
-
-    _loadVttShow(finalPath);
-
-    if (context.mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('Created: ${path.basename(finalPath)}'),
-          backgroundColor: Colors.green,
-          duration: const Duration(seconds: 2),
-        ),
-      );
-      Navigator.pop(context);
-    }
+    setState(() {
+      _primarySubtitle = out;
+      _secondarySubtitle = null;
+    });
+    widget.onCaptionCreated?.call(out);
+    if (context.mounted) Navigator.pop(context);
   }
 
   Future<void> _splitLongSubs(BuildContext context) async {
@@ -565,9 +520,9 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                   ),
                   const SizedBox(width: 14),
                   ElevatedButton.icon(
-                    onPressed: () => _createNewVttShow(context),
+                    onPressed: () => _createNewCaption(context),
                     icon: const Icon(Icons.add, size: 13),
-                    label: const Text('New vttShow'),
+                    label: const Text('New Caption'),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.deepPurple.withValues(alpha: 0.85),
                       foregroundColor: Colors.white,
@@ -579,48 +534,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
                     ),
                   ),
-                  const SizedBox(width: 6),
-                  if (_lastVttShowPath != null)
-                    ElevatedButton.icon(
-                      onPressed: () async {
-                        if (!await File(_lastVttShowPath!).exists()) {
-                          if (context.mounted) {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(
-                                content: Text('Last vttshow file no longer exists'),
-                                backgroundColor: Colors.red,
-                              ),
-                            );
-                          }
-                          return;
-                        }
-                        _loadVttShow(_lastVttShowPath!);
-                      },
-                      icon: const Icon(Icons.history, size: 13),
-                      label: Text(
-                        'Last: ${path.basename(_lastVttShowPath!)}',
-                        overflow: TextOverflow.ellipsis,
-                      ),
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.white.withValues(alpha: 0.06),
-                        foregroundColor: Colors.white70,
-                        elevation: 0,
-                        visualDensity: VisualDensity.compact,
-                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                        textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(6),
-                          side: BorderSide(color: Colors.white.withValues(alpha: 0.1)),
-                        ),
-                      ),
-                    ),
-                  const Spacer(),
-                  IconButton(
-                    icon: const Icon(Icons.close, color: Colors.white70, size: 20),
-                    visualDensity: VisualDensity.compact,
-                    onPressed: () => Navigator.pop(context),
-                  ),
                 ],
               ),
               const SizedBox(height: 6),
@@ -629,11 +542,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                   Text(
                     'Found ${widget.availableSubtitles.length} subtitle files',
                     style: const TextStyle(color: Colors.white38, fontSize: 12),
-                  ),
-                  const SizedBox(width: 10),
-                  Text(
-                    'vttshow mode — press TAB to edit text',
-                    style: TextStyle(color: Colors.orange.withValues(alpha: 0.8), fontSize: 12),
                   ),
                 ],
               ),

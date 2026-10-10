@@ -13,6 +13,7 @@ import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'dart:async';
 import 'dart:io';
 import 'dart:ui';
+import 'dart:ui' as ui;
 import 'dart:convert';
 import 'dart:math';
 import 'metadata_editor_screen.dart';
@@ -28,10 +29,8 @@ import '../models/bookmark.dart';
 import '../models/subtitle_cue.dart';
 import '../models/subtitle_preferences.dart';
 import '../models/lut_item.dart';
-import '../models/vtt_show_style.dart';
 import '../models/root_card.dart';
 import '../models/saved_search.dart';
-import '../services/vtt_show_service.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
@@ -47,7 +46,6 @@ import '../services/video_edit_service.dart';
 import '../services/vision_tracking_service.dart';
 import '../services/lut_thumbnail_service.dart';
 import '../services/lut_processor.dart';
-import '../services/vtt_show_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -57,7 +55,7 @@ import '../widgets/download_overlay.dart';
 import '../widgets/cuts_overlay.dart';
 import '../widgets/encode_progress_overlay.dart';
 import '../widgets/lut_picker_overlay.dart';
-import '../widgets/vtt_show_edit_overlay.dart';
+import '../widgets/caption_edit_overlay.dart';
 import '../widgets/youtube_dialog.dart';
 import '../widgets/quran_panel.dart';
 import '../widgets/quran_list_panel.dart';
@@ -382,6 +380,10 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   bool _blurShadowEnabled = false;
 
+  String? _lutAppliedImageCacheKey;
+  ui.Image? _lutAppliedImageCache;
+  LUTFilter? _lutCategoryFilter;
+
   bool _isVideoFile = false;
   bool _videoEditingMode = false;
   String? _systemFfmpegPath;
@@ -442,16 +444,29 @@ class _PlayerScreenState extends State<PlayerScreen>
   int _colorCycleInterval = 4;
   int _colorCycleCueCounter = 0;
 
-  Map<String, VttShowStyle> _vttShowStyles = {};
-  bool _vttShowActive = false;
-  int _vttShowRevealedLines = 1;
-  String? _vttShowCurrentKey;
-  bool _vttShowApplying = false;
-  bool _vttShowEditMode = false;
+  String? _imagePath;
+  List<String> _imageSiblings = [];
+  int _imageIndex = 0;
+
+  static const _imageExtensions = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'};
+
+  bool _isImagePath(String filePath) =>
+      _imageExtensions.contains(path.extension(filePath).toLowerCase());
+
+  bool _captionActive = false;
+  bool _captionEditMode = false;
+  double _captionX = 0.0; // -1 left … 1 right
+  double _captionY = 0.9; // -1 top … 1 bottom
   final FocusNode _vttEditLine1FocusNode = FocusNode();
   final FocusNode _vttEditLine2FocusNode = FocusNode();
-  final GlobalKey<VttShowEditOverlayState> _vttEditKey =
-      GlobalKey<VttShowEditOverlayState>();
+
+  String get _sharedCaptionPath =>
+      path.join(Directory.systemTemp.path, 'substitcher_caption.vtt');
+
+  bool _isCaptionPath(String p) =>
+      path.equals(p, _sharedCaptionPath) ||
+      path.basename(p).toLowerCase() == 'substitcher_caption.vtt';
+
   static const _sharedSearchModes = {
     PanelMode.chapters,
     PanelMode.history,
@@ -544,6 +559,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     _loadFavoriteColorPalettes();
     _loadFavoriteLuts();
     _loadSavedLut();
+    _loadCaptionPosition();
     _loadSavedSearches();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
@@ -751,11 +767,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           prefs.setString('quranIndexLanguage', language);
         });
       }
-
-  // bool get _isQuranVerseByVerse {
-  //   final p = _currentAudiobook?.path ?? '';
-  //   return p.contains('Verse by Verse') && p.contains('Quran');
-  // }
 
   bool get _isQuranVerseByVerse =>
       isQuranVerseByVersePath(_currentAudiobook?.path);
@@ -1030,6 +1041,8 @@ class _PlayerScreenState extends State<PlayerScreen>
         _selectedLutName = null;
         _loadedLutData = null;
       });
+      _lutAppliedImageCacheKey = null;
+      _lutAppliedImageCache = null;
       await prefs.remove('selectedLutPath');
       await prefs.remove('selectedLutName');
       return;
@@ -1072,6 +1085,11 @@ class _PlayerScreenState extends State<PlayerScreen>
             .where((lut) => _favoriteLuts.contains(lut.name))
             .toList()
         : _availableLuts;
+
+    if (_lutCategoryFilter != null) {
+      lutsToShow =
+          lutsToShow.where((lut) => lut.category == _lutCategoryFilter).toList();
+    }
 
     if (_searchQuery.isEmpty && _excludeTerms.isEmpty) return lutsToShow;
 
@@ -1147,10 +1165,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         setState(() {
           _isPlaying = playing;
         });
-        if (playing && _vttShowActive) {
-          player.pause();
-          return;
-        }
         _updateWakelock();
       }
       if (playing) {
@@ -1330,6 +1344,64 @@ class _PlayerScreenState extends State<PlayerScreen>
         ),
       );
     }
+  }
+
+  Future<void> _openSharedCaptionEditor() async {
+    final p = _sharedCaptionPath;
+    if (!await File(p).exists()) {
+      await File(p).writeAsString(
+          'WEBVTT\n\n00:00:00.000 --> 99:59:59.000\nType your caption\n');
+    }
+    setState(() {
+      _primarySubtitlePath = p;
+      _subtitleFilePath = p;
+      _availableSubtitles = <String>[
+        p,
+        ..._availableSubtitles.where((s) => s != p),
+      ];
+    });
+    await _loadCaption(p);
+  }
+
+  Future<void> _loadCaptionPosition() async {
+    final p = await SharedPreferences.getInstance();
+    setState(() {
+      _captionX = p.getDouble('captionX') ?? 0.0;
+      _captionY = p.getDouble('captionY') ?? 0.9;
+    });
+  }
+
+  Future<void> _nudgeCaption(double dx, double dy) async {
+    setState(() {
+      _captionX = (_captionX + dx).clamp(-1.0, 1.0);
+      _captionY = (_captionY + dy).clamp(-1.0, 1.0);
+    });
+    final p = await SharedPreferences.getInstance();
+    await p.setDouble('captionX', _captionX);
+    await p.setDouble('captionY', _captionY);
+  }
+
+  Future<void> _loadCaption(String filePath) async {
+    final content = await File(filePath).readAsString();
+    final cues = _parseVTT(content);
+    setState(() {
+      _primarySubtitlePath = filePath;
+      _subtitleFilePath = filePath;
+      _captionActive = true;
+      _captionEditMode = true;
+      _originalSubtitles = cues;
+    });
+    await _applyConversion();
+  }
+
+  Future<void> _saveCaption(String line1, String line2) async {
+    final p = _subtitleFilePath;
+    if (p == null) return;
+    final text = line2.isEmpty ? line1 : '$line1\n$line2';
+    await File(p).writeAsString(
+        'WEBVTT\n\n00:00:00.000 --> 99:59:59.000\n$text\n');
+    await _loadCaption(p);
+    _focusNode.requestFocus();
   }
 
   Future<void> _handleWindowClose() async {
@@ -1584,12 +1656,11 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _scanAvailableSubtitles() async {
-    if (_currentAudiobook == null) {
-      setState(() {
-        _availableSubtitles = [];
-      });
-      return;
-    }
+    final basePath = _imagePath ?? _currentAudiobook?.path;
+        if (basePath == null) {
+          setState(() => _availableSubtitles = []);
+          return;
+        }
 
     if (_isYouTubeStream) {
       final tempDir = Directory.systemTemp.path;
@@ -1618,7 +1689,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       return;
     }
 
-    final audiobookPath = _currentAudiobook!.path;
+    final audiobookPath = basePath;
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
     final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
@@ -1726,7 +1797,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _openSubtitleManager() async {
-    if (_currentAudiobook != null) {
+    if (_currentAudiobook != null || _imagePath != null) {
       await _scanAvailableSubtitles();
     }
 
@@ -1752,7 +1823,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         availableSubtitles: _availableSubtitles,
         primarySubtitle: _primarySubtitlePath,
         secondarySubtitle: _secondarySubtitlePath,
-        currentAudiobookPath: _currentAudiobook?.path,
+        currentAudiobookPath: _imagePath ?? _currentAudiobook?.path,
         onPrimarySelected: (filePath) async {
           setState(() {
             _primarySubtitlePath = filePath;
@@ -1764,28 +1835,10 @@ class _PlayerScreenState extends State<PlayerScreen>
                 audiobookPath, filePath);
           }
 
-          final vttShowPath = VttShowService.vttShowPathFor(filePath);
-          if (vttShowPath != null) {
-            final styles = await VttShowService.load(vttShowPath);
-            final content = await File(filePath).readAsString();
-            final cues = _parseVTT(content);
-            final reconciledStyles = VttShowService.reconcile(
-              styles: styles,
-              cues: cues,
-            );
-            setState(() {
-              _vttShowStyles = styles;
-              _vttShowActive = true;
-              _vttShowRevealedLines = 1;
-              _vttShowCurrentKey = null;
-              _vttShowApplying = false;
-              _subtitles = cues;
-              _originalSubtitles = cues;
-              _paragraphItems = _createParagraphs(cues);
-            });
-            await Future.delayed(const Duration(milliseconds: 300));
-            if (mounted) await _loadVttShowSilentAudio();
+          if (_isCaptionPath(filePath)) {
+            await _loadCaption(filePath);
           } else {
+            setState(() => _captionActive = false);
             final content = await File(filePath).readAsString();
             final cues = _parseVTT(content);
             setState(() {
@@ -1795,7 +1848,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             await _applyConversion();
           }
           _buildQuranVerseSearchIndexIfNeeded();
-        },
+          },
         onSecondarySelected: (path) async {
           setState(() {
             _secondarySubtitlePath = path;
@@ -1874,6 +1927,8 @@ class _PlayerScreenState extends State<PlayerScreen>
         },
         onClearPrimary: () {
           setState(() {
+            _captionActive = false;
+            _captionEditMode = false;
             _primarySubtitlePath = null;
             _subtitleFilePath = null;
             _subtitles = [];
@@ -1897,35 +1952,13 @@ class _PlayerScreenState extends State<PlayerScreen>
             SubtitlePreferences.clearLastUsedSecondaryVttPath(audiobookPath);
           }
         },
-        onVttShowCreated: (filePath) async {
+        onCaptionCreated: (filePath) async {
           setState(() {
+            _availableSubtitles = [];
             _primarySubtitlePath = filePath;
             _subtitleFilePath = filePath;
-            _availableSubtitles = [];
           });
-          final vttShowPath = VttShowService.vttShowPathFor(filePath);
-          if (vttShowPath != null) {
-            final styles = await VttShowService.load(vttShowPath);
-            final content = await File(filePath).readAsString();
-            final cues = _parseVTT(content);
-            final reconciledStyles = VttShowService.reconcile(
-              styles: styles,
-              cues: cues,
-            );
-            setState(() {
-              _vttShowStyles = styles;
-              _vttShowActive = true;
-              _vttShowRevealedLines = 1;
-              _vttShowCurrentKey = null;
-              _vttShowApplying = false;
-              _subtitles = cues;
-              _originalSubtitles = cues;
-            });
-          }
-          await Future.delayed(const Duration(milliseconds: 300));
-          if (mounted) {
-            await _loadVttShowSilentAudio();
-          }
+          await _loadCaption(filePath);
         },
       ),
     );
@@ -1942,11 +1975,8 @@ class _PlayerScreenState extends State<PlayerScreen>
         _currentSecondarySubtitleIndex = null;
         _currentSubtitleIndex = null;
         _currentSubtitleText = '';
-        _vttShowStyles = {};
-        _vttShowActive = false;
-        _vttShowRevealedLines = 1;
-        _vttShowCurrentKey = null;
-        _vttShowApplying = false;
+        _captionActive = false;
+        _captionEditMode = false;
       });
 
       final dir = path.dirname(audiobookPath);
@@ -1985,10 +2015,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           _subtitleFilePath = null;
           _currentSubtitleText = '';
           _paragraphItems = [];
-          _vttShowStyles = {};
-          _vttShowActive = false;
-          _vttShowRevealedLines = 1;
-          _vttShowCurrentKey = null;
         });
         _updateWakelock();
         return;
@@ -2006,6 +2032,7 @@ class _PlayerScreenState extends State<PlayerScreen>
 
       setState(() {
         _subtitleFilePath = subtitlePath;
+        _captionActive = _isCaptionPath(subtitlePath!);
       });
 
       final originalCues = _parseVTT(content);
@@ -2013,27 +2040,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         _originalSubtitles = originalCues;
         _paragraphItems = _createParagraphs(originalCues);
       });
-
-      final vttShowPath = VttShowService.vttShowPathFor(subtitlePath);
-      if (vttShowPath != null) {
-        final styles = await VttShowService.load(vttShowPath);
-        setState(() {
-          _vttShowStyles = styles;
-          _vttShowActive = true;
-          _vttShowRevealedLines = 1;
-          _vttShowCurrentKey = null;
-          _vttShowApplying = false;
-        });
-        await player.pause();
-      } else {
-        setState(() {
-          _vttShowStyles = {};
-          _vttShowActive = false;
-          _vttShowRevealedLines = 1;
-          _vttShowCurrentKey = null;
-          _vttShowApplying = false;
-        });
-      }
 
       final lastSecondary =
           await SubtitlePreferences.loadLastUsedSecondaryVttPath(audiobookPath);
@@ -2058,181 +2064,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         _paragraphItems = [];
       });
       _updateWakelock();
-    }
-  }
-
-  VttShowStyle _captureCurrentVttShowStyle() {
-    return VttShowStyle(
-      font: _selectedFont,
-      conversion: _conversionType == 'none' ? 'original' : _conversionType,
-      fontColorOverride: switch (_fontColorOverride) {
-        FontColorOverride.white => 'white',
-        FontColorOverride.none => 'none',
-      },
-
-      fontSize: _subtitleFontSize,
-      lineSpacing: _subtitleLineSpacing,
-      colorPalette: _currentColorPalette?.name,
-      coloringMode: _coloringMode == ColoringMode.letters ? 'letters' : 'words',
-      blurShadow: _blurShadowEnabled ? 'blur_on' : 'blur_off',
-    );
-  }
-
-  String? _currentVttShowKey() {
-    if (_currentSubtitleIndex == null) return null;
-    if (_currentSubtitleIndex! >= _subtitles.length) return null;
-    final cue = _subtitles[_currentSubtitleIndex!];
-    return '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}';
-  }
-
-  List<String> _allSubtitleCueKeys() {
-    return _subtitles
-        .map((cue) =>
-            '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}')
-        .toList();
-  }
-
-  void _vttShowCaptureIfChanged() {
-    if (!_vttShowActive || _subtitleFilePath == null) return;
-    final key = _currentVttShowKey();
-    if (key == null) return;
-
-    final current = _captureCurrentVttShowStyle();
-    final existing = _vttShowStyles[key];
-
-    final changed = existing == null ||
-        existing.font != current.font ||
-        existing.conversion != current.conversion ||
-        existing.fontColorOverride != current.fontColorOverride ||
-        existing.fontSize != current.fontSize ||
-        existing.lineSpacing != current.lineSpacing ||
-        existing.colorPalette != current.colorPalette ||
-        existing.coloringMode != current.coloringMode ||
-        existing.blurShadow != current.blurShadow;
-
-    if (changed) {
-      _vttShowStyles[key] = current;
-    }
-  }
-
-  void _addCueAfter(int index) {
-    const gap = Duration(seconds: 3);
-    final current = _subtitles[index];
-
-    final oldKeys = <int, String>{};
-    for (int i = index + 1; i < _subtitles.length; i++) {
-      oldKeys[i] = _subtitles[i].timecodeKey;
-    }
-
-    for (int i = index + 1; i < _subtitles.length; i++) {
-      _subtitles[i] = _subtitles[i].copyWith(
-        startTime: _subtitles[i].startTime + gap,
-        endTime: _subtitles[i].endTime + gap,
-      );
-      _originalSubtitles[i] = _originalSubtitles[i].copyWith(
-        startTime: _originalSubtitles[i].startTime + gap,
-        endTime: _originalSubtitles[i].endTime + gap,
-      );
-    }
-
-    for (final entry in oldKeys.entries) {
-      final oldKey = entry.value;
-      final newKey = _subtitles[entry.key].timecodeKey;
-      if (oldKey != newKey && _vttShowStyles.containsKey(oldKey)) {
-        _vttShowStyles[newKey] = _vttShowStyles.remove(oldKey)!;
-      }
-    }
-
-    final newCue = SubtitleCue(
-      startTime: current.endTime,
-      endTime: current.endTime + gap,
-      text: '',
-    );
-
-    setState(() {
-      _subtitles.insert(index + 1, newCue);
-      _originalSubtitles.insert(index + 1, newCue);
-      _currentSubtitleIndex = index + 1;
-    });
-
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      _vttEditKey.currentState?.jumpToIndex(index + 1);
-    });
-  }
-
-  Future<void> _applyVttShowStyle(String timecodeKey) async {
-    if (!_vttShowActive) return;
-    if (_vttShowApplying) {
-      return;
-    }
-    if (_vttShowCurrentKey == timecodeKey) {
-      return;
-    }
-
-    _vttShowApplying = true;
-    _vttShowCurrentKey = timecodeKey;
-
-    try {
-      final style = _vttShowStyles[timecodeKey];
-      if (style == null) return;
-
-      bool needsConversion = false;
-
-      setState(() {
-        if (style.font != null) {
-          _selectedFont = style.font!;
-          final allFonts = CustomFontLoader.getAvailableFonts();
-          _selectedFontIndex = allFonts.indexOf(style.font!);
-          if (_selectedFontIndex == -1) _selectedFontIndex = 0;
-        }
-        if (style.fontSize != null) _subtitleFontSize = style.fontSize!;
-        if (style.lineSpacing != null)
-          _subtitleLineSpacing = style.lineSpacing!;
-        if (style.fontColorOverride != null) {
-          _fontColorOverride = switch (style.fontColorOverride!) {
-            'white' => FontColorOverride.white,
-            _ => FontColorOverride.none,
-          };
-        }
-        if (style.colorPalette != null) {
-          final palette = ColorPalette.presets.firstWhere(
-            (p) => p.name == style.colorPalette,
-            orElse: () => _currentColorPalette ?? ColorPalette.presets.first,
-          );
-          _currentColorPalette = palette;
-          _selectedColorIndex = ColorPalette.presets.indexOf(palette);
-        }
-        if (style.conversion != null && style.conversion != _conversionType) {
-          _conversionType = style.conversion!;
-          needsConversion = true;
-        }
-        if (style.coloringMode != null) {
-          _coloringMode = style.coloringMode == 'letters'
-              ? ColoringMode.letters
-              : ColoringMode.words;
-        }
-        if (style.blurShadow != null) {
-          _blurShadowEnabled = style.blurShadow == 'blur_on';
-        }
-      });
-
-      if (needsConversion) {
-        switch (_conversionType) {
-          case 'alternates':
-            await _convertToAlternates(fromVttShow: true);
-            break;
-          case 'demo':
-            await _convertToDemo();
-            break;
-          case 'missing':
-            await _convertToMissing(fromVttShow: true);
-            break;
-          default:
-            await _applyConversion();
-        }
-      }
-    } finally {
-      _vttShowApplying = false;
     }
   }
 
@@ -5114,16 +4945,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             _currentSubtitleIndex = activeIndex;
           });
 
-          if (_vttShowActive && activeIndex != null) {
-            final cue = _subtitles[activeIndex];
-            final key =
-                '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}';
-            _applyVttShowStyle(key);
-            setState(() {
-              _vttShowRevealedLines = 1;
-            });
-          }
-
           if (_fontCycleActive && !_suppressCycleIncrement) {
             _fontCycleCueCounter++;
 
@@ -6837,7 +6658,8 @@ class _PlayerScreenState extends State<PlayerScreen>
         }
         final file = await FilePicker.pickFile(
           type: FileType.custom,
-          allowedExtensions: ['opus', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
+          // allowedExtensions: ['opus', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
+          allowedExtensions: ['opus','jpg','jpeg','png','gif','webp','bmp', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
           initialDirectory: initialDir,
         );
         if (file == null) {
@@ -6845,6 +6667,18 @@ class _PlayerScreenState extends State<PlayerScreen>
         }
         selectedPath = file.path;
         if (selectedPath == null) return;
+        }
+
+        if (_isImagePath(selectedPath!)) {
+          await _openImage(selectedPath);
+          return;
+        }
+
+        if (_imagePath != null) {
+          setState(() {
+            _imagePath = null;
+            _imageSiblings = [];
+          });
         }
 
       if (YouTubeService.isSupportedUrl(selectedPath!)) {
@@ -6916,21 +6750,52 @@ class _PlayerScreenState extends State<PlayerScreen>
         _ffmpegAvailable = await VideoEditService.isAvailable();
       }
 
-      final metadata = await _ffmpeg.loadAudiobook(selectedPath);
-      final fileSize = await _getFileSize(selectedPath);
-      await player.stop();
+      final rawMetadata = await _ffmpeg.loadAudiobook(selectedPath);
+            final fileSize = await _getFileSize(selectedPath);
+            await player.stop();
 
-      if (metadata.chapters.isEmpty) {
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('Error: Audiobook has no chapters'),
-              backgroundColor: Colors.red,
-            ),
-          );
-        }
-        return;
-      }
+            // For video files without chapters, synthesize a single chapter
+            // spanning the whole file so playback can proceed.
+            AudiobookMetadata metadata = rawMetadata;
+            if (metadata.chapters.isEmpty && _isVideoFile) {
+              Duration duration = metadata.duration;
+              if (duration <= Duration.zero) {
+                try {
+                  duration = await _ffmpeg.getAudioDuration(selectedPath);
+                } catch (e) {
+                  print('Could not determine video duration: $e');
+                }
+              }
+            if (duration > Duration.zero) {
+              metadata = AudiobookMetadata(
+                path: metadata.path,
+                title: metadata.title,
+                author: metadata.author,
+                year: metadata.year,
+                duration: duration,
+                chapters: [
+                  Chapter(
+                    index: 0,
+                    title: path.basenameWithoutExtension(selectedPath),
+                    startTime: Duration.zero,
+                    endTime: duration,
+                    duration: duration,
+                  ),
+                ],
+              );
+            }
+          }
+          if (metadata.chapters.isEmpty) {
+            if (mounted) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('Error: Audiobook has no chapters'),
+                  backgroundColor: Colors.red,
+                ),
+              );
+            }
+            return;
+          }
 
       final historyItem = _history.firstWhere(
         (h) => h.audiobookPath == selectedPath,
@@ -7198,28 +7063,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         );
       }
     }
-  }
-
-  Future<void> _saveVttShowFile() async {
-    if (_subtitleFilePath == null) return;
-    _vttShowCaptureIfChanged();
-
-    final buffer = StringBuffer();
-    buffer.writeln('WEBVTT');
-    buffer.writeln();
-    for (final cue in _originalSubtitles) {
-      buffer.writeln(
-          '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}');
-      buffer.writeln(cue.text);
-      buffer.writeln();
-    }
-
-    await VttShowService.save(
-      vttPath: _subtitleFilePath!,
-      styles: _vttShowStyles,
-      subtitleCueKeys: _allSubtitleCueKeys(),
-      vttContent: buffer.toString(),
-    );
   }
 
   Future<void> _loadVttShowSilentAudio() async {
@@ -7916,9 +7759,9 @@ class _PlayerScreenState extends State<PlayerScreen>
 
           if (event.logicalKey == LogicalKeyboardKey.escape &&
               event is KeyDownEvent) {
-            if (_vttShowEditMode) {
+            if (_captionEditMode) {
               setState(() {
-                _vttShowEditMode = false;
+                _captionEditMode = false;
               });
               _focusNode.requestFocus();
               return KeyEventResult.handled;
@@ -7954,6 +7797,10 @@ class _PlayerScreenState extends State<PlayerScreen>
               setState(() {
                 _showPanel = false;
               });
+              return KeyEventResult.handled;
+            }
+            if (_imagePath != null) {
+              _closeImage();
               return KeyEventResult.handled;
             }
           } else if (HardwareKeyboard.instance.isControlPressed &&
@@ -8043,6 +7890,12 @@ class _PlayerScreenState extends State<PlayerScreen>
             _scrollToCurrentPlaylistItem();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyB &&
+              HardwareKeyboard.instance.isControlPressed) {
+            if (event is KeyDownEvent) {
+              _openImage();
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyB &&
               HardwareKeyboard.instance.isShiftPressed) {
             if (event is KeyDownEvent) {
               setState(() {
@@ -8104,22 +7957,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           } else if (event.logicalKey == LogicalKeyboardKey.keyS &&
               HardwareKeyboard.instance.isShiftPressed &&
               event is KeyDownEvent) {
-            if (_vttShowActive && _subtitleFilePath != null) {
-              _vttEditKey.currentState?.flushEdits();
-              Future.delayed(const Duration(milliseconds: 50), () {
-                _saveVttShowFile().then((_) {
-                  if (mounted) {
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      const SnackBar(
-                        content: Text('Saved ✓'),
-                        duration: Duration(seconds: 1),
-                        backgroundColor: Colors.green,
-                      ),
-                    );
-                  }
-                });
-              });
-            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT &&
               event is KeyDownEvent) {
@@ -8278,6 +8115,20 @@ class _PlayerScreenState extends State<PlayerScreen>
               _showAdhanOverlay = !_showAdhanOverlay;
             });
             return KeyEventResult.handled;
+          } else if (_imagePath != null &&
+              event is KeyDownEvent &&
+              (event.logicalKey == LogicalKeyboardKey.braceLeft ||
+                  (event.logicalKey == LogicalKeyboardKey.bracketLeft &&
+                      HardwareKeyboard.instance.isShiftPressed))) {
+            _stepImage(-1);
+            return KeyEventResult.handled;
+          } else if (_imagePath != null &&
+              event is KeyDownEvent &&
+              (event.logicalKey == LogicalKeyboardKey.braceRight ||
+                  (event.logicalKey == LogicalKeyboardKey.bracketRight &&
+                      HardwareKeyboard.instance.isShiftPressed))) {
+            _stepImage(1);
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.bracketLeft &&
               event is KeyDownEvent) {
             _decreaseSpeed();
@@ -8339,14 +8190,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
               HardwareKeyboard.instance.isControlPressed &&
               event is KeyDownEvent) {
-            if (_vttShowEditMode && _currentSubtitleIndex != null) {
-              final index = _currentSubtitleIndex!;
-              final cue = _subtitles[index];
-              if (cue.text.trim().isEmpty) return KeyEventResult.handled;
-              _vttEditKey.currentState?.flushEdits();
-              _addCueAfter(index);
-              return KeyEventResult.handled;
-            }
             _applyDefaultSettings();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
@@ -8374,24 +8217,19 @@ class _PlayerScreenState extends State<PlayerScreen>
             }
           } else if (event.logicalKey == LogicalKeyboardKey.tab &&
               event is KeyDownEvent) {
-            if (_vttShowActive) {
-              if (_vttShowEditMode) {
+            if (_captionActive) {
+              if (_captionEditMode) {
                 if (!_vttEditLine1FocusNode.hasFocus &&
                     !_vttEditLine2FocusNode.hasFocus) {
                   _vttEditLine1FocusNode.requestFocus();
                 }
               } else {
-                if (_currentAudiobook == null) {
-                  _loadVttShowSilentAudio();
-                }
-                setState(() {
-                  _vttShowEditMode = true;
-                });
-                WidgetsBinding.instance.addPostFrameCallback((_) {
-                  final idx = _currentSubtitleIndex ?? 0;
-                  _vttEditKey.currentState?.jumpToIndex(idx);
-                });
+                setState(() => _captionEditMode = true);
               }
+              return KeyEventResult.handled;
+            }
+            if (_imagePath != null) {
+              _openSubtitleManager();
               return KeyEventResult.handled;
             }
             return KeyEventResult.ignored;
@@ -8400,21 +8238,6 @@ class _PlayerScreenState extends State<PlayerScreen>
               _showEncoderScreen = true;
             });
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyD &&
-              HardwareKeyboard.instance.isControlPressed &&
-              event is KeyDownEvent) {
-            if (_vttShowEditMode && _currentSubtitleIndex != null) {
-              final index = _currentSubtitleIndex!;
-              setState(() {
-                _subtitles.removeAt(index);
-                _originalSubtitles.removeAt(index);
-              });
-              final newIndex = (index - 1).clamp(0, _subtitles.length - 1);
-              final cue = _subtitles[newIndex];
-              _seekTo(cue.startTime + const Duration(milliseconds: 10));
-              return KeyEventResult.handled;
-            }
-            return KeyEventResult.ignored;
           } else if (event.logicalKey == LogicalKeyboardKey.keyD) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _showDownloadDialog();
@@ -8448,6 +8271,20 @@ class _PlayerScreenState extends State<PlayerScreen>
                 }
               }
             }
+            return KeyEventResult.handled;
+          } else if (_captionActive &&
+              HardwareKeyboard.instance.isControlPressed &&
+              HardwareKeyboard.instance.isMetaPressed &&
+              (event.logicalKey == LogicalKeyboardKey.arrowUp ||
+               event.logicalKey == LogicalKeyboardKey.arrowDown ||
+               event.logicalKey == LogicalKeyboardKey.arrowLeft ||
+               event.logicalKey == LogicalKeyboardKey.arrowRight)) {
+            const s = 0.02;
+            final k = event.logicalKey;
+            _nudgeCaption(
+              k == LogicalKeyboardKey.arrowLeft ? -s : k == LogicalKeyboardKey.arrowRight ? s : 0,
+              k == LogicalKeyboardKey.arrowUp ? -s : k == LogicalKeyboardKey.arrowDown ? s : 0,
+            );
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.arrowUp) {
             if (HardwareKeyboard.instance.isControlPressed) {
@@ -8506,15 +8343,6 @@ class _PlayerScreenState extends State<PlayerScreen>
               _nextChapter();
               return KeyEventResult.handled;
             }
-            if (_vttShowActive && _subtitles.isNotEmpty) {
-              final currentLines = _currentSubtitleText.split('\n').length;
-              if (_vttShowRevealedLines < currentLines) {
-                setState(() => _vttShowRevealedLines++);
-              } else {
-                _skipToNextSubtitle();
-              }
-              return KeyEventResult.handled;
-            }
             if (_subtitles.isNotEmpty) {
               _skipToNextSubtitle();
             } else {
@@ -8524,14 +8352,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _previousChapter();
-              return KeyEventResult.handled;
-            }
-            if (_vttShowActive && _subtitles.isNotEmpty) {
-              if (_vttShowRevealedLines > 1) {
-                setState(() => _vttShowRevealedLines--);
-              } else {
-                _skipToPreviousSubtitle();
-              }
               return KeyEventResult.handled;
             }
             if (_subtitles.isNotEmpty) {
@@ -8584,6 +8404,11 @@ class _PlayerScreenState extends State<PlayerScreen>
           } else if (event.logicalKey == LogicalKeyboardKey.keyN &&
               event is KeyDownEvent) {
             _addBookmark();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyV &&
+              HardwareKeyboard.instance.isShiftPressed &&
+              event is KeyDownEvent) {
+            unawaited(_openSharedCaptionEditor());
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyV &&
               event is KeyDownEvent) {
@@ -8752,20 +8577,24 @@ class _PlayerScreenState extends State<PlayerScreen>
                 _colorFilterMode = 'all';
               });
               return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.digit4 ||
-                event.logicalKey == LogicalKeyboardKey.numpad4) {
-              setState(() {
-                _colorFilterMode = 'favorites';
-              });
-              return KeyEventResult.handled;
-            }
-          } else if (_showPanel && _panelMode == PanelMode.luts) {
+                } else if (event.logicalKey == LogicalKeyboardKey.digit4 ||
+                    event.logicalKey == LogicalKeyboardKey.numpad4) {
+                  setState(() {
+                    _colorFilterMode = 'favorites';
+                  });
+                  return KeyEventResult.handled;
+                } else if (event.logicalKey == LogicalKeyboardKey.digit5 ||
+                    event.logicalKey == LogicalKeyboardKey.numpad5) {
+                  _clearSelectedLut();
+                  return KeyEventResult.handled;
+                }
+              } else if (_showPanel && _panelMode == PanelMode.luts) {
             if (event.logicalKey == LogicalKeyboardKey.digit1 ||
                 event.logicalKey == LogicalKeyboardKey.numpad1) {
               setState(() => _lutFilterMode = 'all');
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.digit2 ||
-                event.logicalKey == LogicalKeyboardKey.numpad2) {
+                event.logicalKey   == LogicalKeyboardKey.numpad2) {
               setState(() => _lutFilterMode = 'favorites');
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.digit3 ||
@@ -8858,11 +8687,11 @@ class _PlayerScreenState extends State<PlayerScreen>
           },
           child: Stack(
             children: [
-              if (_currentAudiobook == null && !_isYouTubeStream)
+              if (_currentAudiobook == null && !_isYouTubeStream && _imagePath == null)
                 _buildNoAudiobook()
               else
                 _buildPlayer(),
-              if (_showAdhanOverlay)
+              if (_showAdhanOverlay && _imagePath == null)
                 AdhanClockOverlay(
                   adhanService: _adhanClockService,
                   onToggleVisibility: () {
@@ -8928,6 +8757,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                 ),
               if (_showPanel &&
                   (_currentAudiobook != null ||
+                      _imagePath != null ||
                       _isYouTubeStream ||
                       _panelMode == PanelMode.history ||
                       _panelMode == PanelMode.playlist ||
@@ -9241,6 +9071,11 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _quranExcludeController.text = _quranExcludeQuery;
                     });
                   },
+                  lutCategoryFilter: _lutCategoryFilter,
+                  onLutCategoryFilterChanged: (f) {
+                    setState(() => _lutCategoryFilter = f);
+                    _saveDefaultSettings();
+                  },
                   quranEntries: _quranEntries,
                   isQuranLoaded: _isQuranVerseByVerse,
                   activeQuranRef: _activeQuranRef,
@@ -9425,72 +9260,19 @@ class _PlayerScreenState extends State<PlayerScreen>
                     });
                   },
                 ),
-              if (_vttShowActive &&
-                  _vttShowEditMode &&
-                  _currentSubtitleIndex != null)
-                VttShowEditOverlay(
-                  key: _vttEditKey,
-                  subtitles: _subtitles,
-                  originalSubtitles: _originalSubtitles,
-                  currentIndex: _currentSubtitleIndex!,
-                  line1FocusNode: _vttEditLine1FocusNode,
-                  line2FocusNode: _vttEditLine2FocusNode,
-                  onClose: () {
-                    setState(() {
-                      _vttShowEditMode = false;
-                    });
-                    _focusNode.requestFocus();
-                  },
-                  onSave: () {
-                    _vttEditKey.currentState?.flushEdits();
-                    Future.delayed(const Duration(milliseconds: 50), () {
-                      _saveVttShowFile().then((_) {
-                        if (mounted) {
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            const SnackBar(
-                              content: Text('Saved ✓'),
-                              duration: Duration(seconds: 1),
-                              backgroundColor: Colors.green,
-                            ),
-                          );
-                        }
-                      });
-                    });
-                  },
-                  onNavigate: (newIndex) {
-                    final cue = _subtitles[newIndex];
-                    _seekTo(cue.startTime + const Duration(milliseconds: 10));
-                  },
-                  onCueTextChanged: (index, line1, line2) {
-                    final cue = _subtitles[index];
-                    final newText = line2.isEmpty ? line1 : '$line1\n$line2';
-                    setState(() {
-                      _subtitles[index] = SubtitleCue(
-                        startTime: cue.startTime,
-                        endTime: cue.endTime,
-                        text: newText,
-                      );
-                      _originalSubtitles[index] = SubtitleCue(
-                        startTime: cue.startTime,
-                        endTime: cue.endTime,
-                        text: newText,
-                      );
-                    });
-                  },
-                  onDeleteCue: (index) {
-                    setState(() {
-                      _subtitles.removeAt(index);
-                      _originalSubtitles.removeAt(index);
-                      final key = index < _subtitles.length
-                          ? '${_formatVttTime(_subtitles[index].startTime)} --> ${_formatVttTime(_subtitles[index].endTime)}'
-                          : null;
-                      if (key != null) _vttShowStyles.remove(key);
-                    });
-                  },
-                  onAddCueAfter: (index) {
-                    _addCueAfter(index);
-                  },
-                ),
+                if (_captionActive && _captionEditMode)
+                  CaptionEditOverlay(
+                    initialText: _originalSubtitles.isNotEmpty
+                        ? _originalSubtitles.first.text
+                        : '',
+                    line1FocusNode: _vttEditLine1FocusNode,
+                    line2FocusNode: _vttEditLine2FocusNode,
+                    onSubmit: _saveCaption,
+                    onClose: () {
+                      setState(() => _captionEditMode = false);
+                      _focusNode.requestFocus();
+                    },
+                  ),
               if (_showSleepTimerCountdown) _buildSleepTimerCountdown(),
             ],
           ),
@@ -9649,6 +9431,17 @@ class _PlayerScreenState extends State<PlayerScreen>
     _scrollToSelectedLut();
   }
 
+  Future<void> _clearSelectedLut() async {
+    setState(() {
+      _selectedLutIndex = -1;
+      _selectedLutName = null;
+      _loadedLutData = null;
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('selectedLutPath');
+    await prefs.remove('selectedLutName');
+  }
+
   void _scrollToSelectedLut() {
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (!mounted || !_lutItemScrollController.isAttached) return;
@@ -9760,61 +9553,69 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Widget _buildPlayer() {
-    if (_isVideoFile && !Platform.isAndroid) {
+    if ((_isVideoFile || _imagePath != null) && !Platform.isAndroid) {
       return Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          if (!_vttShowActive)
-            Container(
-              color: Colors.black,
-              padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  Text(
-                    path.basename(_currentAudiobook!.path),
-                    style: const TextStyle(color: Colors.white70, fontSize: 14),
-                    maxLines: 1,
-                    overflow: TextOverflow.ellipsis,
-                  ),
-                  if (_currentAudiobook!.chapters.isNotEmpty)
-                    Text(
-                      '-${_formatChapterRemaining(_getChapterRemainingTime())}',
-                      style:
-                          const TextStyle(color: Colors.white54, fontSize: 14),
-                    ),
-                  if (_currentAudiobook!.chapters.isNotEmpty)
-                    RichText(
-                      text: TextSpan(
-                        style:
-                            const TextStyle(color: Colors.white, fontSize: 14),
-                        children: [
-                          TextSpan(
-                            text: _hideChapterTitle
-                                ? '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}'
-                                : '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}',
-                          ),
-                          if (!_hideChapterTitle)
-                            TextSpan(
-                              text:
-                                  ': ${_currentAudiobook!.chapters[_currentChapterIndex].title}',
-                            ),
-                        ],
-                      ),
-                    ),
-                ],
-              ),
-            ),
           Expanded(
             child: LayoutBuilder(
               builder: (context, constraints) => Stack(
                 children: [
-                  Video(
-                    controller: _videoController,
-                    fit: BoxFit.contain,
-                    controls: NoVideoControls,
-                  ),
+                  if (_imagePath != null)
+                    _buildImageWidget()
+                  else
+                    Video(
+                      controller: _videoController,
+                      fit: BoxFit.contain,
+                      controls: NoVideoControls,
+                    ),
+                    if (!_hideChapterTitle &&
+                        _imagePath == null &&
+                        !_hideChapterTitle &&
+                        _currentAudiobook != null)
+                      Positioned(
+                        top: 8,
+                        left: 16,
+                        right: 16,
+                        child: IgnorePointer(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Text(
+                                path.basename(_currentAudiobook!.path),
+                                style: const TextStyle(
+                                  color: Colors.white70,
+                                  fontSize: 14,
+                                  shadows: [Shadow(color: Colors.black, blurRadius: 4)],
+                                ),
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                              ),
+                              if (_currentAudiobook!.chapters.isNotEmpty)
+                                Text(
+                                  '-${_formatChapterRemaining(_getChapterRemainingTime())}',
+                                  style: const TextStyle(
+                                    color: Colors.white54,
+                                    fontSize: 14,
+                                    shadows: [Shadow(color: Colors.black, blurRadius: 4)],
+                                  ),
+                                ),
+                              if (_currentAudiobook!.chapters.isNotEmpty)
+                                Text(
+                                  _hideChapterTitle
+                                      ? '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}'
+                                      : '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}: ${_currentAudiobook!.chapters[_currentChapterIndex].title}',
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 14,
+                                    shadows: [Shadow(color: Colors.black, blurRadius: 4)],
+                                  ),
+                                ),
+                            ],
+                          ),
+                        ),
+                      ),
                   if (_secondarySubtitleText.isNotEmpty)
                     Positioned(
                       bottom: 80,
@@ -9877,22 +9678,26 @@ class _PlayerScreenState extends State<PlayerScreen>
                       ),
                     ),
                   if (_currentSubtitleText.isNotEmpty)
-                    Positioned(
-                      bottom: 16,
-                      left: 32,
-                      right: 32,
-                      child: Center(
-                        child: Container(
-                          padding: const EdgeInsets.all(16),
-                          child: Stack(
-                            children: [
+                  Positioned(
+                    top: _captionActive ? 0 : null,
+                    bottom: _captionActive ? 0 : 16,
+                    left: 32,
+                    right: 32,
+                    child: Align(
+                      alignment: _captionActive
+                          ? Alignment(_captionX, _captionY)
+                          : Alignment.bottomCenter,
+                      child: Container(
+                        padding: const EdgeInsets.all(16),
+                        child: Stack(
+                          children: [
                               Transform.translate(
                                 offset: Offset(_universalShadowOffset,
                                     _universalShadowOffset),
                                 child: RichText(
                                   textAlign: TextAlign.center,
                                   text: _buildColoredTextSpan(
-                                      _vttShowDisplayText,
+                                      _currentSubtitleText,
                                       lineSpacing: _subtitleLineSpacing,
                                       isStroke: true,
                                       useShadowColor: true),
@@ -9904,7 +9709,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                                 child: RichText(
                                   textAlign: TextAlign.center,
                                   text: _buildColoredTextSpan(
-                                      _vttShowDisplayText,
+                                      _currentSubtitleText,
                                       lineSpacing: _subtitleLineSpacing,
                                       isStroke: false,
                                       useShadowColor: true),
@@ -9912,14 +9717,14 @@ class _PlayerScreenState extends State<PlayerScreen>
                               ),
                               RichText(
                                 textAlign: TextAlign.center,
-                                text: _buildColoredTextSpan(_vttShowDisplayText,
+                                text: _buildColoredTextSpan(_currentSubtitleText,
                                     lineSpacing: _subtitleLineSpacing,
                                     isStroke: false,
                                     useBlurShadow: _blurShadowEnabled),
                               ),
                               RichText(
                                 textAlign: TextAlign.center,
-                                text: _buildColoredTextSpan(_vttShowDisplayText,
+                                text: _buildColoredTextSpan(_currentSubtitleText,
                                     lineSpacing: _subtitleLineSpacing,
                                     isStroke: true),
                               ),
@@ -9933,8 +9738,9 @@ class _PlayerScreenState extends State<PlayerScreen>
               ),
             ),
           ),
+          if (_imagePath == null)
           PlayerControls(
-            hideTitle: _vttShowActive ? true : _hideChapterTitle,
+            hideTitle: true,
             audiobook: _currentAudiobook ??
                 AudiobookMetadata(
                   path: '',
@@ -9970,7 +9776,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             defaultConversionType: _defaultConversionType,
             defaultColorPalette: _defaultColorPalette,
             currentColorPalette: _currentColorPalette,
-            currentSubtitleText: _vttShowDisplayText,
+            currentSubtitleText: _currentSubtitleText,
             subtitleFontSize: _subtitleFontSize,
             subtitleLineSpacing: _subtitleLineSpacing,
             secondarySubtitleText: _secondarySubtitleText,
@@ -10114,10 +9920,8 @@ class _PlayerScreenState extends State<PlayerScreen>
                   });
                   break;
                 case 'editvttshow':
-                  if (_vttShowActive) {
-                    setState(() {
-                      _vttShowEditMode = !_vttShowEditMode;
-                    });
+                  if (_captionActive) {
+                    setState(() => _captionEditMode = !_captionEditMode);
                   }
                   break;
                 case 'copyCurrentSubtitle':
@@ -10211,7 +10015,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
 
     return PlayerControls(
-      hideTitle: _vttShowActive ? true : _hideChapterTitle,
+      hideTitle: _captionActive || _hideChapterTitle,
       audiobook: _currentAudiobook ??
           AudiobookMetadata(
             path: '',
@@ -10245,7 +10049,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       defaultConversionType: _defaultConversionType,
       defaultColorPalette: _defaultColorPalette,
       currentColorPalette: _currentColorPalette,
-      currentSubtitleText: _vttShowDisplayText,
+      currentSubtitleText: _currentSubtitleText,
       subtitleFontSize: _subtitleFontSize,
       videoResolution: _videoResolution,
       videoFps: _videoFps,
@@ -10383,10 +10187,8 @@ class _PlayerScreenState extends State<PlayerScreen>
             });
             break;
           case 'editvttshow':
-            if (_vttShowActive) {
-              setState(() {
-                _vttShowEditMode = !_vttShowEditMode;
-              });
+            if (_captionActive) {
+              setState(() => _captionEditMode = !_captionEditMode);
             }
             break;
           case 'copyCurrentSubtitle':
@@ -11063,6 +10865,8 @@ class _PlayerScreenState extends State<PlayerScreen>
   Color _parseColor(String hexColor) {
     final hex = hexColor.replaceAll('#', '');
     final baseColor = Color(int.parse('FF$hex', radix: 16));
+    // Don't apply LUT to subtitle colors when displaying an image
+    if (_imagePath != null) return baseColor;
     return _applyLutToColor(baseColor);
   }
 
@@ -11213,7 +11017,6 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _skipToPreviousSubtitle() async {
-    if (_vttShowActive) _vttShowCaptureIfChanged();
     if (_subtitles.isEmpty) return;
 
     int currentIndex = -1;
@@ -11238,7 +11041,6 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _skipToNextSubtitle() async {
-    if (_vttShowActive) _vttShowCaptureIfChanged();
     if (_subtitles.isEmpty) return;
 
     for (int i = 0; i < _subtitles.length; i++) {
@@ -12473,14 +12275,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     return '$h:$m:$s.$ms';
   }
 
-  String get _vttShowDisplayText {
-    if (!_vttShowActive || _currentSubtitleText.isEmpty) {
-      return _currentSubtitleText;
-    }
-    final lines = _currentSubtitleText.split('\n');
-    return lines.take(_vttShowRevealedLines).join('\n');
-  }
-
   String _formatDurationCompact(Duration d) {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
@@ -12640,6 +12434,16 @@ class _PlayerScreenState extends State<PlayerScreen>
                         textStyle: const TextStyle(fontSize: 18),
                       ),
                     ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: () => _openImage(),
+                      icon: const Icon(Icons.image),
+                      label: const Text('Load Image/Video (Ctrl+b) prev ({) next (})'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
                   ],
                 ),
                 const SizedBox(height: 16),
@@ -12773,6 +12577,177 @@ class _PlayerScreenState extends State<PlayerScreen>
       ),
     );
   }
+
+  Future<void> _openImage([String? filePath]) async {
+    String? selected = filePath;
+    if (selected == null) {
+      final file = await FilePicker.pickFile(
+        type: FileType.custom,
+        allowedExtensions: [
+          'jpg', 'jpeg', 'png', 'gif', 'webp', 'bmp',
+          'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v',
+        ],
+        dialogTitle: 'Select Image / Video',
+      );
+      if (file == null) return;
+      selected = file.path;
+      if (selected == null) return;
+    }
+    final chosenPath = selected;
+
+    if (!await File(chosenPath).exists()) {
+      _showError('File not found: ${path.basename(chosenPath)}');
+      return;
+    }
+
+    // If this is a video, hand off to the audiobook/video loader.
+    if (VideoEditService.isVideoFile(chosenPath)) {
+      // Clear any image state so _buildPlayer picks the video branch.
+      if (_imagePath != null) {
+        setState(() {
+          _imagePath = null;
+          _imageSiblings = [];
+        });
+      }
+      await _openAudiobook(chosenPath);
+      return;
+    }
+
+    // Otherwise, treat it as an image.
+    if (!_isImagePath(chosenPath)) {
+      _showError('Unsupported file: ${path.basename(chosenPath)}');
+      return;
+    }
+
+    if (_isPlaying) await player.pause();
+
+    final siblings = <String>[];
+    try {
+      await for (final e
+          in Directory(path.dirname(chosenPath)).list(followLinks: false)) {
+        if (e is File && _isImagePath(e.path)) siblings.add(e.path);
+      }
+    } catch (_) {}
+    siblings.sort((a, b) => path
+        .basename(a)
+        .toLowerCase()
+        .compareTo(path.basename(b).toLowerCase()));
+    if (!siblings.contains(chosenPath)) siblings.add(chosenPath);
+
+    setState(() {
+      _imagePath = chosenPath;
+      _imageSiblings = siblings;
+      _imageIndex = siblings.indexOf(chosenPath);
+      _showPanel = false;
+    });
+    _focusNode.requestFocus();
+  }
+
+  void _stepImage(int delta) {
+    if (_imageSiblings.length < 2) return;
+    setState(() {
+      _imageIndex = (_imageIndex + delta) % _imageSiblings.length;
+      _imagePath = _imageSiblings[_imageIndex];
+    });
+    _lutAppliedImageCacheKey = null;
+    _lutAppliedImageCache = null;
+  }
+
+  void _closeImage() {
+    setState(() {
+      _imagePath = null;
+      _imageSiblings = [];
+    });
+    _focusNode.requestFocus();
+  }
+
+  Widget _buildImageWidget() {
+    if (_loadedLutData == null) {
+      return SizedBox.expand(
+        child: Image.file(
+          File(_imagePath!),
+          key: ValueKey(_imagePath),
+          fit: BoxFit.contain,
+          errorBuilder: (_, __, ___) => const Center(
+            child: Text('Cannot display this image',
+                style: TextStyle(color: Colors.white70)),
+          ),
+        ),
+      );
+    }
+
+    // LUT is active — decode, apply, and cache
+    return SizedBox.expand(
+      child: FutureBuilder<ui.Image>(
+        key: ValueKey('${_imagePath}_${_selectedLutName ?? "nolut"}'),
+        future: _loadLutAppliedImage(_imagePath!),
+        builder: (context, snapshot) {
+          if (snapshot.connectionState != ConnectionState.done) {
+            return const Center(
+              child: CircularProgressIndicator(color: Colors.white70),
+            );
+          }
+          if (snapshot.hasError || !snapshot.hasData) {
+            return Center(
+              child: Text(
+                'Failed to apply LUT: ${snapshot.error}',
+                style: const TextStyle(color: Colors.white70),
+              ),
+            );
+          }
+          return RawImage(
+            image: snapshot.data,
+            fit: BoxFit.contain,
+          );
+        },
+      ),
+    );
+  }
+
+  Future<ui.Image> _loadLutAppliedImage(String imagePath) async {
+    final cacheKey = '${imagePath}_${_selectedLutName ?? "nolut"}';
+    if (_lutAppliedImageCacheKey == cacheKey && _lutAppliedImageCache != null) {
+      return _lutAppliedImageCache!;
+    }
+
+    final bytes = await File(imagePath).readAsBytes();
+    final decoded = img.decodeImage(bytes);
+    if (decoded == null) {
+      final ext = path.extension(imagePath).toLowerCase();
+      throw Exception(
+        'Not a decodable image ($ext). '
+        'Video files should be opened via the audiobook/video loader, not image viewer.',
+      );
+    }
+
+    for (int y = 0; y < decoded.height; y++) {
+      for (int x = 0; x < decoded.width; x++) {
+        final pixel = decoded.getPixel(x, y);
+        final rgb = img.ColorRgb8(
+          pixel.r.toInt(),
+          pixel.g.toInt(),
+          pixel.b.toInt(),
+        );
+        final transformed = LutProcessor.lookupLut(rgb, _loadedLutData!);
+        decoded.setPixelRgb(
+          x,
+          y,
+          transformed.r.toInt(),
+          transformed.g.toInt(),
+          transformed.b.toInt(),
+        );
+      }
+    }
+
+    final png = img.encodePng(decoded);
+    final codec = await ui.instantiateImageCodec(png);
+    final frame = await codec.getNextFrame();
+    _lutAppliedImageCacheKey = cacheKey;
+    _lutAppliedImageCache = frame.image;
+    return frame.image;
+  }
+
+//don't delete } as it closes entire class _PlayerScreenState
 }
 
 class _WindowCloseListener extends WindowListener {

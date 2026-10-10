@@ -33,14 +33,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.13.1"
-  betto_icu:
-    dependency: "direct main"
-    description:
-      name: betto_icu
-      sha256: "99c1b0db26f94236e61fd69cdf70ce87e74c5ec5b151ad6e8120d94b463f5a04"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -329,7 +321,7 @@ packages:
     source: hosted
     version: "4.1.2"
   image:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: image
       sha256: a1e7f4951e538a568e14b856702afc9ae1d2f4b202daced8d22c1b9cd211ce89

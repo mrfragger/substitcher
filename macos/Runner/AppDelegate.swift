@@ -5,23 +5,23 @@ import FlutterMacOS
 class AppDelegate: FlutterAppDelegate {
   var methodChannel: FlutterMethodChannel?
   var pendingFilePath: String?
-  
+
   override func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
     return true
   }
-  
+
   override func applicationSupportsSecureRestorableState(_ app: NSApplication) -> Bool {
     return true
   }
-  
+
   override func applicationDidFinishLaunching(_ notification: Notification) {
     let controller = mainFlutterWindow?.contentViewController as! FlutterViewController
-    
+
     methodChannel = FlutterMethodChannel(
       name: "com.substitcher/open_file",
       binaryMessenger: controller.engine.binaryMessenger
     )
-    
+
     methodChannel?.setMethodCallHandler { [weak self] (call, result) in
       if call.method == "getInitialFile" {
         result(self?.pendingFilePath)
@@ -30,24 +30,24 @@ class AppDelegate: FlutterAppDelegate {
         result(FlutterMethodNotImplemented)
       }
     }
-    
+
     if let filePath = pendingFilePath {
       DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
         self.methodChannel?.invokeMethod("openFile", arguments: filePath)
       }
     }
-    
+
     let visionChannel = FlutterMethodChannel(
       name: "com.substitcher/vision_tracker",
       binaryMessenger: controller.engine.binaryMessenger
     )
-    
+
     visionChannel.setMethodCallHandler { (call, result) in
       guard call.method == "trackRegion" else {
         result(FlutterMethodNotImplemented)
         return
       }
-      
+
       guard
         let args  = call.arguments as? [String: Any],
         let path  = args["videoPath"] as? String,
@@ -63,7 +63,7 @@ class AppDelegate: FlutterAppDelegate {
         ))
         return
       }
-      
+
       VisionTracker.trackRegion(
         videoPath: path,
         normX: normX, normY: normY,
@@ -72,12 +72,31 @@ class AppDelegate: FlutterAppDelegate {
       )
     }
   }
-  
+
+  // override func application(_ application: NSApplication, open urls: [URL]) {
+  //   guard let url = urls.first, url.pathExtension == "opus" else { return }
+
+  //   let filePath = url.path
+
+  //   if methodChannel != nil {
+  //     methodChannel?.invokeMethod("openFile", arguments: filePath)
+  //   } else {
+  //     pendingFilePath = filePath
+  //   }
+  // }
+  //
+  private let supportedExtensions: Set<String> = [
+    "opus",
+    "jpg", "jpeg", "png", "gif", "webp", "bmp", "mkv", "mp4", "webm", "avi", "mov", "m4v",
+  ]
+
   override func application(_ application: NSApplication, open urls: [URL]) {
-    guard let url = urls.first, url.pathExtension == "opus" else { return }
-    
+    guard let url = urls.first(where: {
+      supportedExtensions.contains($0.pathExtension.lowercased())
+    }) else { return }
+
     let filePath = url.path
-    
+
     if methodChannel != nil {
       methodChannel?.invokeMethod("openFile", arguments: filePath)
     } else {

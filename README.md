@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Basic Video Editing. Mac (dmg or homebrew), Linux (appimage, AUR), Windows (zip), Android
+Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, LUTs. Dictionary word lookup. Basic Video Editing. Mac (dmg or homebrew), Linux (appimage, AUR), Windows (zip), Android
 
 ![](images/audiobook.gif)
 
@@ -33,7 +33,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - favorites list
 - choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - custom folder can have subfolders although all fonts will be sorted alphabetically
-- 500+ LUTs (color presets) applied to subtitles and existing color palettes, hidden to right of Stats tab
+- 500+ LUTs (color presets) applied to subtitles and existing color palettes, images and videos
 
 ![](images/fonts.jpg)
 
@@ -305,7 +305,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ![](images/translatevtt.jpg)
 
 ### Youtube
-- handles videos or audio to stream (ignored for Stats), disabled on android/iOS
+- handles videos or audio to stream, disabled on android/iOS
 - stream playlists too but must select each item, no skip to next playlist item
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
 - displays subs automatically if avaiable based on default language which can be set
@@ -391,13 +391,6 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - first line loads then -> or spacebar advanced to second line
 - automatically saves font properties
 - no sound, it loads a silent 60 minute opus file
-
-### releases (notes to self)
-- update version numbers in pubspec.yaml scripts/build_appimage.sh scripts/PKGBUILD
-- flutter run -d macos --release
-- --no-pub for offline build
-- git tag v26.xx.xx
-- git push origin v26.xx.xx
 
 ### Installation
 <details>

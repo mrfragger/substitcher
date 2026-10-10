@@ -9,7 +9,6 @@ import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 import 'package:tiny_segmenter_dart/tiny_segmenter_dart.dart';
 import 'package:word_thai_split/word_thai_split.dart';
-import 'package:betto_icu/betto_icu.dart';
 
 typedef LogFn = void Function(String message);
 
@@ -29,9 +28,6 @@ class QuranTokenizers {
   bool _khmerFailed = false;
   bool _khmerSampleLogged = false;
   final Set<String> _warned = {};
-  IcuTokenizer? _icu;
-  bool _icuFailed = true; // ICU drops Khmer combining marks; use Python instead
-  bool _icuSampleLogged = false;
   String? _khmerPython;
 
   // khmer_segmenter.tokenize() returns a space-separated STRING, not a list,
@@ -60,29 +56,29 @@ for line in sys.stdin:
   List<String> _khmerSpaceTokens(String text) =>
       text.split(RegExp(r'[ \u200b]+')).where((w) => w.isNotEmpty).toList();
 
-      Future<String> _findKhmerPython() async {
-        final candidates = <String>[
-          pythonExecutable,
-          if (Platform.isMacOS || Platform.isLinux) ...[
-            '/Library/Frameworks/Python.framework/Versions/Current/bin/python3',
-            '/opt/homebrew/bin/python3',
-            '/usr/local/bin/python3',
-            '/usr/bin/python3',
-          ],
-        ];
-        for (final c in candidates) {
-          try {
-            final r = await Process.run(c, ['-c', 'import khmer_segmenter']);
-            if (r.exitCode == 0) {
-              log('  Khmer: using $c');
-              return c;
-            }
-          } catch (_) {
-            // interpreter doesn't exist at this path, try the next one
-          }
+  Future<String> _findKhmerPython() async {
+    final candidates = <String>[
+      pythonExecutable,
+      if (Platform.isMacOS || Platform.isLinux) ...[
+        '/Library/Frameworks/Python.framework/Versions/Current/bin/python3',
+        '/opt/homebrew/bin/python3',
+        '/usr/local/bin/python3',
+        '/usr/bin/python3',
+      ],
+    ];
+    for (final c in candidates) {
+      try {
+        final r = await Process.run(c, ['-c', 'import khmer_segmenter']);
+        if (r.exitCode == 0) {
+          log('  Khmer: using $c');
+          return c;
         }
-        return pythonExecutable;
+      } catch (_) {
+        // interpreter doesn't exist at this path, try the next one
       }
+    }
+    return pythonExecutable;
+  }
 
   Future<List<String>> tokenize(String text, String script) async {
     try {
@@ -132,20 +128,6 @@ for line in sys.stdin:
   }
 
   Future<List<String>> _khmer(String text) async {
-    if (!_icuFailed) {
-      try {
-        _icu ??= IcuTokenizer();
-        final t = _icu!.tokenise(text).toList(); // VERIFY: method name per README
-        if (!_icuSampleLogged) {
-          _icuSampleLogged = true;
-          log('  Khmer ICU sample tokens (${t.length}): ${t.take(8).join(' | ')}');
-        }
-        if (t.isNotEmpty) return t;
-      } catch (e) {
-        _icuFailed = true;
-        log('  WARNING: ICU tokenizer failed ($e) — falling back to Python khmer-segmenter');
-      }
-    }
     if (_khmerFailed) return _khmerSpaceTokens(text);
     try {
       if (_khmerProc == null) {

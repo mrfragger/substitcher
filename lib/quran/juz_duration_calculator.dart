@@ -133,7 +133,7 @@ void _accumulateAyahDurations(List<_Cue> cues, Map<String, Duration> out) {
 
   void flush() {
     if (currentKey != null && currentStart != null && currentEnd != null) {
-      out[currentKey!] = currentEnd! - currentStart!;
+      out[currentKey] = currentEnd - currentStart;
     }
   }
 

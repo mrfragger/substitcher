@@ -1,5 +1,3 @@
-import 'dart:math';
-
 class DeductionCategory {
   final String key;
   final String label;

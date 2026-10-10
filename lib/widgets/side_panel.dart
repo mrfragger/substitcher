@@ -212,6 +212,8 @@ class SidePanel extends StatelessWidget {
   final Function(String) onRemoveLutFavorite;
   final String? selectedLutName;
   final VoidCallback onClearLut;
+  final LUTFilter? lutCategoryFilter;
+  final ValueChanged<LUTFilter?> onLutCategoryFilterChanged;
   final List<QuranIndexEntry> quranEntries;
   final bool isQuranLoaded;
   final QuranVerseRef? activeQuranRef;
@@ -425,6 +427,8 @@ class SidePanel extends StatelessWidget {
     required this.onRemoveLutFavorite,
     required this.selectedLutName,
     required this.onClearLut,
+    required this.lutCategoryFilter,
+    required this.onLutCategoryFilterChanged,
     required this.quranEntries,
     required this.isQuranLoaded,
     required this.activeQuranRef,
@@ -1759,24 +1763,27 @@ class SidePanel extends StatelessWidget {
                   const SizedBox(width: 12),
                   _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
                   if (selectedLutName != null) ...[
+                    const SizedBox(width: 12),
+                    ElevatedButton(
+                      onPressed: () => onClearLut(),
+                      style: _compactButtonStyle(Colors.grey[800]!, horizontal: 14),
+                      child: const Text('5 Clear LUT', style: TextStyle(fontSize: 13)),
+                    ),
                     const SizedBox(width: 24),
                     Tooltip(
                       message: 'Clear LUT',
                       child: InkWell(
                         onTap: () => onClearLut(),
                         child: Container(
-                          padding: const EdgeInsets.symmetric(
-                              horizontal: 10, vertical: 6),
+                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
                           decoration: BoxDecoration(
                             color: Colors.amber.withAlpha(30),
                             borderRadius: BorderRadius.circular(6),
-                            border:
-                                Border.all(color: Colors.amber.withAlpha(100)),
+                            border: Border.all(color: Colors.amber.withAlpha(100)),
                           ),
                           child: Text(
                             '✦ $selectedLutName',
-                            style: const TextStyle(
-                                color: Colors.amber, fontSize: 12),
+                            style: const TextStyle(color: Colors.amber, fontSize: 12),
                           ),
                         ),
                       ),
@@ -2006,6 +2013,7 @@ class SidePanel extends StatelessWidget {
   Widget _buildLutsList(BuildContext context) {
     final filteredLuts = getFilteredLuts();
     final showingFavorites = lutFilterMode == 'favorites';
+    final hasCategoryFilter = lutCategoryFilter != null;
 
     return Column(
       children: [
@@ -2022,6 +2030,25 @@ class SidePanel extends StatelessWidget {
                 onPressed: () => onLutSelected(LutItem(name: '', path: ''), -1),
                 style: _compactButtonStyle(Colors.grey[800]!, horizontal: 14),
                 child: const Text('3 None', style: TextStyle(fontSize: 13)),
+              ),
+              const SizedBox(width: 24),
+              DropdownButton<LUTFilter?>(
+                value: lutCategoryFilter,
+                dropdownColor: const Color(0xFF2A2A2A),
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+                underline: const SizedBox(),
+                isDense: true,
+                items: [
+                  const DropdownMenuItem<LUTFilter?>(
+                    value: null,
+                    child: Text('All categories'),
+                  ),
+                  ...LUTFilter.values.map((f) => DropdownMenuItem<LUTFilter?>(
+                        value: f,
+                        child: Text(f.label),
+                      )),
+                ],
+                onChanged: onLutCategoryFilterChanged,
               ),
               if (selectedLutName != null) ...[
                 const SizedBox(width: 24),
@@ -2047,9 +2074,11 @@ class SidePanel extends StatelessWidget {
           Expanded(
             child: Center(
               child: Text(
-                showingFavorites
-                    ? 'No favorite LUTs yet.\nPress ★ on any LUT to add.'
-                    : 'No LUTs found.',
+                hasCategoryFilter
+                    ? 'No LUTs match the selected category.'
+                    : showingFavorites
+                        ? 'No favorite LUTs yet.\nPress ★ on any LUT to add.'
+                        : 'No LUTs found.',
                 textAlign: TextAlign.center,
                 style: const TextStyle(color: Colors.white54, fontSize: 12),
               ),
@@ -2318,9 +2347,9 @@ class SidePanel extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.all(12),
                   decoration: BoxDecoration(
-                    color: Colors.blueGrey.withOpacity(0.2),
+                    color: Colors.blueGrey.withValues(alpha: 0.2),
                     borderRadius: BorderRadius.circular(8),
-                    border: Border.all(color: Colors.blueGrey.withOpacity(0.3)),
+                    border: Border.all(color: Colors.blueGrey.withValues(alpha: 0.3)),
                   ),
                   child: Row(
                     children: [
