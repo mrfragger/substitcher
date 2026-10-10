@@ -21,24 +21,24 @@ class LutThumbnailService {
     await Directory(_cacheDir!).create(recursive: true);
     await _enforceCacheLimit();
   }
-  
+
   Future<void> _enforceCacheLimit() async {
     const maxBytes = 200 * 1024 * 1024; // 200MB cap
     final dir = Directory(_cacheDir!);
     if (!dir.existsSync()) return;
-  
+
     final files = dir.listSync().whereType<File>().toList();
-    
+
     int totalSize = 0;
     for (final f in files) {
       totalSize += await f.length();
     }
-  
+
     if (totalSize <= maxBytes) return;
-  
+
     files.sort((a, b) =>
         a.statSync().modified.compareTo(b.statSync().modified));
-  
+
     for (final f in files) {
       if (totalSize <= maxBytes) break;
       final size = await f.length();
@@ -47,10 +47,13 @@ class LutThumbnailService {
     }
   }
 
+  static const _imageExts = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'};
+
   Future<String?> extractFrame(String videoPath, Duration position) async {
     if (_ffmpegPath == null || _cacheDir == null) return null;
 
-    final ms = position.inMilliseconds;
+    final isImage = _imageExts.contains(p.extension(videoPath).toLowerCase());
+    final ms = isImage ? 0 : position.inMilliseconds;
     final key = md5.convert(utf8.encode('frame_${videoPath}_$ms')).toString();
     final framePath = p.join(_cacheDir!, '$key.png');
 
@@ -58,14 +61,14 @@ class LutThumbnailService {
 
     final secs = position.inMilliseconds / 1000.0;
     final result = await Process.run(_ffmpegPath!, [
-      '-ss', secs.toStringAsFixed(3),
+      if (!isImage) ...['-ss', secs.toStringAsFixed(3)],
       '-i', videoPath,
       '-frames:v', '1',
       '-vf', 'scale=320:-1',
       '-y',
       framePath,
     ]);
-    if (result.exitCode != 0) return null;
+    if (result.exitCode != 0 || !File(framePath).existsSync()) return null;
     return framePath;
   }
 
@@ -93,7 +96,7 @@ class LutThumbnailService {
       outPath,
     ]);
 
-    if (result.exitCode != 0) return null;
+    if (result.exitCode != 0 || !File(outPath).existsSync()) return null;
     return outPath;
   }
 

@@ -10,6 +10,12 @@ class EncodeProgressOverlay extends StatelessWidget {
   final VoidCallback onDismiss;
   final VoidCallback? onCancel;
   final EncodeSettings? encodeSettings;
+  final int? inputBytes;
+  final int? outputBytes;
+  final int? sourceBytes;
+  final double? sourceSeconds;
+  final double? outputSeconds;
+
 
   const EncodeProgressOverlay({
     super.key,
@@ -21,6 +27,11 @@ class EncodeProgressOverlay extends StatelessWidget {
     required this.onDismiss,
     this.onCancel,
     this.encodeSettings,
+    this.inputBytes,
+    this.outputBytes,
+    this.sourceBytes,
+    this.sourceSeconds,
+    this.outputSeconds,
   });
 
   String _formatElapsed(Duration d) {
@@ -38,6 +49,107 @@ class EncodeProgressOverlay extends StatelessWidget {
     return '$h:$m';
   }
 
+  String _formatSize(int bytes) {
+    const kb = 1024;
+    const mb = 1024 * 1024;
+    const gb = 1024 * 1024 * 1024;
+    if (bytes >= gb) return '${(bytes / gb).toStringAsFixed(2)} GB';
+    if (bytes >= mb) return '${(bytes / mb).toStringAsFixed(1)} MB';
+    return '${(bytes / kb).toStringAsFixed(0)} KB';
+  }
+
+  List<Widget> _buildOriginalRows() {
+    final srcB = sourceBytes;
+    final srcS = sourceSeconds;
+    final outB = outputBytes;
+    final outS = outputSeconds;
+    if (srcB == null || srcS == null || outB == null || outS == null) {
+      return const [];
+    }
+    if (srcB <= 0 || srcS <= 0 || outS <= 0) return const [];
+
+    // The original file's size for just this much footage
+    final originalShare = srcB * (outS / srcS);
+    final pct = (1 - outB / originalShare) * 100;
+    final smaller = pct >= 0;
+
+    return [
+      const SizedBox(height: 4),
+      Text(
+        'Original, same ${_formatElapsed(Duration(seconds: outS.round()))}'
+        ' ≈ ${_formatSize(originalShare.round())}',
+        style: const TextStyle(color: Colors.white54, fontSize: 11),
+      ),
+      Text.rich(
+        TextSpan(
+          children: [
+            TextSpan(
+              text: '${_formatSize(outB)} is ',
+              style: const TextStyle(color: Colors.white54),
+            ),
+            TextSpan(
+              text: smaller
+                  ? '${pct.toStringAsFixed(0)}% smaller'
+                  : '${(-pct).toStringAsFixed(0)}% larger',
+              style: TextStyle(
+                color: smaller ? Colors.greenAccent : Colors.orangeAccent,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
+        ),
+        style: const TextStyle(fontSize: 11),
+      ),
+    ];
+  }
+
+  Widget? _buildSizeRow() {
+    final inB = inputBytes;
+    final outB = outputBytes;
+    if (outB == null) return null;
+
+    final sizeText = (inB != null && inB > 0)
+        ? '${_formatSize(inB)} → ${_formatSize(outB)}'
+        : _formatSize(outB);
+
+    String? change;
+    Color changeColor = Colors.greenAccent;
+    if (inB != null && inB > 0) {
+      final pct = (1 - outB / inB) * 100;
+      if (pct >= 0) {
+        change = '${pct.toStringAsFixed(0)}% smaller';
+      } else {
+        change = '${(-pct).toStringAsFixed(0)}% larger';
+        changeColor = Colors.orangeAccent;
+      }
+    }
+
+    return Text.rich(
+      TextSpan(
+        children: [
+          TextSpan(
+            text: sizeText,
+            style: const TextStyle(color: Colors.white70),
+          ),
+          if (change != null) ...[
+            const TextSpan(
+              text: '  ·  ',
+              style: TextStyle(color: Colors.white38),
+            ),
+            TextSpan(
+              text: change,
+              style: TextStyle(
+                color: changeColor,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
+        ],
+      ),
+      style: const TextStyle(fontSize: 12),
+    );
+  }
+
   String _buildSettingsSummary(EncodeSettings s) {
       final codec = switch (s.codec) {
         VideoCodec.x265 => 'x265',
@@ -47,18 +159,18 @@ class EncodeProgressOverlay extends StatelessWidget {
         VideoCodec.amf => 'AMF',
         VideoCodec.qsv => 'QuickSync',
       };
-  
+
       final audioCodec = switch (s.audioCodec) {
         AudioCodec.opus => 'opus',
         AudioCodec.aac => 'aac',
         AudioCodec.mp3 => 'mp3',
         AudioCodec.copy => 'copy',
       };
-  
+
       final fps = s.fps != null ? ' fps${s.fps}' : '';
       final line1 = '${s.resolution}p $codec crf${s.crf}$fps';
       final line2 = '$audioCodec ${s.audioBitrate}';
-  
+
       final extras = <String>[];
       if (s.vfFilter != null) {
         if (s.vfFilter!.contains('crop=in_h*16/9')) extras.add('16:9');
@@ -70,7 +182,7 @@ class EncodeProgressOverlay extends StatelessWidget {
         if (s.vfFilter!.contains('hflip')) extras.add('flip H');
         if (s.vfFilter!.contains('vflip')) extras.add('flip V');
       }
-  
+
       if (extras.isEmpty) return '$line1\n$line2';
       return '$line1\n$line2\n${extras.join('  ')}';
     }
@@ -168,6 +280,11 @@ class EncodeProgressOverlay extends StatelessWidget {
                 'Finished at ${_formatTime(finishTime!)}  ·  took ${_formatElapsed(elapsed)}',
                 style: const TextStyle(color: Colors.white70, fontSize: 12),
               ),
+              if (_buildSizeRow() case final row?) ...[
+                const SizedBox(height: 4),
+                row,
+              ],
+              ..._buildOriginalRows(),
               if (encodeSettings != null) ...[
                 const SizedBox(height: 6),
                 Text(

@@ -15,7 +15,6 @@ const List<String> kLutCategories = [
   'berat',
   'creative',
   'editingcorp',
-  'editingcorpw',
   'ericellerbrock',
   'films colorslide',
   'films negative color',
@@ -42,6 +41,18 @@ List<LutItem> _lutsForCategory(String category, Set<String> favorites) {
   }
   if (category == 'All') return all;
   return all.where((l) => l.name.startsWith(category)).toList();
+}
+
+/// Which chip a LUT belongs to (longest matching prefix wins).
+String? _groupOfLut(String name) {
+  String? best;
+  for (final c in kLutCategories) {
+    if (c == 'Favorites' || c == 'All') continue;
+    if (name.startsWith('$c ') && (best == null || c.length > best.length)) {
+      best = c;
+    }
+  }
+  return best;
 }
 
 
@@ -123,19 +134,46 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
   int get _totalPages => (_categoryLuts.length / _pageSize).ceil();
 
   List<LutItem> _lutsOnPage(int page) {
-    final start = page * _pageSize;
+    final start = (page * _pageSize).clamp(0, _categoryLuts.length);
     final end = (start + _pageSize).clamp(0, _categoryLuts.length);
     return _categoryLuts.sublist(start, end);
+  }
+
+  /// Start page (1-based, in "All" mode) and LUT count for each group.
+  late final Map<String, ({int page, int count})> _groupInfo = _buildGroupInfo();
+
+  Map<String, ({int page, int count})> _buildGroupInfo() {
+    final info = <String, ({int page, int count})>{};
+    for (var i = 0; i < lutList.length; i++) {
+      final g = _groupOfLut(lutList[i]['name']!);
+      if (g == null) continue;
+      final prev = info[g];
+      info[g] = (
+        page: prev?.page ?? (i ~/ _pageSize) + 1,
+        count: (prev?.count ?? 0) + 1,
+      );
+    }
+    return info;
+  }
+
+  Set<String> get _visibleGroups {
+    if (_selectedCategory != 'All') return const {};
+    return {
+      for (final lut in _lutsOnPage(_currentPage))
+        if (_groupOfLut(lut.name) case final g?) g,
+    };
   }
 
   Future<void> _loadPage(int page, {bool preload = true}) async {
     if (!_serviceReady) return;
     setState(() => _loadingPage = true);
 
+    final snapshot = _categoryLuts;
     final luts = _lutsOnPage(page);
     final entries = await _generateEntries(luts);
 
-    if (!mounted) return;
+    // Ignore results if the category changed while thumbnails were generating
+    if (!mounted || !identical(snapshot, _categoryLuts)) return;
     setState(() {
       _thumbs = entries;
       _loadingPage = false;
@@ -147,9 +185,13 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
   }
 
   Future<void> _preloadNextPage(int page) async {
+    if (page < 0 || page >= _totalPages) return;
+    final snapshot = _categoryLuts;
     final luts = _lutsOnPage(page);
     final entries = await _generateEntries(luts);
-    if (mounted) _nextPageThumbs = entries;
+    if (mounted && identical(snapshot, _categoryLuts)) {
+      _nextPageThumbs = entries;
+    }
   }
 
   Future<List<_ThumbEntry>> _generateEntries(List<LutItem> luts) async {
@@ -183,7 +225,7 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
         _nextPageThumbs = null;
         _currentPage = page;
       });
-      _preloadNextPage(page + 1);
+      if (page + 1 < _totalPages) _preloadNextPage(page + 1);
     } else {
       setState(() => _currentPage = page);
       _loadPage(page);
@@ -211,7 +253,6 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
               _buildHeader(),
               _buildCategoryBar(),
               Expanded(child: _buildGrid()),
-              _buildFooter(),
             ],
           ),
         ),
@@ -227,104 +268,140 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
   }
 
 
+  Widget _smallIconButton(IconData icon, VoidCallback? onPressed) {
+    return IconButton(
+      icon: Icon(icon, size: 20),
+      color: Colors.white,
+      disabledColor: Colors.white24,
+      padding: EdgeInsets.zero,
+      constraints: const BoxConstraints(minWidth: 28, minHeight: 28),
+      onPressed: onPressed,
+    );
+  }
+
+  List<Widget> _buildPager() => [
+        _smallIconButton(Icons.chevron_left,
+            _currentPage > 0 ? () => _goToPage(_currentPage - 1) : null),
+        Text('Page ${_currentPage + 1} / $_totalPages',
+            style: const TextStyle(color: Colors.white70, fontSize: 12)),
+        _smallIconButton(
+            Icons.chevron_right,
+            _currentPage < _totalPages - 1
+                ? () => _goToPage(_currentPage + 1)
+                : null),
+        const SizedBox(width: 8),
+        SizedBox(
+          width: 44,
+          height: 26,
+          child: TextField(
+            style: const TextStyle(color: Colors.white, fontSize: 12),
+            keyboardType: TextInputType.number,
+            decoration: InputDecoration(
+              hintText: 'Go',
+              hintStyle: const TextStyle(color: Colors.white38, fontSize: 11),
+              contentPadding:
+                  const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+              isDense: true,
+              enabledBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(4),
+                borderSide: const BorderSide(color: Colors.white24),
+              ),
+              focusedBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(4),
+                borderSide: const BorderSide(color: Colors.amber),
+              ),
+            ),
+            onSubmitted: (val) {
+              final pg = int.tryParse(val);
+              if (pg != null) _goToPage(pg - 1);
+            },
+          ),
+        ),
+      ];
+
   Widget _buildHeader() {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 2),
+      padding: const EdgeInsets.fromLTRB(16, 2, 4, 0),
       child: Row(
         children: [
           const Text('LUT Picker',
               style: TextStyle(
                   color: Colors.white,
-                  fontSize: 18,
+                  fontSize: 14,
                   fontWeight: FontWeight.bold)),
-          const Spacer(),
-          if (_selectedLutName != null)
-            Padding(
-              padding: const EdgeInsets.only(right: 12),
-              child: Text(
-                'Selected: ${_selectedLutName!.replaceAll('.cube', '')}',
-                style: const TextStyle(color: Colors.amber, fontSize: 12),
-              ),
+          const SizedBox(width: 10),
+          Text('${_categoryLuts.length} LUTs',
+              style: const TextStyle(color: Colors.white38, fontSize: 11)),
+          if (_totalPages > 1) ...[
+            const SizedBox(width: 12),
+            ..._buildPager(),
+          ],
+          Expanded(
+            child: Align(
+              alignment: Alignment.centerRight,
+              child: _selectedLutName == null
+                  ? const SizedBox()
+                  : Padding(
+                      padding: const EdgeInsets.only(right: 8),
+                      child: Text(
+                        'Selected: ${_selectedLutName!.replaceAll('.cube', '')}',
+                        style:
+                            const TextStyle(color: Colors.amber, fontSize: 11),
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
             ),
+          ),
           TextButton(
+            style: TextButton.styleFrom(
+              padding: const EdgeInsets.symmetric(horizontal: 8),
+              minimumSize: const Size(0, 28),
+              tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+            ),
             onPressed: () {
               widget.onLutSelected(null);
               Navigator.of(context).pop();
             },
-            child:
-                const Text('No LUT', style: TextStyle(color: Colors.white54)),
+            child: const Text('No LUT',
+                style: TextStyle(color: Colors.white54, fontSize: 12)),
           ),
-          const SizedBox(width: 8),
-          IconButton(
-            icon: const Icon(Icons.close, color: Colors.white),
-            onPressed: () => Navigator.of(context).pop(),
-          ),
+          _smallIconButton(Icons.close, () => Navigator.of(context).pop()),
         ],
       ),
     );
   }
-
 
   Widget _buildCategoryBar() {
+    final visible = _visibleGroups;
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 2),
-      child: Row(
+      child: Wrap(
+        spacing: 6,
+        runSpacing: 4,
         children: [
-          _CategoryChip(
-            label: '★ Favorites',
-            selected: _selectedCategory == 'Favorites',
-            onTap: () => setState(() {
-              _selectedCategory = 'Favorites';
-              _rebuildCategory();
-            }),
-          ),
-          const SizedBox(width: 8),
-          Expanded(
-            child: DropdownButtonHideUnderline(
-              child: DropdownButton<String>(
-                value: kLutCategories.contains(_selectedCategory) &&
-                        _selectedCategory != 'Favorites'
-                    ? _selectedCategory
-                    : 'All',
-                itemHeight: 32,
-                dropdownColor: const Color(0xFF1E1E1E),
-                style:
-                    const TextStyle(color: Colors.white, fontSize: 10),
-                icon: const Icon(Icons.arrow_drop_down,
-                    color: Colors.white54),
-                items: kLutCategories
-                    .where((c) => c != 'Favorites')
-                    .map((c) => DropdownMenuItem(
-                          value: c,
-                          child: Text(c, style: const TextStyle(color: Colors.white, fontSize: 10)),
-                        ))
-                    .toList(),
-                onChanged: (val) {
-                  if (val == null) return;
-                  setState(() {
-                    _selectedCategory = val;
-                    _rebuildCategory();
-                  });
-                },
-              ),
+          for (final c in kLutCategories)
+            _CategoryChip(
+              label: c == 'Favorites' ? '★ Favorites' : c,
+              selected: _selectedCategory == c,
+              highlighted: visible.contains(c),
+              tooltip: _groupInfo[c] == null
+                  ? null
+                  : 'Starts at page ${_groupInfo[c]!.page} in All'
+                    ' · ${_groupInfo[c]!.count} LUTs',
+              onTap: () => setState(() {
+                _selectedCategory = c;
+                _rebuildCategory();
+              }),
             ),
-          ),
-          const SizedBox(width: 8),
-          Text(
-            '${_categoryLuts.length} LUTs',
-            style:
-                const TextStyle(color: Colors.white38, fontSize: 11),
-          ),
         ],
       ),
     );
   }
-
 
   Widget _buildGrid() {
     if (!_serviceReady) {
-      return const Center(
-          child: CircularProgressIndicator(color: Colors.white));
+      return const Center(child: CircularProgressIndicator(color: Colors.white));
     }
     if (_categoryLuts.isEmpty) {
       return const Center(
@@ -333,30 +410,36 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
       );
     }
 
-    return Stack(
-      children: [
-        GridView.builder(
-          padding: const EdgeInsets.all(6),
-          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-            crossAxisCount: 3,
-            crossAxisSpacing: 4,
-            mainAxisSpacing: 4,
-            childAspectRatio: 16 / 11,
+    return LayoutBuilder(builder: (context, constraints) {
+      const pad = 6.0, gap = 4.0;
+      // Size cells so exactly 2 rows x 3 columns fill the space, titles included
+      final cellW = (constraints.maxWidth - pad * 2 - gap * 2) / 3;
+      final cellH = (constraints.maxHeight - pad * 2 - gap - 1) / 2;
+      final ratio = (cellW > 0 && cellH > 0) ? cellW / cellH : 16 / 11;
+
+      return Stack(
+        children: [
+          GridView.builder(
+            padding: const EdgeInsets.all(pad),
+            physics: const NeverScrollableScrollPhysics(),
+            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 3,
+              crossAxisSpacing: gap,
+              mainAxisSpacing: gap,
+              childAspectRatio: ratio,
+            ),
+            itemCount: _thumbs.isEmpty ? 6 : _thumbs.length,
+            itemBuilder: (context, index) {
+              if (_thumbs.isEmpty || _loadingPage) return _buildLoadingCell();
+              if (index >= _thumbs.length) return const SizedBox();
+              return _buildThumbCell(_thumbs[index]);
+            },
           ),
-          itemCount: _thumbs.isEmpty ? 9 : _thumbs.length,
-          itemBuilder: (context, index) {
-            if (_thumbs.isEmpty || _loadingPage) {
-              return _buildLoadingCell();
-            }
-            if (index >= _thumbs.length) return const SizedBox();
-            return _buildThumbCell(_thumbs[index]);
-          },
-        ),
-        if (_loadingPage)
-          const Center(
-              child: CircularProgressIndicator(color: Colors.amber)),
-      ],
-    );
+          if (_loadingPage)
+            const Center(child: CircularProgressIndicator(color: Colors.amber)),
+        ],
+      );
+    });
   }
 
   Widget _buildLoadingCell() {
@@ -458,102 +541,57 @@ class _LutPickerOverlayState extends State<LutPickerOverlay> {
       ),
     );
   }
-
-
-  Widget _buildFooter() {
-    if (_totalPages <= 1) return const SizedBox(height: 8);
-    return Padding(
-      padding: const EdgeInsets.all(6),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          IconButton(
-            icon: const Icon(Icons.chevron_left, color: Colors.white),
-            onPressed:
-                _currentPage > 0 ? () => _goToPage(_currentPage - 1) : null,
-          ),
-          Text(
-            'Page ${_currentPage + 1} / $_totalPages',
-            style: const TextStyle(color: Colors.white70, fontSize: 13),
-          ),
-          IconButton(
-            icon: const Icon(Icons.chevron_right, color: Colors.white),
-            onPressed: _currentPage < _totalPages - 1
-                ? () => _goToPage(_currentPage + 1)
-                : null,
-          ),
-          const SizedBox(width: 16),
-          // Jump to page
-          SizedBox(
-            width: 55,
-            height: 32,
-            child: TextField(
-              style:
-                  const TextStyle(color: Colors.white, fontSize: 13),
-              keyboardType: TextInputType.number,
-              decoration: InputDecoration(
-                hintText: 'Go',
-                hintStyle:
-                    const TextStyle(color: Colors.white38, fontSize: 12),
-                contentPadding: const EdgeInsets.symmetric(
-                    horizontal: 8, vertical: 2),
-                isDense: true,
-                enabledBorder: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(4),
-                  borderSide: const BorderSide(color: Colors.white24),
-                ),
-                focusedBorder: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(4),
-                  borderSide:
-                      const BorderSide(color: Colors.amber),
-                ),
-              ),
-              onSubmitted: (val) {
-                final pg = int.tryParse(val);
-                if (pg != null) _goToPage(pg - 1);
-              },
-            ),
-          ),
-        ],
-      ),
-    );
-  }
 }
 
 
 class _CategoryChip extends StatelessWidget {
   final String label;
   final bool selected;
+  final bool highlighted;
   final VoidCallback onTap;
+  final String? tooltip;
 
   const _CategoryChip({
     required this.label,
     required this.selected,
     required this.onTap,
+    this.highlighted = false,
+    this.tooltip,
   });
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
+    final active = selected || highlighted;
+
+    final chip = GestureDetector(
       onTap: onTap,
       child: AnimatedContainer(
         duration: const Duration(milliseconds: 150),
-        padding:
-            const EdgeInsets.symmetric(horizontal: 10, vertical: 2),
+        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 2),
         decoration: BoxDecoration(
-          color: selected ? Colors.amber : Colors.white10,
+          color: selected
+              ? Colors.amber
+              : highlighted
+                  ? Colors.lightBlueAccent
+                  : Colors.white10,
           borderRadius: BorderRadius.circular(20),
         ),
         child: Text(
           label,
           style: TextStyle(
-            color: selected ? Colors.black : Colors.white70,
+            color: active ? Colors.black : Colors.white70,
             fontSize: 12,
-            fontWeight:
-                selected ? FontWeight.bold : FontWeight.normal,
+            fontWeight: active ? FontWeight.bold : FontWeight.normal,
           ),
         ),
       ),
+    );
+
+    if (tooltip == null) return chip;
+    return Tooltip(
+      message: tooltip!,
+      waitDuration: const Duration(milliseconds: 250),
+      child: chip,
     );
   }
 }

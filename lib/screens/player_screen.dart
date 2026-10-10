@@ -400,7 +400,12 @@ class _PlayerScreenState extends State<PlayerScreen>
   String _combineStep = '';
   DateTime? _combineStartTime;
   DateTime? _combineFinishTime;
+  int? _combineInputBytes;
+  int? _combineOutputBytes;
   Process? _combineProcess;
+  int? _combineSourceBytes;
+  double? _combineSourceSecs;
+  double? _combineOutputSecs;
   EncodeSettings? _lastEncodeSettings;
 
   String? _videoResolution;
@@ -422,6 +427,8 @@ class _PlayerScreenState extends State<PlayerScreen>
   List<LutItem> _availableLuts = [];
   String _lutFilterMode = 'all';
   int _selectedLutIndex = -1;
+  Future<ui.Image>? _lutImageFuture;
+  String? _lutImageFutureKey;
 
   List<QuranIndexEntry> _quranEntries = [];
   QuranVerseRef? _activeQuranRef;
@@ -6962,16 +6969,35 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   void _openLutPicker() {
-    if (_currentAudiobook == null) return;
-    if (!VideoEditService.isVideoFile(_currentAudiobook!.path)) return;
+    final isImage = _imagePath != null;
+    final sourcePath = isImage ? _imagePath : _currentAudiobook?.path;
+    if (sourcePath == null) return;
+    if (!isImage && !VideoEditService.isVideoFile(sourcePath)) return;
+
     showDialog(
       context: context,
       barrierDismissible: true,
       builder: (_) => LutPickerOverlay(
-        videoPath: _currentAudiobook!.path,
-        currentPosition: _currentPosition,
-        currentLutName: _selectedLut?.name,
-        onLutSelected: (lut) => setState(() => _selectedLut = lut),
+        videoPath: sourcePath,
+        currentPosition: isImage ? Duration.zero : _currentPosition,
+        currentLutName: isImage ? _selectedLutName : _selectedLut?.name,
+        onLutSelected: (lut) async {
+          if (isImage) {
+            if (lut == null || lut.path.isEmpty) {
+              await _clearSelectedLut();
+            } else {
+              if (_availableLuts.isEmpty) await _scanAvailableLuts();
+              await _selectLut(lut.path, lut.name.replaceAll('.cube', ''));
+              if (mounted) {
+                setState(() => _selectedLutIndex =
+                    _availableLuts.indexWhere((l) => l.path == lut.path));
+                _scrollToSelectedLut();
+              }
+            }
+          } else {
+            setState(() => _selectedLut = lut);
+          }
+        },
       ),
     );
   }
@@ -7512,6 +7538,25 @@ class _PlayerScreenState extends State<PlayerScreen>
         ? outputPath
         : path.join(sourceDir, '${baseName}_combined.mp4');
 
+    // Total size of everything going into the combine
+    int inputBytes = 0;
+    for (final f in cutFiles) {
+      try {
+        inputBytes += File(f).lengthSync();
+      } catch (_) {}
+    }
+
+    // Original source size + length, for the same-length comparison.
+    // Skipped for "Encode Whole Video", where the input already is the original.
+    int? sourceBytes;
+    double? sourceSecs;
+    if (!isWholeVideo) {
+      try {
+        sourceBytes = File(_currentAudiobook!.path).lengthSync();
+      } catch (_) {}
+      sourceSecs = await VideoEditService.getFileDuration(_currentAudiobook!.path);
+    }
+
     setState(() {
       _showCutsOverlay = false;
       _lastEncodeSettings = settings;
@@ -7521,6 +7566,11 @@ class _PlayerScreenState extends State<PlayerScreen>
       _combineStep = 'Starting...';
       _combineStartTime = DateTime.now();
       _combineFinishTime = null;
+      _combineInputBytes = inputBytes;
+      _combineOutputBytes = null;
+      _combineSourceBytes = sourceBytes;
+      _combineSourceSecs = sourceSecs;
+      _combineOutputSecs = null;
     });
 
     try {
@@ -7555,6 +7605,11 @@ class _PlayerScreenState extends State<PlayerScreen>
             _combineProgress = 0.0;
             _combineStep = '';
             _combineStartTime = null;
+            _combineInputBytes = null;
+            _combineOutputBytes = null;
+            _combineSourceBytes = null;
+            _combineSourceSecs = null;
+            _combineOutputSecs = null;
           });
         }
         return;
@@ -7563,10 +7618,18 @@ class _PlayerScreenState extends State<PlayerScreen>
       if (!isWholeVideo) await File(outputPath).rename(finalPath);
       _combineProcess = null;
 
+      int? outputBytes;
+      try {
+        outputBytes = File(finalPath).lengthSync();
+      } catch (_) {}
+      final outputSecs = await VideoEditService.getFileDuration(finalPath);
+
       if (mounted) {
         setState(() {
           _isCombining = false;
           _combineFinishTime = DateTime.now();
+          _combineOutputBytes = outputBytes;
+          _combineOutputSecs = outputSecs;
         });
       }
     } catch (e) {
@@ -7577,6 +7640,11 @@ class _PlayerScreenState extends State<PlayerScreen>
           _combineProgress = 0.0;
           _combineStep = '';
           _combineStartTime = null;
+          _combineInputBytes = null;
+          _combineOutputBytes = null;
+          _combineSourceBytes = null;
+          _combineSourceSecs = null;
+          _combineOutputSecs = null;
         });
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -8741,6 +8809,11 @@ class _PlayerScreenState extends State<PlayerScreen>
                   startTime: _combineStartTime,
                   finishTime: _combineFinishTime,
                   encodeSettings: _lastEncodeSettings,
+                  inputBytes: _combineInputBytes,
+                  outputBytes: _combineOutputBytes,
+                  sourceBytes: _combineSourceBytes,
+                  sourceSeconds: _combineSourceSecs,
+                  outputSeconds: _combineOutputSecs,
                   onCancel: _isCombining
                       ? () {
                           setState(() => _combineCancelled = true);
@@ -8752,6 +8825,11 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _combineProgress = 0.0;
                       _combineStep = '';
                       _combineStartTime = null;
+                      _combineInputBytes = null;
+                      _combineOutputBytes = null;
+                      _combineSourceBytes = null;
+                      _combineSourceSecs = null;
+                      _combineOutputSecs = null;
                     });
                   },
                 ),
@@ -12676,11 +12754,18 @@ class _PlayerScreenState extends State<PlayerScreen>
       );
     }
 
-    // LUT is active — decode, apply, and cache
+    // LUT is active — decode, apply, and cache. The future is created once per
+    // (image, LUT) pair instead of on every build.
+    final key = '${_imagePath}_${_selectedLutName ?? "nolut"}';
+    if (_lutImageFutureKey != key) {
+      _lutImageFutureKey = key;
+      _lutImageFuture = _loadLutAppliedImage(_imagePath!);
+    }
+
     return SizedBox.expand(
       child: FutureBuilder<ui.Image>(
-        key: ValueKey('${_imagePath}_${_selectedLutName ?? "nolut"}'),
-        future: _loadLutAppliedImage(_imagePath!),
+        key: ValueKey(key),
+        future: _lutImageFuture,
         builder: (context, snapshot) {
           if (snapshot.connectionState != ConnectionState.done) {
             return const Center(

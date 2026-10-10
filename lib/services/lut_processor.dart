@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 class LutProcessor {
   static Future<List<List<List<List<int>>>>> parseCubeLut(String lutPath, {bool isAsset = false}) async {
     List<String> lines;
-    
+
     if (isAsset) {
       final data = await rootBundle.loadString(lutPath);
       lines = data.split('\n');
@@ -16,20 +16,20 @@ class LutProcessor {
       }
       lines = await file.readAsLines();
     }
-        
+
     int size = 0;
     final List<double> values = [];
-    
+
     for (final line in lines) {
       final trimmed = line.trim();
-      
+
       if (trimmed.isEmpty || trimmed.startsWith('#')) continue;
-      
+
       if (trimmed.startsWith('LUT_3D_SIZE')) {
         size = int.parse(trimmed.split(' ')[1]);
         continue;
       }
-      
+
       final parts = trimmed.split(RegExp(r'\s+'));
       if (parts.length == 3) {
         try {
@@ -41,7 +41,7 @@ class LutProcessor {
         }
       }
     }
-    
+
     final lut = List.generate(
       size,
       (r) => List.generate(
@@ -49,7 +49,8 @@ class LutProcessor {
         (g) => List.generate(
           size,
           (b) {
-            final index = (r * size * size + g * size + b) * 3;
+            // .cube files store red fastest, then green, then blue
+            final index = (r + g * size + b * size * size) * 3;
             if (index + 2 < values.length) {
               return [
                 (values[index] * 255).round(),
@@ -62,28 +63,28 @@ class LutProcessor {
         ),
       ),
     );
-    
+
     return lut;
   }
-  
+
   static img.Color lookupLut(img.Color color, List<List<List<List<int>>>> lut) {
     final size = lut.length;
-    
+
     final r = (color.r / 255.0 * (size - 1)).clamp(0.0, size - 1.0);
     final g = (color.g / 255.0 * (size - 1)).clamp(0.0, size - 1.0);
     final b = (color.b / 255.0 * (size - 1)).clamp(0.0, size - 1.0);
-    
+
     final r0 = r.floor().clamp(0, size - 1);
     final g0 = g.floor().clamp(0, size - 1);
     final b0 = b.floor().clamp(0, size - 1);
     final r1 = (r0 + 1).clamp(0, size - 1);
     final g1 = (g0 + 1).clamp(0, size - 1);
     final b1 = (b0 + 1).clamp(0, size - 1);
-    
+
     final rFrac = r - r0;
     final gFrac = g - g0;
     final bFrac = b - b0;
-    
+
     final c000 = lut[r0][g0][b0];
     final c001 = lut[r0][g0][b1];
     final c010 = lut[r0][g1][b0];
@@ -92,40 +93,40 @@ class LutProcessor {
     final c101 = lut[r1][g0][b1];
     final c110 = lut[r1][g1][b0];
     final c111 = lut[r1][g1][b1];
-    
+
     int interpolate(int channelIndex) {
       final c00 = c000[channelIndex] * (1 - rFrac) + c100[channelIndex] * rFrac;
       final c01 = c001[channelIndex] * (1 - rFrac) + c101[channelIndex] * rFrac;
       final c10 = c010[channelIndex] * (1 - rFrac) + c110[channelIndex] * rFrac;
       final c11 = c011[channelIndex] * (1 - rFrac) + c111[channelIndex] * rFrac;
-      
+
       final c0 = c00 * (1 - gFrac) + c10 * gFrac;
       final c1 = c01 * (1 - gFrac) + c11 * gFrac;
-      
+
       return (c0 * (1 - bFrac) + c1 * bFrac).round().clamp(0, 255);
     }
-    
+
     return img.ColorRgb8(
       interpolate(0),
       interpolate(1),
       interpolate(2),
     );
   }
-  
+
   static Future<List<List<List<List<int>>>>> parseCubeLutFromString(String lutContent) async {
     final lines = lutContent.split('\n');
     int size = 0;
     final List<double> values = [];
-    
+
     for (final line in lines) {
       final trimmed = line.trim();
       if (trimmed.isEmpty || trimmed.startsWith('#')) continue;
-      
+
       if (trimmed.startsWith('LUT_3D_SIZE')) {
         size = int.parse(trimmed.split(' ')[1]);
         continue;
       }
-      
+
       final parts = trimmed.split(RegExp(r'\s+'));
       if (parts.length == 3) {
         try {
@@ -137,7 +138,7 @@ class LutProcessor {
         }
       }
     }
-    
+
     final lut = List.generate(
       size,
       (r) => List.generate(
@@ -145,7 +146,8 @@ class LutProcessor {
         (g) => List.generate(
           size,
           (b) {
-            final index = (r * size * size + g * size + b) * 3;
+            // .cube files store red fastest, then green, then blue
+            final index = (r + g * size + b * size * size) * 3;
             if (index + 2 < values.length) {
               return [
                 (values[index] * 255).round(),
@@ -158,14 +160,14 @@ class LutProcessor {
         ),
       ),
     );
-    
+
     return lut;
   }
 
   static Future<img.Image> applyLutToImage(img.Image image, String lutPath, bool isAsset) async {
     final lutData = await parseCubeLut(lutPath, isAsset: isAsset);
     final result = image.clone();
-    
+
     for (int y = 0; y < result.height; y++) {
       for (int x = 0; x < result.width; x++) {
         final pixel = result.getPixel(x, y);
@@ -173,7 +175,7 @@ class LutProcessor {
         result.setPixel(x, y, newPixel);
       }
     }
-    
+
     return result;
   }
 
