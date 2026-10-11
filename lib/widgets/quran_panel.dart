@@ -493,6 +493,7 @@ class _QuranPanelState extends State<QuranPanel> {
       if (divisor != null) {
         final avgLabel = formatAverageJuzDuration(widget.juzDurations, divisor);
         if (avgLabel.isNotEmpty) {
+          spans.add(const TextSpan(text: '\u200E'));
           spans.add(WidgetSpan(
             alignment: PlaceholderAlignment.middle,
             child: Padding(
@@ -510,6 +511,7 @@ class _QuranPanelState extends State<QuranPanel> {
               ),
             ),
           ));
+          spans.add(const TextSpan(text: '\u200E'));
         }
       }
     }
