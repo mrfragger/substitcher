@@ -12560,7 +12560,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                     ElevatedButton.icon(
                       onPressed: () => _openImage(),
                       icon: const Icon(Icons.image),
-                      label: const Text('Load Image/Video (Ctrl+b) prev ({) next (}) LUT Picker (Ctrl+l)'),
+                      label: const Text('Load Image/Video (Ctrl+b)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),

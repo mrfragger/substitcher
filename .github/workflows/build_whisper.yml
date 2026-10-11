@@ -23,7 +23,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.9.1
+          git checkout v1.9.5
           mkdir build && cd build
           cmake .. -DCMAKE_BUILD_TYPE=Release
           cmake --build . --config Release
@@ -55,7 +55,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.9.1
+          git checkout v1.9.5
 
       - name: Build arm64 (with Metal)
         run: |
@@ -133,7 +133,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.9.1
+          git checkout v1.9.5
 
       - name: Configure
         run: |
