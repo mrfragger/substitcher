@@ -1119,6 +1119,7 @@ class PlayerControls extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
+                      const PopupMenuDivider(),
                       Text(
                         'Repeat Count:',
                         style: TextStyle(
@@ -1271,6 +1272,18 @@ class PlayerControls extends StatelessWidget {
           tooltip: 'Settings',
           onSelected: (value) => onSettingsMenuSelected(context, value),
           itemBuilder: (context) => [
+            const PopupMenuItem(
+              value: 'openImage',
+              child: Text('open Image (Ctrl+b)'),
+            ),
+            const PopupMenuItem(
+              value: 'openAvifGallery',
+              child: Text('avif Gallery (Ctrl+g)'),
+            ),
+            const PopupMenuItem(
+              value: 'openJoinImages',
+              child: Text('Join Images (Ctrl+G)'),
+            ),
             const PopupMenuItem(
               value: 'adhan_clock',
               child: Text('Adhan Clock (m)'),

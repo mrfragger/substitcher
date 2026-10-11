@@ -47,7 +47,7 @@ class LutThumbnailService {
     }
   }
 
-  static const _imageExts = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'};
+  static const _imageExts = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp', '.avif'};
 
   Future<String?> extractFrame(String videoPath, Duration position) async {
     if (_ffmpegPath == null || _cacheDir == null) return null;

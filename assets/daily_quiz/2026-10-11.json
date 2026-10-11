@@ -1,0 +1,490 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مُفْرَدَاتٌ مِنْ سُورَةِ الْفَجْرِ",
+        "nameEn": "Key terms from Surah Al-Fajr",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "إِرَمَ",
+            "en": "Iram",
+            "ref": "89:7",
+            "verse": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+            "verseEn": "[With] Iram - who had lofty pillars,"
+          },
+          {
+            "ar": "الْبِلَادِ",
+            "en": "the cities",
+            "ref": "89:8",
+            "verse": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+            "verseEn": "The likes of whom had never been created in the land?"
+          },
+          {
+            "ar": "وَثَاقَهُ",
+            "en": "(as) His binding",
+            "ref": "89:26",
+            "verse": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ",
+            "verseEn": "And none will bind [as severely] as His binding [of the evildoers]."
+          },
+          {
+            "ar": "عِبَادِي",
+            "en": "My slaves",
+            "ref": "89:29",
+            "verse": "فَٱدْخُلِى فِى عِبَـٰدِى",
+            "verseEn": "And enter among My [righteous] servants"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الطَّرِيقِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Path/Way",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الصِّرَاطَ",
+            "en": "(to) the Path",
+            "ref": "37:118",
+            "verse": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+            "verseEn": "And We guided them on the straight path."
+          },
+          {
+            "ar": "سَبِيلِ",
+            "en": "(the) way",
+            "ref": "22:9",
+            "verse": "ثَانِىَ عِطْفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ ۖ لَهُۥ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَنُذِيقُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ عَذَابَ ٱلْحَرِيقِ",
+            "verseEn": "Twisting his neck [in arrogance] to mislead [people] from the way of Allāh. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],"
+          },
+          {
+            "ar": "طَرِيقٍ",
+            "en": "a Path",
+            "ref": "46:30",
+            "verse": "قَالُوا۟ يَـٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَـٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ",
+            "verseEn": "They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path."
+          },
+          {
+            "ar": "سُنَّةَ",
+            "en": "(The established) way",
+            "ref": "48:23",
+            "verse": "سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًۭا",
+            "verseEn": "[This is] the established way of Allāh which has occurred before. And never will you find in the way of Allāh any change."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتٌ مِنْ قِصَّةِ مُوسَىٰ وَالْخَضِرِ فِي سُورَةِ الْكَهْفِ",
+        "nameEn": "Key Terms from the Story of Musa and Al-Khidr in Surah Al-Kahf",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "نَبْغِ",
+            "en": "seeking",
+            "ref": "18:64",
+            "verse": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا",
+            "verseEn": "[Moses] said, \"That is what we were seeking.\" So they returned, following their footprints."
+          },
+          {
+            "ar": "رَحْمَةً",
+            "en": "mercy",
+            "ref": "18:65",
+            "verse": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+            "verseEn": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge."
+          },
+          {
+            "ar": "ذِكْرًا",
+            "en": "a mention",
+            "ref": "18:70",
+            "verse": "قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا",
+            "verseEn": "He said, \"Then if you follow me, do not ask me about anything until I make to you about it mention [i.e., explanation].\""
+          },
+          {
+            "ar": "صَبْرًا",
+            "en": "(to have) patience",
+            "ref": "18:72",
+            "verse": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا",
+            "verseEn": "[Al-Khiḍr] said, \"Did I not say that with me you would never be able to have patience?\""
+          }
+        ]
+      },
+      {
+        "name": "مَا لَا يُغْنِي يَوْمَ الْقِيَامَةِ",
+        "nameEn": "Things that will not avail on the Day of Judgment",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "شَفَاعَةٌ",
+            "en": "any intercession",
+            "ref": "2:48",
+            "verse": "وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا شَفَـٰعَةٌۭ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌۭ وَلَا هُمْ يُنصَرُونَ",
+            "verseEn": "And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided."
+          },
+          {
+            "ar": "مَوْلًى",
+            "en": "a relation",
+            "ref": "44:41",
+            "verse": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًۭى شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ",
+            "verseEn": "The Day when no relation will avail a relation at all, nor will they be helped -"
+          },
+          {
+            "ar": "أَنْسَابَ",
+            "en": "(there) will be relationship",
+            "ref": "23:101",
+            "verse": "فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍۢ وَلَا يَتَسَآءَلُونَ",
+            "verseEn": "So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another."
+          },
+          {
+            "ar": "نَاصِرِينَ",
+            "en": "helpers",
+            "ref": "3:22",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+            "verseEn": "They are the ones whose deeds have become worthless in this world and the Hereafter, and for them there will be no helpers."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "حرام",
+    "display": "حَرَام",
+    "hint": "Unlawful - what the disbelievers falsely declared of Allah's provisions, the opposite of permitted",
+    "verseRef": "10:59",
+    "arabicVerse": "قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍۢ فَجَعَلْتُم مِّنْهُ حَرَامًۭا وَحَلَـٰلًۭا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ",
+    "verse": "10:59 - Say, \"Have you seen what Allāh has sent down to you of provision of which you have made [some] lawful and [some] unlawful?\" Say, \"Has Allāh permitted you [to do so], or do you invent [something] about Allāh?\""
+  },
+  "deduction": {
+    "title": "The Voice in the Ancient Sands",
+    "intro": "Among the earliest messengers of Allah, there was one whose name shines briefly yet meaningfully in the Quran. This individual lived long before many great prophets were sent, and was known for unwavering truthfulness and patience. Their story is brief but their legacy endures in the eternal record. Who is this noble soul?",
+    "clues": [
+      "I am one of the earliest messengers, mentioned briefly yet meaningfully in the Quran.",
+      "My character was defined by an unwavering commitment to truth.",
+      "I am remembered in the book of Allah among those who were steadfast and patient.",
+      "Only a few short verses in the Quran tell my story.",
+      "Allah honored me in a way that is uniquely mine, not shared with other prophets.",
+      "I was raised to a high station, a singular honor in the Quran."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Idris",
+          "Prophet Ilyas",
+          "Dhul-Kifl",
+          "Prophet Alyasa",
+          "Asif ibn Barkhiya"
+        ],
+        "answer": "Prophet Idris"
+      },
+      "trial": {
+        "label": "Defining Moment",
+        "options": [
+          "I was raised to a high station by Allah",
+          "I built a great ark to save my people",
+          "I challenged the sorcerers of Pharaoh",
+          "I was thrown into a pit by my brothers",
+          "I lost my eyesight from sorrow over my son"
+        ],
+        "answer": "I was raised to a high station by Allah"
+      },
+      "location": {
+        "label": "Sacred Reference",
+        "options": [
+          "Surah Al-Anbiya",
+          "Surah Al-Kahf",
+          "Surah Taha",
+          "Surah Ash-Shu'ara",
+          "Surah Yasin"
+        ],
+        "answer": "Surah Al-Anbiya"
+      },
+      "outcome": {
+        "label": "Divine Honor",
+        "options": [
+          "A high station unlike any other",
+          "Dominion over jinn and the winds",
+          "A kingdom of unmatched glory",
+          "An heir from my old age",
+          "A covenant sealed with Allah"
+        ],
+        "answer": "A high station unlike any other"
+      }
+    },
+    "verseRef": "21:85",
+    "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+    "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+  },
+  "scramble": {
+    "verseRef": "84:6",
+    "reference": "Surah Al-Inshiqaq (84:6)",
+    "segments": [
+      "يا أيها الإنسان",
+      "إنك كادح",
+      "إلى ربك",
+      "كدحا",
+      "فملاقيه"
+    ],
+    "translations": [
+      "O mankind",
+      "Indeed, you (are) laboring",
+      "to your Lord",
+      "(with) exertion",
+      "and you (will) meet Him"
+    ],
+    "hint": "A powerful reminder from Surah Al-Inshiqaq about the human journey and the inevitable meeting with our Lord — a call to self-accountability and purposeful striving.",
+    "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا فَمُلَـٰقِيهِ",
+    "words": [
+      "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ",
+      "إِنَّكَ كَادِحٌ",
+      "إِلَىٰ رَبِّكَ",
+      "كَدْحًۭا",
+      "فَمُلَـٰقِيهِ"
+    ],
+    "verseEn": "O mankind, indeed you are laboring toward your Lord with [great] exertion and will meet it."
+  },
+  "roothive": {
+    "center": "خ",
+    "outer": [
+      "ء",
+      "ي",
+      "ط",
+      "ل",
+      "ه",
+      "ا"
+    ],
+    "root": {
+      "letters": "خطا",
+      "display": "خ ط ا",
+      "translit": "kh-ṭ-ʾ",
+      "meaning": "This root centers on the idea of error or going astray, from a small slip to a deliberate sin. Related words simply shade this same meaning, adding ideas like the doer, the act, or fault itself.",
+      "occurrences": 22,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "خال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خال",
+            "gloss": "maternal uncles",
+            "type": "noun",
+            "root": "خول",
+            "count": 2,
+            "ref": "24:61",
+            "pos": 40
+          }
+        ]
+      },
+      {
+        "w": "خطء",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خِطْء",
+            "gloss": "sin",
+            "type": "noun",
+            "root": "خطأ",
+            "count": 1,
+            "ref": "17:31",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "خطا",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خَطَأ",
+            "gloss": "mistake",
+            "type": "noun",
+            "root": "خطأ",
+            "count": 2,
+            "ref": "4:92",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "خلا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَلا",
+            "gloss": "passed away",
+            "type": "verb",
+            "root": "خلو",
+            "count": 25,
+            "ref": "2:76",
+            "pos": 8,
+            "alt": [
+              "has passed away",
+              "had passed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خيط",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَيْط",
+            "gloss": "thread",
+            "type": "noun",
+            "root": "خيط",
+            "count": 2,
+            "ref": "2:187",
+            "pos": 36
+          }
+        ]
+      },
+      {
+        "w": "خيل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَيْل",
+            "gloss": "horses",
+            "type": "noun",
+            "root": "خيل",
+            "count": 5,
+            "ref": "59:6",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "اخطا",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَخْطَأْ",
+            "gloss": "err",
+            "type": "verb",
+            "root": "خطأ",
+            "count": 2,
+            "ref": "2:286",
+            "pos": 19,
+            "alt": [
+              "made a mistake"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "خاطي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "خاطِئ",
+            "gloss": "sinners",
+            "type": "active participle",
+            "root": "خطأ",
+            "count": 5,
+            "ref": "12:97",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "خاله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خالَة",
+            "gloss": "maternal aunts",
+            "type": "noun",
+            "root": "خول",
+            "count": 3,
+            "ref": "4:23",
+            "pos": 7,
+            "alt": [
+              "mother's sisters"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خلال",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خِلال",
+            "gloss": "any friendship",
+            "type": "noun",
+            "root": "خلل",
+            "count": 8,
+            "ref": "14:31",
+            "pos": 21,
+            "alt": [
+              "inner most part"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خليل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خَلِيل",
+            "gloss": "friend",
+            "type": "noun",
+            "root": "خلل",
+            "count": 4,
+            "ref": "4:125",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "خاطيه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "خاطِئَة",
+            "gloss": "sinful",
+            "type": "active participle",
+            "root": "خطأ",
+            "count": 2,
+            "ref": "96:16",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "خطييه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "خَطِيئَة",
+            "gloss": "fault",
+            "type": "noun",
+            "root": "خطأ",
+            "count": 10,
+            "ref": "4:112",
+            "pos": 3
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 34,
+    "featuredRoot": "خطأ"
+  }
+}

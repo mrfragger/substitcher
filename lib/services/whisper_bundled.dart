@@ -1,7 +1,6 @@
 import 'dart:io';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:device_info_plus/device_info_plus.dart';
 import 'package:path/path.dart' as path;
 
 class WhisperBundled {
@@ -95,27 +94,6 @@ class WhisperBundled {
         'assets/whisper/windows/ggml.dll',
         'assets/whisper/windows/ggml-base.dll',
         'assets/whisper/windows/ggml-cpu.dll',
-      ];
-    } else if (Platform.isAndroid) {
-      final deviceInfo = DeviceInfoPlugin();
-      final androidInfo = await deviceInfo.androidInfo;
-      final abis = androidInfo.supportedAbis;
-
-      String abi;
-      if (abis.contains('arm64-v8a')) {
-        abi = 'arm64-v8a';
-      } else if (abis.contains('armeabi-v7a')) {
-        abi = 'armeabi-v7a';
-      } else {
-        throw UnsupportedError('Unsupported Android ABI: $abis');
-      }
-
-      assetPath = 'assets/whisper/android/$abi/whisper-cli';
-      additionalFiles = [
-        'assets/whisper/android/$abi/libwhisper.so',
-        'assets/whisper/android/$abi/libggml.so',
-        'assets/whisper/android/$abi/libggml-base.so',
-        'assets/whisper/android/$abi/libggml-cpu.so',
       ];
     } else {
       throw UnsupportedError(

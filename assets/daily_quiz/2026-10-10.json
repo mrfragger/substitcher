@@ -1,0 +1,759 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مُكَوِّنَاتُ الْكَوْنِ فِي الْقُرْآنِ",
+        "nameEn": "Astronomical entities in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "(of) the heavens",
+            "ref": "2:107",
+            "verse": "أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍ",
+            "verseEn": "Do you not know that to Allāh belongs the dominion of the heavens and the earth and [that] you have not besides Allāh any protector or any helper?"
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "2:284",
+            "verse": "لِّلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+            "verseEn": "To Allāh belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allāh will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allāh is over all things competent."
+          },
+          {
+            "ar": "الشَّمْسَ",
+            "en": "the sun",
+            "ref": "6:78",
+            "verse": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ",
+            "verseEn": "And when he saw the sun rising, he said, \"This is my lord; this is greater.\" But when it set, he said, \"O my people, indeed I am free from what you associate with Allāh."
+          },
+          {
+            "ar": "النَّجْمِ",
+            "en": "And by the stars",
+            "ref": "16:16",
+            "verse": "وَعَلَـٰمَـٰتٍۢ ۚ وَبِٱلنَّجْمِ هُمْ يَهْتَدُونَ",
+            "verseEn": "And landmarks. And by the stars they are [also] guided."
+          }
+        ]
+      },
+      {
+        "name": "مشاعر سلبية في القرآن",
+        "nameEn": "Negative Emotions in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "تَحْزَنُوا",
+            "en": "you grieve",
+            "ref": "3:153",
+            "verse": "۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍۢ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَـٰبَكُمْ غَمًّۢا بِغَمٍّۢ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَـٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+            "verseEn": "[Remember] when you [fled and] climbed [the mountain] without looking aside at anyone while the Messenger was calling you from behind. So Allāh repaid you with distress upon distress so you would not grieve for that which had escaped you [of victory and spoils of war] or [for] that which had befallen you [of injury and death]. And Allāh is [fully] Aware of what you do."
+          },
+          {
+            "ar": "خَافُونِ",
+            "en": "but fear Me",
+            "ref": "3:175",
+            "verse": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+            "verseEn": "That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers."
+          },
+          {
+            "ar": "يَغِيظُ",
+            "en": "that angers",
+            "ref": "9:120",
+            "verse": "مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌۭ وَلَا نَصَبٌۭ وَلَا مَخْمَصَةٌۭ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًۭا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّۢ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌۭ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+            "verseEn": "It was not [proper] for the people of Madīnah and those surrounding them of the bedouins that they remain behind after [the departure of] the Messenger of Allāh or that they prefer themselves over his self. That is because they are not afflicted by thirst or fatigue or hunger in the cause of Allāh, nor do they tread on any ground that enrages the disbelievers, nor do they inflict upon an enemy any infliction but that it is registered for them as a righteous deed. Indeed, Allāh does not allow to be lost the reward of the doers of good."
+          },
+          {
+            "ar": "حَسَرَاتٍ",
+            "en": "(as) regrets",
+            "ref": "2:167",
+            "verse": "وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةًۭ فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَـٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَـٰرِجِينَ مِنَ ٱلنَّارِ",
+            "verseEn": "Those who followed will say, \"If only we had another turn [at worldly life] so we could disassociate ourselves from them as they have disassociated themselves from us.\" Thus will Allāh show them their deeds as regrets upon them. And they are never to emerge from the Fire."
+          }
+        ]
+      },
+      {
+        "name": "أَدَوَاتُ عَذَابِ الْمُكَذِّبِينَ",
+        "nameEn": "Specific Instruments of Punishment for the Deniers in the Hereafter",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَنكَالًا",
+            "en": "(are) shackles",
+            "ref": "73:12",
+            "verse": "إِنَّ لَدَيْنَآ أَنكَالًۭا وَجَحِيمًۭا",
+            "verseEn": "Indeed, with Us [for them] are shackles and burning fire."
+          },
+          {
+            "ar": "السَّلَاسِلُ",
+            "en": "and the chains",
+            "ref": "40:71",
+            "verse": "إِذِ ٱلْأَغْلَـٰلُ فِىٓ أَعْنَـٰقِهِمْ وَٱلسَّلَـٰسِلُ يُسْحَبُونَ",
+            "verseEn": "When the shackles are around their necks and the chains; they will be dragged"
+          },
+          {
+            "ar": "غُصَّةٍ",
+            "en": "chokes",
+            "ref": "73:13",
+            "verse": "وَطَعَامًۭا ذَا غُصَّةٍۢ وَعَذَابًا أَلِيمًۭا",
+            "verseEn": "And food that chokes and a painful punishment -"
+          },
+          {
+            "ar": "الْجَحِيمَ",
+            "en": "(into) the Hellfire",
+            "ref": "69:31",
+            "verse": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+            "verseEn": "Then into Hellfire drive him."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْجَزَاءِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Reward in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَجْرٌ",
+            "en": "(is) a reward",
+            "ref": "84:25",
+            "verse": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+            "verseEn": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted."
+          },
+          {
+            "ar": "جَزَاءُ",
+            "en": "(is the) reward",
+            "ref": "5:85",
+            "verse": "فَأَثَـٰبَهُمُ ٱللَّهُ بِمَا قَالُوا۟ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ",
+            "verseEn": "So Allāh rewarded them for what they said with gardens [in Paradise] beneath which rivers flow, wherein they abide eternally. And that is the reward of doers of good."
+          },
+          {
+            "ar": "الْحَسَنَةِ",
+            "en": "with a good (deed)",
+            "ref": "28:84",
+            "verse": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌۭ مِّنْهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "Whoever comes [on the Day of Judgement] with a good deed will have better than it; and whoever comes with an evil deed - then those who did evil deeds will not be recompensed except [as much as] what they used to do."
+          },
+          {
+            "ar": "ثَوَابًا",
+            "en": "a reward",
+            "ref": "3:195",
+            "verse": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+            "verseEn": "And their Lord responded to them, \"Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allāh, and Allāh has with Him the best reward.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "كتب",
+    "display": "كَتَبَ",
+    "hint": "He wrote or decreed (verb)",
+    "verseRef": "59:3",
+    "arabicVerse": "وَلَوْلَآ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ لَعَذَّبَهُمْ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابُ ٱلنَّارِ",
+    "verse": "59:3 - And if not that Allāh had decreed for them evacuation, He would have punished them in [this] world, and for them in the Hereafter is the punishment of the Fire."
+  },
+  "deduction": {
+    "title": "The Feathered Scout",
+    "intro": "Within a kingdom ruled by one granted dominion over the winds, the unseen beings, and the creatures of the sky, one small and swift member vanished from the ranks — only to return with revelations that would reshape the fate of a distant nation. This keen-eyed informant brought truth to light where ignorance had taken root. Who Am I?",
+    "clues": [
+      "I served in a court where humans, unseen beings, and creatures of the sky answered to a single wise ruler who commanded the very winds.",
+      "I was absent from my post for a time, and the ruler's wrath was promised should I fail to provide a satisfactory reason.",
+      "I am a small creature of flight, known for sharp sight, and my kind was honored with direct naming in the pages of revelation.",
+      "When I returned, I brought news of a distant land where the people prostrated to the sun, blind to the One who created the heavens and the earth.",
+      "I found a woman ruling over a great kingdom, sitting upon a magnificent throne, never having known the truth before.",
+      "I am the one who discovered the realm of Saba' and carried a letter of invitation from a prophet-king who was given dominion over the wind."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Hoopoe (Hudhud)",
+          "The Ant from Sulaiman's Valley",
+          "Asif ibn Barkhiya",
+          "Ifrit the Jinn",
+          "An Angel of the Throne"
+        ],
+        "answer": "The Hoopoe (Hudhud)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The expedition to the Kingdom of Saba' (Sheba)",
+          "The confrontation with Pharaoh's sorcerers",
+          "The flood of Prophet Nuh",
+          "The destruction of the People of 'Ad",
+          "The splitting of the Red Sea"
+        ],
+        "answer": "The expedition to the Kingdom of Saba' (Sheba)"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Land of Saba' (Sheba)",
+          "Mount Sinai",
+          "The Ark of Prophet Nuh",
+          "The Cave of Ashab al-Kahf",
+          "The Palace of Pharaoh"
+        ],
+        "answer": "The Land of Saba' (Sheba)"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Bilqis came in submission to Sulaiman's court",
+          "Pharaoh and his army drowned in the sea",
+          "The People of 'Ad were destroyed by a violent wind",
+          "Pharaoh's sorcerers believed in Prophet Musa",
+          "A great flood consumed the disbelievers"
+        ],
+        "answer": "Bilqis came in submission to Sulaiman's court"
+      }
+    },
+    "verseRef": "27:27",
+    "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+    "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+  },
+  "scramble": {
+    "verseRef": "21:89",
+    "reference": "Surah Al-Anbiya (21:89)",
+    "segments": [
+      "وَزَكَرِيَّا إِذْ نَادَىٰ",
+      "رَبَّهُ",
+      "رَبِّ لَا تَذَرْنِي",
+      "فَرْدًا",
+      "وَأَنتَ خَيْرُ الْوَارِثِينَ"
+    ],
+    "translations": [
+      "And Zakariya when he called",
+      "(to) his Lord My Lord",
+      "(Do) not leave me",
+      "alone while You",
+      "(are) [the] Best (of) the inheritors"
+    ],
+    "hint": "A heartfelt supplication of Prophet Zakariya (AS) praying to Allah for a child in his old age.",
+    "arabic": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ",
+    "words": [
+      "وَزَكَرِيَّآ إِذْ نَادَىٰ",
+      "رَبَّهُۥ رَبِّ",
+      "لَا تَذَرْنِى",
+      "فَرْدًۭا وَأَنتَ",
+      "خَيْرُ ٱلْوَٰرِثِينَ"
+    ],
+    "verseEn": "And [mention] Zechariah, when he called to his Lord, \"My Lord, do not leave me alone [with no heir], while You are the best of inheritors.\""
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "ت",
+      "ن",
+      "م",
+      "ص",
+      "ي",
+      "ا"
+    ],
+    "root": {
+      "letters": "عصي",
+      "display": "ع ص ي",
+      "translit": "ʿ-ṣ-y",
+      "meaning": "This root carries the core meaning of refusing to obey or rebelling against authority. From it grow related forms naming the act of disobedience, describing someone who resists commands, and referring to the resulting state of rebellion.",
+      "occurrences": 32,
+      "lemmaCount": 4
+    },
+    "words": [
+      {
+        "w": "صنع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "صَنَعُ",
+            "gloss": "make",
+            "type": "verb",
+            "root": "صنع",
+            "count": 15,
+            "ref": "7:137",
+            "pos": 24,
+            "alt": [
+              "construct"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "صُنْع",
+            "gloss": "work",
+            "type": "noun",
+            "root": "صنع",
+            "count": 2,
+            "ref": "18:104",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عتي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عِتِيّ",
+            "gloss": "extreme",
+            "type": "noun",
+            "root": "عتو",
+            "count": 2,
+            "ref": "19:8",
+            "pos": 14,
+            "alt": [
+              "rebellion"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عصا",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عَصا",
+            "gloss": "disobeys",
+            "type": "verb",
+            "root": "عصي",
+            "count": 27,
+            "ref": "4:14",
+            "pos": 2,
+            "alt": [
+              "disobey"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عَصا",
+            "gloss": "staff",
+            "type": "noun",
+            "root": "عصو",
+            "count": 10,
+            "ref": "2:60",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "عصي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عَصِيّ",
+            "gloss": "disobedient",
+            "type": "adjective",
+            "root": "عصي",
+            "count": 2,
+            "ref": "19:14",
+            "pos": 6
+          },
+          {
+            "lemma": "عِصِيّ",
+            "gloss": "staffs",
+            "type": "noun",
+            "root": "عصو",
+            "count": 2,
+            "ref": "20:66",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "عمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمِيَ",
+            "gloss": "blinded",
+            "type": "verb",
+            "root": "عمي",
+            "count": 7,
+            "ref": "6:104",
+            "pos": 10,
+            "alt": [
+              "blind"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عَمي",
+            "gloss": "blind",
+            "type": "adjective",
+            "root": "عمي",
+            "count": 2,
+            "ref": "7:64",
+            "pos": 14
+          },
+          {
+            "lemma": "عَمًى",
+            "gloss": "blindness",
+            "type": "noun",
+            "root": "عمي",
+            "count": 2,
+            "ref": "41:44",
+            "pos": 25
+          }
+        ]
+      },
+      {
+        "w": "عين",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَيْن",
+            "gloss": "eyes",
+            "type": "noun",
+            "root": "عين",
+            "count": 57,
+            "ref": "2:60",
+            "pos": 13,
+            "alt": [
+              "spring",
+              "springs"
+            ]
+          },
+          {
+            "lemma": "عِين",
+            "gloss": "large eyes",
+            "type": "noun",
+            "root": "عين",
+            "count": 4,
+            "ref": "37:48",
+            "pos": 4,
+            "alt": [
+              "beautiful eyes",
+              "companions with beautiful eyes"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عيي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَيِي",
+            "gloss": "tired",
+            "type": "verb",
+            "root": "عيي",
+            "count": 2,
+            "ref": "46:33",
+            "pos": 10,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "متع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَتَّعْ",
+            "gloss": "provide for",
+            "type": "verb",
+            "root": "متع",
+            "count": 18,
+            "ref": "2:126",
+            "pos": 22,
+            "alt": [
+              "grant him enjoyment",
+              "make provision for"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "منع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَنَعَ",
+            "gloss": "prevents",
+            "type": "verb",
+            "root": "منع",
+            "count": 12,
+            "ref": "2:114",
+            "pos": 4,
+            "alt": [
+              "has been denied",
+              "prevented"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "نعم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَعَم",
+            "gloss": "cattle",
+            "type": "noun",
+            "root": "نعم",
+            "count": 33,
+            "ref": "6:138",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "اعان",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَعانَ",
+            "gloss": "assist",
+            "type": "verb",
+            "root": "عون",
+            "count": 2,
+            "ref": "18:95",
+            "pos": 7,
+            "alt": [
+              "helped"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اعمي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَعْمَى",
+            "gloss": "blind",
+            "type": "noun",
+            "root": "عمي",
+            "count": 21,
+            "ref": "2:18",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "انعم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَنْعَمَ",
+            "gloss": "favored",
+            "type": "verb",
+            "root": "نعم",
+            "count": 17,
+            "ref": "4:69",
+            "pos": 8,
+            "alt": [
+              "allah bestowed favor",
+              "has bestowed favor"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تمتع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَمَتَّعَ",
+            "gloss": "took advantage",
+            "type": "verb",
+            "root": "متع",
+            "count": 11,
+            "ref": "2:196",
+            "pos": 37,
+            "alt": [
+              "enjoy"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "عاصم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عاصِم",
+            "gloss": "protector",
+            "type": "active participle",
+            "root": "عصم",
+            "count": 3,
+            "ref": "10:27",
+            "pos": 14,
+            "alt": [
+              "defender"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاع",
+            "gloss": "enjoyment",
+            "type": "noun",
+            "root": "متع",
+            "count": 35,
+            "ref": "2:236",
+            "pos": 21,
+            "alt": [
+              "provision",
+              "enjoy"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "معين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَعِين",
+            "gloss": "flowing spring",
+            "type": "noun",
+            "root": "عين",
+            "count": 4,
+            "ref": "37:45",
+            "pos": 5,
+            "alt": [
+              "flowing stream",
+              "flowing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مناع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَنّاع",
+            "gloss": "forbidder",
+            "type": "adjective",
+            "root": "منع",
+            "count": 2,
+            "ref": "50:25",
+            "pos": 1,
+            "alt": [
+              "preventer"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نعيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نَعِيم",
+            "gloss": "bliss",
+            "type": "noun",
+            "root": "نعم",
+            "count": 17,
+            "ref": "9:21",
+            "pos": 9,
+            "alt": [
+              "pleasure",
+              "delight"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اعتصم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اعْتَصَمُ",
+            "gloss": "holds firmly",
+            "type": "verb",
+            "root": "عصم",
+            "count": 5,
+            "ref": "3:101",
+            "pos": 11,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "عصيان",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "عِصْيان",
+            "gloss": "disobedience",
+            "type": "noun",
+            "root": "عصي",
+            "count": 1,
+            "ref": "49:7",
+            "pos": 25
+          }
+        ]
+      },
+      {
+        "w": "معصيت",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَعْصِيَت",
+            "gloss": "disobedience",
+            "type": "noun",
+            "root": "عصي",
+            "count": 2,
+            "ref": "58:8",
+            "pos": 16
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 46,
+    "featuredRoot": "عصي"
+  }
+}

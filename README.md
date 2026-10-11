@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, LUTs. Dictionary word lookup. Basic Video Editing. Mac (dmg or homebrew), Linux (appimage, AUR), Windows (zip), Android
+Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, LUTs. Dictionary word lookup. Basic Video Editing. Mac (dmg or homebrew), Linux (appimage, AUR), Windows (zip)
 
 ![](images/audiobook.gif)
 
@@ -134,7 +134,7 @@ only 1-9, basic latin and ligatures
 ### Dictionary Lookup Words
 - d opens dictionary word overlay
 - click on word to open Apple Dictionary on Mac
-- or on Windows, Linux, Android copy to clipboard
+- or on Windows or Linux copy to clipboard
 - filters out tons of common words (and, the, to, from, etc.)
 - removes repeated words
 - History of looked up words clicked on
@@ -305,7 +305,6 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ![](images/translatevtt.jpg)
 
 ### Youtube
-- handles videos or audio to stream, disabled on android/iOS
 - stream playlists too but must select each item, no skip to next playlist item
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
 - displays subs automatically if avaiable based on default language which can be set
@@ -446,37 +445,6 @@ Flatpak (no longer supported, use AppImage instead)
 ```bash
 flatpak install substitcher-x64.flatpak
 ```
-</details>
-
-<details>
-<summary>Android</summary>
-
-Android (ARM64 devices only)
-- Requires Android 7.0+ (API 24+)
-- Compatible with 99% of Android tablets and phones from 2015 onwards
-- If you don't want subtitles you can use VLC (free)
-- 10" or larger screen strongly recommended for subtitle display
-
-Recommended Tablets with either 128GB or 256GB storage
-- Samsung Galaxy Tab A9+ (11") or A11+ (11" $270 256GB)
-- Lenovo Tab P11, Lenovo Idea Tab ($230 256GB)
-
-Installation Steps 
-[keepandroidopen.org](https://keepandroidopen.org)
-
-1. Download `substitcher-android-arm64.apk` from
-   [Releases](https://github.com/mrfragger/substitcher/releases/latest)
-
-2. When prompted, tap **Settings** and enable **Allow from this source**
-   — or go to **Settings → Apps → Special app access → Install unknown apps**
-   and enable your browser manually
-
-3. Open the downloaded APK and tap **Install**
-
-4. Download and extract the **Demo Fonts** zip from ![customfonts.zip 2.5MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip) into a folder
-   on your tablet — then point SubStitcher to that folder in Font Settings
-
-**Note:** The "Install unknown apps" warning is standard Android security for any app installed outside the Google Play Store — it does not mean the app is unsafe.
 </details>
 
 ### Various

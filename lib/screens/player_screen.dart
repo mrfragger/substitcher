@@ -18,6 +18,8 @@ import 'dart:convert';
 import 'dart:math';
 import 'metadata_editor_screen.dart';
 import 'encoder_screen.dart';
+import 'avif_gallery_screen.dart';
+import 'join_images_screen.dart';
 import '../data/lut_list.dart';
 import '../models/adhan_settings.dart';
 import '../models/audiobook_metadata.dart';
@@ -8115,6 +8117,18 @@ class _PlayerScreenState extends State<PlayerScreen>
             _adhanClockService.stopAdhan();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyG &&
+              event is KeyDownEvent &&
+              HardwareKeyboard.instance.isControlPressed &&
+              HardwareKeyboard.instance.isShiftPressed) {
+            if (_isTextFieldFocused()) return KeyEventResult.ignored;
+            _openJoinImages();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyG &&
+              HardwareKeyboard.instance.isControlPressed &&
+              event is KeyDownEvent) {
+            _openAvifGallery();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyG &&
               event is KeyDownEvent) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               setState(() {
@@ -10011,6 +10025,15 @@ class _PlayerScreenState extends State<PlayerScreen>
                 case 'fullscreen':
                   _toggleFullscreen();
                   break;
+                case 'openImage':
+                  _openImage();
+                  break;
+                case 'openAvifGallery':
+                  _openAvifGallery();
+                  break;
+                case 'openJoinImages':
+                  _openJoinImages();
+                  break;
                 case 'youtube_dialog':
                   _showYouTubeDialog();
                   break;
@@ -10277,6 +10300,15 @@ class _PlayerScreenState extends State<PlayerScreen>
             break;
           case 'fullscreen':
             _toggleFullscreen();
+            break;
+          case 'openImage':
+          _openImage();
+            break;
+          case 'openAvifGallery':
+            _openAvifGallery();
+            break;
+          case 'openJoinImages':
+            _openJoinImages();
             break;
           case 'youtube_dialog':
             _showYouTubeDialog();
@@ -12494,8 +12526,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                       icon: const Icon(Icons.folder_special),
                       label: const Text('Set Playlist Directory'),
                       style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 32, vertical: 16),
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),
                       ),
                     ),
@@ -12507,16 +12538,39 @@ class _PlayerScreenState extends State<PlayerScreen>
                       icon: const Icon(Icons.folder_open),
                       label: const Text('Load Audiobook (⇧L)'),
                       style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 32, vertical: 16),
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 16),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    ElevatedButton.icon(
+                      onPressed: () => _openImage(),
+                      icon: const Icon(Icons.image),
+                      label: const Text('Load Image/Video (Ctrl+b) prev ({) next (}) LUT Picker (Ctrl+l)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),
                       ),
                     ),
                     const SizedBox(width: 16),
                     ElevatedButton.icon(
-                      onPressed: () => _openImage(),
-                      icon: const Icon(Icons.image),
-                      label: const Text('Load Image/Video (Ctrl+b) prev ({) next (})'),
+                      onPressed: _openAvifGallery,
+                      icon: const Icon(Icons.photo_library),
+                      label: const Text('avif Gallery (Ctrl+g)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    ElevatedButton.icon(
+                      onPressed: _openJoinImages,
+                      icon: const Icon(Icons.join_full),
+                      label: const Text('Join Images (Ctrl+G)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),
@@ -12656,13 +12710,35 @@ class _PlayerScreenState extends State<PlayerScreen>
     );
   }
 
+  Future<void> _openJoinImages() async {
+    if (_isPlaying) await player.pause();
+    final folder = _imagePath != null ? path.dirname(_imagePath!) : null;
+    if (!mounted) return;
+    await Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => JoinImagesScreen(initialFolder: folder)),
+    );
+    _focusNode.requestFocus();
+  }
+
+  Future<void> _openAvifGallery() async {
+    if (_isPlaying) await player.pause();
+    final folder = _imagePath != null ? path.dirname(_imagePath!) : null;
+    if (!mounted) return;
+    await Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => AvifGalleryScreen(initialFolder: folder)),
+    );
+    _focusNode.requestFocus();
+  }
+
   Future<void> _openImage([String? filePath]) async {
     String? selected = filePath;
     if (selected == null) {
       final file = await FilePicker.pickFile(
         type: FileType.custom,
         allowedExtensions: [
-          'jpg', 'jpeg', 'png', 'gif', 'webp', 'bmp',
+          'jpg', 'jpeg', 'png', 'gif', 'webp', 'bmp', 'avif',
           'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v',
         ],
         dialogTitle: 'Select Image / Video',
