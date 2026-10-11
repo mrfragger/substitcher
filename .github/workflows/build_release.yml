@@ -13,28 +13,28 @@ jobs:
   build-macos:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v5
 
       - uses: subosito/flutter-action@v2
         with:
           channel: "stable"
 
       - name: Download arm64 FFmpeg
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-macos
           path: macos/Runner/Resources/bin/
 
       - name: Download arm64 Whisper
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_whisper.yml
           name: whisper-macos-arm64
           path: macos/Runner/Resources/whisper/
 
       - name: Download arm64 llama-server
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_llamacpp.yml
           name: llama-macos-arm64
@@ -42,7 +42,7 @@ jobs:
           if_no_artifact_found: fail
 
       - name: Download arm64 DeepFilter
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_deepfilter.yml
           name: deepfilter-macos-arm64
@@ -67,7 +67,7 @@ jobs:
             "build/macos/Build/Products/Release/SubStitcher.app"
 
       - name: Upload macOS artifact
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v5
         with:
           name: macos-build
           path: SubStitcher-macOS-arm64.dmg
@@ -75,7 +75,7 @@ jobs:
   build-linux-appimage:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v5
 
       - uses: subosito/flutter-action@v2
         with:
@@ -87,28 +87,28 @@ jobs:
           sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
 
       - name: Download Linux FFmpeg
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-linux
           path: temp-bin/
 
       - name: Download Linux Whisper
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_whisper.yml
           name: whisper-linux
           path: temp-whisper/
 
       - name: Download Linux llama-server
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_llamacpp.yml
           name: llama-linux-x64
           path: temp-llama/
 
       - name: Download Linux DeepFilter
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_deepfilter.yml
           name: deepfilter-linux-x64
@@ -141,7 +141,7 @@ jobs:
           ./scripts/build_appimage.sh
 
       - name: Upload Linux AppImage artifact
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v5
         with:
           name: linux-appimage-build
           path: substitcher-*.AppImage
@@ -149,35 +149,35 @@ jobs:
   build-windows:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v5
 
       - uses: subosito/flutter-action@v2
         with:
           channel: "stable"
 
       - name: Download Windows FFmpeg
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-windows
           path: temp-bin/
 
       - name: Download Windows Whisper
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_whisper.yml
           name: whisper-windows
           path: temp-whisper/
 
       - name: Download Windows llama-server
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_llamacpp.yml
           name: llama-windows-x64
           path: temp-llama/
 
       - name: Download Windows DeepFilter
-        uses: dawidd6/action-download-artifact@v3
+        uses: dawidd6/action-download-artifact@v11
         with:
           workflow: build_deepfilter.yml
           name: deepfilter-windows-x64
@@ -206,7 +206,7 @@ jobs:
           Compress-Archive -Path build\windows\x64\runner\Release\* -DestinationPath SubStitcher-Windows-x64.zip
 
       - name: Upload Windows ZIP
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v5
         with:
           name: windows-build
           path: SubStitcher-Windows-x64.zip
@@ -242,7 +242,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v5
 
       - name: Extract version from tag
         id: version
@@ -303,7 +303,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v5
 
       - name: Extract version from pubspec.yaml
         id: version
