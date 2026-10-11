@@ -364,7 +364,7 @@ jobs:
   #           path: ffmpeg-binaries/android/
 
   combine-artifacts:
-      needs: [build-ffmpeg-linux, build-ffmpeg-macos, build-ffmpeg-windows, build-ffmpeg-android]
+      needs: [build-ffmpeg-linux, build-ffmpeg-macos, build-ffmpeg-windows]
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v4

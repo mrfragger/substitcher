@@ -10034,6 +10034,15 @@ class _PlayerScreenState extends State<PlayerScreen>
                 case 'openJoinImages':
                   _openJoinImages();
                   break;
+                case 'prevImage':
+                  if (_imagePath != null) _stepImage(-1);
+                  break;
+                case 'nextImage':
+                  if (_imagePath != null) _stepImage(1);
+                  break;
+                case 'open_lut_picker':
+                  _openLutPicker();
+                  break;
                 case 'youtube_dialog':
                   _showYouTubeDialog();
                   break;

@@ -1265,6 +1265,39 @@ class PlayerControls extends StatelessWidget {
               const PopupMenuItem(value: 'replay_forward', child: Text('Forward 1 Frame ( . )')),
             ],
           ),
+          const SizedBox(width: 8),
+          PopupMenuButton<String>(
+            icon: const Icon(Icons.image, color: Colors.white70, size: 24),
+            tooltip: 'Images',
+            onSelected: (value) => onSettingsMenuSelected(context, value),
+            itemBuilder: (context) => const [
+              PopupMenuItem(
+                value: 'openAvifGallery',
+                child: Text('AVIF Gallery (Ctrl+G)'),
+              ),
+              PopupMenuItem(
+                value: 'openJoinImages',
+                child: Text('Join Images (Ctrl+⇧+G)'),
+              ),
+              PopupMenuDivider(),
+              PopupMenuItem(
+                value: 'openImage',
+                child: Text('Open Image (Ctrl+B)'),
+              ),
+              PopupMenuItem(
+                value: 'prevImage',
+                child: Text('Prev Image ( { )'),
+              ),
+              PopupMenuItem(
+                value: 'nextImage',
+                child: Text('Next Image ( } )'),
+              ),
+              PopupMenuItem(
+                value: 'open_lut_picker',
+                child: Text('LUT Picker (Ctrl+L)'),
+              ),
+            ],
+          ),
         const SizedBox(width: 8),
 
         PopupMenuButton<String>(
@@ -1272,18 +1305,6 @@ class PlayerControls extends StatelessWidget {
           tooltip: 'Settings',
           onSelected: (value) => onSettingsMenuSelected(context, value),
           itemBuilder: (context) => [
-            const PopupMenuItem(
-              value: 'openImage',
-              child: Text('open Image (Ctrl+b)'),
-            ),
-            const PopupMenuItem(
-              value: 'openAvifGallery',
-              child: Text('avif Gallery (Ctrl+g)'),
-            ),
-            const PopupMenuItem(
-              value: 'openJoinImages',
-              child: Text('Join Images (Ctrl+G)'),
-            ),
             const PopupMenuItem(
               value: 'adhan_clock',
               child: Text('Adhan Clock (m)'),
