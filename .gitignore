@@ -12,12 +12,6 @@
 .swiftpm/
 migrate_working_dir/
 
-macos/Runner/Resources/bin/*
-!macos/Runner/Resources/bin/.gitkeep
-macos/Runner/Resources/whisper/
-macos/Runner/Resources/llama/
-macos/Runner/Resources/deepfilter/
-
 # IntelliJ related
 *.iml
 *.ipr
@@ -77,8 +71,9 @@ assets/whisper/**/*
 
 macos/Runner/Resources/bin/*
 macos/Runner/Resources/whisper/*
-!macos/Runner/Resources/bin/.gitkeep
-!macos/Runner/Resources/whisper/.gitkeep
+macos/Runner/Resources/llama/*
+macos/Runner/Resources/deepfilter/*
+!macos/Runner/Resources/*/.gitkeep
 
 # macOS Pods
 macos/Pods/
