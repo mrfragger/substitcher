@@ -12,6 +12,12 @@
 .swiftpm/
 migrate_working_dir/
 
+macos/Runner/Resources/bin/*
+!macos/Runner/Resources/bin/.gitkeep
+macos/Runner/Resources/whisper/
+macos/Runner/Resources/llama/
+macos/Runner/Resources/deepfilter/
+
 # IntelliJ related
 *.iml
 *.ipr
