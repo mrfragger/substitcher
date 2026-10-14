@@ -1,0 +1,748 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "صِيَغُ الْفَاعِلِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Active Participles on the Pattern فَاعِل",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْكَافِرُونَ",
+            "en": "(are) the disbelievers",
+            "ref": "4:151",
+            "verse": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ حَقًّۭا ۚ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًۭا مُّهِينًۭا",
+            "verseEn": "Those are the disbelievers, truly. And We have prepared for the disbelievers a humiliating punishment."
+          },
+          {
+            "ar": "الظَّالِمُونَ",
+            "en": "(are) the wrongdoers",
+            "ref": "3:94",
+            "verse": "فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+            "verseEn": "And whoever invents about Allāh untruth after that - then those are [truly] the wrongdoers."
+          },
+          {
+            "ar": "الْجَاهِلِينَ",
+            "en": "the ignorant",
+            "ref": "11:46",
+            "verse": "قَالَ يَـٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُۥ عَمَلٌ غَيْرُ صَـٰلِحٍۢ ۖ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۖ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَـٰهِلِينَ",
+            "verseEn": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\""
+          },
+          {
+            "ar": "الشَّاكِرِينَ",
+            "en": "the grateful ones",
+            "ref": "6:63",
+            "verse": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًۭا وَخُفْيَةًۭ لَّئِنْ أَنجَىٰنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+            "verseEn": "Say, \"Who rescues you from the darknesses of the land and sea [when] you call upon Him imploring [aloud] and privately, 'If He should save us from this [crisis], we will surely be among the thankful.'\""
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْعُهُودِ وَالْأَيْمَانِ",
+        "nameEn": "Quranic Terms for Covenants and Oaths",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عَهْدِ",
+            "en": "the covenant",
+            "ref": "16:95",
+            "verse": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًۭا قَلِيلًا ۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+            "verseEn": "And do not exchange the covenant of Allāh for a small price. Indeed, what is with Allāh is best for you, if only you could know."
+          },
+          {
+            "ar": "مِيثَاقَهُمْ",
+            "en": "their covenant",
+            "ref": "5:14",
+            "verse": "وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَـٰرَىٰٓ أَخَذْنَا مِيثَـٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ",
+            "verseEn": "And from those who say, \"We are Christians\" We took their covenant; but they forgot a portion of that of which they were reminded. So We caused among them animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do."
+          },
+          {
+            "ar": "وَعْدَ",
+            "en": "A Promise",
+            "ref": "4:122",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًۭا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ قِيلًۭا",
+            "verseEn": "But the ones who believe and do righteous deeds - We will admit them to gardens beneath which rivers flow, wherein they will abide forever. [It is] the promise of Allāh, [which is] truth, and who is more truthful than Allāh in statement."
+          },
+          {
+            "ar": "أَيْمَانَكُمْ",
+            "en": "your oaths",
+            "ref": "16:94",
+            "verse": "وَلَا تَتَّخِذُوٓا۟ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌۭ",
+            "verseEn": "And do not take your oaths as [means of] deceit between you, lest a foot slip after it was [once] firm, and you would taste evil [in this world] for what [people] you diverted from the way of Allāh, and you would have [in the Hereafter] a great punishment."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ وَصْفِ شَجَرَةِ الزَّقُّومِ فِي سُورَةِ الصَّافَّاتِ",
+        "nameEn": "Specific Descriptions of the Tree of Zaqqum in Surah As-Saffat",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "فِتْنَةً",
+            "en": "a trial",
+            "ref": "37:63",
+            "verse": "إِنَّا جَعَلْنَـٰهَا فِتْنَةًۭ لِّلظَّـٰلِمِينَ",
+            "verseEn": "Indeed, We have made it a torment for the wrongdoers."
+          },
+          {
+            "ar": "طَلْعُهَا",
+            "en": "Its emerging fruit",
+            "ref": "37:65",
+            "verse": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ",
+            "verseEn": "Its emerging fruit as if it was heads of the devils."
+          },
+          {
+            "ar": "الْبُطُونَ",
+            "en": "(their) bellies",
+            "ref": "37:66",
+            "verse": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+            "verseEn": "And indeed, they will eat from it and fill with it their bellies."
+          },
+          {
+            "ar": "الْجَحِيمِ",
+            "en": "the Hellfire",
+            "ref": "37:68",
+            "verse": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
+            "verseEn": "Then indeed, their return will be to the Hellfire."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ ذَاتُ مَعَانٍ مُتَعَدِّدَةٍ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Words with Both Concrete and Abstract Meanings",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "عُيُونٍ",
+            "en": "and springs",
+            "ref": "26:57",
+            "verse": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍۢ وَعُيُونٍۢ",
+            "verseEn": "So We removed them from gardens and springs"
+          },
+          {
+            "ar": "بِيَدَيَّ",
+            "en": "with My Hands",
+            "ref": "38:75",
+            "verse": "قَالَ يَـٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ",
+            "verseEn": "[Allāh] said, \"O Iblees, what prevented you from prostrating to that which I created with My hands? Were you arrogant [then], or were you [already] among the haughty?\""
+          },
+          {
+            "ar": "وَجْهَهُ",
+            "en": "His Countenance",
+            "ref": "6:52",
+            "verse": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍۢ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And do not send away those who call upon their Lord morning and afternoon, seeking His face [i.e., favor]. Not upon you is anything of their account and not upon them is anything of your account. So were you to send them away, you would [then] be of the wrongdoers."
+          },
+          {
+            "ar": "النَّفْسَ",
+            "en": "the soul",
+            "ref": "12:53",
+            "verse": "۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy. Indeed, my Lord is Forgiving and Merciful.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "شورى",
+    "display": "شُورَىٰ",
+    "hint": "A Quranic principle of mutual decision-making, praised as a defining trait of the early believing community.",
+    "verseRef": "42:38",
+    "arabicVerse": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "verse": "42:38 - And those who have responded to their Lord and established prayer and whose affair is [determined by] consultation among themselves, and from what We have provided them, they spend,"
+  },
+  "deduction": {
+    "title": "The Fiery Adversary",
+    "intro": "In the early days of revelation, a figure emerged as a stubborn opponent of the truth. Blessed with wealth and status, this soul chose pride over guidance, and their story became a stark warning in the final verses of a surah.",
+    "clues": [
+      "I lived in the same city as the Prophet, and I was among the closest of kin to him, yet my pride kept me distant from the truth.",
+      "I possessed great wealth and numerous properties, and I thought my resources would always protect me.",
+      "When the message was revealed, I mocked it openly and turned away, considering myself superior to the believers.",
+      "My enmity was so notorious that a surah of the Quran addressed me directly, calling me by the name others knew me.",
+      "I was warned that my wealth and my earnings would not avail me, and I would be thrown into a blazing fire.",
+      "I am known as the father of the flame, and my wife will carry the firewood with a rope of palm fiber around her neck."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Abu Lahab",
+          "Abu Jahl",
+          "Abu Sufyan",
+          "Al-Walid ibn al-Mughira",
+          "Al-As ibn Wail"
+        ],
+        "answer": "Abu Lahab"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Rejected Islam and openly opposed the Prophet",
+          "Plotted to assassinate the Prophet",
+          "Led a social boycott against Muslims",
+          "Fought in the Battle of Badr",
+          "Tortured Bilal ibn Rabah"
+        ],
+        "answer": "Rejected Islam and openly opposed the Prophet"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A rope of palm fiber",
+          "A sharp sword",
+          "A heavy chain",
+          "A wooden staff",
+          "A leather whip"
+        ],
+        "answer": "A rope of palm fiber"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Will burn in a blazing fire",
+          "Repented and became a companion",
+          "Lost his wealth but died honored",
+          "Fled to Abyssinia",
+          "Drowned in the sea"
+        ],
+        "answer": "Will burn in a blazing fire"
+      }
+    },
+    "verseRef": "111:2",
+    "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "verse": "His wealth will not avail him or that which he gained. (111:2)"
+  },
+  "scramble": {
+    "verseRef": "8:64",
+    "reference": "Surah Al-Anfal (8:64)",
+    "segments": [
+      "يَا أَيُّهَا النَّبِيُّ",
+      "حَسْبُكَ اللَّهُ",
+      "وَمَنِ اتَّبَعَكَ",
+      "مِنَ الْمُؤْمِنِينَ"
+    ],
+    "translations": [
+      "O Prophet",
+      "Sufficient for you (is) Allah",
+      "and whoever follows you",
+      "of the believers"
+    ],
+    "hint": "A reassuring verse of divine support revealed after the Battle of Hunayn — a powerful statement of tawakkul (reliance on Allah).",
+    "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَسْبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+    "words": [
+      "يَـٰٓأَيُّهَا ٱلنَّبِىُّ",
+      "حَسْبُكَ ٱللَّهُ",
+      "وَمَنِ ٱتَّبَعَكَ",
+      "مِنَ ٱلْمُؤْمِنِينَ"
+    ],
+    "verseEn": "O Prophet, sufficient for you is Allāh and for whoever follows you of the believers."
+  },
+  "roothive": {
+    "center": "ت",
+    "outer": [
+      "ف",
+      "م",
+      "ه",
+      "ي",
+      "ن",
+      "ا"
+    ],
+    "root": {
+      "letters": "فتي",
+      "display": "ف ت ي",
+      "translit": "f-t-y",
+      "meaning": "This root centers on the idea of youth, a young person in their prime. From it grow words describing young men and women in different forms and numbers, plus verbs about seeking or giving rulings.",
+      "occurrences": 21,
+      "lemmaCount": 7
+    },
+    "words": [
+      {
+        "w": "اتم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَتَمَّ",
+            "gloss": "perfect",
+            "type": "verb",
+            "root": "تمم",
+            "count": 16,
+            "ref": "2:233",
+            "pos": 9,
+            "alt": [
+              "complete",
+              "completes"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اتي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آتَى",
+            "gloss": "was given",
+            "type": "verb",
+            "root": "أتي",
+            "count": 271,
+            "ref": "2:136",
+            "pos": 16,
+            "alt": [
+              "is given",
+              "has been given"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "أَتَى",
+            "gloss": "comes",
+            "type": "verb",
+            "root": "أتي",
+            "count": 264,
+            "ref": "2:106",
+            "pos": 7,
+            "alt": [
+              "come",
+              "bring"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "آتِي",
+            "gloss": "come",
+            "type": "active participle",
+            "root": "أتي",
+            "count": 9,
+            "ref": "19:93",
+            "pos": 8,
+            "alt": [
+              "coming"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "فاتَ",
+            "gloss": "escaped",
+            "type": "verb",
+            "root": "فوت",
+            "count": 3,
+            "ref": "3:153",
+            "pos": 18,
+            "alt": [
+              "has escaped",
+              "have gone from"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "فتن",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "فَتَنُ",
+            "gloss": "tried",
+            "type": "verb",
+            "root": "فتن",
+            "count": 23,
+            "ref": "4:101",
+            "pos": 15,
+            "alt": [
+              "tempt you away",
+              "harm"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "فتي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "فَتَى",
+            "gloss": "to his boy",
+            "type": "noun",
+            "root": "فتي",
+            "count": 3,
+            "ref": "12:30",
+            "pos": 8,
+            "alt": [
+              "slave boy"
+            ]
+          },
+          {
+            "lemma": "فَتًى",
+            "gloss": "youth",
+            "type": "noun",
+            "root": "فتي",
+            "count": 1,
+            "ref": "21:60",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "مات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ماتَ",
+            "gloss": "die",
+            "type": "verb",
+            "root": "موت",
+            "count": 39,
+            "ref": "3:144",
+            "pos": 11,
+            "alt": [
+              "dies",
+              "died"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "ميت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَيِّت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 38,
+            "ref": "2:28",
+            "pos": 5,
+            "alt": [
+              "die"
+            ]
+          },
+          {
+            "lemma": "مَيْت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 5,
+            "ref": "6:122",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "هات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هاتُ",
+            "gloss": "bring",
+            "type": "verb",
+            "root": "هات",
+            "count": 4,
+            "ref": "2:111",
+            "pos": 14,
+            "alt": [
+              "bring forth"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "امات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَماتَ",
+            "gloss": "causes death",
+            "type": "verb",
+            "root": "موت",
+            "count": 21,
+            "ref": "53:44",
+            "pos": 3,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تيمم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَيَمَّمُ",
+            "gloss": "aim",
+            "type": "verb",
+            "root": "يمم",
+            "count": 3,
+            "ref": "2:267",
+            "pos": 15,
+            "alt": [
+              "tayammum",
+              "tayyammum"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "فتاه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فَتاة",
+            "gloss": "slave girls",
+            "type": "noun",
+            "root": "فتي",
+            "count": 2,
+            "ref": "4:25",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "فتنه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "فِتْنَة",
+            "gloss": "trial",
+            "type": "noun",
+            "root": "فتن",
+            "count": 34,
+            "ref": "2:102",
+            "pos": 32,
+            "alt": [
+              "oppression"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فتيه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فِتْيَة",
+            "gloss": "youths",
+            "type": "noun",
+            "root": "فتي",
+            "count": 3,
+            "ref": "18:13",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "متين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتِين",
+            "gloss": "firm",
+            "type": "noun",
+            "root": "متن",
+            "count": 3,
+            "ref": "7:183",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "ممات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَمات",
+            "gloss": "dying",
+            "type": "noun",
+            "root": "موت",
+            "count": 3,
+            "ref": "6:162",
+            "pos": 6,
+            "alt": [
+              "death"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ميته",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَيْتَة",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 6,
+            "ref": "6:139",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "يتيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَتِيم",
+            "gloss": "orphan",
+            "type": "noun",
+            "root": "يتم",
+            "count": 23,
+            "ref": "4:127",
+            "pos": 14,
+            "alt": [
+              "orphans",
+              "two orphan boys"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امانت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَمانَت",
+            "gloss": "trust",
+            "type": "noun",
+            "root": "أمن",
+            "count": 2,
+            "ref": "2:283",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "امنيت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أُمْنِيَّت",
+            "gloss": "wishful thinking",
+            "type": "noun",
+            "root": "مني",
+            "count": 6,
+            "ref": "2:78",
+            "pos": 7,
+            "alt": [
+              "desire"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "انتهي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "انتَهَى",
+            "gloss": "desist",
+            "type": "verb",
+            "root": "نهي",
+            "count": 16,
+            "ref": "19:46",
+            "pos": 9,
+            "alt": [
+              "cease",
+              "desists"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "فتيان",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "فَتَيان",
+            "gloss": "two young men",
+            "type": "noun",
+            "root": "فتي",
+            "count": 1,
+            "ref": "12:36",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "منتهي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُنتَهَى",
+            "gloss": "utmost boundary",
+            "type": "passive participle",
+            "root": "نهي",
+            "count": 3,
+            "ref": "53:14",
+            "pos": 3,
+            "alt": [
+              "final goal",
+              "finality"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَسْتَفْتُ",
+        "gloss": "inquire",
+        "type": "verb",
+        "root": "فتي",
+        "count": 6,
+        "ref": "18:22",
+        "pos": 30,
+        "form": 10
+      },
+      {
+        "lemma": "يُفْتِي",
+        "gloss": "explain to",
+        "type": "verb",
+        "root": "فتي",
+        "count": 5,
+        "ref": "4:127",
+        "pos": 6,
+        "alt": [
+          "gives you the ruling",
+          "gives you a ruling"
+        ],
+        "form": 4
+      }
+    ],
+    "maxScore": 49,
+    "featuredRoot": "فتي"
+  }
+}

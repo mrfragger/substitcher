@@ -1,0 +1,808 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْعِبَادَةِ وَالثَّنَاءِ",
+        "nameEn": "Acts of worship and praise in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الصَّلَاةَ",
+            "en": "the prayer",
+            "ref": "6:72",
+            "verse": "وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+            "verseEn": "And to establish prayer and fear Him.\" And it is He to whom you will be gathered."
+          },
+          {
+            "ar": "الزَّكَاةَ",
+            "en": "zakah",
+            "ref": "22:41",
+            "verse": "ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلْمَعْرُوفِ وَنَهَوْا۟ عَنِ ٱلْمُنكَرِ ۗ وَلِلَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+            "verseEn": "[And they are] those who, if We give them authority in the land, establish prayer and give zakāh and enjoin what is right and forbid what is wrong. And to Allāh belongs the outcome of [all] matters."
+          },
+          {
+            "ar": "سَبِّحْ",
+            "en": "So glorify",
+            "ref": "15:98",
+            "verse": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+            "verseEn": "So exalt [Allāh] with praise of your Lord and be of those who prostrate [to Him]."
+          },
+          {
+            "ar": "الْحَمْدُ",
+            "en": "And all praise",
+            "ref": "37:182",
+            "verse": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "And praise to Allāh, Lord of the worlds."
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتٌ مِنْ سُورَةِ الْحُجُرَاتِ",
+        "nameEn": "Key terms from Sūrat al-Ḥujurāt",
+        "color": "green",
+        "items": [
+          {
+            "ar": "فَضْلًا",
+            "en": "A Bounty",
+            "ref": "49:8",
+            "verse": "فَضْلًۭا مِّنَ ٱللَّهِ وَنِعْمَةًۭ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+            "verseEn": "[It is] as bounty from Allāh and favor. And Allāh is Knowing and Wise."
+          },
+          {
+            "ar": "الْعَدْلِ",
+            "en": "with justice",
+            "ref": "49:9",
+            "verse": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَـٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+            "verseEn": "And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allāh. And if it returns, then make settlement between them in justice and act justly. Indeed, Allāh loves those who act justly."
+          },
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "the heavens",
+            "ref": "49:16",
+            "verse": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+            "verseEn": "Say, \"Would you acquaint Allāh with your religion while Allāh knows whatever is in the heavens and whatever is on the earth, and Allāh is Knowing of all things?\""
+          },
+          {
+            "ar": "غَيْبَ",
+            "en": "(the) unseen",
+            "ref": "49:18",
+            "verse": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+            "verseEn": "Indeed, Allāh knows the unseen [aspects] of the heavens and the earth. And Allāh is Seeing of what you do."
+          }
+        ]
+      },
+      {
+        "name": "صِفَاتُ الْمُؤْمِنِينَ فِي سُورَتَيِ الْمُؤْمِنُونَ وَالْمَعَارِجِ",
+        "nameEn": "Characteristics of the successful believers in Surah Al-Mu'minun and Al-Ma'arij",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَيْمَانُهُمْ",
+            "en": "their right hands",
+            "ref": "23:6",
+            "verse": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "verseEn": "Except from their wives or those their right hands possess, for indeed, they will not be blamed -"
+          },
+          {
+            "ar": "الْعَادُونَ",
+            "en": "(are) the transgressors",
+            "ref": "23:7",
+            "verse": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "verseEn": "But whoever seeks beyond that, then those are the transgressors -"
+          },
+          {
+            "ar": "الْوَارِثُونَ",
+            "en": "(are) the inheritors",
+            "ref": "23:10",
+            "verse": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
+            "verseEn": "Those are the inheritors"
+          },
+          {
+            "ar": "عَهْدِهِمْ",
+            "en": "and their promise",
+            "ref": "70:32",
+            "verse": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "verseEn": "And those who are to their trusts and promises attentive."
+          }
+        ]
+      },
+      {
+        "name": "مَصَادِرُ عَلَى وَزْنِ تَفْعِيلٍ فِي الْقُرْآنِ",
+        "nameEn": "Quranic verbal nouns on the pattern taf'īl",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "تَقْدِيرًا",
+            "en": "(with) determination",
+            "ref": "25:2",
+            "verse": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍۢ فَقَدَّرَهُۥ تَقْدِيرًۭا",
+            "verseEn": "He to whom belongs the dominion of the heavens and the earth and who has not taken a son and has not had a partner in dominion and has created each thing and determined it with [precise] determination."
+          },
+          {
+            "ar": "تَنْزِيلًا",
+            "en": "descending",
+            "ref": "25:25",
+            "verse": "وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَـٰمِ وَنُزِّلَ ٱلْمَلَـٰٓئِكَةُ تَنزِيلًا",
+            "verseEn": "And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent."
+          },
+          {
+            "ar": "تَفْسِيرًا",
+            "en": "explanation",
+            "ref": "25:33",
+            "verse": "وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَـٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا",
+            "verseEn": "And they do not come to you with an example [i.e., argument] except that We bring you the truth and the best explanation."
+          },
+          {
+            "ar": "تَوْفِيقًا",
+            "en": "and reconciliation",
+            "ref": "4:62",
+            "verse": "فَكَيْفَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَـٰنًۭا وَتَوْفِيقًا",
+            "verseEn": "So how [will it be] when disaster strikes them because of what their hands have put forth and then they come to you swearing by Allāh, \"We intended nothing but good conduct and accommodation.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "وزر",
+    "display": "وِزْرَ",
+    "hint": "A heavy accountability — no soul carries another's on the Day of Judgment",
+    "verseRef": "53:38",
+    "arabicVerse": "أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ",
+    "verse": "53:38 - That no bearer of burdens will bear the burden of another"
+  },
+  "deduction": {
+    "title": "The Vow of the Unborn",
+    "intro": "A sincere soul made a sacred promise before the arrival of a child. This figure's story unfolds within the walls of a sanctuary, where devotion meets divine acceptance. Who is this servant of Allah?",
+    "clues": [
+      "I belonged to a family honored in the Quran.",
+      "I made a solemn vow to dedicate my unborn child to the service of Allah.",
+      "When I gave birth, I was surprised to find it was a daughter, though I had expected a son.",
+      "I named my child Maryam, a name reflecting devotion and service.",
+      "I sought Allah's protection for my child and her descendants from the accursed Satan.",
+      "My child was accepted by the Lord and placed under the care of Prophet Zakariya in the sanctuary."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The wife of Imran (Mother of Maryam)",
+          "Asiya, wife of Pharaoh",
+          "Maryam, mother of Isa",
+          "The mother of Prophet Musa",
+          "The Queen of Sheba"
+        ],
+        "answer": "The wife of Imran (Mother of Maryam)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Vowing to dedicate her child to the temple",
+          "Being thrown into a fire",
+          "Crossing the sea on dry land",
+          "Building a great ark",
+          "Being swallowed by a large fish"
+        ],
+        "answer": "Vowing to dedicate her child to the temple"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The sanctuary (mihrab) where her child was placed",
+          "The ark of the covenant",
+          "The golden calf",
+          "The staff that turned into a snake",
+          "The date palm under which she rested"
+        ],
+        "answer": "The sanctuary (mihrab) where her child was placed"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Her child was accepted and placed under Prophet Zakariya's care",
+          "She was saved from a tyrant's punishment",
+          "She was given a son named Yahya",
+          "Her people were destroyed by a storm",
+          "She became a queen over a great kingdom"
+        ],
+        "answer": "Her child was accepted and placed under Prophet Zakariya's care"
+      }
+    },
+    "verseRef": "3:35",
+    "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+  },
+  "scramble": {
+    "verseRef": "12:92",
+    "reference": "Surah Yusuf (12:92)",
+    "segments": [
+      "قال",
+      "لا تثريب",
+      "عليكم اليوم",
+      "يغفر الله لكم",
+      "وهو أرحم",
+      "الراحمين"
+    ],
+    "translations": [
+      "He said No",
+      "blame upon you",
+      "today Allah will forgive",
+      "Allah will forgive you",
+      "and He (is) the Most Merciful",
+      "(of) those who show mercy"
+    ],
+    "hint": "A moment of forgiveness and mercy in the story of Prophet Yusuf (Joseph).",
+    "arabic": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "words": [
+      "قَالَ لَا",
+      "تَثْرِيبَ عَلَيْكُمُ",
+      "ٱلْيَوْمَ ۖ يَغْفِرُ",
+      "ٱللَّهُ لَكُمْ ۖ",
+      "وَهُوَ أَرْحَمُ",
+      "ٱلرَّٰحِمِينَ"
+    ],
+    "verseEn": "He said, \"No blame will there be upon you today. May Allāh forgive you; and He is the most merciful of the merciful."
+  },
+  "roothive": {
+    "center": "خ",
+    "outer": [
+      "ه",
+      "ل",
+      "ا",
+      "ي",
+      "ن",
+      "ف"
+    ],
+    "root": {
+      "letters": "خفي",
+      "display": "خ ف ي",
+      "translit": "kh-f-y",
+      "meaning": "The root carries the core idea of concealment, something kept out of sight. Its derived words show different ways hiding happens, from a thing being hidden to actively concealing or doing something in secret.",
+      "occurrences": 34,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "خاف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خافَ",
+            "gloss": "fear",
+            "type": "verb",
+            "root": "خوف",
+            "count": 83,
+            "ref": "2:182",
+            "pos": 2,
+            "alt": [
+              "fears",
+              "could i fear"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خال",
+            "gloss": "maternal uncles",
+            "type": "noun",
+            "root": "خول",
+            "count": 2,
+            "ref": "24:61",
+            "pos": 40
+          }
+        ]
+      },
+      {
+        "w": "خان",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خانُ",
+            "gloss": "betray",
+            "type": "verb",
+            "root": "خون",
+            "count": 5,
+            "ref": "8:27",
+            "pos": 5,
+            "alt": [
+              "have betrayed",
+              "both betrayed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خفف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَفَّفَ",
+            "gloss": "be lightened",
+            "type": "verb",
+            "root": "خفف",
+            "count": 8,
+            "ref": "2:86",
+            "pos": 8,
+            "alt": [
+              "lighten",
+              "has lightened"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "خفي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خَفِيّ",
+            "gloss": "stealthy",
+            "type": "adjective",
+            "root": "خفي",
+            "count": 2,
+            "ref": "19:3",
+            "pos": 5,
+            "alt": [
+              "secret"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خلا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَلا",
+            "gloss": "passed away",
+            "type": "verb",
+            "root": "خلو",
+            "count": 25,
+            "ref": "2:76",
+            "pos": 8,
+            "alt": [
+              "has passed away",
+              "had passed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خلف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَلْف",
+            "gloss": "successors",
+            "type": "noun",
+            "root": "خلف",
+            "count": 22,
+            "ref": "7:169",
+            "pos": 4
+          },
+          {
+            "lemma": "خَلَفَ",
+            "gloss": "succeeded",
+            "type": "verb",
+            "root": "خلف",
+            "count": 5,
+            "ref": "7:142",
+            "pos": 16,
+            "alt": [
+              "take my place",
+              "have done in my place"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خيل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَيْل",
+            "gloss": "horses",
+            "type": "noun",
+            "root": "خيل",
+            "count": 5,
+            "ref": "59:6",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "نخل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَخْل",
+            "gloss": "date-palms",
+            "type": "noun",
+            "root": "نخل",
+            "count": 11,
+            "ref": "54:20",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "اخفي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أُخْفِيَ",
+            "gloss": "conceal",
+            "type": "verb",
+            "root": "خفي",
+            "count": 18,
+            "ref": "3:118",
+            "pos": 21,
+            "alt": [
+              "conceals",
+              "is hidden"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "أَخْفَى",
+            "gloss": "more hidden",
+            "type": "noun",
+            "root": "خفي",
+            "count": 1,
+            "ref": "20:7",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "اخلف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَخْلَفُ",
+            "gloss": "break",
+            "type": "verb",
+            "root": "خلف",
+            "count": 14,
+            "ref": "2:80",
+            "pos": 14,
+            "alt": [
+              "fail",
+              "fail/violate"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "خاله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خالَة",
+            "gloss": "maternal aunts",
+            "type": "noun",
+            "root": "خول",
+            "count": 3,
+            "ref": "4:23",
+            "pos": 7,
+            "alt": [
+              "mother's sisters"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خايف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خائِف",
+            "gloss": "fearful",
+            "type": "active participle",
+            "root": "خوف",
+            "count": 3,
+            "ref": "2:114",
+            "pos": 21,
+            "alt": [
+              "fear",
+              "fearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خاين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خائِن",
+            "gloss": "deceitful",
+            "type": "active participle",
+            "root": "خون",
+            "count": 3,
+            "ref": "4:105",
+            "pos": 14,
+            "alt": [
+              "traitors",
+              "betrayers"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خفيف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خَفِيف",
+            "gloss": "light",
+            "type": "adjective",
+            "root": "خفف",
+            "count": 2,
+            "ref": "7:189",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "خفيه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "خُفْيَة",
+            "gloss": "secretly",
+            "type": "noun",
+            "root": "خفي",
+            "count": 2,
+            "ref": "6:63",
+            "pos": 10,
+            "alt": [
+              "privately"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خلاف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خِلاف",
+            "gloss": "opposite sides",
+            "type": "noun",
+            "root": "خلف",
+            "count": 6,
+            "ref": "5:33",
+            "pos": 20,
+            "alt": [
+              "opposite",
+              "behind"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خلال",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خِلال",
+            "gloss": "any friendship",
+            "type": "noun",
+            "root": "خلل",
+            "count": 8,
+            "ref": "14:31",
+            "pos": 21,
+            "alt": [
+              "inner most part"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خليل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خَلِيل",
+            "gloss": "friend",
+            "type": "noun",
+            "root": "خلل",
+            "count": 4,
+            "ref": "4:125",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "خيفه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خِيفَة",
+            "gloss": "fear",
+            "type": "noun",
+            "root": "خوف",
+            "count": 6,
+            "ref": "11:70",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "نخله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نَخْلَة",
+            "gloss": "date-palm",
+            "type": "noun",
+            "root": "نخل",
+            "count": 2,
+            "ref": "19:23",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "نخيل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نَخِيل",
+            "gloss": "date-palms",
+            "type": "noun",
+            "root": "نخل",
+            "count": 7,
+            "ref": "2:266",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "خافيه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "خافِيَة",
+            "gloss": "any secret",
+            "type": "active participle",
+            "root": "خفي",
+            "count": 1,
+            "ref": "69:18",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "خاينه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خائِنَة",
+            "gloss": "treachery",
+            "type": "active participle",
+            "root": "خون",
+            "count": 2,
+            "ref": "5:13",
+            "pos": 21,
+            "alt": [
+              "stealthy glance"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خليفه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خَلِيفَة",
+            "gloss": "vicegerent",
+            "type": "noun",
+            "root": "خلف",
+            "count": 9,
+            "ref": "2:30",
+            "pos": 9,
+            "alt": [
+              "successors",
+              "inheritors"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خيانه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "خِيانَة",
+            "gloss": "betrayal",
+            "type": "noun",
+            "root": "خون",
+            "count": 2,
+            "ref": "8:58",
+            "pos": 5
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَخْفَى",
+        "gloss": "is hidden",
+        "type": "verb",
+        "root": "خفي",
+        "count": 6,
+        "ref": "3:5",
+        "pos": 4,
+        "alt": [
+          "hidden",
+          "be hidden"
+        ],
+        "form": 1
+      },
+      {
+        "lemma": "يَسْتَخْفُ",
+        "gloss": "seek to hide",
+        "type": "verb",
+        "root": "خفي",
+        "count": 3,
+        "ref": "4:108",
+        "pos": 1,
+        "alt": [
+          "hide",
+          "may hide"
+        ],
+        "form": 10
+      },
+      {
+        "lemma": "مُسْتَخْف",
+        "gloss": "hidden",
+        "type": "active participle",
+        "root": "خفي",
+        "count": 1,
+        "ref": "13:10",
+        "pos": 11
+      }
+    ],
+    "maxScore": 55,
+    "featuredRoot": "خفي"
+  }
+}

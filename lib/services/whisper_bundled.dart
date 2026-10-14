@@ -32,7 +32,7 @@ class WhisperBundled {
       final whisperCliPath = '$whisperDir/whisper-cli';
 
       if (File(whisperCliPath).existsSync()) {
-        print('Using bundled whisper from app resources: $whisperCliPath');
+        // print('Using bundled whisper from app resources: $whisperCliPath');
         return whisperCliPath;
       }
     } else if (Platform.isWindows) {
@@ -42,7 +42,7 @@ class WhisperBundled {
       final whisperCliPath = path.join(whisperDir, 'whisper-cli.exe');
 
       if (File(whisperCliPath).existsSync()) {
-        print('Using bundled whisper from app: $whisperCliPath');
+        // print('Using bundled whisper from app: $whisperCliPath');
         // Defensive: if the installer itself carried a Mark-of-the-Web,
         // Windows can sometimes propagate that zone tag to files it installs
         // alongside it. Cheap no-op if the file is already unblocked.
@@ -63,7 +63,7 @@ class WhisperBundled {
       final whisperCliPath = path.join(whisperDir, 'whisper-cli');
 
       if (File(whisperCliPath).existsSync()) {
-        print('Using bundled whisper from app: $whisperCliPath');
+        // print('Using bundled whisper from app: $whisperCliPath');
         return whisperCliPath;
       }
     }

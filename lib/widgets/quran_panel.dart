@@ -1,4 +1,5 @@
 import 'dart:math' as math;
+import 'dart:convert';
 import '../models/history_item.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
@@ -250,6 +251,10 @@ class _QuranPanelState extends State<QuranPanel> {
   static String? _lastTafsirSearchSource;
   static String? _lastTafsirTapListType; // 'browse' or 'search'
   static const Set<String> _quizSupportedLanguages = {'English', 'Spanish'};
+  static const String _reciterProgressKey = 'reciter_juz_progress';
+  Map<String, Set<int>> _reciterJuz = {};
+  static const String _lastReciterKey = 'reciter_last_clicked';
+  String? _lastReciter;
 
   static const Map<String, String> _scriptRanges = {
     'latin': r'a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜɔɛƆƐɣŋʒƔŊƷɩƖʋƲ',
@@ -335,6 +340,7 @@ class _QuranPanelState extends State<QuranPanel> {
     super.initState();
     _loadCompletionState();
     _loadTafsirFontSize();
+    _loadReciterProgress();
 
     if (_wordByWordMode) {
       _loadWordAudioIndexIfNeeded();
@@ -514,6 +520,34 @@ class _QuranPanelState extends State<QuranPanel> {
           spans.add(const TextSpan(text: '\u200E'));
         }
       }
+      if (category == 'Juz') {
+        spans.add(WidgetSpan(
+          alignment: PlaceholderAlignment.middle,
+          child: Padding(
+            padding: const EdgeInsets.only(left: 8),
+            child: InkWell(
+              onTap: _showReciterRecordPanel,
+              borderRadius: BorderRadius.circular(4),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                decoration: BoxDecoration(
+                  color: Colors.teal.withAlpha(30),
+                  borderRadius: BorderRadius.circular(4),
+                  border: Border.all(color: Colors.teal.withAlpha(160)),
+                ),
+                child: const Text(
+                  'Record',
+                  style: TextStyle(
+                    color: Colors.tealAccent,
+                    fontSize: 12,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ));
+      }
     }
 
     return spans;
@@ -558,6 +592,131 @@ class _QuranPanelState extends State<QuranPanel> {
       'Hizb' => _completedHizb,
       _ => _completedRub,
     };
+  }
+
+  static const List<String> _reciters = [
+    'Abdul Hamid Ghraio',
+    'Abdulbasit Abdulsamad [mujawwad]',
+    'Abdulbasit Abdulsamad',
+    'Abdullah Ali Jabir',
+    'Abdullah Basfar',
+    'Abdulwadood Haneef',
+    'Abdur Rashid Sufi',
+    'Abu Bakr Al-Shatri',
+    'Adel al Karbalaei',
+    'Ahmad Al-Ajmi',
+    'Ahmad Al-Nufais',
+    'Ahmad Naseem Ali Ahmad',
+    'Ahmed Amer',
+    'Ahmed Nuayna',
+    'Ahmed Shaheen',
+    'Akram al Alaqmi',
+    'Ali al Huthaifi',
+    'Ayman Suwayd',
+    'Badr al Turki',
+    'Bandar Baleela',
+    'Fares Abbad',
+    'Fatih Seferagic',
+    'Haitham al Dukhain',
+    'Hani Al-Rifai',
+    'Ibrahim al Akhdar',
+    'Imad Zuhair Hafez',
+    'Khalefa Al-Tunaiji',
+    'Khalid al Mohana',
+    'Maher al Muaiqly',
+    'Mahmoud Abdul Hakam',
+    'Mahmoud Ali Al-Banna',
+    'Mahmoud Khalil Al-Husary [muallim]',
+    'Mahmoud Khalil Al-Husary [mujawwad]',
+    'Mahmoud Khalil Al-Husary',
+    'Mishary Rashid Al-Afasy',
+    'Mohammed Alghazali',
+    'Mohammed Burhaji',
+    'Mohammed Siddiq Al-Minshawi [mujawwad]',
+    'Mohammed Siddiq Al-Minshawi',
+    'Muhammad Ayyub',
+    'Mustafa Ismail',
+    'Nasser al Qatami',
+    'Saad Al-Ghamdi',
+    'Saber Abdulhakam',
+    'Sahl Yassin',
+    'Saud Al-Shuraim',
+    'Yasser Al-Dosari',
+  ];
+
+  Future<void> _loadReciterProgress() async {
+    final prefs = await SharedPreferences.getInstance();
+    final raw = prefs.getString(_reciterProgressKey);
+    final last = prefs.getString(_lastReciterKey);
+    Map<String, Set<int>>? map;
+    if (raw != null) {
+      try {
+        final decoded = jsonDecode(raw) as Map<String, dynamic>;
+        map = decoded.map((name, list) => MapEntry(
+              name,
+              (list as List).map((e) => e as int).toSet(),
+            ));
+      } catch (_) {
+        // Corrupt data: start fresh rather than crash.
+      }
+    }
+    if (mounted) {
+      setState(() {
+        if (map != null) _reciterJuz = map;
+        _lastReciter = last;
+      });
+    }
+  }
+
+  Future<void> _saveReciterProgress() async {
+    final prefs = await SharedPreferences.getInstance();
+    final encoded = jsonEncode(_reciterJuz.map(
+      (name, set) => MapEntry(name, (set.toList()..sort())),
+    ));
+    await prefs.setString(_reciterProgressKey, encoded);
+  }
+
+  void _toggleReciterJuz(String reciter, int juz) {
+    setState(() {
+      final set = _reciterJuz.putIfAbsent(reciter, () => <int>{});
+      if (!set.remove(juz)) set.add(juz);
+      _lastReciter = reciter;
+    });
+    _saveReciterProgress();
+    SharedPreferences.getInstance()
+        .then((prefs) => prefs.setString(_lastReciterKey, reciter));
+  }
+
+  Future<void> _confirmResetReciter(
+      String reciter, StateSetter setDialogState) async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        backgroundColor: const Color(0xFF2A2A2A),
+        title: const Text('Reset progress?',
+            style: TextStyle(color: Colors.white, fontSize: 15)),
+        content: Text(
+          'Clear all Juz checkmarks for $reciter?',
+          style: const TextStyle(color: Colors.white70, fontSize: 13),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(false),
+            child: const Text('Cancel',
+                style: TextStyle(color: Colors.white54)),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(true),
+            child: const Text('Reset',
+                style: TextStyle(color: Colors.teal)),
+          ),
+        ],
+      ),
+    );
+    if (confirmed != true) return;
+    setState(() => _reciterJuz.remove(reciter));
+    _saveReciterProgress();
+    setDialogState(() {});
   }
 
   Future<void> _loadCompletionState() async {
@@ -2392,6 +2551,213 @@ class _QuranPanelState extends State<QuranPanel> {
     return _shouldHighlightTopicSearch
         ? _highlightQuery(base, _searchQuery)
         : base;
+  }
+
+  void _showReciterRecordPanel() {
+    showDialog(
+      context: context,
+      builder: (ctx) => StatefulBuilder(
+        builder: (ctx, setDialogState) {
+          return Dialog(
+            backgroundColor: const Color(0xFF1E1E1E),
+            insetPadding:
+                const EdgeInsets.symmetric(horizontal: 24, vertical: 24),
+            shape:
+                RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: 940, maxHeight: 640),
+              child: Column(
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(16, 12, 8, 8),
+                    child: Row(
+                      children: [
+                        const Text('Quran Reciter Juz Record',
+                            style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 15,
+                                fontWeight: FontWeight.w600)),
+                        const SizedBox(width: 10),
+                        Text(
+                          '${_reciters.where(_isReciterComplete).length}/${_reciters.length} complete',
+                          style: const TextStyle(
+                              color: Colors.white38, fontSize: 10),
+                        ),
+                        const Spacer(),
+                        IconButton(
+                          icon: const Icon(Icons.close,
+                              color: Colors.white54, size: 20),
+                          onPressed: () => Navigator.of(ctx).pop(),
+                          padding: EdgeInsets.zero,
+                          constraints: const BoxConstraints(),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const Divider(color: Colors.white12, height: 1),
+                  Expanded(
+                    child: LayoutBuilder(
+                      builder: (context, constraints) {
+                        const cardWidth = 292.0;
+                        const spacing = 10.0;
+                        const padding = 16.0;
+                        final available = constraints.maxWidth - padding * 2;
+                        final perRow = math.max(
+                            1,
+                            ((available + spacing) / (cardWidth + spacing))
+                                .floor());
+                        final rowCount = (_reciters.length / perRow).ceil();
+                        final lastIdx = _lastReciter == null
+                            ? -1
+                            : _reciters.indexOf(_lastReciter!);
+                        final initialRow = lastIdx == -1 ? 0 : lastIdx ~/ perRow;
+
+                        return ScrollablePositionedList.builder(
+                          // Re-center on the last reciter if the layout changes.
+                          key: ValueKey(perRow),
+                          initialScrollIndex: initialRow,
+                          initialAlignment: 0.1,
+                          padding: const EdgeInsets.all(padding),
+                          itemCount: rowCount,
+                          itemBuilder: (_, row) {
+                            final start = row * perRow;
+                            final end =
+                                math.min(start + perRow, _reciters.length);
+                            return Padding(
+                              padding: const EdgeInsets.only(bottom: spacing),
+                              child: Row(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  for (final reciter
+                                      in _reciters.sublist(start, end))
+                                    Padding(
+                                      padding:
+                                          const EdgeInsets.only(right: spacing),
+                                      child: _buildReciterCard(
+                                          reciter, setDialogState),
+                                    ),
+                                ],
+                              ),
+                            );
+                          },
+                        );
+                      },
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          );
+        },
+      ),
+    );
+  }
+
+  bool _isReciterComplete(String reciter) =>
+      (_reciterJuz[reciter]?.length ?? 0) == 30;
+
+  Widget _buildReciterCard(String reciter, StateSetter setDialogState) {
+    final done = _reciterJuz[reciter] ?? const <int>{};
+    final complete = done.length == 30;
+
+    return Container(
+      width: 292,
+      padding: const EdgeInsets.all(8),
+      decoration: BoxDecoration(
+        color: Colors.black26,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(
+          color: complete
+              ? Colors.greenAccent.withAlpha(120)
+              : reciter == _lastReciter
+                  ? Colors.tealAccent.withAlpha(140)
+                  : Colors.white12,
+        ),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Expanded(
+                child: Text(
+                  reciter,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                    color: complete ? Colors.greenAccent : Colors.white,
+                    fontSize: 10,
+                  ),
+                ),
+              ),
+              Text(
+                '${done.length}/30',
+                style: TextStyle(
+                  color: complete ? Colors.greenAccent : Colors.white38,
+                  fontSize: 11,
+                ),
+              ),
+              if (done.isNotEmpty) ...[
+                const SizedBox(width: 8),
+                GestureDetector(
+                  onTap: () => _confirmResetReciter(reciter, setDialogState),
+                  child: const Text(
+                    'Reset',
+                    style: TextStyle(color: Colors.deepOrange, fontSize: 10),
+                  ),
+                ),
+              ],
+            ],
+          ),
+          const SizedBox(height: 6),
+          for (int row = 0; row < 3; row++) ...[
+            Row(
+              children: [
+                for (int col = 1; col <= 10; col++)
+                  _buildJuzCell(reciter, row * 10 + col, done, setDialogState),
+              ],
+            ),
+            if (row < 2) const SizedBox(height: 2),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildJuzCell(String reciter, int juz, Set<int> done,
+      StateSetter setDialogState) {
+    final isDone = done.contains(juz);
+    return Padding(
+      padding: const EdgeInsets.only(right: 2),
+        child: GestureDetector(
+          onTap: () {
+            _toggleReciterJuz(reciter, juz);
+            setDialogState(() {});
+          },
+          child: Container(
+            width: 25,
+            height: 24,
+            alignment: Alignment.center,
+            decoration: BoxDecoration(
+              color: isDone
+                  ? Colors.greenAccent.withAlpha(60)
+                  : Colors.white.withAlpha(8),
+              borderRadius: BorderRadius.circular(4),
+              border: Border.all(
+                color: isDone ? Colors.greenAccent : Colors.white24,
+              ),
+            ),
+            child: Text(
+              '$juz',
+              style: TextStyle(
+                color: isDone ? Colors.greenAccent : Colors.white54,
+                fontSize: 11,
+                fontWeight: isDone ? FontWeight.bold : FontWeight.normal,
+              ),
+            ),
+          ),
+        ),
+      );
   }
 
   void _showSurahListPopup(BuildContext context) {

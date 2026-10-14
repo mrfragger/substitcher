@@ -1,3 +1,4 @@
+import 'package:path_provider/path_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:media_kit/media_kit.dart';
@@ -10,6 +11,7 @@ import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
 import 'package:image/image.dart' as img;
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
+import 'package:flutter/rendering.dart' show RenderRepaintBoundary;
 import 'dart:async';
 import 'dart:io';
 import 'dart:ui';
@@ -48,6 +50,7 @@ import '../services/video_edit_service.dart';
 import '../services/vision_tracking_service.dart';
 import '../services/lut_thumbnail_service.dart';
 import '../services/lut_processor.dart';
+import '../services/image_clipboard_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -456,8 +459,28 @@ class _PlayerScreenState extends State<PlayerScreen>
   String? _imagePath;
   List<String> _imageSiblings = [];
   int _imageIndex = 0;
+  final GlobalKey _imageCaptureKey = GlobalKey();
+  final GlobalKey _subtitleBoxKey = GlobalKey();
+  final GlobalKey _secondarySubtitleBoxKey = GlobalKey();
+  bool _capturing = false;
+  bool _exportDialogOpen = false;
+
+  Size? _imageSize;
+  bool _copyIncludeSubs = true;
 
   static const _imageExtensions = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'};
+
+  /// Subtitle margins: the displayed image's bounds in image mode, else the old 32px sides.
+  ({double l, double t, double r, double b}) _subtitleMargins(BoxConstraints c) {
+    final s = _imageSize;
+    if (_imagePath == null || s == null || s.isEmpty) {
+      return (l: 32, t: 0, r: 32, b: 0);
+    }
+    final fit = min(c.maxWidth / s.width, c.maxHeight / s.height);
+    final ix = max(0.0, (c.maxWidth - s.width * fit) / 2);
+    final iy = max(0.0, (c.maxHeight - s.height * fit) / 2);
+    return (l: ix, t: iy, r: ix, b: iy);
+  }
 
   bool _isImagePath(String filePath) =>
       _imageExtensions.contains(path.extension(filePath).toLowerCase());
@@ -569,6 +592,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     _loadFavoriteLuts();
     _loadSavedLut();
     _loadCaptionPosition();
+    _loadCopyIncludeSubs();
     _loadSavedSearches();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
@@ -723,6 +747,19 @@ class _PlayerScreenState extends State<PlayerScreen>
           ),
         );
       }
+    }
+
+    Future<void> _loadCopyIncludeSubs() async {
+      final prefs = await SharedPreferences.getInstance();
+      if (mounted) {
+        setState(() => _copyIncludeSubs = prefs.getBool('clipboardIncludeSubs') ?? true);
+      }
+    }
+
+    Future<void> _setCopyIncludeSubs(bool v) async {
+      setState(() => _copyIncludeSubs = v);
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setBool('clipboardIncludeSubs', v);
     }
 
     Future<void> _refreshQuranJuzDurations() async {
@@ -1043,6 +1080,19 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
   }
 
+  Future<void> _loadImageSize(String p) async {
+    try {
+      final buf = await ui.ImmutableBuffer.fromUint8List(await File(p).readAsBytes());
+      final desc = await ui.ImageDescriptor.encoded(buf);
+      final s = Size(desc.width.toDouble(), desc.height.toDouble());
+      desc.dispose();
+      buf.dispose();
+      if (mounted && _imagePath == p) setState(() => _imageSize = s);
+    } catch (_) {
+      if (mounted && _imagePath == p) setState(() => _imageSize = null);
+    }
+  }
+
   Future<void> _selectLut(String? lutPath, String? lutName) async {
     final prefs = await SharedPreferences.getInstance();
     if (lutPath == null) {
@@ -1288,13 +1338,13 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
-  Future<void> _applyDefaultSettings() async {
-    if (!_isYouTubeStream && _currentAudiobook == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('No audiobook loaded')),
-      );
-      return;
-    }
+  Future<void> _applyDefaultSettings({bool forCaption = false}) async {
+      if (!forCaption && !_isYouTubeStream && _currentAudiobook == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('No audiobook loaded')),
+        );
+        return;
+      }
 
     setState(() {
       _selectedFont = _defaultFont;
@@ -1322,24 +1372,27 @@ class _PlayerScreenState extends State<PlayerScreen>
       _secondaryColorPalette = _currentColorPalette;
     });
 
-    if (_defaultLutPath != null && _defaultLutName != null) {
-      await _selectLut(_defaultLutPath, _defaultLutName);
-      if (_availableLuts.isEmpty) await _scanAvailableLuts();
-      if (mounted) {
-        setState(() {
-          _selectedLutIndex =
-              _availableLuts.indexWhere((l) => l.path == _defaultLutPath);
-        });
+    // Caption editing leaves the LUT alone.
+    if (!forCaption) {
+      if (_defaultLutPath != null && _defaultLutName != null) {
+        await _selectLut(_defaultLutPath, _defaultLutName);
+        if (_availableLuts.isEmpty) await _scanAvailableLuts();
+        if (mounted) {
+          setState(() {
+            _selectedLutIndex =
+                _availableLuts.indexWhere((l) => l.path == _defaultLutPath);
+          });
+        }
+      } else {
+        await _selectLut(null, null);
+        if (mounted) setState(() => _selectedLutIndex = -1);
       }
-    } else {
-      await _selectLut(null, null);
-      if (mounted) setState(() => _selectedLutIndex = -1);
     }
 
     await _saveFontSettings();
     await _applyConversion();
 
-    if (mounted) {
+    if (mounted && !forCaption) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text('Applied defaults:\n'
@@ -1370,6 +1423,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       ];
     });
     await _loadCaption(p);
+    await _applyDefaultSettings(forCaption: true);
   }
 
   Future<void> _loadCaptionPosition() async {
@@ -7164,6 +7218,12 @@ class _PlayerScreenState extends State<PlayerScreen>
       case 'handleBlurCycle':
         _handleBlurCycle();
         break;
+      case 'prevImage':
+        if (_imagePath != null) _stepImage(-1);
+        break;
+      case 'nextImage':
+        if (_imagePath != null) _stepImage(1);
+        break;
       case 'open_lut_picker':
         _openLutPicker();
         break;
@@ -7820,12 +7880,12 @@ class _PlayerScreenState extends State<PlayerScreen>
           return KeyEventResult.ignored;
         }
 
+        final shiftPressed = HardwareKeyboard.instance.isShiftPressed;
+        final ctrlPressed  = HardwareKeyboard.instance.isControlPressed;
+        final metaPressed  = HardwareKeyboard.instance.isMetaPressed;
+        final modPressed   = ctrlPressed || metaPressed;
+
         if (event is KeyDownEvent || event is KeyRepeatEvent) {
-          if (event.logicalKey == LogicalKeyboardKey.keyV &&
-              (HardwareKeyboard.instance.isMetaPressed ||
-                  HardwareKeyboard.instance.isControlPressed)) {
-            return KeyEventResult.ignored;
-          }
 
           if (event.logicalKey == LogicalKeyboardKey.escape &&
               event is KeyDownEvent) {
@@ -7905,23 +7965,32 @@ class _PlayerScreenState extends State<PlayerScreen>
               _scrollToActiveQuranRef();
             }
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyC &&
-              HardwareKeyboard.instance.isShiftPressed &&
-              event is KeyDownEvent) {
-            _copyChaptersList();
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyC &&
-              event is KeyDownEvent) {
-            if (HardwareKeyboard.instance.isMetaPressed ||
-                HardwareKeyboard.instance.isControlPressed) {
+          } else if (event.logicalKey == LogicalKeyboardKey.keyC) {
+            if (modPressed) {
+              if (event is KeyDownEvent) {
+                if (_imagePath != null) {
+                  unawaited(_copyImageToClipboard());
+                  return KeyEventResult.handled;
+                }
+                if (_hasVisibleSubtitle) {
+                  unawaited(_copySubtitleAsImage());
+                  return KeyEventResult.handled;
+                }
+              }
               return KeyEventResult.ignored;
             }
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.chapters;
-            });
-            _scrollToCurrentChapter();
-            return KeyEventResult.handled;
+            if (event is KeyDownEvent) {
+              if (shiftPressed) {
+                _copyChaptersList();
+              } else {
+                setState(() {
+                  _showPanel = true;
+                  _panelMode = PanelMode.chapters;
+                });
+                _scrollToCurrentChapter();
+              }
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.keyU &&
               HardwareKeyboard.instance.isControlPressed &&
               event is KeyDownEvent) {
@@ -8316,6 +8385,11 @@ class _PlayerScreenState extends State<PlayerScreen>
             }
             return KeyEventResult.ignored;
           } else if (event.logicalKey == LogicalKeyboardKey.keyE) {
+            // Export dialog: Ctrl+Cmd+E (macOS) or Ctrl+Shift+E (Windows/Linux)
+            if (ctrlPressed && (metaPressed || shiftPressed)) {
+              if (event is KeyDownEvent) unawaited(_showImageExportDialog());
+              return KeyEventResult.handled;
+            }
             setState(() {
               _showEncoderScreen = true;
             });
@@ -8487,14 +8561,20 @@ class _PlayerScreenState extends State<PlayerScreen>
               event is KeyDownEvent) {
             _addBookmark();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyV &&
-              HardwareKeyboard.instance.isShiftPressed &&
-              event is KeyDownEvent) {
-            unawaited(_openSharedCaptionEditor());
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyV &&
-              event is KeyDownEvent) {
-            _openSubtitleManager();
+          } else if (event.logicalKey == LogicalKeyboardKey.keyV) {
+            if (modPressed) {
+              // Paste image from clipboard
+              if (_isTextFieldFocused()) return KeyEventResult.ignored;
+              if (event is KeyDownEvent) unawaited(_pasteFromClipboard());
+              return KeyEventResult.handled;
+            }
+            if (event is KeyDownEvent) {
+              if (shiftPressed) {
+                unawaited(_openSharedCaptionEditor());
+              } else {
+                _openSubtitleManager();
+              }
+            }
             return KeyEventResult.handled;
           } else if (_showPanel && _panelMode == PanelMode.bookmarks) {
             if (event.logicalKey == LogicalKeyboardKey.digit1 ||
@@ -9651,19 +9731,24 @@ class _PlayerScreenState extends State<PlayerScreen>
         children: [
           Expanded(
             child: LayoutBuilder(
-              builder: (context, constraints) => Stack(
-                children: [
-                  if (_imagePath != null)
-                    _buildImageWidget()
-                  else
-                    Video(
-                      controller: _videoController,
-                      fit: BoxFit.contain,
-                      controls: NoVideoControls,
-                    ),
+              builder: (context, constraints) {
+                final m = _subtitleMargins(constraints);
+                return RepaintBoundary(
+                  key: _imageCaptureKey,
+                  child: ColoredBox(
+                    color: Colors.black,
+                    child: Stack(
+                      children: [
+                        if (_imagePath != null)
+                          _buildImageWidget()
+                        else
+                          Video(
+                            controller: _videoController,
+                            fit: BoxFit.contain,
+                            controls: NoVideoControls,
+                          ),
                     if (!_hideChapterTitle &&
                         _imagePath == null &&
-                        !_hideChapterTitle &&
                         _currentAudiobook != null)
                       Positioned(
                         top: 8,
@@ -9709,10 +9794,10 @@ class _PlayerScreenState extends State<PlayerScreen>
                         ),
                       ),
                   if (_secondarySubtitleText.isNotEmpty)
-                    Positioned(
-                      bottom: 80,
-                      left: 32,
-                      right: 32,
+                  Positioned(
+                    bottom: m.b + 80,
+                    left: m.l,
+                    right: m.r,
                       child: Center(
                         child: Container(
                           padding: const EdgeInsets.all(12),
@@ -9769,12 +9854,13 @@ class _PlayerScreenState extends State<PlayerScreen>
                         ),
                       ),
                     ),
+                    //primary
                   if (_currentSubtitleText.isNotEmpty)
                   Positioned(
-                    top: _captionActive ? 0 : null,
-                    bottom: _captionActive ? 0 : 16,
-                    left: 32,
-                    right: 32,
+                    top: _captionActive ? m.t : null,
+                    bottom: _captionActive ? m.b : m.b + 16,
+                    left: m.l,
+                    right: m.r,
                     child: Align(
                       alignment: _captionActive
                           ? Alignment(_captionX, _captionY)
@@ -9825,11 +9911,15 @@ class _PlayerScreenState extends State<PlayerScreen>
                         ),
                       ),
                     ),
+                  if (_imagePath != null && !_capturing) _buildImageActionBar(),
                   if (_isVideoFile) _buildBlurOverlay(constraints),
-                ],
+                  ],
+                ),
               ),
-            ),
-          ),
+            );
+          },
+        ),
+      ),
           if (_imagePath == null)
           PlayerControls(
             hideTitle: true,
@@ -10027,6 +10117,19 @@ class _PlayerScreenState extends State<PlayerScreen>
                   break;
                 case 'openImage':
                   _openImage();
+                  break;
+                case 'pasteImage':
+                  _pasteFromClipboard();
+                  break;
+                case 'copyImage':
+                  if (_imagePath != null) {
+                    _copyImageToClipboard();
+                  } else {
+                    _copySubtitleAsImage();
+                  }
+                  break;
+                case 'exportImage':
+                  _showImageExportDialog();
                   break;
                 case 'openAvifGallery':
                   _openAvifGallery();
@@ -10311,7 +10414,20 @@ class _PlayerScreenState extends State<PlayerScreen>
             _toggleFullscreen();
             break;
           case 'openImage':
-          _openImage();
+            _openImage();
+            break;
+          case 'pasteImage':
+            _pasteFromClipboard();
+            break;
+          case 'copyImage':
+            if (_imagePath != null) {
+              _copyImageToClipboard();
+            } else {
+              _copySubtitleAsImage();
+            }
+            break;
+          case 'exportImage':
+            _showImageExportDialog();
             break;
           case 'openAvifGallery':
             _openAvifGallery();
@@ -12741,6 +12857,382 @@ class _PlayerScreenState extends State<PlayerScreen>
     _focusNode.requestFocus();
   }
 
+  // ───────────── clipboard image paste / copy / export ─────────────
+
+  Future<void> _pasteFromClipboard() async {
+    try {
+      final p = await ImageClipboardService.pathFromClipboard();
+      if (p == null) {
+        _showError('Clipboard has no image');
+        return;
+      }
+      await _openImage(p); // opens in image mode (videos go to the player)
+    } catch (e) {
+      _showError('Paste failed: $e');
+    }
+  }
+
+  /// The image as currently shown (with LUT if one is active).
+  /// Second value: whether the caller owns (and must dispose) the image.
+  bool get _hasVisibleSubtitle =>
+      _currentSubtitleText.isNotEmpty || _secondarySubtitleText.isNotEmpty;
+
+  /// Renders the image plus visible subtitles as shown on screen, at about the
+  /// image's native resolution. Caller owns (and must dispose) the result.
+  Future<ui.Image> _renderImageWithSubtitles(int imgW, int imgH) async {
+    setState(() => _capturing = true); // hides the floating buttons
+    try {
+      await WidgetsBinding.instance.endOfFrame;
+      final boundary = _imageCaptureKey.currentContext?.findRenderObject()
+          as RenderRepaintBoundary?;
+      if (boundary == null) throw Exception('Image view not ready');
+
+      final size = boundary.size;
+      final fit = min(size.width / imgW, size.height / imgH);
+      final dw = imgW * fit, dh = imgH * fit;
+      var rect = Rect.fromLTWH(
+          (size.width - dw) / 2, (size.height - dh) / 2, dw, dh);
+
+      // Grow the crop to include subtitles that sit over the black bars.
+      for (final k in [_subtitleBoxKey, _secondarySubtitleBoxKey]) {
+        final rb = k.currentContext?.findRenderObject() as RenderBox?;
+        if (rb == null || !rb.attached || !rb.hasSize) continue;
+        final tl = rb.localToGlobal(Offset.zero, ancestor: boundary);
+        rect = rect.expandToInclude(tl & rb.size);
+      }
+      rect = rect.intersect(Offset.zero & size);
+
+      var pr = (1 / fit).clamp(1.0, 4.0);
+      final longest = max(size.width, size.height) * pr;
+      if (longest > 8192) pr *= 8192 / longest;
+
+      final full = await boundary.toImage(pixelRatio: pr);
+      final src = Rect.fromLTRB(
+          rect.left * pr, rect.top * pr, rect.right * pr, rect.bottom * pr);
+      final outW = max(1, src.width.round());
+      final outH = max(1, src.height.round());
+
+      final rec = ui.PictureRecorder();
+      Canvas(rec).drawImageRect(
+          full,
+          src,
+          Rect.fromLTWH(0, 0, outW.toDouble(), outH.toDouble()),
+          Paint()..filterQuality = FilterQuality.high);
+      final pic = rec.endRecording();
+      final out = await pic.toImage(outW, outH);
+      pic.dispose();
+      full.dispose();
+      return out;
+    } finally {
+      if (mounted) setState(() => _capturing = false);
+    }
+  }
+
+  /// The image as shown (LUT applied if active), optionally with subtitles.
+  /// Second value: whether the caller owns (and must dispose) the image.
+  Future<(ui.Image, bool)> _currentImageForExport(
+      {bool withSubtitles = true}) async {
+    final src = _imagePath!;
+    final ownsBase = _loadedLutData == null; // LUT image is cached, don't dispose
+    final base = _loadedLutData != null
+        ? await _loadLutAppliedImage(src)
+        : await ImageClipboardService.decodeFile(src);
+    if (!withSubtitles || !_hasVisibleSubtitle) return (base, ownsBase);
+    try {
+      return (await _renderImageWithSubtitles(base.width, base.height), true);
+    } finally {
+      if (ownsBase) base.dispose();
+    }
+  }
+
+  /// Paints the current subtitle(s) onto a black background, using the same
+  /// layers as the on-screen version (shadow, fill, blur, stroke).
+  Future<ui.Image> _renderSubtitlesOnBlack() async {
+    const double logicalW = 1280;
+    const double pad = 64;
+    const double gap = 24;
+    const double scale = 2; // output is logicalW * 2 px wide
+    const contentW = logicalW - pad * 2;
+    final shadow = Offset(_universalShadowOffset, _universalShadowOffset);
+
+    TextPainter tp(TextSpan span) => TextPainter(
+          text: span,
+          textAlign: TextAlign.center,
+          textDirection: TextDirection.ltr,
+        )..layout(minWidth: contentW, maxWidth: contentW);
+
+    // Each block is a list of (painter, offset) layers, drawn in order.
+    final blocks = <List<(TextPainter, Offset)>>[];
+
+    // Secondary sits above the primary, as on screen.
+    if (_secondarySubtitleText.isNotEmpty) {
+      final hasStroke = _secondaryColorPalette?.strokeColor != null;
+      TextSpan sec({bool stroke = false, bool shadowColor = false, bool blur = false}) =>
+          _buildColoredTextSpan(
+            _secondarySubtitleText,
+            fontSize: _secondarySubtitleFontSize,
+            fontFamily: _secondarySubtitleFont,
+            palette: _secondaryColorPalette,
+            lineSpacing: _secondarySubtitleLineSpacing,
+            isStroke: stroke,
+            useShadowColor: shadowColor,
+            useBlurShadow: blur,
+            fontColorOverrideParam: _secondaryFontColorOverride,
+          );
+      blocks.add([
+        if (hasStroke) (tp(sec(stroke: true, shadowColor: true)), shadow),
+        (tp(sec(blur: _secondaryBlurShadowEnabled)), Offset.zero),
+        if (hasStroke) (tp(sec(stroke: true)), Offset.zero),
+      ]);
+    }
+
+    if (_currentSubtitleText.isNotEmpty) {
+      TextSpan pri({bool stroke = false, bool shadowColor = false, bool blur = false}) =>
+          _buildColoredTextSpan(
+            _currentSubtitleText,
+            lineSpacing: _subtitleLineSpacing,
+            isStroke: stroke,
+            useShadowColor: shadowColor,
+            useBlurShadow: blur,
+          );
+      blocks.add([
+        (tp(pri(stroke: true, shadowColor: true)), shadow),
+        (tp(pri(shadowColor: true)), shadow),
+        (tp(pri(blur: _blurShadowEnabled)), Offset.zero),
+        (tp(pri(stroke: true)), Offset.zero),
+      ]);
+    }
+
+    double totalH = pad * 2 + gap * (blocks.length - 1);
+    for (final b in blocks) {
+      totalH += b.first.$1.height;
+    }
+
+    final rec = ui.PictureRecorder();
+    final canvas = Canvas(rec)..scale(scale);
+    canvas.drawRect(Rect.fromLTWH(0, 0, logicalW, totalH),
+        Paint()..color = Colors.black);
+
+    var y = pad;
+    for (final b in blocks) {
+      for (final (painter, off) in b) {
+        painter.paint(canvas, Offset(pad + off.dx, y + off.dy));
+      }
+      y += b.first.$1.height + gap;
+    }
+
+    final pic = rec.endRecording();
+    final img = await pic.toImage(
+        (logicalW * scale).round(), (totalH * scale).round());
+    pic.dispose();
+    return img;
+  }
+
+  void _onImageMenuSelected(String value) {
+    switch (value) {
+      case 'pasteImage':
+        unawaited(_pasteFromClipboard());
+        break;
+      case 'copyImage':
+        if (_imagePath != null) {
+          unawaited(_copyImageToClipboard());
+        } else {
+          unawaited(_copySubtitleAsImage());
+        }
+        break;
+      case 'exportImage':
+        unawaited(_showImageExportDialog());
+        break;
+    }
+    _focusNode.requestFocus(); // keep keyboard shortcuts working after the menu
+  }
+
+  Future<void> _copySubtitleAsImage([ExportFormat? format]) async {
+    if (!_hasVisibleSubtitle) {
+      _showError('No subtitle to copy');
+      return;
+    }
+    ui.Image? image;
+    try {
+      format ??= await ImageClipboardService.getDefaultFormat();
+      image = await _renderSubtitlesOnBlack();
+      final out = await ImageClipboardService.copyToClipboard(image, format);
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+        content: Text(out == null
+            ? 'Copy failed'
+            : 'Subtitle copied as ${format.label} (black background)'),
+        duration: const Duration(seconds: 2),
+      ));
+    } catch (e) {
+      _showError('Copy failed: $e');
+    } finally {
+      image?.dispose();
+      unawaited(HardwareKeyboard.instance.syncKeyboardState());
+    }
+  }
+
+
+
+  Future<void> _copyImageToClipboard(
+      [ExportFormat? format, bool? withSubtitles]) async {
+    if (_imagePath == null) {
+      _showError('No image to copy');
+      return;
+    }
+    final subsOn = withSubtitles ?? _copyIncludeSubs;
+    ui.Image? image;
+    var owned = false;
+    try {
+      format ??= await ImageClipboardService.getDefaultFormat();
+      final r = await _currentImageForExport(withSubtitles: subsOn);
+      image = r.$1;
+      owned = r.$2;
+      final out = await ImageClipboardService.copyToClipboard(image, format);
+      if (!mounted) return;
+      final subs = subsOn && _hasVisibleSubtitle ? ' with subtitle' : '';
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+        content: Text(out == null
+            ? 'Copy failed'
+            : 'Copied as ${format.label}$subs to clipboard'),
+        duration: const Duration(seconds: 2),
+      ));
+    } catch (e) {
+      _showError('Copy failed: $e');
+    } finally {
+      if (owned) image?.dispose();
+      unawaited(HardwareKeyboard.instance.syncKeyboardState());
+    }
+  }
+
+  Future<void> _showImageExportDialog() async {
+    if (_imagePath == null) {
+      _showError('Open or paste an image first');
+      return;
+    }
+    if (_exportDialogOpen) return;
+    _exportDialogOpen = true;
+
+    var format = await ImageClipboardService.getDefaultFormat();
+    var makeDefault = false;
+    var withSubs = _copyIncludeSubs;
+    (String, ExportFormat)? result;
+    try {
+      result = await showDialog<(String, ExportFormat)>(
+        context: context,
+        builder: (ctx) => StatefulBuilder(
+          builder: (ctx, setD) => AlertDialog(
+            backgroundColor: const Color(0xFF2D2D2D),
+            title: const Text('Export image',
+                style: TextStyle(color: Colors.white)),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                SegmentedButton<ExportFormat>(
+                  segments: [
+                    for (final f in ExportFormat.values)
+                      ButtonSegment(value: f, label: Text(f.label)),
+                  ],
+                  selected: {format},
+                  onSelectionChanged: (s) => setD(() => format = s.first),
+                ),
+                const SizedBox(height: 12),
+                CheckboxListTile(
+                  contentPadding: EdgeInsets.zero,
+                  controlAffinity: ListTileControlAffinity.leading,
+                  value: withSubs,
+                  onChanged: (v) => setD(() => withSubs = v ?? true),
+                  title: const Text('Include subtitle',
+                      style: TextStyle(color: Colors.white70, fontSize: 13)),
+                ),
+                CheckboxListTile(
+                  contentPadding: EdgeInsets.zero,
+                  controlAffinity: ListTileControlAffinity.leading,
+                  value: makeDefault,
+                  onChanged: (v) => setD(() => makeDefault = v ?? false),
+                  title: const Text(
+                      'Use these as default for clipboard (Ctrl/⌘+C)',
+                      style: TextStyle(color: Colors.white70, fontSize: 13)),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                  onPressed: () => Navigator.pop(ctx),
+                  child: const Text('Cancel')),
+              TextButton(
+                  onPressed: () => Navigator.pop(ctx, ('copy', format)),
+                  child: const Text('Copy to clipboard')),
+              ElevatedButton(
+                  onPressed: () => Navigator.pop(ctx, ('save', format)),
+                  child: const Text('Save file')),
+            ],
+          ),
+        ),
+      );
+    } finally {
+      _exportDialogOpen = false;
+    }
+    unawaited(HardwareKeyboard.instance.syncKeyboardState());
+    _focusNode.requestFocus();
+    if (result == null) return;
+
+    final (action, fmt) = result;
+    if (makeDefault) {
+      await ImageClipboardService.setDefaultFormat(fmt);
+      await _setCopyIncludeSubs(withSubs);
+    }
+
+    if (action == 'copy') {
+      await _copyImageToClipboard(fmt, withSubs);
+      return;
+    }
+
+    ui.Image? image;
+    var owned = false;
+    try {
+      final src = _imagePath!;
+      // Pasted images live in a temp folder, so save those to Downloads instead.
+      String dir;
+      if (ImageClipboardService.isPastedPath(src)) {
+        dir = (await getDownloadsDirectory())?.path ??
+            path.dirname(Platform.resolvedExecutable);
+      } else {
+        dir = path.join(path.dirname(src), 'exported_images');
+      }
+      final ts = DateTime.now()
+          .toIso8601String()
+          .substring(0, 19)
+          .replaceAll(':', '-');
+      final base = '${path.basenameWithoutExtension(src)}-$ts';
+
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+          content: Text('Encoding ${fmt.label}…'),
+          duration: const Duration(seconds: 2),
+        ));
+      }
+      final r = await _currentImageForExport(withSubtitles: withSubs);
+      image = r.$1;
+      owned = r.$2;
+      final out = await ImageClipboardService.saveTo(image, fmt, dir, base);
+      final size = await File(out).length();
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+          content: Text(
+              'Saved ${path.basename(out)} (${_formatFileSize(size)})\n$dir'),
+          backgroundColor: Colors.green,
+          duration: const Duration(seconds: 4),
+        ));
+      }
+    } catch (e) {
+      _showError('Export failed: $e');
+    } finally {
+      if (owned) image?.dispose();
+    }
+  }
+
   Future<void> _openImage([String? filePath]) async {
     String? selected = filePath;
     if (selected == null) {
@@ -12802,7 +13294,9 @@ class _PlayerScreenState extends State<PlayerScreen>
       _imageSiblings = siblings;
       _imageIndex = siblings.indexOf(chosenPath);
       _showPanel = false;
+      _imageSize = null;
     });
+    unawaited(_loadImageSize(chosenPath));
     _focusNode.requestFocus();
   }
 
@@ -12811,7 +13305,9 @@ class _PlayerScreenState extends State<PlayerScreen>
     setState(() {
       _imageIndex = (_imageIndex + delta) % _imageSiblings.length;
       _imagePath = _imageSiblings[_imageIndex];
+      _imageSize = null;
     });
+    unawaited(_loadImageSize(_imagePath!));
     _lutAppliedImageCacheKey = null;
     _lutAppliedImageCache = null;
   }
@@ -12820,8 +13316,42 @@ class _PlayerScreenState extends State<PlayerScreen>
     setState(() {
       _imagePath = null;
       _imageSiblings = [];
+      _imageSize = null;
     });
     _focusNode.requestFocus();
+  }
+
+  Widget _buildImageActionBar() {
+    Widget btn(IconData icon, String tooltip, Future<void> Function() onTap,
+            {Color color = Colors.white70}) =>
+        IconButton(
+          icon: Icon(icon, color: color, size: 20),
+          tooltip: tooltip,
+          visualDensity: VisualDensity.compact,
+          onPressed: () async {
+            await onTap();
+            if (mounted) _focusNode.requestFocus(); // keep shortcuts working
+          },
+        );
+
+    return Positioned(
+      top: 12,
+      right: 12,
+      child: Container(
+        decoration: BoxDecoration(
+          color: Colors.black54,
+          borderRadius: BorderRadius.circular(8),
+          border: Border.all(color: Colors.white24),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            btn(Icons.save_alt, 'Export AVIF / JPG / PNG (Ctrl+⌘+E)',
+                _showImageExportDialog),
+          ],
+        ),
+      ),
+    );
   }
 
   Widget _buildImageWidget() {

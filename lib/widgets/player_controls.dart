@@ -559,7 +559,6 @@ class PlayerControls extends StatelessWidget {
                                 text: ' $surahName',
                                 style: const TextStyle(
                                   color: Colors.orange,
-                                  fontWeight: FontWeight.w600,
                                 ),
                               ),
                             ],
@@ -1273,16 +1272,20 @@ class PlayerControls extends StatelessWidget {
             itemBuilder: (context) => const [
               PopupMenuItem(
                 value: 'openAvifGallery',
-                child: Text('AVIF Gallery (Ctrl+G)'),
+                child: Text('avif Gallery (Ctrl+g)'),
               ),
               PopupMenuItem(
                 value: 'openJoinImages',
-                child: Text('Join Images (Ctrl+⇧+G)'),
+                child: Text('Join Images (Ctrl+G)'),
               ),
               PopupMenuDivider(),
               PopupMenuItem(
                 value: 'openImage',
-                child: Text('Open Image (Ctrl+B)'),
+                child: Text('Open Image (Ctrl+b)'),
+              ),
+              PopupMenuItem(
+                value: 'pasteImage',
+                child: Text('Paste Image (Ctrl/⌘+v)'),
               ),
               PopupMenuItem(
                 value: 'prevImage',
@@ -1291,6 +1294,14 @@ class PlayerControls extends StatelessWidget {
               PopupMenuItem(
                 value: 'nextImage',
                 child: Text('Next Image ( } )'),
+              ),
+              PopupMenuItem(
+                value: 'copyImage',
+                child: Text('Copy Image/sub to Clipboard (Ctrl/⌘+c)'),
+              ),
+              PopupMenuItem(
+                value: 'exportImage',
+                child: Text('Export Image avif/jpg/png (Ctrl+⌘+e)'),
               ),
               PopupMenuItem(
                 value: 'open_lut_picker',

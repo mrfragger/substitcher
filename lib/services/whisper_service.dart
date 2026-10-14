@@ -55,7 +55,7 @@ class WhisperService {
     try {
       whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
       await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
-      print('Using bundled whisper: $whisperExecutablePath');
+      // print('Using bundled whisper: $whisperExecutablePath');
     } catch (e) {
       print('Could not find bundled whisper: $e');
       whisperExecutablePath = prefs.getString('whisperExecutablePath');
@@ -114,7 +114,7 @@ class WhisperService {
           File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
-        print('WhisperService using bundled ffmpeg: $_ffmpegPath');
+        // print('WhisperService using bundled ffmpeg: $_ffmpegPath');
         return;
       }
     } else if (Platform.isWindows) {
@@ -129,7 +129,7 @@ class WhisperService {
           File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
-        print('WhisperService using bundled ffmpeg: $_ffmpegPath');
+        // print('WhisperService using bundled ffmpeg: $_ffmpegPath');
         return;
       }
     } else if (Platform.isLinux) {
@@ -144,7 +144,7 @@ class WhisperService {
           File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
-        print('WhisperService using bundled ffmpeg: $_ffmpegPath');
+        // print('WhisperService using bundled ffmpeg: $_ffmpegPath');
         return;
       }
     } else if (Platform.isAndroid) {

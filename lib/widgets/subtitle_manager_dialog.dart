@@ -385,6 +385,146 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     }
   }
 
+  static final _verseRe = RegExp(r'^(\d+)\s*,\s*(\d+)\s+(.*)$', dotAll: true);
+  static final _cjkRe = RegExp(r'[\u3000-\u9FFF\uFF00-\uFFEF]');
+
+  /// Japanese/Chinese join with no space; everything else joins with one.
+  String _joinCueText(String a, String b) {
+    if (a.isEmpty) return b;
+    if (b.isEmpty) return a;
+    final noSpace =
+        _cjkRe.hasMatch(a[a.length - 1]) && _cjkRe.hasMatch(b[0]);
+    return noSpace ? '$a$b' : '$a $b';
+  }
+
+  /// Returns (outputPath, cuesBefore, versesAfter), or null if no "s,a " keys found.
+  Future<(String, int, int)?> _unsplitFile(String sourcePath) async {
+    final content =
+        (await File(sourcePath).readAsString()).replaceAll('\r\n', '\n');
+    final blocks = content.split(RegExp(r'\n\s*\n'));
+
+    final merged = <_UnsplitCue>[];
+    var cuesBefore = 0;
+    var keyedCount = 0;
+
+    for (final block in blocks) {
+      final lines = block.split('\n');
+      final ti = lines.indexWhere((l) => l.contains('-->'));
+      if (ti == -1) continue; // WEBVTT header, NOTE blocks, etc.
+      cuesBefore++;
+
+      final parts = lines[ti].split('-->');
+      final start = parts[0].trim();
+      final end = parts[1].trim().split(RegExp(r'\s+')).first;
+      final text = lines
+          .sublist(ti + 1)
+          .map((l) => l.trim())
+          .where((l) => l.isNotEmpty)
+          .join(' ');
+      if (text.isEmpty) continue;
+
+      final m = _verseRe.firstMatch(text);
+      final last = merged.isEmpty ? null : merged.last;
+
+      if (m != null) {
+        final key = '${m.group(1)}:${m.group(2)}';
+        if (last != null && last.key == key) {
+          // Same verse repeated its prefix: merge, dropping the duplicate prefix.
+          last.text = _joinCueText(last.text, m.group(3)!.trim());
+          last.end = end;
+        } else {
+          merged.add(_UnsplitCue(start, end, key, text));
+          keyedCount++;
+        }
+      } else if (last != null && last.key != null) {
+        // Continuation of the current verse.
+        last.text = _joinCueText(last.text, text);
+        last.end = end;
+      } else {
+        merged.add(_UnsplitCue(start, end, null, text));
+      }
+    }
+
+    if (keyedCount == 0) return null;
+
+    final buf = StringBuffer('WEBVTT\n\n');
+    for (final c in merged) {
+      buf.write('${c.start} --> ${c.end}\n${c.text}\n\n');
+    }
+
+    var base = path.basenameWithoutExtension(sourcePath);
+    base = base.replaceFirst(RegExp(r'_unsplit$'), '');
+    final outputPath =
+        path.join(path.dirname(sourcePath), '${base}_unsplit.vtt');
+    await File(outputPath).writeAsString(buf.toString());
+    return (outputPath, cuesBefore, keyedCount);
+  }
+
+  Future<void> _unsplitVerses(BuildContext context) async {
+    try {
+      String? newPrimary;
+      String? newSecondary;
+      var cuesBefore = 0;
+      var verses = 0;
+
+      if (_primarySubtitle != null) {
+        final r = await _unsplitFile(_primarySubtitle!);
+        if (r != null) {
+          newPrimary = r.$1;
+          cuesBefore += r.$2;
+          verses += r.$3;
+        }
+      }
+      if (_secondarySubtitle != null) {
+        final r = await _unsplitFile(_secondarySubtitle!);
+        if (r != null) {
+          newSecondary = r.$1;
+          cuesBefore += r.$2;
+          verses += r.$3;
+        }
+      }
+
+      if (newPrimary == null && newSecondary == null) {
+        if (context.mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('No verse keys (e.g. "1,5 ...") found in the selected subtitle(s)'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+        return;
+      }
+
+      setState(() {
+        if (newPrimary != null) _primarySubtitle = newPrimary;
+        if (newSecondary != null) _secondarySubtitle = newSecondary;
+      });
+      if (newPrimary != null) {
+        widget.onPrimarySelected(newPrimary);
+        WidgetsBinding.instance
+            .addPostFrameCallback((_) => _scrollToSubtitle(newPrimary!));
+      }
+      if (newSecondary != null) widget.onSecondarySelected(newSecondary);
+
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Unsplit $cuesBefore cues → $verses verses'),
+            backgroundColor: Colors.green,
+            duration: const Duration(seconds: 3),
+          ),
+        );
+      }
+    } catch (e) {
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Failed: $e'), backgroundColor: Colors.red),
+        );
+      }
+    }
+  }
+
   String _displayPath(String fullPath) {
     final parts = fullPath.split(Platform.pathSeparator);
     if (parts.length >= 2) {
@@ -522,7 +662,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                   ElevatedButton.icon(
                     onPressed: () => _createNewCaption(context),
                     icon: const Icon(Icons.add, size: 13),
-                    label: const Text('New Caption'),
+                    label: const Text('Edit Caption'),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.deepPurple.withValues(alpha: 0.85),
                       foregroundColor: Colors.white,
@@ -779,6 +919,26 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                       ),
                     ),
                   ),
+                  const SizedBox(width: 8),
+                  Tooltip(
+                    message:
+                        'Merges the cues of each Quran verse ("1,5 ...") into one cue and saves *_unsplit.vtt next to the original. Applies to primary and secondary.',
+                    child: ElevatedButton.icon(
+                      onPressed: (_primarySubtitle != null ||
+                                  _secondarySubtitle != null) &&
+                              _isQuranVerseByVerse
+                          ? () => _unsplitVerses(context)
+                          : null,
+                      icon: const Icon(Icons.merge_type, size: 16),
+                      label: const Text('Unsplit Verses'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.indigo,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 12, vertical: 8),
+                      ),
+                    ),
+                  ),
                   const SizedBox(width: 16),
                   Expanded(
                     child: TextField(
@@ -945,4 +1105,12 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       ),
     );
   }
+}
+
+class _UnsplitCue {
+  String start;
+  String end;
+  String? key;
+  String text;
+  _UnsplitCue(this.start, this.end, this.key, this.text);
 }
