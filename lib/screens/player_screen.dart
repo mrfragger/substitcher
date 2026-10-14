@@ -10,6 +10,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
 import 'package:image/image.dart' as img;
+import 'package:avif_native/avif_native.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:flutter/rendering.dart' show RenderRepaintBoundary;
 import 'dart:async';
@@ -468,7 +469,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   Size? _imageSize;
   bool _copyIncludeSubs = true;
 
-  static const _imageExtensions = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'};
+  static const _imageExtensions = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp', '.avif',};
 
   /// Subtitle margins: the displayed image's bounds in image mode, else the old 32px sides.
   ({double l, double t, double r, double b}) _subtitleMargins(BoxConstraints c) {
@@ -481,6 +482,19 @@ class _PlayerScreenState extends State<PlayerScreen>
     final iy = max(0.0, (c.maxHeight - s.height * fit) / 2);
     return (l: ix, t: iy, r: ix, b: iy);
   }
+
+  bool _isAvif(String p) => path.extension(p).toLowerCase() == '.avif';
+
+  Future<ui.Image> _decodeAvifToImage(String p) async {
+    final decoded = decodeAvif(await File(p).readAsBytes());
+    final c = Completer<ui.Image>();
+    ui.decodeImageFromPixels(decoded.frames.first.rgba, decoded.width,
+        decoded.height, ui.PixelFormat.rgba8888, c.complete);
+    return c.future;
+  }
+
+  Future<ui.Image>? _avifFuture;
+  String? _avifFutureKey;
 
   bool _isImagePath(String filePath) =>
       _imageExtensions.contains(path.extension(filePath).toLowerCase());
@@ -1339,12 +1353,13 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _applyDefaultSettings({bool forCaption = false}) async {
-      if (!forCaption && !_isYouTubeStream && _currentAudiobook == null) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('No audiobook loaded')),
-        );
-        return;
-      }
+    final inImageMode = _imagePath != null;
+    if (!forCaption && !inImageMode && !_isYouTubeStream && _currentAudiobook == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No audiobook loaded')),
+      );
+      return;
+    }
 
     setState(() {
       _selectedFont = _defaultFont;
@@ -1373,7 +1388,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
 
     // Caption editing leaves the LUT alone.
-    if (!forCaption) {
+    if (!forCaption && !inImageMode) {
       if (_defaultLutPath != null && _defaultLutName != null) {
         await _selectLut(_defaultLutPath, _defaultLutName);
         if (_availableLuts.isEmpty) await _scanAvailableLuts();
@@ -6721,8 +6736,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         }
         final file = await FilePicker.pickFile(
           type: FileType.custom,
-          // allowedExtensions: ['opus', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
-          allowedExtensions: ['opus','jpg','jpeg','png','gif','webp','bmp', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
+          allowedExtensions: ['opus','jpg','jpeg','png','gif','webp','bmp', 'avif', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
           initialDirectory: initialDir,
         );
         if (file == null) {
@@ -13288,6 +13302,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         .toLowerCase()
         .compareTo(path.basename(b).toLowerCase()));
     if (!siblings.contains(chosenPath)) siblings.add(chosenPath);
+    final wasInImageMode = _imagePath != null;
 
     setState(() {
       _imagePath = chosenPath;
@@ -13297,6 +13312,9 @@ class _PlayerScreenState extends State<PlayerScreen>
       _imageSize = null;
     });
     unawaited(_loadImageSize(chosenPath));
+    if (!wasInImageMode) {
+      await _applyDefaultSettings(forCaption: true);
+    }
     _focusNode.requestFocus();
   }
 
@@ -13346,7 +13364,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         child: Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            btn(Icons.save_alt, 'Export AVIF / JPG / PNG (Ctrl+⌘+E)',
+            btn(Icons.save_alt, 'Export avif/jpg/png (Ctrl+⌘+E)',
                 _showImageExportDialog),
           ],
         ),
@@ -13355,6 +13373,29 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Widget _buildImageWidget() {
+    if (_loadedLutData == null && _isAvif(_imagePath!)) {
+      final key = _imagePath!;
+      if (_avifFutureKey != key) {
+        _avifFutureKey = key;
+        _avifFuture = _decodeAvifToImage(key);
+      }
+      return SizedBox.expand(
+        child: FutureBuilder<ui.Image>(
+          key: ValueKey(key),
+          future: _avifFuture,
+          builder: (context, snap) {
+            if (snap.connectionState != ConnectionState.done) {
+              return const Center(child: CircularProgressIndicator(color: Colors.white70));
+            }
+            if (snap.hasError || !snap.hasData) {
+              return Center(child: Text('Cannot decode AVIF: ${snap.error}',
+                  style: const TextStyle(color: Colors.white70)));
+            }
+            return RawImage(image: snap.data, fit: BoxFit.contain);
+          },
+        ),
+      );
+    }
     if (_loadedLutData == null) {
       return SizedBox.expand(
         child: Image.file(
@@ -13411,7 +13452,19 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
 
     final bytes = await File(imagePath).readAsBytes();
-    final decoded = img.decodeImage(bytes);
+    img.Image? decoded;
+    if (_isAvif(imagePath)) {
+      final a = decodeAvif(bytes);
+      decoded = img.Image.fromBytes(
+        width: a.width,
+        height: a.height,
+        bytes: a.frames.first.rgba.buffer,
+        bytesOffset: a.frames.first.rgba.offsetInBytes,
+        numChannels: 4,
+      );
+    } else {
+      decoded = img.decodeImage(bytes);
+    }
     if (decoded == null) {
       final ext = path.extension(imagePath).toLowerCase();
       throw Exception(

@@ -109,9 +109,32 @@ class _CaptionEditOverlayState extends State<CaptionEditOverlay> {
                 ),
               ),
               const SizedBox(height: 6),
-              const Text(
-                'Enter = apply · Tab = switch line · Esc = hide · Ctrl+⌘+arrows = move caption',
-                style: TextStyle(color: Colors.white, fontSize: 11),
+              const Text.rich(
+                TextSpan(
+                  style: TextStyle(color: Colors.white, fontSize: 11),
+                  children: [
+                    TextSpan(
+                      text: 'Enter',
+                      style: TextStyle(color: Colors.greenAccent),
+                    ),
+                    TextSpan(text: ' apply  '),
+                    TextSpan(
+                      text: 'Tab',
+                      style: TextStyle(color: Colors.greenAccent),
+                    ),
+                    TextSpan(text: ' switch line  '),
+                    TextSpan(
+                      text: 'Esc',
+                      style: TextStyle(color: Colors.greenAccent),
+                    ),
+                    TextSpan(text: ' hide  '),
+                    TextSpan(
+                      text: 'Ctrl+⌘+arrows',
+                      style: TextStyle(color: Colors.greenAccent),
+                    ),
+                    TextSpan(text: ' move caption'),
+                  ],
+                ),
               ),
             ],
           ),
