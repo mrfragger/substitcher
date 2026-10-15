@@ -6,6 +6,12 @@ import '../models/audio_file.dart';
 import '../models/encoding_config.dart';
 import '../models/audiobook_metadata.dart';
 
+class _Timing {
+  int count = 0;
+  int totalUs = 0;
+  int maxUs = 0;
+}
+
 class FFmpegService {
   String? _ffmpegPath;
   String? _ffprobePath;
@@ -13,6 +19,44 @@ class FFmpegService {
   String? get ffmpegPath => _ffmpegPath;
   String? get ffprobePath => _ffprobePath;
   Function(String)? onWindowsDebugMessage;
+
+  // ───────────────────────── timing instrumentation ─────────────────────────
+  // Sums are per call, so with parallel work (semaphores) the totals exceed
+  // wall-clock time. Divide by the concurrency for a rough wall-clock estimate.
+
+  final Map<String, _Timing> _timings = {};
+
+  void _record(String label, Stopwatch sw) {
+    final t = _timings.putIfAbsent(label, () => _Timing());
+    final us = sw.elapsedMicroseconds;
+    t.count++;
+    t.totalUs += us;
+    if (us > t.maxUs) t.maxUs = us;
+  }
+
+  void resetTimings() => _timings.clear();
+
+  String timingSummary() {
+    if (_timings.isEmpty) return 'TIMING: nothing recorded';
+    final entries = _timings.entries.toList()
+      ..sort((a, b) => b.value.totalUs.compareTo(a.value.totalUs));
+    final b = StringBuffer('TIMING summary (sum of per-call times):\n');
+    for (final e in entries) {
+      final t = e.value;
+      final totalS = t.totalUs / 1e6;
+      final avgMs = t.totalUs / t.count / 1000;
+      final maxMs = t.maxUs / 1000;
+      b.writeln(
+        '  ${e.key.padRight(28)} calls=${t.count.toString().padLeft(5)}  '
+        'total=${totalS.toStringAsFixed(1).padLeft(8)}s  '
+        'avg=${avgMs.toStringAsFixed(0).padLeft(6)}ms  '
+        'max=${maxMs.toStringAsFixed(0).padLeft(6)}ms',
+      );
+    }
+    return b.toString();
+  }
+
+  void printTimings() => print(timingSummary());
 
   Future<void> ensureBinaries() async {
     await _ensureBinaries();
@@ -273,6 +317,7 @@ class FFmpegService {
 
   Future<Duration> getAudioDuration(String filePath) async {
     await _ensureBinaries();
+    final sw = Stopwatch()..start();
     try {
       final result = await Process.run(
         _ffprobePath!,
@@ -298,11 +343,15 @@ class FFmpegService {
       return Duration(milliseconds: (seconds * 1000).round());
     } catch (e) {
       throw Exception('Failed to get duration: $e');
+    } finally {
+      sw.stop();
+      _record('ffprobe duration', sw);
     }
   }
 
   Future<String> getAudioTitle(String filePath) async {
     await _ensureBinaries();
+    final sw = Stopwatch()..start();
     try {
       final result = await Process.run(
         _ffprobePath!,
@@ -326,6 +375,9 @@ class FFmpegService {
       return title;
     } catch (e) {
       return path.basenameWithoutExtension(filePath);
+    } finally {
+      sw.stop();
+      _record('ffprobe title', sw);
     }
   }
 
@@ -376,21 +428,27 @@ class FFmpegService {
 
     // print('DEBUG: Full command: $_ffmpegPath ${args.join(" ")}');
 
-    final process = await Process.start(_ffmpegPath!, args);
+    final sw = Stopwatch()..start();
+    try {
+      final process = await Process.start(_ffmpegPath!, args);
 
-    final exitCode = await process.exitCode;
+      final exitCode = await process.exitCode;
 
-    if (exitCode != 0) {
-      final stderr = await process.stderr
-          .transform(const SystemEncoding().decoder)
-          .join();
-      final stdout = await process.stdout
-          .transform(const SystemEncoding().decoder)
-          .join();
-      print('DEBUG: Exit code: $exitCode');
-      print('DEBUG: Stderr: $stderr');
-      print('DEBUG: Stdout: $stdout');
-      throw Exception('FFmpeg encoding failed: $stderr');
+      if (exitCode != 0) {
+        final stderr = await process.stderr
+            .transform(const SystemEncoding().decoder)
+            .join();
+        final stdout = await process.stdout
+            .transform(const SystemEncoding().decoder)
+            .join();
+        print('DEBUG: Exit code: $exitCode');
+        print('DEBUG: Stderr: $stderr');
+        print('DEBUG: Stdout: $stdout');
+        throw Exception('FFmpeg encoding failed: $stderr');
+      }
+    } finally {
+      sw.stop();
+      _record('encodeChapter (${config.bitrate}k)', sw);
     }
 
     onProgress(1.0);
@@ -413,6 +471,8 @@ class FFmpegService {
     final metadataFile = File(path.join(workingDir, 'ffmetadata.txt'));
     final tempOutput = path.join(workingDir, 'temp.opus');
 
+    // final totalSw = Stopwatch()..start();
+
     try {
       onProgress('Creating file list...');
 
@@ -429,6 +489,7 @@ class FFmpegService {
         await outputDir.create(recursive: true);
       }
 
+      var sw = Stopwatch()..start();
       final concatResult = await Process.run(_ffmpegPath!, [
         '-f',
         'concat',
@@ -443,6 +504,8 @@ class FFmpegService {
         'temp.opus',
         '-y',
       ], workingDirectory: workingDir);
+      sw.stop();
+      _record('concat (copy)', sw);
 
       if (concatResult.exitCode != 0) {
         throw Exception('FFmpeg concat failed: ${concatResult.stderr}');
@@ -450,6 +513,7 @@ class FFmpegService {
 
       onProgress('Extracting metadata...');
 
+      sw = Stopwatch()..start();
       final metadataResult = await Process.run(_ffmpegPath!, [
         '-y',
         '-i',
@@ -458,6 +522,8 @@ class FFmpegService {
         'ffmetadata',
         'ffmetadata.txt',
       ], workingDirectory: workingDir);
+      sw.stop();
+      _record('extract ffmetadata', sw);
 
       if (metadataResult.exitCode != 0) {
         throw Exception(
@@ -467,6 +533,7 @@ class FFmpegService {
 
       onProgress('Adding chapter markers...');
 
+      sw = Stopwatch()..start();
       await _addChapterMetadata(
         metadataFile: metadataFile,
         opusFiles: opusFiles,
@@ -475,11 +542,14 @@ class FFmpegService {
         audioRepetitions: audioRepetitions,
         useFilenameAsChapterName: useFilenameAsChapterName,
       );
+      sw.stop();
+      _record('chapter metadata (all)', sw);
 
       onProgress('Creating final audiobook...');
 
       final coverData = _getBlackCoverPng();
 
+      sw = Stopwatch()..start();
       final encodeResult = await Process.run(
         _ffmpegPath!,
         [
@@ -511,6 +581,8 @@ class FFmpegService {
         stdoutEncoding: utf8,
         stderrEncoding: utf8,
       );
+      sw.stop();
+      _record('final mux (copy)', sw);
 
       if (encodeResult.exitCode != 0) {
         throw Exception('FFmpeg failed: ${encodeResult.stderr}');
@@ -523,6 +595,10 @@ class FFmpegService {
       if (await listFile.exists()) await listFile.delete();
       if (await metadataFile.exists()) await metadataFile.delete();
       if (await File(tempOutput).exists()) await File(tempOutput).delete();
+
+      // totalSw.stop();
+      // _record('concatenateWithChapters', totalSw);
+      // printTimings();
     } catch (e) {
       try {
         if (await listFile.exists()) await listFile.delete();
@@ -862,26 +938,32 @@ class FFmpegService {
 
     onProgress('Repeating audio ${times}x...');
 
-    final result = await Process.run(
-      _ffmpegPath!,
-      [
-        '-y',
-        '-hide_banner',
-        '-loglevel', 'error',
-        '-stream_loop', '${times - 1}',
-        '-i', inputPath,
-        '-vn',
-        '-map_metadata', '-1',
-        '-c:a', 'libopus',
-        '-b:a', '${bitrate}k',
-        outputPath,
-      ],
-      stdoutEncoding: latin1,
-      stderrEncoding: latin1,
-    );
+    final sw = Stopwatch()..start();
+    try {
+      final result = await Process.run(
+        _ffmpegPath!,
+        [
+          '-y',
+          '-hide_banner',
+          '-loglevel', 'error',
+          '-stream_loop', '${times - 1}',
+          '-i', inputPath,
+          '-vn',
+          '-map_metadata', '-1',
+          '-c:a', 'libopus',
+          '-b:a', '${bitrate}k',
+          outputPath,
+        ],
+        stdoutEncoding: latin1,
+        stderrEncoding: latin1,
+      );
 
-    if (result.exitCode != 0) {
-      throw Exception('Failed to repeat audio: ${result.stderr}');
+      if (result.exitCode != 0) {
+        throw Exception('Failed to repeat audio: ${result.stderr}');
+      }
+    } finally {
+      sw.stop();
+      _record('repeatAudio (${bitrate}k x$times)', sw);
     }
 
     onProgress('Complete!');

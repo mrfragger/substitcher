@@ -429,6 +429,7 @@ class AnkiService {
       bool matchByRange = false,
       bool moveToParent = false,
     }) async {
+      _ffmpeg.resetTimings();
       onProgress('Reading CSV file...', 0.0);
 
       final resolvedMediaDir = _findMediaDir(csvPath, matchByRange: matchByRange);
@@ -552,50 +553,97 @@ class AnkiService {
       final vttDir = Directory(path.join(outputDir, timestamp, 'vtt'));
       await vttDir.create(recursive: true);
 
-      final cpuCount = Platform.numberOfProcessors;
-      final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
+      final maxConcurrent = (Platform.numberOfProcessors * 0.75).round().clamp(1, 8);
       final semaphore = _Semaphore(maxConcurrent);
       int completedRepeat = 0;
       final repeatFutures = <Future>[];
 
+      final encodedDir = Directory(path.join(vttDir.path, 'output', 'chapters', 'encodedchapters'));
+      await encodedDir.create(recursive: true);
+
+      // One repetition means nothing to repeat: encode the source straight to
+      // the target bitrate (one lossy generation, one ffmpeg run per verse).
+      final singlePass = audioRepetitions == 1;
+      final singleConfig = EncodingConfig(
+        bitrate: bitrate,
+        author: '',
+        title: '',
+        year: '',
+      );
+
+      final repeatSw = Stopwatch()..start();
       for (int i = 0; i < chapters.length; i++) {
         final chapter = chapters[i];
         final paddedNum = (i + 1).toString().padLeft(4, '0');
-        final chapterOutputPath = path.join(vttDir.path, '$paddedNum.opus');
         final audioFile = chapter['audioFile'] as String;
         final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
-        final chapterIndex = i;
 
         final future = semaphore.acquire().then((_) async {
           try {
-            await _ffmpeg.repeatAudio(
-              inputPath: audioPath,
-              outputPath: chapterOutputPath,
-              times: audioRepetitions,
-              bitrate: 192,
-              onProgress: (_) {},
-            );
+            if (singlePass) {
+              final finalOpusPath = path.join(encodedDir.path, '$paddedNum.opus');
 
-            final duration = await _ffmpeg.getAudioDuration(chapterOutputPath);
+              await _ffmpeg.encodeChapter(
+                inputPath: audioPath,
+                outputPath: finalOpusPath,
+                config: singleConfig,
+                onProgress: (_) {},
+              );
 
-            await _createVttFile(
-              vttPath: path.join(vttDir.path, '$paddedNum.vtt'),
-              front: chapter['front']!,
-              back: chapter['back']!,
-              duration: duration,
-              repetitions: audioRepetitions,
-              sura: chapter['sura'] as String?,
-              aya: chapter['aya'] as String?,
-            );
+              // Duration comes from the FINAL file, so cue times match the
+              // stitched audiobook exactly.
+              final duration = await _ffmpeg.getAudioDuration(finalOpusPath);
 
-            await File(path.join(vttDir.path, '$paddedNum.back'))
-                .writeAsString(chapter['back']!);
+              await _createVttFile(
+                vttPath: path.join(encodedDir.path, '$paddedNum.vtt'),
+                front: chapter['front']!,
+                back: chapter['back']!,
+                duration: duration,
+                repetitions: 1,
+                sura: chapter['sura'] as String?,
+                aya: chapter['aya'] as String?,
+              );
 
-            completedRepeat++;
-            onProgress(
-              'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length} by encoding to 192 kbps vbr opus',
-              0.2 + (completedRepeat / chapters.length) * 0.5,
-            );
+              await File(path.join(encodedDir.path, '$paddedNum.back'))
+                  .writeAsString(chapter['back']!);
+
+              completedRepeat++;
+              onProgress(
+                'Encoding to $bitrate kbps vbr opus $completedRepeat/${chapters.length}',
+                0.2 + (completedRepeat / chapters.length) * 0.65,
+              );
+            } else {
+              final chapterOutputPath = path.join(vttDir.path, '$paddedNum.opus');
+
+              await _ffmpeg.repeatAudio(
+                inputPath: audioPath,
+                outputPath: chapterOutputPath,
+                times: audioRepetitions,
+                bitrate: 192,
+                onProgress: (_) {},
+              );
+
+              final duration = await _ffmpeg.getAudioDuration(chapterOutputPath);
+
+              await _createVttFile(
+                vttPath: path.join(vttDir.path, '$paddedNum.vtt'),
+                front: chapter['front']!,
+                back: chapter['back']!,
+                duration: duration,
+                repetitions: audioRepetitions,
+                sura: chapter['sura'] as String?,
+                aya: chapter['aya'] as String?,
+              );
+
+              await File(path.join(vttDir.path, '$paddedNum.back'))
+                  .writeAsString(chapter['back']!);
+
+              completedRepeat++;
+              onProgress(
+                'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length} by encoding to 192 kbps vbr opus',
+                0.2 + (completedRepeat / chapters.length) * 0.5,
+              );
+            }
           } finally {
             semaphore.release();
           }
@@ -605,27 +653,29 @@ class AnkiService {
       }
 
       await Future.wait(repeatFutures);
+      // print('STAGE ${singlePass ? "single-pass encode" : "repeat/stage"} wall-clock: '
+      //     '${(repeatSw.elapsedMilliseconds / 1000).toStringAsFixed(1)}s '
+      //     '(maxConcurrent=$maxConcurrent, chapters=${chapters.length})');
 
-      onProgress('Encoding chapters to opus...', 0.7);
+      if (!singlePass) {
+        onProgress('Encoding chapters to opus...', 0.7);
 
-      final encodedDir = Directory(path.join(vttDir.path, 'output', 'chapters', 'encodedchapters'));
-      await encodedDir.create(recursive: true);
+        final opusChapterFiles = vttDir
+            .listSync()
+            .where((e) => e is File && e.path.endsWith('.opus'))
+            .cast<File>()
+            .toList()
+          ..sort((a, b) => a.path.compareTo(b.path));
 
-      final opusChapterFiles = vttDir
-          .listSync()
-          .where((e) => e is File && e.path.endsWith('.opus'))
-          .cast<File>()
-          .toList()
-        ..sort((a, b) => a.path.compareTo(b.path));
-
-      await _encodeToOpusParallel(
-        mp3Files: opusChapterFiles,
-        outputDir: encodedDir,
-        bitrate: bitrate,
-        onProgress: (current, total) {
-          onProgress('Encoding to $bitrate kbps vbr opus $current/$total', 0.7 + (current / total) * 0.15);
-        },
-      );
+        await _encodeToOpusParallel(
+          mp3Files: opusChapterFiles,
+          outputDir: encodedDir,
+          bitrate: bitrate,
+          onProgress: (current, total) {
+            onProgress('Encoding to $bitrate kbps vbr opus $current/$total', 0.7 + (current / total) * 0.15);
+          },
+        );
+      }
 
       for (final file in vttDir.listSync()) {
         if (file is File && (file.path.endsWith('.vtt') || file.path.endsWith('.back'))) {
@@ -841,8 +891,7 @@ class AnkiService {
       }) async {
         await _ffmpeg.ensureBinaries();
 
-        final cpuCount = Platform.numberOfProcessors;
-        final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
+        final maxConcurrent = (Platform.numberOfProcessors * 0.75).round().clamp(1, 8);
 
         int completed = 0;
         final futures = <Future>[];
@@ -855,6 +904,7 @@ class AnkiService {
           year: '',
         );
 
+        final encodeSw = Stopwatch()..start();
         for (final file in mp3Files) {
           final future = semaphore.acquire().then((_) async {
             try {
@@ -868,6 +918,7 @@ class AnkiService {
                 onProgress: (_) {},
               );
 
+
               completed++;
               onProgress(completed, mp3Files.length);
             } finally {
@@ -879,6 +930,7 @@ class AnkiService {
         }
 
         await Future.wait(futures);
+        // print('STAGE encode wall-clock: ${(encodeSw.elapsedMilliseconds / 1000).toStringAsFixed(1)}s');
       }
 
       Future<void> _createVttFile({
