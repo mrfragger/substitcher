@@ -4242,6 +4242,10 @@ class _PlayerScreenState extends State<PlayerScreen>
       await prefs.setString('colorPalette_${_currentAudiobook!.path}',
           _currentColorPalette!.name);
     }
+    await prefs.setString('fontColorOverride_${_currentAudiobook!.path}',
+        _fontColorOverride.name);
+    await prefs.setBool('blurShadow_${_currentAudiobook!.path}',
+        _blurShadowEnabled);
   }
 
   Future<void> _loadFontSettings(String audiobookPath) async {
@@ -4249,6 +4253,9 @@ class _PlayerScreenState extends State<PlayerScreen>
     final savedFont = prefs.getString('font_$audiobookPath');
     final savedFontSize = prefs.getDouble('fontSize_$audiobookPath');
     final savedColorPalette = prefs.getString('colorPalette_$audiobookPath');
+    final savedFontColorOverride =
+        prefs.getString('fontColorOverride_$audiobookPath');
+    final savedBlurShadow = prefs.getBool('blurShadow_$audiobookPath');
     final savedConversionType =
         prefs.getString('conversionType_$audiobookPath');
     final savedLineSpacing = prefs.getDouble('lineSpacing_$audiobookPath');
@@ -4288,6 +4295,21 @@ class _PlayerScreenState extends State<PlayerScreen>
         );
         _currentColorPalette = palette;
         _selectedColorIndex = ColorPalette.presets.indexOf(palette);
+      }
+
+      if (savedFontColorOverride != null) {
+        _fontColorOverride = FontColorOverride.values.firstWhere(
+          (o) => o.name == savedFontColorOverride,
+          orElse: () => FontColorOverride.none,
+        );
+        _blurShadowEnabled = savedBlurShadow ?? false;
+      } else {
+        final isWhiteGroup = _currentColorPalette != null &&
+            (_currentColorPalette!.colors.length == 20 ||
+                _currentColorPalette!.colors.length == 12);
+        _fontColorOverride =
+            isWhiteGroup ? FontColorOverride.white : FontColorOverride.none;
+        _blurShadowEnabled = !isWhiteGroup;
       }
 
       if (savedConversionType != null) {

@@ -27,12 +27,15 @@ class FontDatabase {
     'Yang Bagus': FontMetadata(fontName: 'Yang Bagus', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
 
  // ==================== free/foreign/languages ====================
-     'Noto Sans SC': FontMetadata(fontName: 'Noto Sans SC', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'Noto Sans JP': FontMetadata(fontName: 'Noto Sans JP', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'IBM Plex Sans KR': FontMetadata(fontName: 'IBM Plex Sans KR', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'Gentium': FontMetadata(fontName: 'Gentium', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      '0xProto': FontMetadata(fontName: '0xProto', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'Gentium': FontMetadata(fontName: 'Gentium', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'IBMPlexSans Japanese': FontMetadata(fontName: 'IBMPlexSans Japanese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'IBMPlexSans Korean': FontMetadata(fontName: 'IBMPlexSans Korean', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'KaloSans Chinese (Simplified)': FontMetadata(fontName: 'KaloSans Chinese (Simplified)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Lato': FontMetadata(fontName: 'Lato', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'MiSans Devanagari': FontMetadata(fontName: 'MiSans Devanagari', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
      // ==================== demo/sEeSaWcAsE ====================

@@ -1520,7 +1520,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
               setState(() {
                 _completedFiles++;
                 _progress = _completedFiles / _files.length;
-                _statusMessage = 'Encoded $_completedFiles/${_files.length}: $titleForDisplay';
+                _statusMessage = 'Encoding $_completedFiles/${_files.length}: $titleForDisplay';
               });
             }
           } finally {

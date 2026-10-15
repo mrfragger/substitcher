@@ -161,12 +161,16 @@ only 1-9, basic latin and ligatures
 - set font and color for each one top and bottom 
 - converts srt to vtt automatically
 - Split Long Lines (like Quran for long ayah) creating filename_split.vtt
+- Unsplit verses (combines split lines to one so Quran ayah can be displayed as one)
 - splits characters and duration into 1/2 if characters over 160
 - splits characters and duration into 1/3 if characters over 240
 - splits characters and duration into 1/4 if characters over 320
 - splits characters and duration into 1/5 if characters over 400
 - splits characters and duration into 1/6 if characters over 480
-
+- create Edit Caption vtt to show fancy fonts with various color palettes
+- can do two lines, text wraps so one line can show 5 lines for instance
+- first line loads then -> advanced to second line
+- Ctrl+c/cmd+c copy image to clipboard and Ctrl+v/cmd+v paste image from clipboard
 ![](images/bilingualsubs.jpg)
 
 ### Sleep Timer
@@ -383,13 +387,6 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - from https://hadeethenc.com and takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
-### vttshow Slide Presentation
-- open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
-- edit vttshow.vtt to show fancy fonts with various color palettes
-- can do two lines, text wraps so one line can show 5 lines for instance
-- first line loads then -> or spacebar advanced to second line
-- automatically saves font properties
-- no sound, it loads a silent 60 minute opus file
 
 ### Installation
 <details>
@@ -439,11 +436,6 @@ yay -S substitcher-bin
 ```
 ```bash
 paru -S substitcher-bin
-```
-
-Flatpak (no longer supported, use AppImage instead)
-```bash
-flatpak install substitcher-x64.flatpak
 ```
 </details>
 
