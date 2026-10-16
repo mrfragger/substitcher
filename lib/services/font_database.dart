@@ -37,6 +37,7 @@ class FontDatabase {
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'Scheherazade New Bold': FontMetadata(fontName: 'Scheherazade New Bold', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
      // ==================== demo/sEeSaWcAsE ====================
        'Devo': FontMetadata(fontName: 'Devo', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
