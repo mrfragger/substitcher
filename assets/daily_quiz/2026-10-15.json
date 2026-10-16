@@ -1,0 +1,749 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْوَقْتِ فِي الْقُرْآنِ",
+        "nameEn": "Terms of Time in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "اللَّيْلَ",
+            "en": "the night",
+            "ref": "10:67",
+            "verse": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ",
+            "verseEn": "It is He who made for you the night to rest therein and the day, giving sight. Indeed in that are signs for a people who listen."
+          },
+          {
+            "ar": "النَّهَارِ",
+            "en": "and the day",
+            "ref": "23:80",
+            "verse": "وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَـٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
+            "verseEn": "And it is He who gives life and causes death, and His is the alternation of the night and the day. Then will you not reason?"
+          },
+          {
+            "ar": "أَجَلٌ",
+            "en": "(the) term",
+            "ref": "6:60",
+            "verse": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌۭ مُّسَمًّۭى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein [i.e., by day] that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do."
+          },
+          {
+            "ar": "الْوَقْتِ",
+            "en": "(of) the time",
+            "ref": "38:81",
+            "verse": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+            "verseEn": "Until the Day of the time well-known.\""
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتُ الْمَاءِ وَالْبَحْرِ",
+        "nameEn": "Water and Sea Travel Terms in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "مَاءً",
+            "en": "water",
+            "ref": "16:65",
+            "verse": "وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَسْمَعُونَ",
+            "verseEn": "And Allāh has sent down rain from the sky and given life thereby to the earth after its lifelessness. Indeed in that is a sign for a people who listen."
+          },
+          {
+            "ar": "الْبَحْرِ",
+            "en": "and the sea",
+            "ref": "30:41",
+            "verse": "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ",
+            "verseEn": "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned so He [i.e., Allāh] may let them taste part of [the consequence of] what they have done that perhaps they will return [to righteousness]."
+          },
+          {
+            "ar": "عُيُونٍ",
+            "en": "and springs",
+            "ref": "44:25",
+            "verse": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍۢ وَعُيُونٍۢ",
+            "verseEn": "How much they left behind of gardens and springs"
+          },
+          {
+            "ar": "الْفُلْكَ",
+            "en": "the ships",
+            "ref": "31:31",
+            "verse": "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
+            "verseEn": "Do you not see that ships sail through the sea by the favor of Allāh that He may show you of His signs? Indeed in that are signs for everyone patient and grateful."
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتُ الرُّؤْيَا وَتَأْوِيلِهَا فِي سُورَةِ يُوسُفَ",
+        "nameEn": "Dream Interpretation Terms in Surah Yusuf",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "رُؤْيَاكَ",
+            "en": "your vision",
+            "ref": "12:5",
+            "verse": "قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّۭ مُّبِينٌۭ",
+            "verseEn": "He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy."
+          },
+          {
+            "ar": "نَبَّأْتُكُمَا",
+            "en": "I will inform both of you",
+            "ref": "12:37",
+            "verse": "قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ",
+            "verseEn": "He said, \"You will not receive food that is provided to you except that I will inform you of its interpretation before it comes to you. That is from what my Lord has taught me. Indeed, I have left the religion of a people who do not believe in Allāh, and they, in the Hereafter, are disbelievers."
+          },
+          {
+            "ar": "نَجَا",
+            "en": "was saved",
+            "ref": "12:45",
+            "verse": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+            "verseEn": "But the one who was freed and remembered after a time said, \"I will inform you of its interpretation, so send me forth.\""
+          },
+          {
+            "ar": "يُغَاثُ",
+            "en": "will be given abundant rain",
+            "ref": "12:49",
+            "verse": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ",
+            "verseEn": "Then will come after that a year in which the people will be given rain and in which they will press [olives and grapes].\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالٌ مُضَارِعَةٌ بِصِيغَةِ الْجَمْعِ فِي سُورَةِ الْبَقَرَةِ",
+        "nameEn": "Present Tense Verbs in Surah Al-Baqarah (Third Person Plural)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يُوقِنُونَ",
+            "en": "firmly believe",
+            "ref": "2:4",
+            "verse": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "verseEn": "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith]."
+          },
+          {
+            "ar": "يُبْصِرُونَ",
+            "en": "(do) they see",
+            "ref": "2:17",
+            "verse": "مَثَلُهُمْ كَمَثَلِ ٱلَّذِى ٱسْتَوْقَدَ نَارًۭا فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِى ظُلُمَـٰتٍۢ لَّا يُبْصِرُونَ",
+            "verseEn": "Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see."
+          },
+          {
+            "ar": "يَعْلَمُونَ",
+            "en": "know",
+            "ref": "2:78",
+            "verse": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+            "verseEn": "And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming."
+          },
+          {
+            "ar": "يَكْتُبُونَ",
+            "en": "write",
+            "ref": "2:79",
+            "verse": "فَوَيْلٌۭ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَـٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَوَيْلٌۭ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌۭ لَّهُم مِّمَّا يَكْسِبُونَ",
+            "verseEn": "So woe to those who write the \"scripture\" with their own hands, then say, \"This is from Allāh,\" in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سبحان",
+    "display": "سُبْحَانَ",
+    "hint": "A phrase of glorification often said by Muslims, meaning 'glory be to Allah'.",
+    "verseRef": "30:17",
+    "arabicVerse": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+    "verse": "30:17 - So exalted is Allāh when you reach the evening and when you reach the morning."
+  },
+  "deduction": {
+    "title": "Justice Among the Merchants",
+    "intro": "A figure stood before a people consumed by the lure of profit, calling them to honesty and fairness in their dealings. This servant of Allah warned against giving short measure and tampering with the scales. The people refused to listen, threatening to banish this individual from their land. The earth itself would rise up in judgment against them. Who is this figure that stood for justice among the merchants?",
+    "clues": [
+      "I was sent as a messenger to a people who were deeply immersed in trade and commerce.",
+      "My people gave short measure when weighing goods for others.",
+      "They threatened to expel me from the land if I persisted in calling them to faith.",
+      "I am remembered as the most eloquent speaker among the prophets.",
+      "My people were seized by a violent earthquake that left them lifeless in their homes.",
+      "I was sent to the people of Madyan in the northern Hijaz."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Shu'ayb",
+          "Prophet Ishaq",
+          "Prophet Isma'il",
+          "Prophet Zakariya",
+          "Prophet Yahya"
+        ],
+        "answer": "Prophet Shu'ayb"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Threatened with expulsion from the land",
+          "Cast into a blazing fire by my people",
+          "Confronted the magicians of a mighty pharaoh",
+          "Faced the demand to produce a she-camel from rock",
+          "Witnessed the destruction of my city by an angelic host"
+        ],
+        "answer": "Threatened with expulsion from the land"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The land of Madyan",
+          "The land of Egypt",
+          "Mount Sinai",
+          "The city of Sodom",
+          "The land of Canaan"
+        ],
+        "answer": "The land of Madyan"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "My people were seized by a violent earthquake",
+          "My people were drowned in a great flood",
+          "My people were transformed into apes",
+          "My people were scattered by a screaming wind",
+          "I was saved while inside the belly of a great fish"
+        ],
+        "answer": "My people were seized by a violent earthquake"
+      }
+    },
+    "verseRef": "11:87",
+    "arabic": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+    "verse": "They said, \"O Shuʿayb, does your prayer [i.e., religion] command you that we should leave what our fathers worship or not do with our wealth what we please? Indeed, you are the forbearing, the discerning!\" (11:87)"
+  },
+  "scramble": {
+    "verseRef": "98:7",
+    "reference": "Surah Al-Bayyinah (98:7)",
+    "segments": [
+      "إِنَّ الَّذِينَ آمَنُوا",
+      "وَعَمِلُوا الصَّالِحَاتِ",
+      "أُولَٰئِكَ هُمْ",
+      "خَيْرُ الْبَرِيَّةِ"
+    ],
+    "translations": [
+      "Indeed those who believe",
+      "and do righteous deeds",
+      "those  they",
+      "(are the) best (of) the creatures"
+    ],
+    "hint": "This verse describes the best of creation as those who believe and do righteous deeds.",
+    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+    "words": [
+      "إِنَّ ٱلَّذِينَ ءَامَنُوا۟",
+      "وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ",
+      "أُو۟لَـٰٓئِكَ هُمْ",
+      "خَيْرُ ٱلْبَرِيَّةِ"
+    ],
+    "verseEn": "Indeed, they who have believed and done righteous deeds - those are the best of creatures."
+  },
+  "roothive": {
+    "center": "ك",
+    "outer": [
+      "ت",
+      "م",
+      "ل",
+      "ا",
+      "و",
+      "ي"
+    ],
+    "root": {
+      "letters": "ملك",
+      "display": "م ل ك",
+      "translit": "m-l-k",
+      "meaning": "The core idea is ownership and sovereign control. From this root, different word patterns grow to express a king, a kingdom, dominion, an angel as a messenger under God's authority, or something that is owned.",
+      "occurrences": 206,
+      "lemmaCount": 9
+    },
+    "words": [
+      {
+        "w": "اكل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَكَلَ",
+            "gloss": "eat",
+            "type": "verb",
+            "root": "أكل",
+            "count": 93,
+            "ref": "5:3",
+            "pos": 17,
+            "alt": [
+              "eating",
+              "ate"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "أُكُل",
+            "gloss": "producing fruit",
+            "type": "noun",
+            "root": "أكل",
+            "count": 7,
+            "ref": "34:16",
+            "pos": 10
+          },
+          {
+            "lemma": "أَكْل",
+            "gloss": "devouring",
+            "type": "verbal noun",
+            "root": "أكل",
+            "count": 4,
+            "ref": "89:19",
+            "pos": 3
+          },
+          {
+            "lemma": "آكِل",
+            "gloss": "eat",
+            "type": "active participle",
+            "root": "أكل",
+            "count": 3,
+            "ref": "23:20",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "كال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كالُ",
+            "gloss": "measure",
+            "type": "verb",
+            "root": "كيل",
+            "count": 2,
+            "ref": "17:35",
+            "pos": 4,
+            "alt": [
+              "give by measure"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كتم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَتَمَ",
+            "gloss": "conceal",
+            "type": "verb",
+            "root": "كتم",
+            "count": 21,
+            "ref": "2:140",
+            "pos": 21,
+            "alt": [
+              "concealed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كلم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَلَّمَ",
+            "gloss": "speak",
+            "type": "verb",
+            "root": "كلم",
+            "count": 20,
+            "ref": "2:253",
+            "pos": 9,
+            "alt": [
+              "spoke",
+              "could be made to speak"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "كَلِم",
+            "gloss": "words",
+            "type": "noun",
+            "root": "كلم",
+            "count": 4,
+            "ref": "4:46",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "كيل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَيْل",
+            "gloss": "measurement",
+            "type": "noun",
+            "root": "كيل",
+            "count": 10,
+            "ref": "12:60",
+            "pos": 6,
+            "alt": [
+              "measure"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ملك",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَلَك",
+            "gloss": "angel",
+            "type": "noun",
+            "root": "ملك",
+            "count": 88,
+            "ref": "6:8",
+            "pos": 5,
+            "alt": [
+              "angels"
+            ]
+          },
+          {
+            "lemma": "مُلْك",
+            "gloss": "dominion",
+            "type": "noun",
+            "root": "ملك",
+            "count": 48,
+            "ref": "2:102",
+            "pos": 6,
+            "alt": [
+              "kingdom"
+            ]
+          },
+          {
+            "lemma": "مَلِك",
+            "gloss": "king",
+            "type": "noun",
+            "root": "ملك",
+            "count": 15,
+            "ref": "2:246",
+            "pos": 17,
+            "alt": [
+              "kings"
+            ]
+          },
+          {
+            "lemma": "مَلْك",
+            "gloss": "will",
+            "type": "noun",
+            "root": "ملك",
+            "count": 1,
+            "ref": "20:87",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "وكل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وُكِّلَ",
+            "gloss": "has been put in charge",
+            "type": "verb",
+            "root": "وكل",
+            "count": 2,
+            "ref": "32:11",
+            "pos": 6,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "اكمل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَكْمَلْ",
+            "gloss": "complete",
+            "type": "verb",
+            "root": "كمل",
+            "count": 2,
+            "ref": "2:185",
+            "pos": 36,
+            "alt": [
+              "have perfected"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "توكل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَوَكَّلْ",
+            "gloss": "put our trust",
+            "type": "verb",
+            "root": "وكل",
+            "count": 40,
+            "ref": "8:49",
+            "pos": 12,
+            "alt": [
+              "puts trust",
+              "put trust"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "كلام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كَلام",
+            "gloss": "words",
+            "type": "noun",
+            "root": "كلم",
+            "count": 4,
+            "ref": "2:75",
+            "pos": 10,
+            "alt": [
+              "words of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كلما",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كُلَّما",
+            "gloss": "every time",
+            "type": "noun",
+            "root": "كلل",
+            "count": 15,
+            "ref": "2:20",
+            "pos": 5,
+            "alt": [
+              "whenever"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مالك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مالِك",
+            "gloss": "master",
+            "type": "active participle",
+            "root": "ملك",
+            "count": 4,
+            "ref": "1:4",
+            "pos": 1,
+            "alt": [
+              "owner",
+              "owners"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متكي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُتَّكِئ",
+            "gloss": "reclining",
+            "type": "active participle",
+            "root": "وكأ",
+            "count": 8,
+            "ref": "18:31",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "ملكت",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَلَكَتْ",
+            "gloss": "possess",
+            "type": "verb",
+            "root": "ملك",
+            "count": 44,
+            "ref": "4:3",
+            "pos": 23,
+            "alt": [
+              "have power",
+              "rightfully possess"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مليك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَلِيك",
+            "gloss": "king",
+            "type": "noun",
+            "root": "ملك",
+            "count": 1,
+            "ref": "54:55",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "وكيل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "وَكِيل",
+            "gloss": "guardian",
+            "type": "noun",
+            "root": "وكل",
+            "count": 24,
+            "ref": "4:81",
+            "pos": 24,
+            "alt": [
+              "disposer of affairs",
+              "trustee"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اكتال",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اكْتالُ",
+            "gloss": "get measure",
+            "type": "verb",
+            "root": "كيل",
+            "count": 2,
+            "ref": "12:63",
+            "pos": 13,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اكمام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَكْمام",
+            "gloss": "coverings",
+            "type": "noun",
+            "root": "كمم",
+            "count": 2,
+            "ref": "41:47",
+            "pos": 10,
+            "alt": [
+              "sheaths"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متوكل",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُتَوَكِّل",
+            "gloss": "ones who put trust",
+            "type": "active participle",
+            "root": "وكل",
+            "count": 4,
+            "ref": "3:159",
+            "pos": 30,
+            "alt": [
+              "trust"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مكيال",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مِكْيال",
+            "gloss": "measure",
+            "type": "noun",
+            "root": "كيل",
+            "count": 2,
+            "ref": "11:84",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "ملكوت",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَلَكُوت",
+            "gloss": "dominion",
+            "type": "noun",
+            "root": "ملك",
+            "count": 4,
+            "ref": "6:75",
+            "pos": 4,
+            "alt": [
+              "kingdom",
+              "is dominion"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مملوك",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَمْلُوك",
+            "gloss": "owned",
+            "type": "passive participle",
+            "root": "ملك",
+            "count": 1,
+            "ref": "16:75",
+            "pos": 5
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 55,
+    "featuredRoot": "ملك"
+  }
+}

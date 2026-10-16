@@ -9,20 +9,20 @@ import 'services/font_loader.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MediaKit.ensureInitialized();
-  
+
   final packageInfo = await PackageInfo.fromPlatform();
   final version = packageInfo.version;
   final appTitle = 'SubStitcher $version';
-    
+
   if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
     await windowManager.ensureInitialized();
-    
+
     WindowOptions windowOptions = WindowOptions(
       title: appTitle,
       skipTaskbar: false,
       titleBarStyle: TitleBarStyle.normal,
     );
-    
+
     await windowManager.waitUntilReadyToShow(windowOptions, () async {
       await windowManager.setTitle(appTitle);
       await windowManager.maximize();
@@ -30,15 +30,15 @@ void main() async {
       await windowManager.focus();
     });
   }
-  
+
   await CustomFontLoader.loadFonts();
-  
+
   runApp(MyApp(title: appTitle));
 }
 
 class MyApp extends StatelessWidget {
   final String title;
-  
+
   const MyApp({super.key, required this.title});
 
   @override
@@ -61,6 +61,9 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFF121212),
         cardColor: const Color(0xFF2A2A2A),
+        appBarTheme: const AppBarTheme(
+          titleTextStyle: TextStyle(fontSize: 14, color: Colors.white),
+        ),
         snackBarTheme: const SnackBarThemeData(
           backgroundColor: Color(0xFF2A2A2A),
           contentTextStyle: TextStyle(color: Colors.white),

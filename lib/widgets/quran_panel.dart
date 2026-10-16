@@ -446,7 +446,7 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   Future<void> _openAllahAudiobooksLink() async {
-    final uri = Uri.parse('https://t.me/AllahAudiobooks');
+    final uri = Uri.parse('https://t.me/QuranSubs');
     if (await canLaunchUrl(uri)) {
       await launchUrl(uri, mode: LaunchMode.externalApplication);
     }
@@ -3280,7 +3280,7 @@ class _QuranPanelState extends State<QuranPanel> {
                            children: [
                              Tooltip(
                                message: 'Load a Quran Verse by Verse audiobook to enable navigation —\n'
-                                   'https://t.me/AllahAudiobooks\n'
+                                   'https://t.me/QuranSubs\n'
                                    '(click icon to open link)',
                                waitDuration: const Duration(milliseconds: 200),
                                textStyle: const TextStyle(color: Colors.white, fontSize: 12),

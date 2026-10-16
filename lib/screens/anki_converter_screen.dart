@@ -635,7 +635,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                         ],
                       ),
                     ),
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 12),
                     IntrinsicHeight(
                       child: Row(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -646,22 +646,22 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                         ],
                       ),
                     ),
-                    const SizedBox(height: 12),
+                    const SizedBox(height: 6),
                     _buildConfigurationSection(),
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 12),
                     if (_availableColumns.isNotEmpty) ...[
                       _buildColumnSelectionSection(),
-                      const SizedBox(height: 24),
+                      const SizedBox(height: 12),
                     ],
                     if (_previewRows.isNotEmpty &&
                         _frontColumn != null &&
                         _backColumn != null &&
                         _audioColumn != null) ...[
                       _buildPreviewSection(),
-                      const SizedBox(height: 24),
+                      const SizedBox(height: 12),
                     ],
                     if (_csvPath != null && !_showCsvPreview) ...[
-                      const SizedBox(height: 8),
+                      const SizedBox(height: 6),
                       Center(
                         child: ElevatedButton.icon(
                           onPressed: _loadFullCsv,
@@ -676,10 +676,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       ),
                     ],
                     if (_showCsvPreview) ...[
-                      const SizedBox(height: 24),
+                      const SizedBox(height: 12),
                       _buildCsvPreview(),
                     ],
-                    const SizedBox(height: 32),
+                    const SizedBox(height: 16),
                     if (_isProcessing) ...[
                       _buildProcessingProgress(),
                       const SizedBox(height: 4),
@@ -1797,7 +1797,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 ],
               ),
             ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 8),
           RichText(
             text: TextSpan(
               style: const TextStyle(color: Colors.white70, fontSize: 14),
@@ -1901,7 +1901,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             'Select which columns contain Front (question), Back (answer), and Audio',
             style: TextStyle(color: Colors.white54, fontSize: 12),
           ),
-          const SizedBox(height: 20),
+          const SizedBox(height: 10),
           Row(
             children: [
               Expanded(
@@ -2011,7 +2011,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ],
           ),
           if (_useSuraAyah) ...[
-            const SizedBox(height: 16),
+            const SizedBox(height: 8),
             Row(
               children: [
                 Expanded(
@@ -2123,7 +2123,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               ),
             ],
           ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 6),
           ..._previewRows.take(previewCount).map((row) {
             final frontKey = _availableColumns[_frontColumn!];
             final backKey = _availableColumns[_backColumn!];
@@ -2191,7 +2191,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 ),
               ],
             ),
-            const SizedBox(height: 20),
+            const SizedBox(height: 6),
             Row(
               children: [
                 Expanded(
@@ -2245,7 +2245,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 ),
               ],
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 6),
                       Row(
                         children: [
                           Expanded(
@@ -2359,7 +2359,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                         ],
                       ),
             if (_csvPath != null) ...[
-              const SizedBox(height: 16),
+              const SizedBox(height: 6),
               Container(
                 padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
@@ -2416,7 +2416,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             children: [
               const SizedBox(
                 width: 20,
-                height: 20,
+                height: 12,
                 child: CircularProgressIndicator(
                   strokeWidth: 2,
                   valueColor: AlwaysStoppedAnimation<Color>(Colors.deepPurple),
@@ -2448,7 +2448,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               ],
             ],
           ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 10),
           LinearProgressIndicator(
             value: _processingProgress,
             backgroundColor: Colors.white12,
@@ -2540,7 +2540,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           ],
         ),
         if (_lastProcessingTime != null && !_isProcessing) ...[
-          const SizedBox(height: 16),
+          const SizedBox(height: 8),
           Container(
             padding: const EdgeInsets.all(12),
             decoration: BoxDecoration(
