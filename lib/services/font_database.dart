@@ -19,6 +19,7 @@ class FontDatabase {
     'Ketupat Ramadhan': FontMetadata(fontName: 'Ketupat Ramadhan', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Kingthings Sans': FontMetadata(fontName: 'Kingthings Sans', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Marhey': FontMetadata(fontName: 'Marhey', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Peralta': FontMetadata(fontName: 'Peralta', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Righteous': FontMetadata(fontName: 'Righteous', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Shojumaru': FontMetadata(fontName: 'Shojumaru', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Spicy Rice': FontMetadata(fontName: 'Spicy Rice', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
@@ -30,6 +31,7 @@ class FontDatabase {
      '0xProto': FontMetadata(fontName: '0xProto', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Gentium': FontMetadata(fontName: 'Gentium', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'IBMPlexSans Japanese': FontMetadata(fontName: 'IBMPlexSans Japanese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'IBMPlexSans Japanese FurifontSans': FontMetadata(fontName: 'IBMPlexSans Japanese FurifontSans', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'IBMPlexSans Korean': FontMetadata(fontName: 'IBMPlexSans Korean', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'KaloSans Chinese (Simplified)': FontMetadata(fontName: 'KaloSans Chinese (Simplified)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Lato': FontMetadata(fontName: 'Lato', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
@@ -60,7 +62,6 @@ class FontDatabase {
      'Row Vatikano': FontMetadata(fontName: 'Row Vatikano', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
-     'Zerothen': FontMetadata(fontName: 'Zerothen', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
 
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),

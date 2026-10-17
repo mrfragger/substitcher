@@ -6,7 +6,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ### Encoding opus Chaptered Audiobooks
 - Encode 12kbps audiobooks which is 5x/8x/10x smaller than 64/96/128kbps
-- 24kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr and will probably end up average 40kbps
+- 32kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr and will probably end up average 40kbps
 - opus (2012) is a superior audio codec compared to mp3 (1993) or aac (1997) at low bitrates
 - max 100 hours and 999 chapters per audiobook
 - if exceed limits will offer to automatically split into multiple audiobooks showing the split points
@@ -24,7 +24,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ### Fonts
 - ligatures fonts, missing ligatures, alternates, fonts must be uppercase
-- 100+ fonts
+- 50+ fonts
 - demo fonts
 - free (free for commerical use)
 - each missing and each alternate font, subs must be converted
