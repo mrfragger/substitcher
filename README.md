@@ -37,9 +37,9 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 32 demo fonts or search for them to download on font websites
+- download 32 demo fonts + 3 free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 1.3 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- ![customfonts.zip 24 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
 - [177Studio](https://177studio.com) with 12 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
@@ -56,6 +56,10 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Kambegi.ttf (Sealoung)
 │   ├── Mount Hills.otf (Ergibi)
 │   └── Sorean.otf (Grezline)
+├── free foreign
+│   ├── IBMPlexSans Japanese Furigana.ttf 15.5MB
+│   ├── KaloSans Chinese (Simplified).otf 8.9MB
+│   └── Mengshen-Handwritten Chinese.ttf 19.7MB
 ├── ligatures177 
 │   ├── Creating Families demo.otf
 │   ├── Reminder According demo.otf

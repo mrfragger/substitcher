@@ -35,6 +35,7 @@ class FontDatabase {
      'IBMPlexSans Korean': FontMetadata(fontName: 'IBMPlexSans Korean', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'KaloSans Chinese (Simplified)': FontMetadata(fontName: 'KaloSans Chinese (Simplified)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Lato': FontMetadata(fontName: 'Lato', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'Mengshen-Handwritten Chinese': FontMetadata(fontName: 'Mengshen-Handwritten Chinese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Devanagari': FontMetadata(fontName: 'MiSans Devanagari', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Khmer': FontMetadata(fontName: 'MiSans Khmer', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),

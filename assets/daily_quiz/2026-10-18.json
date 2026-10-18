@@ -1,0 +1,793 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْأَمْرِ فِي سُورَةِ آلِ عِمْرَان",
+        "nameEn": "Imperative Commands in Surah Al Imran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "أَطِيعُوا",
+            "en": "Obey",
+            "ref": "3:32",
+            "verse": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَـٰفِرِينَ",
+            "verseEn": "Say, \"Obey Allāh and the Messenger. But if you turn away - then indeed, Allāh does not like the disbelievers.\""
+          },
+          {
+            "ar": "اُعْبُدُوهُ",
+            "en": "so worship Him",
+            "ref": "3:51",
+            "verse": "إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ",
+            "verseEn": "Indeed, Allāh is my Lord and your Lord, so worship Him. That is the straight path.'\""
+          },
+          {
+            "ar": "تَعَالَوْا",
+            "en": "Come",
+            "ref": "3:61",
+            "verse": "فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَـٰذِبِينَ",
+            "verseEn": "Then whoever argues with you about it after [this] knowledge has come to you - say, \"Come, let us call our sons and your sons, our women and your women, ourselves and yourselves, then supplicate earnestly [together] and invoke the curse of Allāh upon the liars [among us].\""
+          },
+          {
+            "ar": "آمِنُوا",
+            "en": "Believe",
+            "ref": "3:72",
+            "verse": "وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ",
+            "verseEn": "And a faction of the People of the Scripture say [to each other], \"Believe in that which was revealed to the believers at the beginning of the day and reject it at its end that perhaps they will return [i.e., abandon their religion],"
+          }
+        ]
+      },
+      {
+        "name": "حَسَرَاتُ الْكَافِرِ فِي سُورَةِ الْحَاقَّةِ",
+        "nameEn": "Regrets of the disbeliever in Surah Al-Haqqah",
+        "color": "green",
+        "items": [
+          {
+            "ar": "حِسَابِيَهْ",
+            "en": "(is) my account",
+            "ref": "69:26",
+            "verse": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+            "verseEn": "And had not known what is my account."
+          },
+          {
+            "ar": "الْقَاضِيَةَ",
+            "en": "the end",
+            "ref": "69:27",
+            "verse": "يَـٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+            "verseEn": "I wish it [i.e., my death] had been the decisive one."
+          },
+          {
+            "ar": "مَالِيَهْ",
+            "en": "my wealth",
+            "ref": "69:28",
+            "verse": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+            "verseEn": "My wealth has not availed me."
+          },
+          {
+            "ar": "سُلْطَانِيَهْ",
+            "en": "my authority",
+            "ref": "69:29",
+            "verse": "هَلَكَ عَنِّى سُلْطَـٰنِيَهْ",
+            "verseEn": "Gone from me is my authority.\""
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتٌ مِنْ خِطَابِ مَلِكَةِ سَبَأٍ فِي سُورَةِ النَّمْل",
+        "nameEn": "Key Terms from the Queen of Sheba's Address to Her Council in Surah An-Naml",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "مُسْلِمِينَ",
+            "en": "(in) submission",
+            "ref": "27:31",
+            "verse": "أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ",
+            "verseEn": "Be not haughty with me but come to me in submission [as Muslims].'\""
+          },
+          {
+            "ar": "الْمَلَأُ",
+            "en": "chiefs",
+            "ref": "27:32",
+            "verse": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ",
+            "verseEn": "She said, \"O eminent ones, advise me in my affair. I would not decide a matter until you witness [for] me.\""
+          },
+          {
+            "ar": "بَأْسٍ",
+            "en": "(of) might",
+            "ref": "27:33",
+            "verse": "قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍۢ وَأُو۟لُوا۟ بَأْسٍۢ شَدِيدٍۢ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ",
+            "verseEn": "They said, \"We are men of strength and of great military might, but the command is yours, so see what you will command.\""
+          },
+          {
+            "ar": "أَذِلَّةً",
+            "en": "(the) lowest",
+            "ref": "27:34",
+            "verse": "قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةًۭ ۖ وَكَذَٰلِكَ يَفْعَلُونَ",
+            "verseEn": "She said, \"Indeed kings - when they enter a city, they ruin it and render the honored of its people humbled. And thus do they do."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الرُّؤْيَةِ وَالشَّهَادَةِ فِي الْقُرْآنِ",
+        "nameEn": "Verbs of Seeing and Witnessing in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "تَرَى",
+            "en": "you see",
+            "ref": "5:83",
+            "verse": "وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ",
+            "verseEn": "And when they hear what has been revealed to the Messenger, you see their eyes overflowing with tears because of what they have recognized of the truth. They say, \"Our Lord, we have believed, so register us among the witnesses."
+          },
+          {
+            "ar": "اُنْظُرْنَا",
+            "en": "Unzurna",
+            "ref": "2:104",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌۭ",
+            "verseEn": "O you who have believed, say not [to Allāh's Messenger], \"Rāʿinā\" but say, \"Unẓurnā\" and listen. And for the disbelievers is a painful punishment."
+          },
+          {
+            "ar": "أَبْصِرْ",
+            "en": "and how (they will) see",
+            "ref": "19:38",
+            "verse": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَـٰكِنِ ٱلظَّـٰلِمُونَ ٱلْيَوْمَ فِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+            "verseEn": "How [clearly] they will hear and see the Day they come to Us, but the wrongdoers today are in clear error."
+          },
+          {
+            "ar": "شَهِدْنَا",
+            "en": "we have testified",
+            "ref": "7:172",
+            "verse": "وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ ۛ شَهِدْنَآ ۛ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ إِنَّا كُنَّا عَنْ هَـٰذَا غَـٰفِلِينَ",
+            "verseEn": "And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], \"Am I not your Lord?\" They said, \"Yes, we have testified.\" [This] - lest you should say on the Day of Resurrection, \"Indeed, we were of this unaware.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "لهو",
+    "display": "لَهْوَ",
+    "hint": "A form of idle amusement or distraction, often condemned in the Quran",
+    "verseRef": "31:6",
+    "arabicVerse": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+    "verse": "31:6 - And of the people is he who buys the amusement of speech to mislead [others] from the way of Allāh without knowledge and who takes it [i.e., His way] in ridicule. Those will have a humiliating punishment."
+  },
+  "deduction": {
+    "title": "The Glad Tiding in Old Age",
+    "intro": "You are witnessing a moment where hope is rekindled. A couple, long past the age of parenthood, receives a promise that defies the laws of nature. In their midst stands a figure whose very existence is a sign of divine mercy—a soul destined for prophethood, carrying a legacy that will span generations. Who is this remarkable individual?",
+    "clues": [
+      "I was born to parents who had reached old age and had no children.",
+      "My birth was announced by angels who came as guests to my family.",
+      "I was given wisdom and prophethood, and I am mentioned among the patient.",
+      "My father was called the friend of Allah, and I was a gift to him in his later years.",
+      "I had a brother who was also a prophet, and we were both blessed by our Lord.",
+      "My son was also a prophet, and my descendants were given the scripture and prophethood."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ishaq (Isaac)",
+          "Prophet Ismail (Ishmael)",
+          "Prophet Yaqub (Jacob)",
+          "Prophet Yahya (John)",
+          "Prophet Uzair (Ezra)"
+        ],
+        "answer": "Prophet Ishaq (Isaac)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Born to elderly parents",
+          "Thrown into a fire",
+          "Given a kingdom and wealth",
+          "Led his people out of Egypt",
+          "Built an ark to save believers"
+        ],
+        "answer": "Born to elderly parents"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The glad tidings of a son",
+          "The burning bush",
+          "The golden calf",
+          "The ark of the covenant",
+          "The staff of prophethood"
+        ],
+        "answer": "The glad tidings of a son"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became a prophet with a lineage of prophets",
+          "Became a wealthy king",
+          "His people were destroyed for disbelief",
+          "He was saved from the fire",
+          "He was given the ability to speak as an infant"
+        ],
+        "answer": "Became a prophet with a lineage of prophets"
+      }
+    },
+    "verseRef": "14:39",
+    "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+    "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+  },
+  "scramble": {
+    "verseRef": "34:39",
+    "reference": "Surah Saba (34:39)",
+    "segments": [
+      "قُلْ إِنَّ رَبِّي",
+      "يَبْسُطُ الرِّزْقَ",
+      "لِمَن يَشَاءُ",
+      "وَيَقْدِرُ",
+      "وَلَٰكِنَّ أَكْثَرَ النَّاسِ",
+      "لَا يَعْلَمُونَ"
+    ],
+    "translations": [
+      "Say Indeed my Lord extends",
+      "the provision for whom He wills of",
+      "His slaves and restricts for him",
+      "But what you spend of",
+      "anything then He will compensate it",
+      "and He (is the) Best (of) the Providers"
+    ],
+    "hint": "About Allah's absolute control over sustenance and provision — a reminder that He gives abundantly to whom He wills and measures it to whom He wills.",
+    "arabic": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍۢ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+    "words": [
+      "قُلْ إِنَّ رَبِّى يَبْسُطُ",
+      "ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ",
+      "عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ",
+      "وَمَآ أَنفَقْتُم مِّن",
+      "شَىْءٍۢ فَهُوَ يُخْلِفُهُۥ ۖ",
+      "وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ"
+    ],
+    "verseEn": "Say, \"Indeed, my Lord extends provision for whom He wills of His servants and restricts [it] for him. But whatever thing you spend [in His cause] - He will compensate it; and He is the best of providers.\""
+  },
+  "roothive": {
+    "center": "ق",
+    "outer": [
+      "و",
+      "ل",
+      "ا",
+      "ت",
+      "ي",
+      "ه"
+    ],
+    "root": {
+      "letters": "قلل",
+      "display": "ق ل ل",
+      "translit": "q-l-l",
+      "meaning": "The core idea is smallness in amount or degree, pointing to something few or little. From this root, derived words grow by adding patterns to describe things smaller in number, actions that reduce or make less, and even the idea of carrying lightly.",
+      "occurrences": 76,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "اقل",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَقَلّ",
+            "gloss": "lesser",
+            "type": "noun",
+            "root": "قلل",
+            "count": 2,
+            "ref": "18:39",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "تقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تَقِيّ",
+            "gloss": "righteous",
+            "type": "noun",
+            "root": "وقي",
+            "count": 4,
+            "ref": "19:13",
+            "pos": 6,
+            "alt": [
+              "god fearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قالَ",
+            "gloss": "said",
+            "type": "verb",
+            "root": "قول",
+            "count": 1618,
+            "ref": "2:8",
+            "pos": 4,
+            "alt": [
+              "say",
+              "says"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "قتل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَتَلَ",
+            "gloss": "kills",
+            "type": "verb",
+            "root": "قتل",
+            "count": 83,
+            "ref": "2:154",
+            "pos": 4,
+            "alt": [
+              "killed",
+              "are slain"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "قَتْل",
+            "gloss": "kill",
+            "type": "verbal noun",
+            "root": "قتل",
+            "count": 10,
+            "ref": "5:30",
+            "pos": 4,
+            "alt": [
+              "killing"
+            ]
+          },
+          {
+            "lemma": "قُتِّلُ",
+            "gloss": "be killed",
+            "type": "verb",
+            "root": "قتل",
+            "count": 4,
+            "ref": "5:33",
+            "pos": 12,
+            "alt": [
+              "kill",
+              "were killing"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "قول",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَوْل",
+            "gloss": "saying",
+            "type": "verbal noun",
+            "root": "قول",
+            "count": 92,
+            "ref": "2:59",
+            "pos": 4,
+            "alt": [
+              "word",
+              "speech"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قوه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قُوَّة",
+            "gloss": "strength",
+            "type": "noun",
+            "root": "قوي",
+            "count": 30,
+            "ref": "8:60",
+            "pos": 6,
+            "alt": [
+              "power",
+              "force"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قوي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَوِيّ",
+            "gloss": "all-strong",
+            "type": "noun",
+            "root": "قوي",
+            "count": 11,
+            "ref": "8:52",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "قيل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قِيل",
+            "gloss": "statement",
+            "type": "noun",
+            "root": "قول",
+            "count": 4,
+            "ref": "4:122",
+            "pos": 21,
+            "alt": [
+              "saying",
+              "word"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "لقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "لَقَّى",
+            "gloss": "is granted",
+            "type": "verb",
+            "root": "لقي",
+            "count": 6,
+            "ref": "25:75",
+            "pos": 6,
+            "alt": [
+              "be met",
+              "surely, receive"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "واق",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "واق",
+            "gloss": "defender",
+            "type": "active participle",
+            "root": "وقي",
+            "count": 3,
+            "ref": "13:34",
+            "pos": 14,
+            "alt": [
+              "protector"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وقت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَقْت",
+            "gloss": "time",
+            "type": "noun",
+            "root": "وقت",
+            "count": 3,
+            "ref": "7:187",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "وقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَقَى",
+            "gloss": "protect",
+            "type": "verb",
+            "root": "وقي",
+            "count": 16,
+            "ref": "40:9",
+            "pos": 4,
+            "alt": [
+              "is saved"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اتقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "اتَّقَى",
+            "gloss": "fears",
+            "type": "verb",
+            "root": "وقي",
+            "count": 166,
+            "ref": "2:189",
+            "pos": 19,
+            "alt": [
+              "fear",
+              "fears allah"
+            ],
+            "form": 8
+          },
+          {
+            "lemma": "أَتْقَى",
+            "gloss": "most righteous of",
+            "type": "noun",
+            "root": "وقي",
+            "count": 2,
+            "ref": "49:13",
+            "pos": 16,
+            "alt": [
+              "righteous"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اقلت",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَقَلَّتْ",
+            "gloss": "have carried",
+            "type": "verb",
+            "root": "قلل",
+            "count": 1,
+            "ref": "7:57",
+            "pos": 11,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "القي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَلْقَى",
+            "gloss": "throw",
+            "type": "verb",
+            "root": "لقي",
+            "count": 71,
+            "ref": "4:94",
+            "pos": 13,
+            "alt": [
+              "throws",
+              "threw"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تقول",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَقَوَّلَ",
+            "gloss": "fabricated",
+            "type": "verb",
+            "root": "قول",
+            "count": 2,
+            "ref": "69:44",
+            "pos": 2,
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تقوي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَقْوَى",
+            "gloss": "righteousness",
+            "type": "noun",
+            "root": "وقي",
+            "count": 17,
+            "ref": "9:109",
+            "pos": 5,
+            "alt": [
+              "piety"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تلقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَلَقَّى",
+            "gloss": "receive",
+            "type": "verb",
+            "root": "لقي",
+            "count": 4,
+            "ref": "50:17",
+            "pos": 2,
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "قاتل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قاتَلَ",
+            "gloss": "may fight",
+            "type": "verb",
+            "root": "قتل",
+            "count": 54,
+            "ref": "2:246",
+            "pos": 18,
+            "alt": [
+              "fight",
+              "fighting"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "قايل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قائِل",
+            "gloss": "speaker",
+            "type": "active participle",
+            "root": "قول",
+            "count": 5,
+            "ref": "12:10",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "قتال",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قِتال",
+            "gloss": "fighting",
+            "type": "noun",
+            "root": "قتل",
+            "count": 13,
+            "ref": "2:217",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "قليل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قَلِيل",
+            "gloss": "little",
+            "type": "adjective",
+            "root": "قلل",
+            "count": 70,
+            "ref": "2:41",
+            "pos": 16,
+            "alt": [
+              "few",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اقتتل",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اقْتَتَلَ",
+            "gloss": "fought each other",
+            "type": "verb",
+            "root": "قتل",
+            "count": 4,
+            "ref": "2:253",
+            "pos": 26,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "التقي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "الْتَقَى",
+            "gloss": "met",
+            "type": "verb",
+            "root": "لقي",
+            "count": 7,
+            "ref": "3:155",
+            "pos": 6,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "قليله",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "قَلِيلَة",
+            "gloss": "small",
+            "type": "adjective",
+            "root": "قلل",
+            "count": 1,
+            "ref": "2:249",
+            "pos": 52
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "قَلَّ",
+        "gloss": "little",
+        "type": "verb",
+        "root": "قلل",
+        "count": 1,
+        "ref": "4:7",
+        "pos": 14,
+        "form": 1
+      },
+      {
+        "lemma": "يُقَلِّلُ",
+        "gloss": "made you as few",
+        "type": "verb",
+        "root": "قلل",
+        "count": 1,
+        "ref": "8:44",
+        "pos": 8,
+        "form": 2
+      }
+    ],
+    "maxScore": 49,
+    "featuredRoot": "قلل"
+  }
+}
