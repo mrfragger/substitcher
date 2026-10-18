@@ -31,7 +31,7 @@ class FontDatabase {
      '0xProto': FontMetadata(fontName: '0xProto', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Gentium': FontMetadata(fontName: 'Gentium', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'IBMPlexSans Japanese': FontMetadata(fontName: 'IBMPlexSans Japanese', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
-     'IBMPlexSans Japanese FurifontSans': FontMetadata(fontName: 'IBMPlexSans Japanese FurifontSans', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'IBMPlexSans Japanese Furigana': FontMetadata(fontName: 'IBMPlexSans Japanese Furigana', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'IBMPlexSans Korean': FontMetadata(fontName: 'IBMPlexSans Korean', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'KaloSans Chinese (Simplified)': FontMetadata(fontName: 'KaloSans Chinese (Simplified)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Lato': FontMetadata(fontName: 'Lato', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
