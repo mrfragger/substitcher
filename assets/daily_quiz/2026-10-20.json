@@ -1,0 +1,798 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوَامِرُ الْمُؤْمِنِينَ فِي سُورَةِ التَّغَابُنِ",
+        "nameEn": "Commands to the believers in Surah At-Taghabun",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "قُلْ",
+            "en": "Say",
+            "ref": "64:7",
+            "verse": "زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ",
+            "verseEn": "Those who disbelieve have claimed that they will never be resurrected. Say, \"Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allāh, is easy.\""
+          },
+          {
+            "ar": "أَطِيعُوا",
+            "en": "So obey",
+            "ref": "64:12",
+            "verse": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+            "verseEn": "And obey Allāh and obey the Messenger; but if you turn away - then upon Our Messenger is only [the duty of] clear notification."
+          },
+          {
+            "ar": "فَاحْذَرُوهُمْ",
+            "en": "so beware of them",
+            "ref": "64:14",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَـٰدِكُمْ عَدُوًّۭا لَّكُمْ فَٱحْذَرُوهُمْ ۚ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+            "verseEn": "O you who have believed, indeed, among your spouses and your children are enemies to you, so beware of them. But if you pardon and overlook and forgive - then indeed, Allāh is Forgiving and Merciful."
+          },
+          {
+            "ar": "فَاتَّقُوا",
+            "en": "So fear",
+            "ref": "64:16",
+            "verse": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًۭا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "verseEn": "So fear Allāh as much as you are able and listen and obey and spend [in the way of Allāh]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَلُ التَّفْضِيلِ فِي الْقُرْآنِ",
+        "nameEn": "Superlative Adjectives in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "أَحْسَنُ",
+            "en": "(is) best",
+            "ref": "29:46",
+            "verse": "۞ وَلَا تُجَـٰدِلُوٓا۟ أَهْلَ ٱلْكِتَـٰبِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ ۖ وَقُولُوٓا۟ ءَامَنَّا بِٱلَّذِىٓ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَٰحِدٌۭ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+            "verseEn": "And do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them, and say, \"We believe in that which has been revealed to us and revealed to you. And our God and your God is one; and we are Muslims [in submission] to Him.\""
+          },
+          {
+            "ar": "أَظْلَمُ",
+            "en": "(is) more unjust",
+            "ref": "6:93",
+            "verse": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌۭ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ",
+            "verseEn": "And who is more unjust than one who invents a lie about Allāh or says, \"It has been inspired to me,\" while nothing has been inspired to him, and one who says, \"I will reveal [something] like what Allāh revealed.\" And if you could but see when the wrongdoers are in the overwhelming pangs of death while the angels extend their hands, [saying], \"Discharge your souls! Today you will be awarded the punishment of [extreme] humiliation for what you used to say against Allāh other than the truth and [that] you were, toward His verses, being arrogant.\""
+          },
+          {
+            "ar": "أَعْلَمُ",
+            "en": "(is) most knowing",
+            "ref": "16:101",
+            "verse": "وَإِذَا بَدَّلْنَآ ءَايَةًۭ مَّكَانَ ءَايَةٍۢ ۙ وَٱللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓا۟ إِنَّمَآ أَنتَ مُفْتَرٍۭ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+            "verseEn": "And when We substitute a verse in place of a verse - and Allāh is most knowing of what He sends down - they say, \"You, [O Muḥammad], are but an inventor [of lies].\" But most of them do not know."
+          },
+          {
+            "ar": "أَقْرَبُ",
+            "en": "(is) nearer",
+            "ref": "16:77",
+            "verse": "وَلِلَّهِ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلَّا كَلَمْحِ ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "And to Allāh belongs the unseen [aspects] of the heavens and the earth. And the command for the Hour is not but as a glance of the eye or even nearer. Indeed, Allāh is over all things competent."
+          }
+        ]
+      },
+      {
+        "name": "قِصَّةُ ذَبْحِ إِبْرَاهِيمَ فِي سُورَةِ الصَّافَّاتِ",
+        "nameEn": "The Story of Ibrahim's Sacrifice in Surah As-Saffat",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "حَلِيمٍ",
+            "en": "forbearing",
+            "ref": "37:101",
+            "verse": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍۢ",
+            "verseEn": "So We gave him good tidings of a forbearing boy."
+          },
+          {
+            "ar": "أَذْبَحُكَ",
+            "en": "sacrificing you",
+            "ref": "37:102",
+            "verse": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+            "verseEn": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\""
+          },
+          {
+            "ar": "أَسْلَمَا",
+            "en": "both of them had submitted",
+            "ref": "37:103",
+            "verse": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+            "verseEn": "And when they had both submitted and he put him down upon his forehead,"
+          },
+          {
+            "ar": "صَدَّقْتَ",
+            "en": "you have fulfilled",
+            "ref": "37:105",
+            "verse": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "verseEn": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْفَرِيقَيْنِ فِي سُورَةِ عَبَسَ",
+        "nameEn": "Contrasting actions of the seeker and the heedless in Surah Abasa",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يَزَّكَّىٰ",
+            "en": "purify himself",
+            "ref": "80:3",
+            "verse": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+            "verseEn": "But what would make you perceive, [O Muḥammad], that perhaps he might be purified"
+          },
+          {
+            "ar": "يَذَّكَّرُ",
+            "en": "be reminded",
+            "ref": "80:4",
+            "verse": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+            "verseEn": "Or be reminded and the remembrance would benefit him?"
+          },
+          {
+            "ar": "اِسْتَغْنَىٰ",
+            "en": "considers himself free from need",
+            "ref": "80:5",
+            "verse": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+            "verseEn": "As for he who thinks himself without need,"
+          },
+          {
+            "ar": "يَسْعَىٰ",
+            "en": "striving",
+            "ref": "80:8",
+            "verse": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+            "verseEn": "But as for he who came to you striving [for knowledge]"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "خالق",
+    "display": "خَالِقٌ",
+    "verseRef": "35:3",
+    "hint": "This four-letter word means 'Creator' — one of the divine attributes of Allah mentioned throughout the Quran",
+    "arabicVerse": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+    "verse": "35:3 - O mankind, remember the favor of Allāh upon you. Is there any creator other than Allāh who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?"
+  },
+  "deduction": {
+    "title": "The Architect of False Ambition",
+    "intro": "A figure of great authority once served one of history's most notorious tyrants in ancient Egypt. This individual was entrusted with an audacious command — to construct a structure meant to defy the heavens. Their story stands in the Quran as a striking lesson about how blind obedience to arrogance leads only to ruin.",
+    "clues": [
+      "I served in the courts of a powerful ruler who claimed divinity over the lands.",
+      "I held a high ministerial position, advising the most arrogant tyrant of my time.",
+      "My ruler was consumed with challenging the God of Moses, whom they refused to acknowledge.",
+      "I was commanded to construct a tower of fire-baked bricks so my ruler could ascend to the heavens.",
+      "The tower never reached the sky, and my servitude to arrogance earned me eternal disgrace.",
+      "I perished with the one I followed, and my name became a lasting warning against those who enable tyrants."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Haman",
+          "Azar (father of Ibrahim)",
+          "Illyas (a prophet)",
+          "Dhu al-Kifl",
+          "Harut (one of the two angels in Babylon)"
+        ],
+        "answer": "Haman"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Ordered to build a towering structure to reach the heavens",
+          "Asked to interpret a dream sent from the divine",
+          "Thrown into a blazing fire as a test of faith",
+          "Compelled to choose between throne and truth",
+          "Challenged in a contest of sorcery"
+        ],
+        "answer": "Ordered to build a towering structure to reach the heavens"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A tower of fire-baked bricks",
+          "A staff that transformed into a serpent",
+          "A ship sailing through a great flood",
+          "A garden enclosed by high walls",
+          "A throne adorned with rubies and gold"
+        ],
+        "answer": "A tower of fire-baked bricks"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Drowned alongside the oppressor in the sea",
+          "Became a powerful monarch of vast lands",
+          "Escaped a blazing fire unharmed",
+          "Built a prosperous kingdom of wisdom",
+          "Was reunited with family after years of exile"
+        ],
+        "answer": "Drowned alongside the oppressor in the sea"
+      }
+    },
+    "verseRef": "40:23",
+    "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+    "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+  },
+  "scramble": {
+    "verseRef": "65:5",
+    "reference": "Surah At-Talaq (65:5)",
+    "segments": [
+      "ذٰلِكَ أَمْرُ اللَّهِ",
+      "أَنزَلَهُ إِلَيْكُمْ",
+      "وَمَن يَتَّقِ اللَّهَ",
+      "يَجْعَل لَّهُ",
+      "مَخْرَجًا"
+    ],
+    "translations": [
+      "That (is the) Command (of) Allah",
+      "which He has sent down to you and whoever",
+      "fears Allah He will remove",
+      "from him his evil deeds and make great",
+      "for him (his) reward"
+    ],
+    "hint": "A divine promise for those with taqwa (God-consciousness): Allah will always provide a way out of their difficulties.",
+    "arabic": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+    "words": [
+      "ذَٰلِكَ أَمْرُ ٱللَّهِ",
+      "أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن",
+      "يَتَّقِ ٱللَّهَ يُكَفِّرْ",
+      "عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ",
+      "لَهُۥٓ أَجْرًا"
+    ],
+    "verseEn": "That is the command of Allāh, which He has sent down to you; and whoever fears Allāh - He will remove for him his misdeeds and make great for him his reward."
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "م",
+      "و",
+      "س",
+      "ط",
+      "ا",
+      "ت"
+    ],
+    "root": {
+      "letters": "طعم",
+      "display": "ط ع م",
+      "translit": "ṭ-ʿ-m",
+      "meaning": "The core idea of this root is the experience of tasting and consuming food. From this single idea, the language grows verbs for feeding others and nouns describing the person who eats or the very sensation of taste.",
+      "occurrences": 48,
+      "lemmaCount": 7
+    },
+    "words": [
+      {
+        "w": "تسع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تِسْع",
+            "gloss": "nine",
+            "type": "noun",
+            "root": "تسع",
+            "count": 5,
+            "ref": "17:101",
+            "pos": 4,
+            "alt": [
+              "ninety-nine"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَمِعَ",
+            "gloss": "heard",
+            "type": "verb",
+            "root": "سمع",
+            "count": 78,
+            "ref": "2:171",
+            "pos": 9,
+            "alt": [
+              "hear",
+              "hears"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "سَمْع",
+            "gloss": "hear",
+            "type": "noun",
+            "root": "سمع",
+            "count": 22,
+            "ref": "18:101",
+            "pos": 11,
+            "alt": [
+              "hearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "طعم",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "طَعِمُ",
+            "gloss": "ate",
+            "type": "verb",
+            "root": "طعم",
+            "count": 5,
+            "ref": "2:249",
+            "pos": 17,
+            "alt": [
+              "taste",
+              "can eat"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "طَعْم",
+            "gloss": "taste",
+            "type": "noun",
+            "root": "طعم",
+            "count": 1,
+            "ref": "47:15",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "طمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "طَمَع",
+            "gloss": "hope",
+            "type": "noun",
+            "root": "طمع",
+            "count": 4,
+            "ref": "7:56",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "طوع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "طَوْع",
+            "gloss": "willingly",
+            "type": "noun",
+            "root": "طوع",
+            "count": 4,
+            "ref": "3:83",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عتو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُتُوّ",
+            "gloss": "insolence",
+            "type": "noun",
+            "root": "عتو",
+            "count": 2,
+            "ref": "25:21",
+            "pos": 18,
+            "alt": [
+              "pride"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَتَّعْ",
+            "gloss": "provide for",
+            "type": "verb",
+            "root": "متع",
+            "count": 18,
+            "ref": "2:126",
+            "pos": 22,
+            "alt": [
+              "grant him enjoyment",
+              "make provision for"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "وسع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَسِعَ",
+            "gloss": "encompasses",
+            "type": "verb",
+            "root": "وسع",
+            "count": 6,
+            "ref": "2:255",
+            "pos": 41,
+            "alt": [
+              "extends",
+              "has encompassed"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "وُسْع",
+            "gloss": "capacity",
+            "type": "noun",
+            "root": "وسع",
+            "count": 5,
+            "ref": "2:233",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "اسمع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْمَعَ",
+            "gloss": "cause to hear",
+            "type": "verb",
+            "root": "سمع",
+            "count": 13,
+            "ref": "10:42",
+            "pos": 6,
+            "alt": [
+              "cause the deaf to hear",
+              "how they will hear"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اطاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَطاعَ",
+            "gloss": "obey",
+            "type": "verb",
+            "root": "طوع",
+            "count": 72,
+            "ref": "4:13",
+            "pos": 5,
+            "alt": [
+              "obeys",
+              "obeyed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اطعم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَطْعَمَ",
+            "gloss": "feeds",
+            "type": "verb",
+            "root": "طعم",
+            "count": 13,
+            "ref": "6:14",
+            "pos": 10,
+            "alt": [
+              "is fed",
+              "feed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تطوع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَطَوَّعَ",
+            "gloss": "voluntarily does",
+            "type": "verb",
+            "root": "طوع",
+            "count": 2,
+            "ref": "2:158",
+            "pos": 19,
+            "alt": [
+              "volunteers"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تمتع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَمَتَّعَ",
+            "gloss": "took advantage",
+            "type": "verb",
+            "root": "متع",
+            "count": 11,
+            "ref": "2:196",
+            "pos": 37,
+            "alt": [
+              "enjoy"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "سماع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سَمّاع",
+            "gloss": "listeners",
+            "type": "noun",
+            "root": "سمع",
+            "count": 4,
+            "ref": "5:41",
+            "pos": 20,
+            "alt": [
+              "would have listened"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "طاعم",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "طاعِم",
+            "gloss": "eater",
+            "type": "active participle",
+            "root": "طعم",
+            "count": 1,
+            "ref": "6:145",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "طعام",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "طَعام",
+            "gloss": "feed",
+            "type": "noun",
+            "root": "طعم",
+            "count": 24,
+            "ref": "2:61",
+            "pos": 7,
+            "alt": [
+              "food",
+              "feeding"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاع",
+            "gloss": "enjoyment",
+            "type": "noun",
+            "root": "متع",
+            "count": 35,
+            "ref": "2:236",
+            "pos": 21,
+            "alt": [
+              "provision",
+              "enjoy"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "موسع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُوسِع",
+            "gloss": "wealthy",
+            "type": "active participle",
+            "root": "وسع",
+            "count": 2,
+            "ref": "2:236",
+            "pos": 16,
+            "alt": [
+              "expanders"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واسع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "واسِع",
+            "gloss": "vast",
+            "type": "active participle",
+            "root": "وسع",
+            "count": 9,
+            "ref": "2:115",
+            "pos": 11,
+            "alt": [
+              "all-encompassing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "استمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اسْتَمَعَ",
+            "gloss": "listen",
+            "type": "verb",
+            "root": "سمع",
+            "count": 16,
+            "ref": "6:25",
+            "pos": 3,
+            "alt": [
+              "listened",
+              "listens"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اطعام",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "إِطْعام",
+            "gloss": "feeding",
+            "type": "verbal noun",
+            "root": "طعم",
+            "count": 3,
+            "ref": "5:89",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "مستمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُسْتَمِع",
+            "gloss": "listening",
+            "type": "active participle",
+            "root": "سمع",
+            "count": 2,
+            "ref": "26:15",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "استطاع",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "اسْتَطاعَ",
+            "gloss": "be able",
+            "type": "verb",
+            "root": "طوع",
+            "count": 42,
+            "ref": "2:282",
+            "pos": 45,
+            "alt": [
+              "is able",
+              "were able"
+            ],
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "استطعم",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اسْتَطْعَمَ",
+            "gloss": "asked for food",
+            "type": "verb",
+            "root": "طعم",
+            "count": 1,
+            "ref": "18:77",
+            "pos": 7,
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "استمتع",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "اسْتَمْتَعَ",
+            "gloss": "profited",
+            "type": "verb",
+            "root": "متع",
+            "count": 6,
+            "ref": "6:128",
+            "pos": 15,
+            "alt": [
+              "enjoyed"
+            ],
+            "form": 10
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 64,
+    "featuredRoot": "طعم"
+  }
+}

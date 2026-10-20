@@ -1,0 +1,609 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْبَخِيلِ وَمُعْتَقَدَاتُهُ",
+        "nameEn": "Actions and Beliefs of the Miser in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بَخِلَ",
+            "en": "withholds",
+            "ref": "92:8",
+            "verse": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+            "verseEn": "But as for he who withholds and considers himself free of need"
+          },
+          {
+            "ar": "تَرَدَّىٰ",
+            "en": "he falls",
+            "ref": "92:11",
+            "verse": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+            "verseEn": "And what will his wealth avail him when he falls?"
+          },
+          {
+            "ar": "عَدَّدَهُ",
+            "en": "and counts it",
+            "ref": "104:2",
+            "verse": "ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ",
+            "verseEn": "Who collects wealth and [continuously] counts it."
+          },
+          {
+            "ar": "أَخْلَدَهُ",
+            "en": "will make him immortal",
+            "ref": "104:3",
+            "verse": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+            "verseEn": "He thinks that his wealth will make him immortal."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْأَدِلَّةِ وَالْبَرَاهِينِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Evidence and Proof",
+        "color": "green",
+        "items": [
+          {
+            "ar": "آيَةٍ",
+            "en": "a sign",
+            "ref": "2:106",
+            "verse": "۞ مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍۢ مِّنْهَآ أَوْ مِثْلِهَآ ۗ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+            "verseEn": "We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it. Do you not know that Allāh is over all things competent?"
+          },
+          {
+            "ar": "بَيِّنَةٍ",
+            "en": "clear proof",
+            "ref": "6:57",
+            "verse": "قُلْ إِنِّى عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَـٰصِلِينَ",
+            "verseEn": "Say, \"Indeed, I am on clear evidence from my Lord, and you have denied it. I do not have that for which you are impatient. The decision is only for Allāh. He relates the truth, and He is the best of deciders.\""
+          },
+          {
+            "ar": "بُرْهَانَكُمْ",
+            "en": "your proof",
+            "ref": "27:64",
+            "verse": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۗ أَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "Is He [not best] who begins creation and then repeats it and who provides for you from the heaven and earth? Is there a deity with Allāh? Say, \"Produce your proof, if you should be truthful.\""
+          },
+          {
+            "ar": "سُلْطَانٍ",
+            "en": "authority",
+            "ref": "37:30",
+            "verse": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَـٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًۭا طَـٰغِينَ",
+            "verseEn": "And we had over you no authority, but you were a transgressing people."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتٌ مِنْ قِصَّةِ لُوطٍ فِي سُورَةِ الْقَمَرِ",
+        "nameEn": "Terms from the Story of Lot in Surah Al-Qamar",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "لُوطٍ",
+            "en": "(of) Lut",
+            "ref": "54:33",
+            "verse": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+            "verseEn": "The people of Lot denied the warning."
+          },
+          {
+            "ar": "رَاوَدُوهُ",
+            "en": "they demanded from him",
+            "ref": "54:37",
+            "verse": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+            "verseEn": "And they had demanded from him his guests, but We obliterated their eyes, [saying], \"Taste My punishment and warning.\""
+          },
+          {
+            "ar": "عَذَابٌ",
+            "en": "a punishment",
+            "ref": "54:38",
+            "verse": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌۭ مُّسْتَقِرٌّۭ",
+            "verseEn": "And there came upon them by morning an abiding punishment."
+          },
+          {
+            "ar": "نُذُرِ",
+            "en": "and My warnings",
+            "ref": "54:39",
+            "verse": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+            "verseEn": "So taste My punishment and warning."
+          }
+        ]
+      },
+      {
+        "name": "مَشَاعِرُ الخَشْيَةِ وَالخُشُوعِ لَدَى المُؤْمِنِينَ",
+        "nameEn": "Feelings of Awe and Humility of the Believers",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يَخْشَوْنَ",
+            "en": "fear",
+            "ref": "67:12",
+            "verse": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ",
+            "verseEn": "Indeed, those who fear their Lord unseen will have forgiveness and great reward."
+          },
+          {
+            "ar": "خُشُوعًا",
+            "en": "(in) humility",
+            "ref": "17:109",
+            "verse": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًۭا ۩",
+            "verseEn": "And they fall upon their faces weeping, and it [i.e., the Qur’ān] increases them in humble submission."
+          },
+          {
+            "ar": "يَتَضَرَّعُونَ",
+            "en": "humble themselves",
+            "ref": "6:42",
+            "verse": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍۢ مِّن قَبْلِكَ فَأَخَذْنَـٰهُم بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+            "verseEn": "And We have already sent [messengers] to nations before you, [O Muḥammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us]."
+          },
+          {
+            "ar": "مُشْفِقُونَ",
+            "en": "(are) afraid",
+            "ref": "21:49",
+            "verse": "ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ",
+            "verseEn": "Who fear their Lord unseen, while they are of the Hour apprehensive."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نصيرا",
+    "display": "نَصِيرًا",
+    "hint": "A supporter or ally; one who provides assistance",
+    "verseRef": "4:123",
+    "arabicVerse": "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَـٰبِ ۗ مَن يَعْمَلْ سُوٓءًۭا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا",
+    "verse": "4:123 - It [i.e., Paradise] is not [obtained] by your wishful thinking nor by that of the People of the Scripture. Whoever does a wrong will be recompensed for it, and he will not find besides Allāh a protector or a helper."
+  },
+  "deduction": {
+    "title": "The Outcast of the Heavens",
+    "intro": "A mysterious being stands at the crossroads of creation and rejection. Their story is one of unparalleled arrogance and the ultimate defiance of a divine command. Their choice echoes through every generation, becoming a test for every soul born into this world. Can you identify this eternal adversary?",
+    "clues": [
+      "I was present at an event of cosmic significance, when a new being was formed from clay and given life by the Breath of the Merciful.",
+      "I myself was brought into existence from a single blazing element, unlike that being of dust.",
+      "A command was issued to me that I deemed beneath my station.",
+      "Pride swelled within me, and I adamantly refused to comply with that command.",
+      "A delay until an appointed Day was granted to me, so that I might pursue my declared purpose of misleading others.",
+      "I am the declared enemy of all who walk the earth, whispering deceptions and luring them away from the straight path."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Iblis (Satan)",
+          "Pharaoh (Fir'awn)",
+          "Haman",
+          "Abu Jahl",
+          "Samiri"
+        ],
+        "answer": "Iblis (Satan)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Refused to bow before Adam",
+          "Claimed divinity falsely",
+          "Forged a golden calf for worship",
+          "Killed his brother out of envy",
+          "Led the polytheist opposition in Makkah"
+        ],
+        "answer": "Refused to bow before Adam"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Paradise (Jannah)",
+          "Pharaoh's palace in Egypt",
+          "The sacred valley of Tuwa",
+          "The depths of the sea",
+          "The garden of Sheba"
+        ],
+        "answer": "Paradise (Jannah)"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Granted respite until the Day of Judgment",
+          "Drowned along with the army in the sea",
+          "Swallowed by the earth along with treasures",
+          "Transformed into apes for violating the Sabbath",
+          "Burned by stones hurled from the sky"
+        ],
+        "answer": "Granted respite until the Day of Judgment"
+      }
+    },
+    "verseRef": "16:99",
+    "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+    "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+  },
+  "scramble": {
+    "verseRef": "55:29",
+    "reference": "Ar-Rahman (55:29)",
+    "segments": [
+      "يسأله من",
+      "في السماوات",
+      "والأرض كل",
+      "يوم هو",
+      "في شأن"
+    ],
+    "translations": [
+      "Asks Him whoever",
+      "(is) in the heavens",
+      "and the earth Every",
+      "day He",
+      "(is) in a matter"
+    ],
+    "hint": "A verse about Allah's constant activity and that all creatures depend on Him.",
+    "arabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ",
+    "words": [
+      "يَسْـَٔلُهُۥ مَن",
+      "فِى ٱلسَّمَـٰوَٰتِ",
+      "وَٱلْأَرْضِ ۚ كُلَّ",
+      "يَوْمٍ هُوَ",
+      "فِى شَأْنٍۢ"
+    ],
+    "verseEn": "Whoever is within the heavens and earth asks Him; every day He is in [i.e., bringing about] a matter."
+  },
+  "roothive": {
+    "center": "ر",
+    "outer": [
+      "ت",
+      "م",
+      "ي",
+      "ء",
+      "ا",
+      "و"
+    ],
+    "root": {
+      "letters": "راي",
+      "display": "ر ا ي",
+      "translit": "r-ʾ-y",
+      "meaning": "This root centers on sight and seeing, capturing what becomes visible to the eye. From this idea grow forms meaning to show, vision, appearance, and even showing off, since that too means letting yourself be seen.",
+      "occurrences": 328,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "اري",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَرَيْ",
+            "gloss": "show",
+            "type": "verb",
+            "root": "رأي",
+            "count": 40,
+            "ref": "6:75",
+            "pos": 2,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمْر",
+            "gloss": "command",
+            "type": "noun",
+            "root": "أمر",
+            "count": 166,
+            "ref": "2:117",
+            "pos": 6,
+            "alt": [
+              "matter",
+              "affair"
+            ]
+          },
+          {
+            "lemma": "أَمَرَ",
+            "gloss": "commands",
+            "type": "verb",
+            "root": "أمر",
+            "count": 77,
+            "ref": "2:27",
+            "pos": 10,
+            "alt": [
+              "commanded",
+              "has ordered"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "رءي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "رِءْي",
+            "gloss": "appearance",
+            "type": "noun",
+            "root": "رأي",
+            "count": 1,
+            "ref": "19:74",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "راي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "رَأَى",
+            "gloss": "saw",
+            "type": "verb",
+            "root": "رأي",
+            "count": 271,
+            "ref": "2:55",
+            "pos": 8,
+            "alt": [
+              "see",
+              "seen"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "رَأْى",
+            "gloss": "sight",
+            "type": "noun",
+            "root": "رأي",
+            "count": 2,
+            "ref": "3:13",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "رمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَمَى",
+            "gloss": "throws",
+            "type": "verb",
+            "root": "رمي",
+            "count": 9,
+            "ref": "4:112",
+            "pos": 7,
+            "alt": [
+              "threw",
+              "throws up"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مرء",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرْء",
+            "gloss": "man",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 4,
+            "ref": "2:102",
+            "pos": 41
+          }
+        ]
+      },
+      {
+        "w": "وري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وُۥرِيَ",
+            "gloss": "to hide",
+            "type": "verb",
+            "root": "وري",
+            "count": 4,
+            "ref": "5:31",
+            "pos": 9,
+            "alt": [
+              "was concealed",
+              "covers"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "امري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "امْرِئ",
+            "gloss": "person",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 5,
+            "ref": "24:11",
+            "pos": 16,
+            "alt": [
+              "man"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "رءيا",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "رُءْيا",
+            "gloss": "dream",
+            "type": "noun",
+            "root": "رأي",
+            "count": 7,
+            "ref": "12:5",
+            "pos": 5,
+            "alt": [
+              "vision",
+              "visions"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "رميم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَمِيم",
+            "gloss": "decomposed",
+            "type": "noun",
+            "root": "رمم",
+            "count": 2,
+            "ref": "36:78",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "رياء",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "رِئاء",
+            "gloss": "be seen",
+            "type": "verbal noun",
+            "root": "رأي",
+            "count": 3,
+            "ref": "2:264",
+            "pos": 12,
+            "alt": [
+              "to be seen"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وراء",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "وَراء",
+            "gloss": "behind",
+            "type": "noun",
+            "root": "وري",
+            "count": 24,
+            "ref": "2:101",
+            "pos": 18,
+            "alt": [
+              "beyond",
+              "after"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امرات",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "امْرَأَت",
+            "gloss": "wife",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 26,
+            "ref": "3:35",
+            "pos": 3,
+            "alt": [
+              "woman",
+              "women"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تراءت",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَراءَتِ",
+            "gloss": "came in sight",
+            "type": "verb",
+            "root": "رأي",
+            "count": 2,
+            "ref": "8:48",
+            "pos": 17,
+            "alt": [
+              "saw each other"
+            ],
+            "form": 6
+          }
+        ]
+      },
+      {
+        "w": "توارت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "تَوارَتْ",
+            "gloss": "hides himself",
+            "type": "verb",
+            "root": "وري",
+            "count": 2,
+            "ref": "16:59",
+            "pos": 1,
+            "alt": [
+              "were hidden"
+            ],
+            "form": 6
+          }
+        ]
+      },
+      {
+        "w": "ممتري",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُمْتَري",
+            "gloss": "doubters",
+            "type": "active participle",
+            "root": "مري",
+            "count": 4,
+            "ref": "2:147",
+            "pos": 7,
+            "alt": [
+              "ones who doubt"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يُراءُ",
+        "gloss": "showing off",
+        "type": "verb",
+        "root": "رأي",
+        "count": 2,
+        "ref": "4:142",
+        "pos": 13,
+        "alt": [
+          "make show"
+        ],
+        "form": 3
+      }
+    ],
+    "maxScore": 41,
+    "featuredRoot": "رأي"
+  }
+}

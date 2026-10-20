@@ -4228,38 +4228,43 @@ class _PlayerScreenState extends State<PlayerScreen>
     await _openAudiobook(playlistPath);
   }
 
+  /// Quran Verse-by-Verse files of one reciter share a single settings profile,
+  /// keyed by that reciter's 001-006 file. Everything else keys on its own path.
+  String _fontSettingsKeyPath(String p) {
+    if (!isQuranVerseByVersePath(p)) return p;
+    final base = path.basename(p).replaceFirst(
+        RegExp(r' - \d{3}-\d{3} '), ' - 001-006 ');
+    return path.join(path.dirname(p), base);
+  }
+
   Future<void> _saveFontSettings() async {
     if (_currentAudiobook == null) return;
+    final k = _fontSettingsKeyPath(_currentAudiobook!.path);
     final prefs = await SharedPreferences.getInstance();
-    await prefs.setString('font_${_currentAudiobook!.path}', _selectedFont);
-    await prefs.setDouble(
-        'fontSize_${_currentAudiobook!.path}', _subtitleFontSize);
-    await prefs.setString(
-        'conversionType_${_currentAudiobook!.path}', _conversionType);
-    await prefs.setDouble(
-        'lineSpacing_${_currentAudiobook!.path}', _subtitleLineSpacing);
+    await prefs.setString('font_$k', _selectedFont);
+    await prefs.setDouble('fontSize_$k', _subtitleFontSize);
+    await prefs.setString('conversionType_$k', _conversionType);
+    await prefs.setDouble('lineSpacing_$k', _subtitleLineSpacing);
     if (_currentColorPalette != null) {
-      await prefs.setString('colorPalette_${_currentAudiobook!.path}',
-          _currentColorPalette!.name);
+      await prefs.setString('colorPalette_$k', _currentColorPalette!.name);
     }
-    await prefs.setString('fontColorOverride_${_currentAudiobook!.path}',
-        _fontColorOverride.name);
-    await prefs.setBool('blurShadow_${_currentAudiobook!.path}',
-        _blurShadowEnabled);
+    await prefs.setString('fontColorOverride_$k', _fontColorOverride.name);
+    await prefs.setBool('blurShadow_$k', _blurShadowEnabled);
   }
 
   Future<void> _loadFontSettings(String audiobookPath) async {
+    final k = _fontSettingsKeyPath(audiobookPath);
     final prefs = await SharedPreferences.getInstance();
-    final savedFont = prefs.getString('font_$audiobookPath');
-    final savedFontSize = prefs.getDouble('fontSize_$audiobookPath');
-    final savedColorPalette = prefs.getString('colorPalette_$audiobookPath');
+    final savedFont = prefs.getString('font_$k');
+    final savedFontSize = prefs.getDouble('fontSize_$k');
+    final savedColorPalette = prefs.getString('colorPalette_$k');
     final savedFontColorOverride =
-        prefs.getString('fontColorOverride_$audiobookPath');
-    final savedBlurShadow = prefs.getBool('blurShadow_$audiobookPath');
+        prefs.getString('fontColorOverride_$k');
+    final savedBlurShadow = prefs.getBool('blurShadow_$k');
     final savedConversionType =
-        prefs.getString('conversionType_$audiobookPath');
-    final savedLineSpacing = prefs.getDouble('lineSpacing_$audiobookPath');
-    final savedPlaybackSpeed = prefs.getDouble('playbackSpeed_$audiobookPath');
+        prefs.getString('conversionType_$k');
+    final savedLineSpacing = prefs.getDouble('lineSpacing_$k');
+    final savedPlaybackSpeed = prefs.getDouble('playbackSpeed_$k');
     if (savedLineSpacing != null) {
       _subtitleLineSpacing = savedLineSpacing;
     }
@@ -6741,6 +6746,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _openAudiobook([String? filePath, bool loadOnly = false]) async {
+    bool sameQuranReciter = false;
     try {
       String? selectedPath = filePath;
       if (selectedPath == null) {
@@ -6931,6 +6937,11 @@ class _PlayerScreenState extends State<PlayerScreen>
       }
 
       setState(() {
+        sameQuranReciter = _currentAudiobook != null &&
+            isQuranVerseByVersePath(selectedPath) &&
+            isQuranVerseByVersePath(_currentAudiobook!.path) &&
+            _fontSettingsKeyPath(_currentAudiobook!.path) ==
+                _fontSettingsKeyPath(selectedPath!);
         _currentAudiobook = metadata;
         _currentChapterIndex = chapterToLoad;
         _repeatPlaysCompleted = 0;
@@ -6948,7 +6959,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() => _quranVerseSearchResults = []);
       _quranVerseSearchController.clear();
 
-      await _loadFontSettings(selectedPath);
+      if (!sameQuranReciter) await _loadFontSettings(selectedPath);
       await player.open(Media(selectedPath), play: false);
       await player.setRate(_playbackSpeed);
       await _loadSubtitles(selectedPath);
