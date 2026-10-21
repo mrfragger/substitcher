@@ -1,7 +1,7 @@
 name: substitcher
 description: opus chaptered audiobook player and encoder with colored vtt subtitles and fancy fonts, Quran vtt translations, video and audio editor
 publish_to: "none"
-version: 26.10.20
+version: 26.10.21
 
 environment:
   sdk: ">=3.13.0 <4.0.0"

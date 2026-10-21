@@ -16,10 +16,12 @@ class FontDatabase {
     'Coaster Black': FontMetadata(fontName: 'Coaster Black', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Devinne Swash': FontMetadata(fontName: 'Devinne Swash', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'History of Wawa': FontMetadata(fontName: 'History of Wawa', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Junegull': FontMetadata(fontName: 'Junegull', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Ketupat Ramadhan': FontMetadata(fontName: 'Ketupat Ramadhan', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Kinesthesia': FontMetadata(fontName: 'Kinesthesia', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Kingthings Sans': FontMetadata(fontName: 'Kingthings Sans', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Marhey': FontMetadata(fontName: 'Marhey', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Peralta': FontMetadata(fontName: 'Peralta', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Righteous': FontMetadata(fontName: 'Righteous', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Shojumaru': FontMetadata(fontName: 'Shojumaru', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Spicy Rice': FontMetadata(fontName: 'Spicy Rice', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
@@ -41,6 +43,8 @@ class FontDatabase {
      'MiSans Thai': FontMetadata(fontName: 'MiSans Thai', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Scheherazade New Bold': FontMetadata(fontName: 'Scheherazade New Bold', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+     'Shruti (Gujarati)': FontMetadata(fontName: 'Shruti (Gujarati)', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
+
 
      // ==================== demo/sEeSaWcAsE ====================
        'Devo': FontMetadata(fontName: 'Devo', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
@@ -69,6 +73,7 @@ class FontDatabase {
      'Creates Presence demo': FontMetadata(fontName: 'Creates Presence demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "av", "ch", "di", "ee", "ep", "fe", "ha", "ic", "io", "ju", "li", "ma", "nd", "ns", "om", "or", "pa", "rt", "so", "te", "tr", "ur"]),
      'Coastline Classical demo': FontMetadata(fontName: 'Coastline Classical demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "di", "ee", "ha", "me", "ot", "se", "ve"]),
      'Engaging Realities demo': FontMetadata(fontName: 'Engaging Realities demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ar", "be", "de", "ee", "er", "ge", "ic", "ir", "le", "ma", "mi", "ne", "nt", "of", "or", "pr", "rs", "ss", "ur"]),
+     'Material Lettering demo': FontMetadata(fontName: 'Material Lettering demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["an", "co", "en", "he", "hi", "io", "li", "nd", "of", "om", "ou", "ro", "ur", "ve"]),
      'Titanium Galleries demo': FontMetadata(fontName: 'Titanium Galleries demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["be", "ct", "ed", "er", "fr", "ho", "ir", "ly", "ne", "oc", "ot", "rd", "rt", "st", "tt", "ur"]),
 
      // ==================== demo/alternates ====================

@@ -1,0 +1,684 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَشْيَاءُ فِي سُورَةِ يُوسُفَ",
+        "nameEn": "Objects in the Story of Yusuf (AS)",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "قَمِيصٌ",
+            "en": "his shirt",
+            "ref": "12:27",
+            "verse": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ",
+            "verseEn": "But if his shirt is torn from the back, then she has lied, and he is of the truthful.\""
+          },
+          {
+            "ar": "بِضَاعَةٌ",
+            "en": "their merchandise",
+            "ref": "12:62",
+            "verse": "وَقَالَ لِفِتْيَـٰنِهِ ٱجْعَلُوا۟ بِضَـٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+            "verseEn": "And [Joseph] said to his servants, \"Put their merchandise into their saddlebags so they might recognize it when they have gone back to their people that perhaps they will [again] return.\""
+          },
+          {
+            "ar": "رَحْلٌ",
+            "en": "his bag",
+            "ref": "12:75",
+            "verse": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+            "verseEn": "[The brothers] said, \"Its recompense is that he in whose bag it is found - he [himself] will be its recompense. Thus do we recompense the wrongdoers.\""
+          },
+          {
+            "ar": "بَابٌ",
+            "en": "one gate",
+            "ref": "12:67",
+            "verse": "وَقَالَ يَـٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+            "verseEn": "And he said, \"O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allāh at all. The decision is only for Allāh; upon Him I have relied, and upon Him let those who would rely [indeed] rely.\""
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْمُهَاجِرِينَ وَالْأَنْصَارِ فِي سُورَةِ الْأَنْفَالِ",
+        "nameEn": "Terms for the Emigrants and Helpers in Surah Al-Anfal",
+        "color": "green",
+        "items": [
+          {
+            "ar": "هَاجَرُوا",
+            "en": "and emigrated",
+            "ref": "8:74",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّۭا ۚ لَّهُم مَّغْفِرَةٌۭ وَرِزْقٌۭ كَرِيمٌۭ",
+            "verseEn": "But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision."
+          },
+          {
+            "ar": "جَاهَدُوا",
+            "en": "and strove hard",
+            "ref": "8:75",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ مِنۢ بَعْدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمْ فَأُو۟لَـٰٓئِكَ مِنكُمْ ۚ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍۢ فِى كِتَـٰبِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+            "verseEn": "And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh. Indeed, Allāh is Knowing of all things."
+          },
+          {
+            "ar": "نَصَرُوا",
+            "en": "and helped",
+            "ref": "8:72",
+            "verse": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰيَتِهِم مِّن شَىْءٍ حَتَّىٰ يُهَاجِرُوا۟ ۚ وَإِنِ ٱسْتَنصَرُوكُمْ فِى ٱلدِّينِ فَعَلَيْكُمُ ٱلنَّصْرُ إِلَّا عَلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌۭ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+            "verseEn": "Indeed, those who have believed and emigrated and fought with their wealth and lives in the cause of Allāh and those who gave shelter and aided - they are allies of one another. But those who believed and did not emigrate - for you there is no support of them until they emigrate. And if they seek help of you for the religion, then you must help, except against a people between yourselves and whom is a treaty. And Allāh is Seeing of what you do."
+          },
+          {
+            "ar": "أَوْلِيَاءُ",
+            "en": "(are) allies",
+            "ref": "8:73",
+            "verse": "وَٱلَّذِينَ كَفَرُوا۟ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ إِلَّا تَفْعَلُوهُ تَكُن فِتْنَةٌۭ فِى ٱلْأَرْضِ وَفَسَادٌۭ كَبِيرٌۭ",
+            "verseEn": "And those who disbelieved are allies of one another. If you do not do so [i.e., ally yourselves with other believers], there will be fitnah [i.e., disbelief and oppression] on earth and great corruption."
+          }
+        ]
+      },
+      {
+        "name": "أسماء قرآنية على وزن فُعْل",
+        "nameEn": "Quranic Nouns on the Pattern Fuʿl",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الرُّوحِ",
+            "en": "the soul",
+            "ref": "17:85",
+            "verse": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا",
+            "verseEn": "And they ask you, [O Muḥammad], about the soul. Say, \"The soul is of the affair [i.e., concern] of my Lord. And you [i.e., mankind] have not been given of knowledge except a little.\""
+          },
+          {
+            "ar": "مُلْكُ",
+            "en": "the dominion",
+            "ref": "5:120",
+            "verse": "لِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا فِيهِنَّ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۢ",
+            "verseEn": "To Allāh belongs the dominion of the heavens and the earth and whatever is within them. And He is over all things competent."
+          },
+          {
+            "ar": "السُّحْتَ",
+            "en": "the forbidden",
+            "ref": "5:62",
+            "verse": "وَتَرَىٰ كَثِيرًۭا مِّنْهُمْ يُسَـٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "And you see many of them hastening into sin and aggression and the devouring of [what is] unlawful. How wretched is what they have been doing."
+          },
+          {
+            "ar": "الْبُخْلِ",
+            "en": "stinginess",
+            "ref": "57:24",
+            "verse": "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+            "verseEn": "[Those] who are stingy and enjoin upon people stinginess. And whoever turns away - then indeed, Allāh is the Free of need, the Praiseworthy."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْفِرَقِ وَالْأَحْزَابِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Factions and Parties in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "فَرِيقًا",
+            "en": "a group",
+            "ref": "5:70",
+            "verse": "لَقَدْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًۭا ۖ كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًۭا كَذَّبُوا۟ وَفَرِيقًۭا يَقْتُلُونَ",
+            "verseEn": "We had already taken the covenant of the Children of Israel and had sent to them messengers. Whenever there came to them a messenger with what their souls did not desire, a party [of messengers] they denied, and another party they killed."
+          },
+          {
+            "ar": "حِزْبٍ",
+            "en": "party",
+            "ref": "30:32",
+            "verse": "مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًۭا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
+            "verseEn": "[Or] of those who have divided their religion and become sects, every faction rejoicing in what it has."
+          },
+          {
+            "ar": "أَصْحَابَ",
+            "en": "(the) companions",
+            "ref": "74:39",
+            "verse": "إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ",
+            "verseEn": "Except the companions of the right,."
+          },
+          {
+            "ar": "أُمَّةٌ",
+            "en": "(is) a community",
+            "ref": "7:159",
+            "verse": "وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌۭ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+            "verseEn": "And among the people of Moses is a community which guides by truth and by it establishes justice."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "رسولا",
+    "display": "رَسُولًا",
+    "hint": "A divine envoy is sent to a people, with a parallel mission associated with Pharaoh.",
+    "verseRef": "73:16",
+    "arabicVerse": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًۭا وَبِيلًۭا",
+    "verse": "73:16 - But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure."
+  },
+  "deduction": {
+    "title": "The Messenger Who Confronted the Idolaters",
+    "intro": "In a time when devotion had strayed, a messenger rose with a call to return to the worship of the Lord of the worlds. This figure stood firm against a people entrenched in the worship of a false deity, reminding them of their true Creator and the Lord of their forefathers. Yet the people were heedless and rejected the warning, sealing their own fate. Who was this unwavering caller?",
+    "clues": [
+      "I was sent to a people who had turned away from the path of the One True God.",
+      "I asked my people, \"Will you not fear Allah?\"",
+      "I called them to abandon their worship of a false deity named Baal.",
+      "My people rejected my call and persisted in their idolatry.",
+      "Because of their denial, they will surely be brought forth for punishment.",
+      "My Lord granted me peace and a blessed remembrance among the later generations."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ilyas",
+          "Prophet Yahya",
+          "Prophet Dhul-Kifl",
+          "Prophet Yusuf",
+          "Prophet Shu'ayb"
+        ],
+        "answer": "Prophet Ilyas"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Called his people to abandon Baal",
+          "Built an ark to save the believers",
+          "Was thrown into a fire",
+          "Fled from the tyrant Pharaoh",
+          "Struck a rock to bring forth water"
+        ],
+        "answer": "Called his people to abandon Baal"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Baal",
+          "Al-Lat",
+          "Al-Uzza",
+          "Manat",
+          "Hubal"
+        ],
+        "answer": "Baal"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Granted peace and a blessed remembrance",
+          "Swallowed by the earth",
+          "Destroyed by a violent storm",
+          "Turned into a stone",
+          "Drowned in the sea"
+        ],
+        "answer": "Granted peace and a blessed remembrance"
+      }
+    },
+    "verseRef": "37:123",
+    "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+    "verse": "And indeed, Elias was from among the messengers, (37:123)"
+  },
+  "scramble": {
+    "verseRef": "18:23",
+    "reference": "Surah Al-Kahf (18:23)",
+    "segments": [
+      "وَلَا تَقُولَنَّ",
+      "لِشَيْءٍ",
+      "إِنِّي فَاعِلٌ",
+      "ذَٰلِكَ",
+      "غَدًا"
+    ],
+    "translations": [
+      "And (do) not say",
+      "of anything Indeed, I",
+      "will do",
+      "that",
+      "tomorrow"
+    ],
+    "hint": "The famous verse that teaches Muslims to always say 'In sha Allah' (God willing) when making plans for the future.",
+    "arabic": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا",
+    "words": [
+      "وَلَا تَقُولَنَّ",
+      "لِشَا۟ىْءٍ إِنِّى",
+      "فَاعِلٌۭ",
+      "ذَٰلِكَ",
+      "غَدًا"
+    ],
+    "verseEn": "And never say of anything, \"Indeed, I will do that tomorrow,\""
+  },
+  "roothive": {
+    "center": "و",
+    "outer": [
+      "م",
+      "ت",
+      "ل",
+      "ي",
+      "ا",
+      "ف"
+    ],
+    "root": {
+      "letters": "وفي",
+      "display": "و ف ي",
+      "translit": "w-f-y",
+      "meaning": "The root conveys reaching completion or paying in full. Its derivatives develop this idea into fulfilling promises, repaying fully, or coming to one’s end, as in dying.",
+      "occurrences": 66,
+      "lemmaCount": 7
+    },
+    "words": [
+      {
+        "w": "اول",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَوَّل",
+            "gloss": "first",
+            "type": "noun",
+            "root": "أول",
+            "count": 82,
+            "ref": "2:41",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "اوي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آوَى",
+            "gloss": "took",
+            "type": "verb",
+            "root": "أوي",
+            "count": 9,
+            "ref": "12:69",
+            "pos": 5,
+            "form": 4
+          },
+          {
+            "lemma": "أَوَى",
+            "gloss": "could take refuge",
+            "type": "verb",
+            "root": "أوي",
+            "count": 5,
+            "ref": "11:80",
+            "pos": 8,
+            "alt": [
+              "retreated"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "موت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَوْت",
+            "gloss": "death",
+            "type": "noun",
+            "root": "موت",
+            "count": 50,
+            "ref": "25:3",
+            "pos": 18
+          }
+        ]
+      },
+      {
+        "w": "وفي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "وَفَّى",
+            "gloss": "be repaid in full",
+            "type": "verb",
+            "root": "وفي",
+            "count": 18,
+            "ref": "2:272",
+            "pos": 24,
+            "alt": [
+              "repaid in full",
+              "is repaid in full"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "ولي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَلِيّ",
+            "gloss": "protector",
+            "type": "noun",
+            "root": "ولي",
+            "count": 86,
+            "ref": "2:107",
+            "pos": 15,
+            "alt": [
+              "allies",
+              "protectors"
+            ]
+          },
+          {
+            "lemma": "وَلَّى",
+            "gloss": "make friends",
+            "type": "verb",
+            "root": "ولي",
+            "count": 30,
+            "ref": "6:129",
+            "pos": 2,
+            "alt": [
+              "turned back",
+              "turned"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "يوم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "يَوْم",
+            "gloss": "day",
+            "type": "noun",
+            "root": "يوم",
+            "count": 475,
+            "ref": "1:4",
+            "pos": 2,
+            "alt": [
+              "days",
+              "periods"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اوفي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَوْفَى",
+            "gloss": "more faithful",
+            "type": "verb",
+            "root": "وفي",
+            "count": 20,
+            "ref": "2:40",
+            "pos": 10,
+            "alt": [
+              "fulfill",
+              "fulfills"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اولي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَوْلَى",
+            "gloss": "nearer",
+            "type": "noun",
+            "root": "ولي",
+            "count": 11,
+            "ref": "3:68",
+            "pos": 2,
+            "alt": [
+              "closer",
+              "woe"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "توفي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "تَوَفَّى",
+            "gloss": "dies",
+            "type": "verb",
+            "root": "وفي",
+            "count": 24,
+            "ref": "8:50",
+            "pos": 4,
+            "alt": [
+              "take away souls",
+              "takes"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تولي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَوَلَّى",
+            "gloss": "turns away",
+            "type": "verb",
+            "root": "ولي",
+            "count": 78,
+            "ref": "2:205",
+            "pos": 2,
+            "alt": [
+              "turned",
+              "takes as an ally"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "لولو",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "لُؤْلُؤ",
+            "gloss": "pearls",
+            "type": "noun",
+            "root": "لؤلؤ",
+            "count": 6,
+            "ref": "52:24",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "ماوي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَأْوَى",
+            "gloss": "abode",
+            "type": "noun",
+            "root": "أوي",
+            "count": 22,
+            "ref": "3:151",
+            "pos": 15,
+            "alt": [
+              "refuge"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ملوم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَلُوم",
+            "gloss": "blameworthy",
+            "type": "passive participle",
+            "root": "لوم",
+            "count": 5,
+            "ref": "17:29",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "موتت",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَوْتَت",
+            "gloss": "death",
+            "type": "noun",
+            "root": "موت",
+            "count": 3,
+            "ref": "37:59",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "موفو",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُوَفُّو",
+            "gloss": "pay them in full",
+            "type": "active participle",
+            "root": "وفي",
+            "count": 1,
+            "ref": "11:109",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "موفي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُوفي",
+            "gloss": "fulfill",
+            "type": "active participle",
+            "root": "وفي",
+            "count": 1,
+            "ref": "2:177",
+            "pos": 36
+          }
+        ]
+      },
+      {
+        "w": "مولي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَوْلَى",
+            "gloss": "relation",
+            "type": "noun",
+            "root": "ولي",
+            "count": 18,
+            "ref": "44:41",
+            "pos": 4,
+            "alt": [
+              "protector"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تاويل",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "تَأْوِيل",
+            "gloss": "interpretation",
+            "type": "verbal noun",
+            "root": "أول",
+            "count": 17,
+            "ref": "4:59",
+            "pos": 28,
+            "alt": [
+              "determination",
+              "interpretation of"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متوفي",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُتَوَفِّي",
+            "gloss": "take",
+            "type": "active participle",
+            "root": "وفي",
+            "count": 1,
+            "ref": "3:55",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "موالي",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَوالِي",
+            "gloss": "heirs",
+            "type": "noun",
+            "root": "ولي",
+            "count": 3,
+            "ref": "4:33",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "ولايت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "وَلايَت",
+            "gloss": "protection",
+            "type": "noun",
+            "root": "ولي",
+            "count": 2,
+            "ref": "8:72",
+            "pos": 25
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يَسْتَوْفُ",
+        "gloss": "take in full",
+        "type": "verb",
+        "root": "وفي",
+        "count": 1,
+        "ref": "83:2",
+        "pos": 6,
+        "form": 10
+      }
+    ],
+    "maxScore": 52,
+    "featuredRoot": "وفي"
+  }
+}

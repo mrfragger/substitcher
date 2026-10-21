@@ -37,11 +37,11 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 32 demo fonts + 3 free foreign fonts or search for them to download on font websites
+- download 33 demo fonts + 3 free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 24 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
-- [177Studio](https://177studio.com) with 12 fonts
+- [177Studio](https://177studio.com) with 13 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
 - [Letterara Studio](https://letterarastudio.com) with 5 fonts
 
@@ -80,6 +80,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Coastline Classical demo.otf
 │   ├── Creates Presence demo.otf
 │   ├── Engaging Realities demo.otf
+│   ├── Material Lettering demo.otf
 │   └── Titanium Galleries demo.otf
 ├── mustBeUppercase
 │   ├── Caroline Everett.otf (Grezline)
