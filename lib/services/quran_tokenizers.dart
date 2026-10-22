@@ -1,7 +1,6 @@
-import 'dart:async';
-import 'dart:convert';
 import 'dart:io';
 
+import 'package:betto_icu/betto_icu.dart';
 import 'package:characters/characters.dart';
 import 'package:dart_jieba/dart_jieba.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -13,9 +12,8 @@ import 'package:word_thai_split/word_thai_split.dart';
 typedef LogFn = void Function(String message);
 
 class QuranTokenizers {
-  QuranTokenizers({required this.pythonExecutable, required this.log});
+  QuranTokenizers({required this.log});
 
-  final String pythonExecutable;
   final LogFn log;
 
   static const String _jiebaAsset = 'assets/jieba/dict.dgz';
@@ -23,28 +21,10 @@ class QuranTokenizers {
 
   JiebaSegmenter? _jieba;
   TinySegmenter? _tiny;
-  Process? _khmerProc;
-  StreamIterator<String>? _khmerLines;
-  bool _khmerFailed = false;
+  IcuTokenizer? _icu;
+  bool _icuFailed = false;
   bool _khmerSampleLogged = false;
   final Set<String> _warned = {};
-  String? _khmerPython;
-
-  // khmer_segmenter.tokenize() returns a space-separated STRING, not a list,
-  // so split it here and always send a JSON list back to Dart.
-  static const String _khmerScript = r'''
-import sys, json, re
-sys.stdin.reconfigure(encoding='utf-8')
-sys.stdout.reconfigure(encoding='utf-8')
-from khmer_segmenter import Tokenizer
-t = Tokenizer(seg_type="com")
-for line in sys.stdin:
-    text = line.rstrip("\n")
-    r = t.tokenize(text)
-    if isinstance(r, str):
-        r = [w for w in re.split("[\u200b ]+", r) if w]
-    print(json.dumps(list(r), ensure_ascii=False), flush=True)
-''';
 
   void _warnOnce(String script, Object e) {
     if (_warned.add(script)) {
@@ -54,31 +34,7 @@ for line in sys.stdin:
 
   /// Fallback for Khmer: split on spaces so cuts never land inside a word.
   List<String> _khmerSpaceTokens(String text) =>
-      text.split(RegExp(r'[ \u200b]+')).where((w) => w.isNotEmpty).toList();
-
-  Future<String> _findKhmerPython() async {
-    final candidates = <String>[
-      pythonExecutable,
-      if (Platform.isMacOS || Platform.isLinux) ...[
-        '/Library/Frameworks/Python.framework/Versions/Current/bin/python3',
-        '/opt/homebrew/bin/python3',
-        '/usr/local/bin/python3',
-        '/usr/bin/python3',
-      ],
-    ];
-    for (final c in candidates) {
-      try {
-        final r = await Process.run(c, ['-c', 'import khmer_segmenter']);
-        if (r.exitCode == 0) {
-          log('  Khmer: using $c');
-          return c;
-        }
-      } catch (_) {
-        // interpreter doesn't exist at this path, try the next one
-      }
-    }
-    return pythonExecutable;
-  }
+      text.split(RegExp(r'[ ​]+')).where((w) => w.isNotEmpty).toList();
 
   Future<List<String>> tokenize(String text, String script) async {
     try {
@@ -102,7 +58,7 @@ for line in sys.stdin:
           }
           return t;
         case 'khmer':
-          return await _khmer(text);
+          return _khmer(text);
       }
     } catch (e) {
       _warnOnce(script, e);
@@ -127,52 +83,49 @@ for line in sys.stdin:
     return j;
   }
 
-  Future<List<String>> _khmer(String text) async {
-    if (_khmerFailed) return _khmerSpaceTokens(text);
+  /// betto_icu returns bare word spans: it trims spaces, punctuation AND
+  /// trailing Khmer vowel signs / bantoc (e.g. ចំពោះ -> ចំព, ទ្រង់ -> ទ្រង).
+  /// Re-attach everything between one word's start and the next word's start,
+  /// so the tokens concatenate back to exactly [text].
+  static List<String> _tileTokens(String text, List<String> raw) {
+    final starts = <int>[];
+    var cursor = 0;
+    for (final t in raw) {
+      if (t.isEmpty) continue;
+      final i = text.indexOf(t, cursor);
+      if (i < 0) continue;
+      starts.add(i);
+      cursor = i + t.length;
+    }
+    if (starts.isEmpty) return [text];
+    final out = <String>[];
+    for (var k = 0; k < starts.length; k++) {
+      final from = k == 0 ? 0 : starts[k];
+      final to = k + 1 < starts.length ? starts[k + 1] : text.length;
+      out.add(text.substring(from, to));
+    }
+    return out;
+  }
+
+  /// Khmer word segmentation via the system ICU library (betto_icu).
+  /// No Python needed. Falls back to splitting on spaces if ICU can't load.
+  List<String> _khmer(String text) {
+    if (_icuFailed) return _khmerSpaceTokens(text);
     try {
-      if (_khmerProc == null) {
-        final py = _khmerPython ??= await _findKhmerPython();
-        final check = await Process.run(py, ['-c', 'import khmer_segmenter']);
-        if (check.exitCode != 0) {
-          log('  Installing khmer-segmenter into $py ...');
-          final pip = await Process.run(
-            py,
-            ['-m', 'pip', 'install', '--user', '--break-system-packages', 'khmer-segmenter'],
-          );
-          if (pip.exitCode != 0) {
-            log('  pip error: ${pip.stderr}');
-            throw Exception('khmer-segmenter not installed for $py');
-          }
-        }
-        final proc = await Process.start(
-          py,
-          ['-u', '-c', _khmerScript],
-          environment: {'PYTHONIOENCODING': 'utf-8'},
-        );
-        proc.stderr.drain<void>();
-        _khmerProc = proc;
-        _khmerLines = StreamIterator(
-          proc.stdout.transform(utf8.decoder).transform(const LineSplitter()),
-        );
-      }
-      _khmerProc!.stdin.writeln(text.replaceAll('\n', ' '));
-      await _khmerProc!.stdin.flush();
-      if (!await _khmerLines!.moveNext()) throw Exception('Python tokenizer closed');
-      final tokens = (jsonDecode(_khmerLines!.current) as List).cast<String>();
+      _icu ??= IcuTokenizer();
+      final tokens = _tileTokens(text, _icu!.tokenise(text));
       if (!_khmerSampleLogged) {
         _khmerSampleLogged = true;
-        log('  Khmer sample tokens (${tokens.length}): ${tokens.take(8).join(' | ')}');
+        log('  Khmer tokenizer: ICU (${tokens.length} tokens in first cue): '
+            '${tokens.take(8).join(' | ')}');
       }
       return tokens;
     } catch (e) {
-      _khmerFailed = true;
+      _icuFailed = true;
       _warnOnce('khmer', e);
       return _khmerSpaceTokens(text);
     }
   }
 
-  void dispose() {
-    _khmerProc?.kill();
-    _khmerProc = null;
-  }
+  void dispose() {}
 }

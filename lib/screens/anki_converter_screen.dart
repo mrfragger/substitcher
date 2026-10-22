@@ -12,9 +12,14 @@ import 'dart:async';
 import '../services/anki_service.dart';
 import '../services/quran_tokenizers.dart';
 import '../services/quran_pipeline_service.dart';
+import '../quran/quran_index.dart' show isQuranVerseByVersePath;
 
 class AnkiConverterScreen extends StatefulWidget {
-  const AnkiConverterScreen({super.key});
+  /// Path of the Quran verse by verse audiobook currently loaded in the player
+  /// (any of its 7 range files). Used by "Split Current".
+  final String? currentAudiobookPath;
+
+  const AnkiConverterScreen({super.key, this.currentAudiobookPath});
 
   @override
   State<AnkiConverterScreen> createState() => _AnkiConverterScreenState();
@@ -96,7 +101,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   @override
   void initState() {
     super.initState();
-    _tokenizers = QuranTokenizers(pythonExecutable: _pythonExecutable, log: _quranLogAdd);
+    _tokenizers = QuranTokenizers(log: _quranLogAdd);
     _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
     _loadSavedRoot();
     _loadLastQuranColumns();
@@ -367,11 +372,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         duration: duration,
       ),
     );
-  }
-
-  String get _pythonExecutable {
-    if (Platform.isWindows) return 'python';
-    return 'python3';
   }
 
   int? _findColumnByKeyword(String keyword) {
@@ -991,6 +991,88 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
 
 
+  /// "Split Current": rebuilds the split vtts for all 82 translations for the
+  /// current Quran verse by verse audiobook (see
+  /// QuranPipelineService.splitCurrent). Never applies the "already split"
+  /// check.
+  Future<void> _runSplitCurrent() async {
+    final audiobook = widget.currentAudiobookPath;
+    if (audiobook == null) {
+      _toast(
+          'No audiobook path was passed to this screen. Pass '
+          'currentAudiobookPath: ... where AnkiConverterScreen is opened.',
+          color: Colors.red, duration: const Duration(seconds: 10));
+      return;
+    }
+    if (!isQuranVerseByVersePath(audiobook)) {
+      _toast('Not a Quran Verse by Verse file: $audiobook',
+          color: Colors.red, duration: const Duration(seconds: 10));
+      return;
+    }
+
+    _quranStartTime = DateTime.now();
+    _quranElapsedTimer?.cancel();
+    _quranElapsedTimer = Timer.periodic(const Duration(seconds: 1), (_) {
+      if (!mounted || _quranStartTime == null) return;
+      setState(() => _quranElapsed =
+          _formatDuration(DateTime.now().difference(_quranStartTime!)));
+    });
+
+    setState(() {
+      _quranShowLog = true;
+      _quranLogPaused = false;
+      _quranBusy = true;
+      _quranProgress = 0;
+      _quranStatus = 'Starting...';
+      _quranElapsed = '0m 0s';
+      _quranLog.clear();
+    });
+
+    try {
+      final (copied, failed) = await _quranService.splitCurrent(
+        audiobook,
+        await _loadTranslationsZip(),
+        onProgress: (s, pr) {
+          if (mounted) {
+            setState(() {
+              _quranStatus = s;
+              _quranProgress = pr;
+            });
+          }
+        },
+      );
+      if (mounted) {
+        setState(() {
+          _quranStatus = 'Complete!';
+          _quranProgress = 1.0;
+        });
+      }
+      _beep();
+      _toast(
+        failed.isEmpty
+            ? 'Split vtts copied into $copied language folders'
+            : 'Copied $copied language folders, ${failed.length} failed: ${failed.join(', ')}',
+        color: failed.isEmpty ? Colors.green : Colors.orange,
+        duration: const Duration(seconds: 10),
+      );
+    } catch (e) {
+      if (mounted) setState(() => _quranStatus = 'Error: $e');
+      _toast('Split Current failed: $e',
+          color: Colors.red, duration: const Duration(seconds: 10));
+    } finally {
+      _quranElapsedTimer?.cancel();
+      if (mounted) {
+        setState(() {
+          _quranBusy = false;
+          if (_quranStartTime != null) {
+            _quranElapsed =
+                _formatDuration(DateTime.now().difference(_quranStartTime!));
+          }
+        });
+      }
+    }
+  }
+
   void _quranLogAdd(String msg) {
     _quranLog.add(msg);
     if (_quranLog.length > 200000) _quranLog.removeRange(0, 20000);
@@ -1195,8 +1277,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           const Text(
             'Cleans the csvs, splits them into 7 ranges, generates translated vtts and splits long cues. '
             'Works on every language subfolder in the root folder (the parent of the mp3 folder). '
-            'To convert just one language, put it in its own subfolder. '
-            'Khmer cue splitting uses Python (khmer-segmenter).',
+            'To convert just one language, put it in its own subfolder.',
             style: TextStyle(color: Colors.white54, fontSize: 12),
           ),
           const SizedBox(height: 12),
@@ -1222,6 +1303,20 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                   foregroundColor: Colors.white,
                 ),
                 child: const Text('Split vtt cues'),
+              ),
+              Tooltip(
+                message: 'Automatically splits vtt cues for 83 translations for the\n '
+                    'current Quran verse by verse audiobook, may overwrite existing vtt',
+                waitDuration: const Duration(milliseconds: 400),
+                preferBelow: false,
+                child: ElevatedButton(
+                  onPressed: (_quranBusy || _isProcessing) ? null : _runSplitCurrent,
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.cyan.shade900,
+                    foregroundColor: Colors.white,
+                  ),
+                  child: const Text('Split Current'),
+                ),
               ),
               Tooltip(
                 message: 'Override split check\n'

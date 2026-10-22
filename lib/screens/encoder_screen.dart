@@ -3105,7 +3105,9 @@ class _EncoderScreenState extends State<EncoderScreen> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => const AnkiConverterScreen(),
+                      builder: (context) => AnkiConverterScreen(
+                        currentAudiobookPath: widget.currentAudiobookPath,
+                      ),
                     ),
                   );
                 },

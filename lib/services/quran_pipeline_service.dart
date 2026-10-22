@@ -23,7 +23,7 @@ class QuranPipelineService {
   ];
   static const Map<String, List<String>> _protected = {
     'thai': ['เราะซูล', 'แท้จริง', 'พวกเจ้า', 'พวกเขา', 'ชัยฏอน', 'อัลลอฮ์', 'มลาอิกะฮ์', 'มุฮัมหมัด'],
-    'khmer': ['ស្ហៃតន', 'ម៉ាឡាអ៊ីកាត់', 'អ៊ីព្លីស'],
+    'khmer': ['ស្ហៃតន', 'ម៉ាឡាអ៊ីកាត់', 'អ៊ីព្លីស', 'អល់ឡោះ'],
     'japanese': ['シャイターン', 'イブリース', 'アーダム'],
   };
 
@@ -955,6 +955,142 @@ class QuranPipelineService {
       onProgress?.call('Packaging output...', 0.99);
       await packageOutput(root);
       await moveLanguageDirsToTemp(root, dirs);
+    }
+  }
+
+  // ───────────────────────── split current ─────────────────────────
+
+  /// Copies every file under [src] into [dest], overwriting same-named files.
+  /// Nothing in [dest] is ever deleted.
+  Future<int> _copyDirOverwrite(Directory src, String dest) async {
+    var n = 0;
+    await for (final e in src.list(recursive: true, followLinks: false)) {
+      if (e is! File) continue;
+      final target = p.join(dest, p.relative(e.path, from: src.path));
+      await Directory(p.dirname(target)).create(recursive: true);
+      await e.copy(target);
+      n++;
+    }
+    return n;
+  }
+
+  static final _rangeInFileRe = RegExp(r' - \d{3}-\d{3} ');
+
+  /// Regenerates the split, translated VTTs for the Quran verse by verse
+  /// audiobook that [audiobookPath] belongs to (any one of its 7 range files,
+  /// e.g. "Quran Arabic - 007-015 (Reciter) Verse by Verse.opus") and copies
+  /// them over the language folders in the same folder.
+  ///
+  /// The other 6 range files are found by swapping the range in the file name,
+  /// like the player does for its reciter settings key. Source VTTs come from
+  /// <folder>/zsourcevtt, else the same-named VTT next to the opus files.
+  ///
+  /// Everything is built in a temp folder: the 7 source VTTs, the bundled
+  /// translations zip and the 7 quran_saheeh csvs. Only the final copy touches
+  /// the audiobook folder, and it only overwrites same-named files. The
+  /// "already split" check is never applied here, because cues are merged back
+  /// by verse before splitting. The temp folder is always deleted.
+  ///
+  /// Returns (language folders copied, languages that failed).
+  Future<(int, List<String>)> splitCurrent(
+    String audiobookPath,
+    Uint8List translationsZip, {
+    ProgressFn? onProgress,
+  }) async {
+    log('=== Split current Quran verse by verse audiobook ===');
+    final dir = p.dirname(audiobookPath);
+    final base = p.basenameWithoutExtension(audiobookPath);
+    final ext = p.extension(audiobookPath);
+    if (!_rangeInFileRe.hasMatch(base)) {
+      throw Exception(
+          'Not a Quran verse by verse file: ${p.basename(audiobookPath)}');
+    }
+    log('  Audiobook folder: $dir');
+
+    final sources = <File>[];
+    final missing = <String>[];
+    var fromSource = 0;
+    for (final r in ranges) {
+      final name = base.replaceFirst(_rangeInFileRe, ' - $r ');
+      final audio = File(p.join(dir, '$name$ext'));
+      final original = File(p.join(dir, 'zsourcevtt', '$name.vtt'));
+      final inFolder = File(p.join(dir, '$name.vtt'));
+      if (!await audio.exists()) {
+        missing.add('$r ($ext)');
+      } else if (await original.exists()) {
+        sources.add(original);
+        fromSource++;
+      } else if (await inFolder.exists()) {
+        sources.add(inFolder);
+      } else {
+        missing.add('$r (.vtt)');
+      }
+    }
+    if (missing.isNotEmpty) {
+      throw Exception(
+          'Current audiobook not complete in "$dir". Missing: ${missing.join(', ')}');
+    }
+    log('  Source vtts: $fromSource from zsourcevtt, '
+        '${sources.length - fromSource} from the audiobook folder');
+
+    final temp = await Directory.systemTemp.createTemp('quran_split_');
+    try {
+      for (final f in sources) {
+        await f.copy(p.join(temp.path, p.basename(f.path)));
+      }
+
+      onProgress?.call('Unzipping translations...', 0.0);
+      final n = await extractZipInIsolate(
+        translationsZip,
+        temp.path,
+        mode: ZipExtractMode.all,
+      );
+      log('  Unzipped $n files into temp folder');
+
+      final dirs = findLanguageDirs(temp.path);
+      if (dirs.isEmpty) {
+        throw Exception('No language folders found in the bundled translations');
+      }
+
+      final failed = <String>[];
+      final width = dirs.length.toString().length;
+      for (var i = 0; i < dirs.length; i++) {
+        onProgress?.call(
+          'Splitting (${(i + 1).toString().padLeft(width, '0')}/${dirs.length}) ${dirs[i]}',
+          0.05 + 0.9 * i / dirs.length,
+        );
+        try {
+          await processLanguage(temp.path, dirs[i], doVtt: true);
+        } catch (e) {
+          failed.add(dirs[i]);
+          log('ERROR processing ${dirs[i]}: $e — continuing');
+        }
+        await _yield();
+      }
+
+      onProgress?.call('Splitting source VTTs...', 0.96);
+      await copyAndSplitSourceVtts(temp.path);
+
+      onProgress?.call('Copying to audiobook folder...', 0.98);
+      final out = Directory(p.join(temp.path, 'zsplit'));
+      if (!await out.exists()) {
+        throw Exception('No split vtts were produced');
+      }
+      var copied = 0;
+      for (final d in out.listSync().whereType<Directory>()) {
+        final name = p.basename(d.path);
+        if (name == 'zsourcevtt') continue;
+        await _copyDirOverwrite(d, p.join(dir, name));
+        copied++;
+      }
+      log('  Copied $copied language folders into $dir');
+      return (copied, failed);
+    } finally {
+      try {
+        await temp.delete(recursive: true);
+      } catch (_) {
+        // temp cleanup is best effort
+      }
     }
   }
 

@@ -1,5 +1,6 @@
 import 'dart:io';
 import '../quran/quran_index.dart';
+import '../screens/anki_converter_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
@@ -65,6 +66,33 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
 
   bool get _isQuranVerseByVerse =>
       isQuranVerseByVersePath(widget.currentAudiobookPath);
+
+      Future<void> _openQuranSplitCurrent(BuildContext context) async {
+        final audiobook = widget.currentAudiobookPath;
+        if (audiobook == null) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('No audiobook loaded'),
+              backgroundColor: Colors.red,
+            ),
+          );
+          return;
+        }
+
+        final navigator = Navigator.of(context);
+
+        Navigator.of(context).pop();
+
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          navigator.push(
+            MaterialPageRoute(
+              builder: (_) => AnkiConverterScreen(
+                currentAudiobookPath: audiobook,
+              ),
+            ),
+          );
+        });
+      }
 
   List<String> _filteredSubtitles() {
     if (_searchQuery.isEmpty) return widget.availableSubtitles;
@@ -647,35 +675,43 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Row(
-                children: [
-                  const Text(
-                    'Subtitle Manager',
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 19,
-                      fontWeight: FontWeight.w600,
-                      letterSpacing: -0.2,
-                    ),
-                  ),
-                  const SizedBox(width: 14),
-                  ElevatedButton.icon(
-                    onPressed: () => _createNewCaption(context),
-                    icon: const Icon(Icons.add, size: 13),
-                    label: const Text('Edit Caption'),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.deepPurple.withValues(alpha: 0.85),
-                      foregroundColor: Colors.white,
-                      elevation: 0,
-                      visualDensity: VisualDensity.compact,
-                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                      textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
-                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+            Row(
+              children: [
+                const Text(
+                  'Subtitle Manager',
+                  style: TextStyle( /* unchanged */ ),
+                ),
+                const SizedBox(width: 14),
+                ElevatedButton.icon(
+                  onPressed: () => _createNewCaption(context),
+                  icon: const Icon(Icons.add, size: 13),
+                  label: const Text('Edit Caption'),
+                  style: ElevatedButton.styleFrom( /* unchanged */ ),
+                ),
+                if (_isQuranVerseByVerse) ...[
+                  const SizedBox(width: 8),
+                  Tooltip(
+                    message: "Opens the Anki/Quran converter — choose 'Split Current' there",
+                    waitDuration: const Duration(milliseconds: 400),
+                    child: ElevatedButton.icon(
+                      onPressed: () => _openQuranSplitCurrent(context),
+                      icon: const Icon(Icons.translate, size: 13),
+                      label: const Text('Create Quran vtt translations'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.teal.withValues(alpha: 0.85),
+                        foregroundColor: Colors.white,
+                        elevation: 0,
+                        visualDensity: VisualDensity.compact,
+                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                        textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+                      ),
                     ),
                   ),
                 ],
-              ),
+              ],
+            ),
               const SizedBox(height: 6),
               Row(
                 children: [

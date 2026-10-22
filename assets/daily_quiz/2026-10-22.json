@@ -1,0 +1,805 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَسْمَاءُ الْقُرْآنِ وَأَوْصَافُهُ",
+        "nameEn": "Names and Descriptions of the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْقُرْآنَ",
+            "en": "the Quran",
+            "ref": "55:2",
+            "verse": "عَلَّمَ ٱلْقُرْءَانَ",
+            "verseEn": "Taught the Qur’ān,"
+          },
+          {
+            "ar": "الْكِتَابِ",
+            "en": "(of) the Book",
+            "ref": "45:2",
+            "verse": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+            "verseEn": "The revelation of the Book is from Allāh, the Exalted in Might, the Wise."
+          },
+          {
+            "ar": "تَنْزِيلٌ",
+            "en": "A Revelation",
+            "ref": "56:80",
+            "verse": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "[It is] a revelation from the Lord of the worlds."
+          },
+          {
+            "ar": "ذِكْرًا",
+            "en": "a Reminder",
+            "ref": "20:99",
+            "verse": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ مَا قَدْ سَبَقَ ۚ وَقَدْ ءَاتَيْنَـٰكَ مِن لَّدُنَّا ذِكْرًۭا",
+            "verseEn": "Thus, [O Muḥammad], We relate to you from the news of what has preceded. And We have certainly given you from Us a message [i.e., the Qur’ān]."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْعَطَاءِ وَالصَّدَقَةِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Charity and Giving in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الزَّكَاةَ",
+            "en": "zakah",
+            "ref": "27:3",
+            "verse": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "verseEn": "Who establish prayer and give zakāh, and of the Hereafter they are certain [in faith]."
+          },
+          {
+            "ar": "صَدَقَةٍ",
+            "en": "a charity",
+            "ref": "2:263",
+            "verse": "۞ قَوْلٌۭ مَّعْرُوفٌۭ وَمَغْفِرَةٌ خَيْرٌۭ مِّن صَدَقَةٍۢ يَتْبَعُهَآ أَذًۭى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌۭ",
+            "verseEn": "Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing."
+          },
+          {
+            "ar": "نَفَقَةً",
+            "en": "any spending",
+            "ref": "9:121",
+            "verse": "وَلَا يُنفِقُونَ نَفَقَةًۭ صَغِيرَةًۭ وَلَا كَبِيرَةًۭ وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "Nor do they spend an expenditure, small or large, or cross a valley but that it is registered for them that Allāh may reward them for the best of what they were doing."
+          },
+          {
+            "ar": "قَرْضًا",
+            "en": "a loan",
+            "ref": "57:18",
+            "verse": "إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًۭا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌۭ كَرِيمٌۭ",
+            "verseEn": "Indeed, the men who practice charity and the women who practice charity and [they who] have loaned Allāh a goodly loan - it will be multiplied for them, and they will have a noble reward."
+          }
+        ]
+      },
+      {
+        "name": "أوامر وتحذيرات في سورة المزمل",
+        "nameEn": "Admonitions in Surah Al-Muzzammil: Patience, Warning, and the Hereafter",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَاصْبِرْ",
+            "en": "And be patient",
+            "ref": "73:10",
+            "verse": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا",
+            "verseEn": "And be patient over what they say and avoid them with gracious avoidance."
+          },
+          {
+            "ar": "تَتَّقُونَ",
+            "en": "will you guard yourselves",
+            "ref": "73:17",
+            "verse": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًۭا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
+            "verseEn": "Then how can you fear, if you disbelieve, a Day that will make the children white-haired?"
+          },
+          {
+            "ar": "مُنْفَطِرٌ",
+            "en": "(will) break apart",
+            "ref": "73:18",
+            "verse": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+            "verseEn": "The heaven will break apart therefrom; ever is His promise fulfilled."
+          },
+          {
+            "ar": "سَبِيلًا",
+            "en": "a way",
+            "ref": "73:19",
+            "verse": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+            "verseEn": "Indeed, this is a reminder, so whoever wills may take to his Lord a way."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْفُرْقَةِ وَالشِّقَاقِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Separation and Discord in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "فِرَاقُ",
+            "en": "(is) parting",
+            "ref": "18:78",
+            "verse": "قَالَ هَـٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+            "verseEn": "[Al-Khiḍr] said, \"This is parting between me and you. I will inform you of the interpretation of that about which you could not have patience."
+          },
+          {
+            "ar": "اِخْتَلَفُوا",
+            "en": "who differed",
+            "ref": "2:176",
+            "verse": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ ۗ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِى ٱلْكِتَـٰبِ لَفِى شِقَاقٍۭ بَعِيدٍۢ",
+            "verseEn": "That is [deserved by them] because Allāh has sent down the Book in truth. And indeed, those who differ over the Book are in extreme dissension."
+          },
+          {
+            "ar": "الْفَصْلِ",
+            "en": "(of) Judgment",
+            "ref": "37:21",
+            "verse": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "verseEn": "[They will be told], \"This is the Day of Judgement which you used to deny.\""
+          },
+          {
+            "ar": "شِقَاقٍ",
+            "en": "opposition",
+            "ref": "41:52",
+            "verse": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍۢ",
+            "verseEn": "Say, \"Have you considered: if it [i.e., the Qur’ān] is from Allāh and you disbelieved in it, who would be more astray than one who is in extreme dissension?\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "كفوا",
+    "display": "كُفُوًا",
+    "hint": "The One described as having no partner, likeness, or rival.",
+    "verseRef": "112:5",
+    "arabicVerse": "",
+    "verse": "112:5"
+  },
+  "deduction": {
+    "title": "The Community of the First Transgression",
+    "intro": "In the land of ancient cities, a people once thrived. They were visited by a messenger with a clear call, yet they turned away and pursued a path no one had ever walked. Their tale is one of defiance, depravity, and a punishment that left their homeland as a sign for all who reflect. Who are these souls?",
+    "clues": [
+      "We lived in cities of the plain, where our prophet called us to righteousness.",
+      "We were the first to commit an indecency that no one in all the worlds had ever done before.",
+      "We waylaid travelers and committed evil openly in our gatherings.",
+      "We rejected the messenger sent to us and threatened to drive him out of our land.",
+      "We rushed to his house demanding he surrender his guests to us.",
+      "Our punishment was a rain of stones, and our city was turned upside down."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "People of Lut",
+          "People of Nuh",
+          "People of 'Ad",
+          "People of Thamud",
+          "People of Madyan"
+        ],
+        "answer": "People of Lut"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Committed the first act of sodomy",
+          "Worshipped idols",
+          "Cheated in trade",
+          "Killed their prophet",
+          "Disobeyed their parents"
+        ],
+        "answer": "Committed the first act of sodomy"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The city of the plain",
+          "The city of the well",
+          "The city of the ditch",
+          "The city of the elephant",
+          "The city of the garden"
+        ],
+        "answer": "The city of the plain"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Rained with stones and overturned",
+          "Drowned by a flood",
+          "Destroyed by a violent wind",
+          "Swallowed by the earth",
+          "Struck by a loud blast"
+        ],
+        "answer": "Rained with stones and overturned"
+      }
+    },
+    "verseRef": "26:162",
+    "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+    "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+  },
+  "scramble": {
+    "verseRef": "37:180",
+    "reference": "Surah As-Saffat (37:180)",
+    "segments": [
+      "وَإِنَّ الْمَسَاجِدَ",
+      "لِلَّهِ فَلَا",
+      "تَدْعُوا مَعَ اللَّهِ",
+      "أَحَدًا"
+    ],
+    "translations": [
+      "Glory (be to) your Lord",
+      "(the) Lord (of) Honor",
+      "above what",
+      "they attribute"
+    ],
+    "hint": "A reminder of Allah's absolute uniqueness: worship and supplication are directed to Him alone.",
+    "arabic": "سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+    "words": [
+      "سُبْحَـٰنَ رَبِّكَ",
+      "رَبِّ ٱلْعِزَّةِ",
+      "عَمَّا",
+      "يَصِفُونَ"
+    ],
+    "verseEn": "Exalted is your Lord, the Lord of might, above what they describe."
+  },
+  "roothive": {
+    "center": "ب",
+    "outer": [
+      "ن",
+      "ي",
+      "ا",
+      "ج",
+      "م",
+      "ع"
+    ],
+    "root": {
+      "letters": "عجب",
+      "display": "ع ج ب",
+      "translit": "ʿ-j-b",
+      "meaning": "It conveys wonder or amazement at something unusual, striking, or delightful. Its derivatives express astonishment, curiosity, admiration, or the quality of being amazing.",
+      "occurrences": 27,
+      "lemmaCount": 5
+    },
+    "words": [
+      {
+        "w": "ابن",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ابْن",
+            "gloss": "son",
+            "type": "noun",
+            "root": "بني",
+            "count": 63,
+            "ref": "2:87",
+            "pos": 11,
+            "alt": [
+              "sons",
+              "children"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ابي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَبَى",
+            "gloss": "refused",
+            "type": "verb",
+            "root": "أبي",
+            "count": 13,
+            "ref": "2:34",
+            "pos": 9,
+            "alt": [
+              "refuse"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "باب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "باب",
+            "gloss": "gates",
+            "type": "noun",
+            "root": "بوب",
+            "count": 27,
+            "ref": "6:44",
+            "pos": 8,
+            "alt": [
+              "gate",
+              "doors"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بني",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بُنَىّ",
+            "gloss": "children",
+            "type": "noun",
+            "root": "بني",
+            "count": 80,
+            "ref": "2:83",
+            "pos": 4,
+            "alt": [
+              "children of israel",
+              "sons"
+            ]
+          },
+          {
+            "lemma": "بَنَى",
+            "gloss": "construct",
+            "type": "verb",
+            "root": "بني",
+            "count": 11,
+            "ref": "40:36",
+            "pos": 4,
+            "alt": [
+              "build"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "بيع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَيْع",
+            "gloss": "bargaining",
+            "type": "noun",
+            "root": "بيع",
+            "count": 7,
+            "ref": "2:254",
+            "pos": 13,
+            "alt": [
+              "any trade",
+              "sale"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بين",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَيْن",
+            "gloss": "between",
+            "type": "noun",
+            "root": "بين",
+            "count": 266,
+            "ref": "2:66",
+            "pos": 4,
+            "alt": [
+              "before",
+              "among"
+            ]
+          },
+          {
+            "lemma": "بَيَّنُ",
+            "gloss": "makes clear",
+            "type": "verb",
+            "root": "بين",
+            "count": 35,
+            "ref": "2:68",
+            "pos": 5,
+            "alt": [
+              "to make clear",
+              "allah makes clear"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "جنب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَنب",
+            "gloss": "regard",
+            "type": "noun",
+            "root": "جنب",
+            "count": 8,
+            "ref": "39:56",
+            "pos": 9
+          },
+          {
+            "lemma": "جُنُب",
+            "gloss": "impure",
+            "type": "adjective",
+            "root": "جنب",
+            "count": 4,
+            "ref": "4:43",
+            "pos": 14,
+            "alt": [
+              "state of ceremonial impurity",
+              "distance"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "جيب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَيْب",
+            "gloss": "bosom",
+            "type": "noun",
+            "root": "جيب",
+            "count": 3,
+            "ref": "24:31",
+            "pos": 18,
+            "alt": [
+              "bosoms"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عجب",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عَجِبُ",
+            "gloss": "astonished",
+            "type": "verb",
+            "root": "عجب",
+            "count": 8,
+            "ref": "13:5",
+            "pos": 2,
+            "form": 1
+          },
+          {
+            "lemma": "عَجَب",
+            "gloss": "wonder",
+            "type": "noun",
+            "root": "عجب",
+            "count": 5,
+            "ref": "10:2",
+            "pos": 3,
+            "alt": [
+              "amazingly",
+              "amazing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عنب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عِنَب",
+            "gloss": "grapes",
+            "type": "noun",
+            "root": "عنب",
+            "count": 11,
+            "ref": "6:99",
+            "pos": 27,
+            "alt": [
+              "grapevines"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ماب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَآب",
+            "gloss": "place of return",
+            "type": "noun",
+            "root": "أوب",
+            "count": 9,
+            "ref": "13:29",
+            "pos": 8,
+            "alt": [
+              "return"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نبا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَبَأ",
+            "gloss": "news",
+            "type": "noun",
+            "root": "نبأ",
+            "count": 29,
+            "ref": "3:44",
+            "pos": 3,
+            "alt": [
+              "story"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "نبي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَبِيّ",
+            "gloss": "prophet",
+            "type": "noun",
+            "root": "نبأ",
+            "count": 75,
+            "ref": "2:91",
+            "pos": 24,
+            "alt": [
+              "prophets",
+              "any prophet"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اعجب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَعْجَبَ",
+            "gloss": "delighting",
+            "type": "verb",
+            "root": "عجب",
+            "count": 11,
+            "ref": "48:29",
+            "pos": 40,
+            "alt": [
+              "pleases"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اناب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَنابَ",
+            "gloss": "turns",
+            "type": "verb",
+            "root": "نوب",
+            "count": 11,
+            "ref": "11:88",
+            "pos": 35,
+            "alt": [
+              "turn",
+              "turns back"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "انبا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَنۢبَأَ",
+            "gloss": "inform",
+            "type": "verb",
+            "root": "نبأ",
+            "count": 4,
+            "ref": "2:31",
+            "pos": 10,
+            "alt": [
+              "had informed",
+              "informed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "بايع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بايَعْ",
+            "gloss": "have contracted",
+            "type": "verb",
+            "root": "بيع",
+            "count": 6,
+            "ref": "9:111",
+            "pos": 32,
+            "alt": [
+              "pledge allegiance to",
+              "pledge allegiance"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "بنان",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَنان",
+            "gloss": "fingertip",
+            "type": "noun",
+            "root": "بنن",
+            "count": 2,
+            "ref": "8:12",
+            "pos": 23
+          }
+        ]
+      },
+      {
+        "w": "بيان",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَيان",
+            "gloss": "declaration",
+            "type": "noun",
+            "root": "بين",
+            "count": 3,
+            "ref": "3:138",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "جانب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "جانِب",
+            "gloss": "side",
+            "type": "active participle",
+            "root": "جنب",
+            "count": 9,
+            "ref": "17:68",
+            "pos": 5,
+            "alt": [
+              "on side",
+              "direction"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عجاب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عُجاب",
+            "gloss": "curious",
+            "type": "adjective",
+            "root": "عجب",
+            "count": 1,
+            "ref": "38:5",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "عجيب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "عَجِيب",
+            "gloss": "amazing",
+            "type": "adjective",
+            "root": "عجب",
+            "count": 2,
+            "ref": "11:72",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "مبين",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُبِين",
+            "gloss": "clear",
+            "type": "active participle",
+            "root": "بين",
+            "count": 119,
+            "ref": "2:168",
+            "pos": 16,
+            "alt": [
+              "manifest",
+              "open"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مجيب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُجِيب",
+            "gloss": "all-responsive",
+            "type": "active participle",
+            "root": "جوب",
+            "count": 2,
+            "ref": "11:61",
+            "pos": 27
+          }
+        ]
+      },
+      {
+        "w": "منيب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُنِيب",
+            "gloss": "oft-returning",
+            "type": "active participle",
+            "root": "نوب",
+            "count": 7,
+            "ref": "11:75",
+            "pos": 5,
+            "alt": [
+              "turning",
+              "turns"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بنيان",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بُنْيان",
+            "gloss": "structure",
+            "type": "noun",
+            "root": "بني",
+            "count": 7,
+            "ref": "18:21",
+            "pos": 21
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 48,
+    "featuredRoot": "عجب"
+  }
+}
