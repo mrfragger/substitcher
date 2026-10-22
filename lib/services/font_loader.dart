@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'dart:convert';
+import 'ligature_reader.dart';
 import 'package:flutter/services.dart';
 import 'package:path/path.dart' as path;
 
@@ -11,6 +12,28 @@ class CustomFontLoader {
   static List<String> get loadedFonts => _loadedFonts.keys.toList()..sort();
   static List<String> get customFonts => _customFonts.toList()..sort();
   static List<String> get customFonts2 => _customFonts2.toList()..sort();
+  static String? pathFor(String fontName) => _loadedFonts[fontName];
+
+  static Future<Map<int, String>> getLigatureLabels(String fontName) async {
+    final cached = _ligatureLabelCache[fontName];
+    if (cached != null) return cached;
+
+    final p = _loadedFonts[fontName];
+    if (p == null) return {};
+
+    Uint8List bytes;
+    final file = File(p);
+    if (await file.exists()) {
+      bytes = await file.readAsBytes();
+    } else {
+      // Android: p is an asset path
+      bytes = (await rootBundle.load(p)).buffer.asUint8List();
+    }
+
+    return _ligatureLabelCache[fontName] = LigatureReader.read(bytes);
+  }
+
+  static final Map<String, Map<int, String>> _ligatureLabelCache = {};
 
   static Future<void> loadFonts() async {
     try {
@@ -74,11 +97,13 @@ class CustomFontLoader {
     if (slot == 2) {
       for (final fontName in _customFonts2) {
         _loadedFonts.remove(fontName);
+        _ligatureLabelCache.remove(fontName);
       }
       _customFonts2.clear();
     } else {
       for (final fontName in _customFonts) {
         _loadedFonts.remove(fontName);
+        _ligatureLabelCache.remove(fontName);
       }
       _customFonts.clear();
     }

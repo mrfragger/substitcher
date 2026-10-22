@@ -4405,12 +4405,17 @@ class _PlayerScreenState extends State<PlayerScreen>
         border: Border.all(color: Colors.deepPurple, width: 2),
         borderRadius: BorderRadius.circular(8),
       ),
-      child: FutureBuilder<List<String>>(
-        future: _filterValidGlyphs(
-          allGlyphs,
-          displayFont,
-          knownCodePoints: _getKnownCodePoints(_selectedFont),
-        ),
+      child: FutureBuilder<(List<String>, Map<int, String>)>(
+        future: () async {
+          final g = await _filterValidGlyphs(
+            allGlyphs,
+            displayFont,
+            knownCodePoints: _getKnownCodePoints(_selectedFont),
+          );
+          final labels =
+              await CustomFontLoader.getLigatureLabels(_selectedFont);
+          return (g, labels);
+        }(),
         builder: (context, snapshot) {
           if (!snapshot.hasData) {
             return const Center(
@@ -4418,7 +4423,8 @@ class _PlayerScreenState extends State<PlayerScreen>
             );
           }
 
-          final glyphs = snapshot.data!;
+          final glyphs = snapshot.data!.$1;
+          final labelMap = snapshot.data!.$2;
 
           return Column(
             children: [
@@ -4444,8 +4450,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                       tooltip: 'Previous font',
                     ),
                     IconButton(
-                      icon:
-                          const Icon(Icons.arrow_forward, color: Colors.white),
+                      icon: const Icon(Icons.arrow_forward, color: Colors.white),
                       onPressed: currentIndex < filteredFonts.length - 1
                           ? () async {
                               await _navigateFonts(1);
@@ -4457,9 +4462,8 @@ class _PlayerScreenState extends State<PlayerScreen>
                     const SizedBox(width: 8),
                     Expanded(
                       child: Text(
-                        'Font: $_selectedFont (${glyphs.length} glyphs)',
-                        style:
-                            const TextStyle(color: Colors.white, fontSize: 18),
+                        'Font: $_selectedFont (${glyphs.length} glyphs, ${labelMap.length} ligatures)',
+                        style: const TextStyle(color: Colors.white, fontSize: 18),
                         overflow: TextOverflow.ellipsis,
                       ),
                     ),
@@ -4486,6 +4490,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   itemBuilder: (context, index) {
                     final char = glyphs[index];
                     final codePoint = char.codeUnitAt(0);
+                    final label = labelMap[codePoint];
 
                     return Container(
                       decoration: BoxDecoration(
@@ -4507,14 +4512,31 @@ class _PlayerScreenState extends State<PlayerScreen>
                             ),
                           ),
                           Container(
+                            width: double.infinity,
                             padding: const EdgeInsets.all(4),
                             color: Colors.grey[900],
-                            child: Text(
-                              'U+${codePoint.toRadixString(16).toUpperCase().padLeft(4, '0')}',
-                              style: const TextStyle(
-                                color: Colors.grey,
-                                fontSize: 10,
+                            child: Text.rich(
+                              TextSpan(
+                                children: [
+                                  if (label != null)
+                                    TextSpan(
+                                      text: '$label  ',
+                                      style: const TextStyle(
+                                        color: Colors.white,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                  TextSpan(
+                                    text:
+                                        'U+${codePoint.toRadixString(16).toUpperCase().padLeft(4, '0')}',
+                                    style: const TextStyle(color: Colors.grey),
+                                  ),
+                                ],
                               ),
+                              style: const TextStyle(fontSize: 10),
+                              textAlign: TextAlign.center,
+                              maxLines: 1,
+                              overflow: TextOverflow.ellipsis,
                             ),
                           ),
                         ],

@@ -150,7 +150,7 @@ class SubtitleTransformer {
 
   static String _replaceTextForDemo(String input) {
     if (input.contains('-->') && !RegExp(r'^\d\d:\d\d:\d\d\.\d\d\d --> \d\d:\d\d:\d\d\.\d\d\d').hasMatch(input)) {
-      print('Odd cue line: "$input"');
+      // print('Odd cue line: "$input"');
     }
     input = input.replaceAllMapped(
       RegExp(r'^(\d\d):(\d\d)\.(\d\d\d) --> (\d\d):(\d\d)\.(\d\d\d)'),
