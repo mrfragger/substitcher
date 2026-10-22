@@ -6675,8 +6675,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() {
         _savedSearches = [
           const SavedSearch(name: '006', query: '006'),
-          const SavedSearch(name: 'qns', query: 'qns'),
-          const SavedSearch(name: 'quran ⊘ verse', query: 'quran', exclude: 'verse'),
+          // const SavedSearch(name: 'quran ⊘ verse', query: 'quran', exclude: 'verse'),
         ];
       });
       await _persistSavedSearches();
