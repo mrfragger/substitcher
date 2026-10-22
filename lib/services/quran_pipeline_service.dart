@@ -6,7 +6,8 @@ import 'package:csv/csv.dart';
 import 'package:path/path.dart' as p;
 import 'quran_tokenizers.dart';
 
-enum ZipExtractMode { all, rangeCsvsOnly, languagesOnly }
+enum ZipExtractMode { all, rangeCsvsOnly, languagesOnly, englishHilaliOnly }
+
 typedef ProgressFn = void Function(String status, double progress);
 
 class QuranPipelineService {
@@ -871,6 +872,11 @@ class QuranPipelineService {
       final isRangeCsv = !name.contains('/') && _rangeCsvRe.hasMatch(name);
       if (mode == ZipExtractMode.rangeCsvsOnly && !isRangeCsv) continue;
       if (mode == ZipExtractMode.languagesOnly && isRangeCsv) continue;
+      if (mode == ZipExtractMode.englishHilaliOnly) {
+        if (!name.contains('/')) continue;
+        final top = name.split('/').first.toLowerCase();
+        if (!top.contains('hilali')) continue;
+      }
 
       final dest = p.normalize(p.join(rootNorm, name));
       if (!p.isWithin(rootNorm, dest)) continue;

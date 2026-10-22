@@ -691,7 +691,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                 if (_isQuranVerseByVerse) ...[
                   const SizedBox(width: 8),
                   Tooltip(
-                    message: "Opens the Anki/Quran converter — choose 'Split Current' there",
+                    message: "Opens the Anki/Quran converter — choose 'Split Current Audiobook' there",
                     waitDuration: const Duration(milliseconds: 400),
                     child: ElevatedButton.icon(
                       onPressed: () => _openQuranSplitCurrent(context),

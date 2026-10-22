@@ -823,6 +823,46 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
   }
 
+  Future<void> _unzipEnglishHilali() async {
+    var root = _quranRoot;
+    if (root == null) {
+      root = await FilePicker.getDirectoryPath(
+        dialogTitle: 'Select folder to unzip English Hilali into',
+      );
+      if (root == null) return;
+      setState(() => _refreshQuranRoot(root!));
+    }
+    setState(() {
+      _quranShowLog = false;
+      _quranElapsed = '';
+      _quranBusy = true;
+      _quranProgress = 0;
+      _quranStatus = 'Unzipping English Hilali...';
+      _quranLog.clear();
+    });
+    try {
+      final n = await QuranPipelineService.extractZipInIsolate(
+        await _loadTranslationsZip(),
+        root,
+        mode: ZipExtractMode.englishHilaliOnly,
+      );
+      setState(() {
+        _refreshQuranRoot(root!);
+        _quranStatus = '';
+      });
+      if (n == 0) {
+        _toast('No English Hilali folder found in the bundled zip', color: Colors.red);
+      } else {
+        _toast('Unzipped $n files for English Hilali');
+      }
+    } catch (e) {
+      setState(() => _quranStatus = '');
+      _toast('Error: $e', color: Colors.red);
+    } finally {
+      if (mounted) setState(() => _quranBusy = false);
+    }
+  }
+
   Future<void> _unzipBundledTranslations() async {
     var root = _quranRoot;
     if (root == null) {
@@ -1292,8 +1332,29 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                   backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
-                child: const Text('Unzip 82 Quran Translations'),
+                child: const Text('Unzip 83 Quran Translations'),
               ),
+              Tooltip(
+                message: 'One translation so Split vtt cues works',
+                waitDuration: const Duration(milliseconds: 400),
+                preferBelow: false,
+                child: ElevatedButton(
+                  onPressed: _quranBusy ? null : _unzipEnglishHilali,
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.cyan.shade900,
+                    foregroundColor: Colors.white,
+                  ),
+                  child: const Text('Unzip English Hilali'),
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          Wrap(
+            spacing: 12,
+            runSpacing: 8,
+            crossAxisAlignment: WrapCrossAlignment.center,
+            children: [
               ElevatedButton(
                 onPressed: (_quranBusy || _isProcessing || _quranRoot == null)
                     ? null
@@ -1315,7 +1376,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                     backgroundColor: Colors.cyan.shade900,
                     foregroundColor: Colors.white,
                   ),
-                  child: const Text('Split Current'),
+                  child: const Text('Split Current Audiobook'),
                 ),
               ),
               Tooltip(
