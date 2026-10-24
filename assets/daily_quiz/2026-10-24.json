@@ -1,0 +1,771 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ اللَّهِ الَّتِي اعْتَرَفَ بِهَا إِبْرَاهِيمُ فِي سُورَةِ الشُّعَرَاء",
+        "nameEn": "Acts of Allah Acknowledged by Abraham in Ash-Shu'ara",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَهْدِينِ",
+            "en": "guides me",
+            "ref": "26:78",
+            "verse": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْدِينِ",
+            "verseEn": "Who created me, and He [it is who] guides me."
+          },
+          {
+            "ar": "يُطْعِمُنِي",
+            "en": "gives me food",
+            "ref": "26:79",
+            "verse": "وَٱلَّذِى هُوَ يُطْعِمُنِى وَيَسْقِينِ",
+            "verseEn": "And it is He who feeds me and gives me drink."
+          },
+          {
+            "ar": "يَشْفِينِ",
+            "en": "cures me",
+            "ref": "26:80",
+            "verse": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+            "verseEn": "And when I am ill, it is He who cures me"
+          },
+          {
+            "ar": "يُحْيِينِ",
+            "en": "he will give me life",
+            "ref": "26:81",
+            "verse": "وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ",
+            "verseEn": "And who will cause me to die and then bring me to life"
+          }
+        ]
+      },
+      {
+        "name": "نِعَمُ أَهْلِ الْجَنَّةِ فِي سُورَةِ الصَّافَّاتِ",
+        "nameEn": "Blessings of the People of Paradise in Surah As-Saffat",
+        "color": "green",
+        "items": [
+          {
+            "ar": "رِزْقٌ",
+            "en": "(will be) a provision",
+            "ref": "37:41",
+            "verse": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ",
+            "verseEn": "Those will have a provision determined -"
+          },
+          {
+            "ar": "فَوَٰكِهُ",
+            "en": "Fruits",
+            "ref": "37:42",
+            "verse": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+            "verseEn": "Fruits; and they will be honored"
+          },
+          {
+            "ar": "جَنَّـٰتِ",
+            "en": "Gardens",
+            "ref": "37:43",
+            "verse": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+            "verseEn": "In gardens of pleasure"
+          },
+          {
+            "ar": "سُرُرٍ",
+            "en": "thrones",
+            "ref": "37:44",
+            "verse": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ",
+            "verseEn": "On thrones facing one another."
+          }
+        ]
+      },
+      {
+        "name": "عَنَاصِرُ دُعَاءِ مُوسَى وَاسْتِجَابَةِ اللهِ فِي سُورَةِ طه",
+        "nameEn": "Elements of Musa's Supplication and Divine Response in Surah Ta-Ha",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَزْرِي",
+            "en": "my strength",
+            "ref": "20:31",
+            "verse": "ٱشْدُدْ بِهِۦٓ أَزْرِى",
+            "verseEn": "Increase through him my strength"
+          },
+          {
+            "ar": "أَمْرِي",
+            "en": "my task",
+            "ref": "20:32",
+            "verse": "وَأَشْرِكْهُ فِىٓ أَمْرِى",
+            "verseEn": "And let him share my task"
+          },
+          {
+            "ar": "بَصِيرًا",
+            "en": "All-Seer",
+            "ref": "20:35",
+            "verse": "إِنَّكَ كُنتَ بِنَا بَصِيرًۭا",
+            "verseEn": "Indeed, You are of us ever Seeing.\""
+          },
+          {
+            "ar": "سُؤْلَكَ",
+            "en": "your request",
+            "ref": "20:36",
+            "verse": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَـٰمُوسَىٰ",
+            "verseEn": "[Allāh] said, \"You have been granted your request, O Moses."
+          }
+        ]
+      },
+      {
+        "name": "أَحْوَالُ فِرْعَوْنَ وَدَعْوَتُهُ فِي النَّازِعَاتِ",
+        "nameEn": "Pharaoh's Transgression and the Call to Purification in An-Nazi'at",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "طَغَىٰ",
+            "en": "(has) transgressed",
+            "ref": "79:17",
+            "verse": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+            "verseEn": "\"Go to Pharaoh. Indeed, he has transgressed."
+          },
+          {
+            "ar": "تَزَكَّىٰ",
+            "en": "purify yourself",
+            "ref": "79:18",
+            "verse": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+            "verseEn": "And say to him, 'Would you [be willing to] purify yourself"
+          },
+          {
+            "ar": "تَخْشَىٰ",
+            "en": "so you would fear",
+            "ref": "79:19",
+            "verse": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+            "verseEn": "And let me guide you to your Lord so you would fear [Him]?'\""
+          },
+          {
+            "ar": "عَصَىٰ",
+            "en": "and disobeyed",
+            "ref": "79:21",
+            "verse": "فَكَذَّبَ وَعَصَىٰ",
+            "verseEn": "But he [i.e., Pharaoh] denied and disobeyed."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "وليا",
+    "display": "وَلِيًّا",
+    "hint": "One entrusted with another’s affairs, serving as a guardian, helper, or close ally.",
+    "verseRef": "45:19",
+    "arabicVerse": "إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًۭٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ",
+    "verse": "45:19 - Indeed, they will never avail you against Allāh at all. And indeed, the wrongdoers are allies of one another; but Allāh is the protector of the righteous."
+  },
+  "deduction": {
+    "title": "The Warning Beneath the Ground",
+    "intro": "Imagine standing beside a deep excavation as voices rise from below and the world above falls silent. The Qur’an preserves this scene as a warning: a community rejects what the messengers bring, punishment closes in, and even its roar becomes part of the testimony. Which collective speaks through those verses?",
+    "clues": [
+      "We are remembered in the Qur’an as a collective defined by one shared fate rather than by an individual name.",
+      "We rejected the message brought by messengers, even though what they said was true.",
+      "Our remembered identity is tied to a deep cut in the earth, and that feature became part of our name.",
+      "On the appointed day, we were brought out and dragged toward the fire.",
+      "We could not defend ourselves against the punishment, and we could not hear its roar.",
+      "Our faces would be turned in the fire, and we would be driven into it; when questioned, we would say that we were among those who could not respond."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Companions of the Trench",
+          "The Nation Delivered from the Great Flood",
+          "The Worshippers of the Golden Calf",
+          "The Group Sheltered Inside the Mountain Cave",
+          "The Community Delivered from the Fiery Furnace"
+        ],
+        "answer": "The Companions of the Trench"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Dragged and cast into the Fire",
+          "Delivered from a fiery furnace",
+          "Carried safely through a great flood",
+          "Sheltered for centuries inside a cave",
+          "Rescued after being cast into a well"
+        ],
+        "answer": "Dragged and cast into the Fire"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A trench or pit",
+          "A great sea",
+          "A mountain cave",
+          "A high palace",
+          "A desert well"
+        ],
+        "answer": "A trench or pit"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Unable to defend themselves and unable to hear the Fire’s roar",
+          "Rescued and granted entry into eternal gardens",
+          "Delivered safely through a destructive flood",
+          "Protected by a long sleep inside a cave",
+          "Honored with an everlasting kingdom"
+        ],
+        "answer": "Unable to defend themselves and unable to hear the Fire’s roar"
+      }
+    },
+    "verseRef": "85:16",
+    "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+    "verse": "Effecter of what He intends. (85:16)"
+  },
+  "scramble": {
+    "verseRef": "99:3",
+    "reference": "Surah Az-Zalzalah (99:3)",
+    "segments": [
+      "words 1-2",
+      "words 3-4",
+      "word 5",
+      "word 6"
+    ],
+    "translations": [
+      "And says",
+      "man",
+      "What",
+      "(is) with it"
+    ],
+    "hint": "Every smallest good deed is preserved and will be shown to its doer on the Day of Judgment.",
+    "arabic": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+    "words": [
+      "وَقَالَ",
+      "ٱلْإِنسَـٰنُ",
+      "مَا",
+      "لَهَا"
+    ],
+    "verseEn": "And man says, \"What is [wrong] with it?\" -"
+  },
+  "roothive": {
+    "center": "ت",
+    "outer": [
+      "ي",
+      "م",
+      "ب",
+      "ا",
+      "ر",
+      "ه"
+    ],
+    "root": {
+      "letters": "ترب",
+      "display": "ت ر ب",
+      "translit": "t-r-b",
+      "meaning": "The root suggests dust, earth, or what is scattered and connected among people. Its words extend this idea to soil, ribs that bind the chest, well-matched people, and misery that spreads or settles.",
+      "occurrences": 22,
+      "lemmaCount": 4
+    },
+    "words": [
+      {
+        "w": "اتم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَتَمَّ",
+            "gloss": "perfect",
+            "type": "verb",
+            "root": "تمم",
+            "count": 16,
+            "ref": "2:233",
+            "pos": 9,
+            "alt": [
+              "complete",
+              "completes"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اتي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آتَى",
+            "gloss": "was given",
+            "type": "verb",
+            "root": "أتي",
+            "count": 271,
+            "ref": "2:136",
+            "pos": 16,
+            "alt": [
+              "is given",
+              "has been given"
+            ],
+            "form": 4
+          },
+          {
+            "lemma": "أَتَى",
+            "gloss": "comes",
+            "type": "verb",
+            "root": "أتي",
+            "count": 264,
+            "ref": "2:106",
+            "pos": 7,
+            "alt": [
+              "come",
+              "bring"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "آتِي",
+            "gloss": "come",
+            "type": "active participle",
+            "root": "أتي",
+            "count": 9,
+            "ref": "19:93",
+            "pos": 8,
+            "alt": [
+              "coming"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بهت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بُهِتَ",
+            "gloss": "became dumbfounded",
+            "type": "verb",
+            "root": "بهت",
+            "count": 2,
+            "ref": "2:258",
+            "pos": 36,
+            "alt": [
+              "bewilder"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "بيت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَيْت",
+            "gloss": "houses",
+            "type": "noun",
+            "root": "بيت",
+            "count": 65,
+            "ref": "3:96",
+            "pos": 3,
+            "alt": [
+              "house",
+              "homes"
+            ]
+          },
+          {
+            "lemma": "بَيَّتَ",
+            "gloss": "plan by night",
+            "type": "verb",
+            "root": "بيت",
+            "count": 4,
+            "ref": "4:81",
+            "pos": 7,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "ربت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَبَتْ",
+            "gloss": "increase",
+            "type": "verb",
+            "root": "ربو",
+            "count": 4,
+            "ref": "30:39",
+            "pos": 10,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ماتَ",
+            "gloss": "die",
+            "type": "verb",
+            "root": "موت",
+            "count": 39,
+            "ref": "3:144",
+            "pos": 11,
+            "alt": [
+              "dies",
+              "died"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "ميت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَيِّت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 38,
+            "ref": "2:28",
+            "pos": 5,
+            "alt": [
+              "die"
+            ]
+          },
+          {
+            "lemma": "مَيْت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 5,
+            "ref": "6:122",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "هات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هاتُ",
+            "gloss": "bring",
+            "type": "verb",
+            "root": "هات",
+            "count": 4,
+            "ref": "2:111",
+            "pos": 14,
+            "alt": [
+              "bring forth"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "امات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَماتَ",
+            "gloss": "causes death",
+            "type": "verb",
+            "root": "موت",
+            "count": 21,
+            "ref": "53:44",
+            "pos": 3,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "بيات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بَيات",
+            "gloss": "night",
+            "type": "noun",
+            "root": "بيت",
+            "count": 3,
+            "ref": "7:4",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "تاره",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تارَة",
+            "gloss": "another time",
+            "type": "noun",
+            "root": "تور",
+            "count": 2,
+            "ref": "17:69",
+            "pos": 6,
+            "alt": [
+              "time"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تبرا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَبَرَّأَ",
+            "gloss": "disown",
+            "type": "verb",
+            "root": "برأ",
+            "count": 5,
+            "ref": "2:166",
+            "pos": 2,
+            "alt": [
+              "disassociated"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تراب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "تُراب",
+            "gloss": "dust",
+            "type": "noun",
+            "root": "ترب",
+            "count": 17,
+            "ref": "2:264",
+            "pos": 23
+          }
+        ]
+      },
+      {
+        "w": "تيمم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَيَمَّمُ",
+            "gloss": "aim",
+            "type": "verb",
+            "root": "يمم",
+            "count": 3,
+            "ref": "2:267",
+            "pos": 15,
+            "alt": [
+              "tayammum",
+              "tayyammum"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "متاب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاب",
+            "gloss": "repentance",
+            "type": "noun",
+            "root": "توب",
+            "count": 2,
+            "ref": "25:71",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "ممات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَمات",
+            "gloss": "dying",
+            "type": "noun",
+            "root": "موت",
+            "count": 3,
+            "ref": "6:162",
+            "pos": 6,
+            "alt": [
+              "death"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ميته",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَيْتَة",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 6,
+            "ref": "6:139",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "يتيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَتِيم",
+            "gloss": "orphan",
+            "type": "noun",
+            "root": "يتم",
+            "count": 23,
+            "ref": "4:127",
+            "pos": 14,
+            "alt": [
+              "orphans",
+              "two orphan boys"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اتراب",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "أَتْراب",
+            "gloss": "equals in age",
+            "type": "noun",
+            "root": "ترب",
+            "count": 3,
+            "ref": "38:52",
+            "pos": 4,
+            "alt": [
+              "well-matched"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ارتاب",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "ارْتابَ",
+            "gloss": "may doubt",
+            "type": "verb",
+            "root": "ريب",
+            "count": 9,
+            "ref": "74:31",
+            "pos": 23,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "امرات",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "امْرَأَت",
+            "gloss": "wife",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 26,
+            "ref": "3:35",
+            "pos": 3,
+            "alt": [
+              "woman",
+              "women"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تتبير",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "تَتْبِير",
+            "gloss": "destruction",
+            "type": "verbal noun",
+            "root": "تبر",
+            "count": 2,
+            "ref": "17:7",
+            "pos": 23
+          }
+        ]
+      },
+      {
+        "w": "ترايب",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَرائِب",
+            "gloss": "ribs",
+            "type": "noun",
+            "root": "ترب",
+            "count": 1,
+            "ref": "86:7",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "متربه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَتْرَبَة",
+            "gloss": "misery",
+            "type": "noun",
+            "root": "ترب",
+            "count": 1,
+            "ref": "90:16",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "ممتري",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُمْتَري",
+            "gloss": "doubters",
+            "type": "active participle",
+            "root": "مري",
+            "count": 4,
+            "ref": "2:147",
+            "pos": 7,
+            "alt": [
+              "ones who doubt"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 57,
+    "featuredRoot": "ترب"
+  }
+}

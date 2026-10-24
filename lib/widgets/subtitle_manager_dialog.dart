@@ -117,7 +117,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       index: index,
       duration: const Duration(milliseconds: 300),
       curve: Curves.easeOut,
-      alignment: 0.3,
+      alignment: 0
     );
   }
 
@@ -1017,29 +1017,29 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
               Builder(
                 builder: (context) {
                   final filtered = _filteredSubtitles();
+                  // ~60px per row, capped at 300; avoids shrinkWrap entirely.
+                  final listHeight = (filtered.length * 60.0).clamp(60.0, 300.0);
 
-                  return Flexible(
-                    child: Container(
-                      constraints: const BoxConstraints(maxHeight: 300),
-                      decoration: BoxDecoration(
-                        color: Colors.black26,
-                        borderRadius: BorderRadius.circular(8),
-                      ),
-                      child: filtered.isEmpty
-                          ? const Center(
-                              child: Padding(
-                                padding: EdgeInsets.all(24),
-                                child: Text(
-                                  'No subtitles match',
-                                  style: TextStyle(color: Colors.white38),
-                                ),
-                              ),
-                            )
-                          : ScrollablePositionedList.builder(
-                              itemScrollController: _subtitleScrollController,
-                              shrinkWrap: true,
-                              itemCount: filtered.length,
-                              itemBuilder: (context, index) {
+                  return Container(
+                    height: listHeight,
+                    clipBehavior: Clip.hardEdge,
+                    decoration: BoxDecoration(
+                      color: Colors.black26,
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: filtered.isEmpty
+                        ? const Center(
+                            child: Padding(
+                              padding: EdgeInsets.all(24),
+                              child: Text('No subtitles match',
+                                  style: TextStyle(color: Colors.white38)),
+                            ),
+                          )
+                        : ScrollablePositionedList.builder(
+                            itemScrollController: _subtitleScrollController,
+                            itemCount: filtered.length,
+                            itemBuilder: (context, index) {
+
                                 final subtitle = filtered[index];
                                 final isPrimary = subtitle == _primarySubtitle;
                                 final isSecondary = subtitle == _secondarySubtitle;
@@ -1131,7 +1131,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                                 );
                               },
                             ),
-                    ),
                   );
                 },
               ),

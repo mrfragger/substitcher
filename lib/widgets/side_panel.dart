@@ -669,8 +669,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 182),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 182),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 184),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 184),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -1862,17 +1862,17 @@ class SidePanel extends StatelessWidget {
                       value: ColorPaletteFilter.samethree,
                       child: Text('same + three')),
                   DropdownMenuItem(
-                      value: ColorPaletteFilter.fontWhite,
-                      child: Text('font (white)')),
-                  DropdownMenuItem(
                       value: ColorPaletteFilter.fontBlack,
                       child: Text('font (black)')),
                   DropdownMenuItem(
-                      value: ColorPaletteFilter.borderWhite,
-                      child: Text('border (white)')),
+                      value: ColorPaletteFilter.fontWhite,
+                      child: Text('font (white)')),
                   DropdownMenuItem(
                       value: ColorPaletteFilter.borderBlack,
                       child: Text('border (black)')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.borderWhite,
+                      child: Text('border (white)')),
                 ],
                 onChanged: (filter) {
                   if (filter != null) onColorCategoryFilterChanged(filter);
