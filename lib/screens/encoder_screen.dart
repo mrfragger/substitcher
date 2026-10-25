@@ -7,7 +7,6 @@ import 'package:path/path.dart' as path;
 import 'package:media_kit/media_kit.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'transcribe_screen.dart';
-import 'translate_screen.dart';
 import 'repeats_screen.dart';
 import 'metadata_editor_screen.dart';
 import 'anki_converter_screen.dart';
@@ -2932,24 +2931,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
                           },
                           icon: const Icon(Icons.cleaning_services),
                           label: const Text('Denoise Audio'),
-                          style: ElevatedButton.styleFrom(
-                            padding: const EdgeInsets.all(16),
-                          ),
-                        ),
-                      ),
-                      const SizedBox(width: 16),
-                      Expanded(
-                        child: ElevatedButton.icon(
-                          onPressed: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) => const TranslateScreen(),
-                              ),
-                            );
-                          },
-                          icon: const Icon(Icons.translate),
-                          label: const Text('Translate vtt'),
                           style: ElevatedButton.styleFrom(
                             padding: const EdgeInsets.all(16),
                           ),

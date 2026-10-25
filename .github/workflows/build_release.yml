@@ -33,14 +33,6 @@ jobs:
           name: whisper-macos-arm64
           path: macos/Runner/Resources/whisper/
 
-      - name: Download arm64 llama-server
-        uses: dawidd6/action-download-artifact@v11
-        with:
-          workflow: build_llamacpp.yml
-          name: llama-macos-arm64
-          path: macos/Runner/Resources/llama/
-          if_no_artifact_found: fail
-
       - name: Download arm64 DeepFilter
         uses: dawidd6/action-download-artifact@v11
         with:
@@ -100,13 +92,6 @@ jobs:
           name: whisper-linux
           path: temp-whisper/
 
-      - name: Download Linux llama-server
-        uses: dawidd6/action-download-artifact@v11
-        with:
-          workflow: build_llamacpp.yml
-          name: llama-linux-x64
-          path: temp-llama/
-
       - name: Download Linux DeepFilter
         uses: dawidd6/action-download-artifact@v11
         with:
@@ -122,17 +107,14 @@ jobs:
 
           mkdir -p build/linux/x64/release/bundle/bin
           mkdir -p build/linux/x64/release/bundle/whisper
-          mkdir -p build/linux/x64/release/bundle/llama
           mkdir -p build/linux/x64/release/bundle/deepfilter
 
           cp temp-bin/* build/linux/x64/release/bundle/bin/
           cp temp-whisper/* build/linux/x64/release/bundle/whisper/
-          cp temp-llama/* build/linux/x64/release/bundle/llama/
           cp temp-deepfilter/* build/linux/x64/release/bundle/deepfilter/
 
           chmod +x build/linux/x64/release/bundle/bin/*
           chmod +x build/linux/x64/release/bundle/whisper/*
-          chmod +x build/linux/x64/release/bundle/llama/*
           chmod +x build/linux/x64/release/bundle/deepfilter/deep-filter
 
       - name: Create AppImage
@@ -169,13 +151,6 @@ jobs:
           name: whisper-windows
           path: temp-whisper/
 
-      - name: Download Windows llama-server
-        uses: dawidd6/action-download-artifact@v11
-        with:
-          workflow: build_llamacpp.yml
-          name: llama-windows-x64
-          path: temp-llama/
-
       - name: Download Windows DeepFilter
         uses: dawidd6/action-download-artifact@v11
         with:
@@ -194,11 +169,9 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\bin
           New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\whisper
-          New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\llama
           New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\deepfilter
           Copy-Item temp-bin\* build\windows\x64\runner\Release\bin\
           Copy-Item temp-whisper\* build\windows\x64\runner\Release\whisper\
-          Copy-Item temp-llama\* build\windows\x64\runner\Release\llama\
           Copy-Item temp-deepfilter\* build\windows\x64\runner\Release\deepfilter\
 
       - name: Create ZIP

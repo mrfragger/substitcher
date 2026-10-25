@@ -294,26 +294,6 @@ down to 13MiB with 4x repeating audio 1h 57m\
 ![Spanish - 599 Verb Conjugations by Frequency.zip](https://github.com/mrfragger/substitcher/raw/main/images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
 try Pause mode 2s, Hide Chapter Title, Shuffle 
 
-### Translate vtt Subtitles
-- translate with TranslateGemma using llama.cpp
-- choose on vtt file and translation into 16 different langauges simutaneously
-- using translategemma-4b-it.Q4_K_M.gguf 2.5GB model, works with only 8GB RAM
-- translate into these 11 languages (either from or to)
-- English, Arabic, French, German, Italian, Portuguese, Spanish, Russian, Chinese, Japanese, Korean
-- these are great but keeping it small set of languages: Czech, Dutch, Swedish
-- these sometimes hallucinate too often: Thai, Vietnamese, Indonesian, Bengali
-- missing Filipino, Hindi, Polish, Turkish due to bad accuracy
-- resume translation if necessary, choose same vtt again
-- pause and/or unload model (to free up memory) then resume
-- unload model becomes avaialble once current subtitle cue (line) is translatedresume and unload model
-- online vtt subs translate much faster but vvt must be 977KB or less
-- this is offline and subs can be 7MB for instance
-- once translating subs is done it'll copy original subtitle into filename_vtt and create a filename_vtt.zip file with all subs
-- so all one needs is filename.opus and filename_vtt.zip
-- SubStitcher automatically can read all subtitles in filename_vtt subdir in Subtitle Manager
-
-![](images/translatevtt.jpg)
-
 ### Youtube
 - stream playlists too but must select each item, no skip to next playlist item
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
@@ -393,6 +373,9 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - from https://hadeethenc.com and takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
+### Translate vtt Subtitles
+Easy to translate vtt subtitle to almost any language (free)
+[https://tools.newzone.top/en/subtitle-translator](https://tools.newzone.top/en/subtitle-translator)
 
 ### Installation
 <details>
