@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXAggregateTarget section */
@@ -29,8 +29,8 @@
 		33CC11132044BFA00003C045 /* MainFlutterWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33CC11122044BFA00003C045 /* MainFlutterWindow.swift */; };
 		4F5AC0E5D7095F2AE4018434 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D23EAF255D43F3FC6D35924E /* Pods_Runner.framework */; };
 		66A4C2382F543E56002955DB /* VisionTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66A4C2372F543E56002955DB /* VisionTracker.swift */; };
-		7FE7B4919990AF71861E62D4 /* Pods_RunnerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A294AA1736C43AEA818F62B7 /* Pods_RunnerTests.framework */; };
 		78A318202AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 78A3181F2AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage */; };
+		7FE7B4919990AF71861E62D4 /* Pods_RunnerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A294AA1736C43AEA818F62B7 /* Pods_RunnerTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,13 +85,13 @@
 		53262ABCFF67AF8460449D27 /* Pods-RunnerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.release.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.release.xcconfig"; sourceTree = "<group>"; };
 		5A13C91DDC0C2226A4266694 /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
 		66A4C2372F543E56002955DB /* VisionTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionTracker.swift; sourceTree = "<group>"; };
+		78E0A7A72DC9AD7400C4905E /* FlutterGeneratedPluginSwiftPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = FlutterGeneratedPluginSwiftPackage; path = ephemeral/Packages/FlutterGeneratedPluginSwiftPackage; sourceTree = "<group>"; };
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = "<group>"; };
 		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Debug.xcconfig; sourceTree = "<group>"; };
 		A294AA1736C43AEA818F62B7 /* Pods_RunnerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RunnerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF12AB5CD0ACDB53A49F641C /* Pods-RunnerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.debug.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.debug.xcconfig"; sourceTree = "<group>"; };
 		D23EAF255D43F3FC6D35924E /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3D118CB0CFC4962C7B8FAE7 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
-		78E0A7A72DC9AD7400C4905E /* FlutterGeneratedPluginSwiftPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = FlutterGeneratedPluginSwiftPackage; path = ephemeral/Packages/FlutterGeneratedPluginSwiftPackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -237,9 +237,6 @@
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		33CC10EC2044A3C60003C045 /* Runner */ = {
-			packageProductDependencies = (
-				78A3181F2AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage */,
-			);
 			isa = PBXNativeTarget;
 			buildConfigurationList = 33CC10FB2044A3C60003C045 /* Build configuration list for PBXNativeTarget "Runner" */;
 			buildPhases = (
@@ -258,6 +255,9 @@
 				33CC11202044C79F0003C045 /* PBXTargetDependency */,
 			);
 			name = Runner;
+			packageProductDependencies = (
+				78A3181F2AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage */,
+			);
 			productName = Runner;
 			productReference = 33CC10ED2044A3C60003C045 /* SubStitcher.app */;
 			productType = "com.apple.product-type.application";
@@ -266,9 +266,6 @@
 
 /* Begin PBXProject section */
 		33CC10E52044A3C60003C045 /* Project object */ = {
-			packageReferences = (
-				781AD8BC2B33823900A9FFBB /* XCLocalSwiftPackageReference "Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage" */,
-			);
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
@@ -305,6 +302,9 @@
 				Base,
 			);
 			mainGroup = 33CC10E42044A3C60003C045;
+			packageReferences = (
+				781AD8BC2B33823900A9FFBB /* XCLocalSwiftPackageReference "FlutterGeneratedPluginSwiftPackage" */,
+			);
 			productRefGroup = 33CC10EE2044A3C60003C045 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -435,7 +435,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# Copy FFmpeg binaries to app bundle\nRESOURCES_BIN=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/bin\"\nmkdir -p \"$RESOURCES_BIN\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" \"$RESOURCES_BIN/\"\n    cp \"${SRCROOT}/Runner/Resources/bin/ffprobe\" \"$RESOURCES_BIN/\"\n    chmod +x \"$RESOURCES_BIN/ffmpeg\"\n    chmod +x \"$RESOURCES_BIN/ffprobe\"\n    xattr -cr \"$RESOURCES_BIN/\"\n    echo \"Copied FFmpeg binaries to $RESOURCES_BIN and removed quarantine flags\"\nelse\n    echo \"Warning: FFmpeg binaries not found in ${SRCROOT}/Runner/Resources/bin/\"\nfi\n\n# Copy Whisper binaries and libraries to app bundle\nRESOURCES_WHISPER=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/whisper\"\nmkdir -p \"$RESOURCES_WHISPER\"\n\nif [ -d \"${SRCROOT}/Runner/Resources/whisper\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/whisper/\"* \"$RESOURCES_WHISPER/\"\n    chmod +x \"$RESOURCES_WHISPER/whisper-cli\"\n    xattr -cr \"$RESOURCES_WHISPER/\"\n    \n    # Fix dylib paths for whisper-cli (replace @rpath with @executable_path)\n    echo \"Fixing whisper-cli library paths...\"\n    \n    # Check if universal binary and fix both architectures\n    if lipo -info \"$RESOURCES_WHISPER/whisper-cli\" 2>/dev/null | grep -q \"x86_64 arm64\"; then\n        # Extract, fix, recombine universal binary\n        lipo \"$RESOURCES_WHISPER/whisper-cli\" -thin x86_64 -output \"$RESOURCES_WHISPER/whisper-cli-x86\"\n        lipo \"$RESOURCES_WHISPER/whisper-cli\" -thin arm64 -output \"$RESOURCES_WHISPER/whisper-cli-arm\"\n        \n        for arch in \"$RESOURCES_WHISPER/whisper-cli-x86\" \"$RESOURCES_WHISPER/whisper-cli-arm\"; do\n            install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib \"$arch\"\n        done\n        \n        lipo -create \"$RESOURCES_WHISPER/whisper-cli-x86\" \"$RESOURCES_WHISPER/whisper-cli-arm\" -output \"$RESOURCES_WHISPER/whisper-cli\"\n        rm \"$RESOURCES_WHISPER/whisper-cli-x86\" \"$RESOURCES_WHISPER/whisper-cli-arm\"\n    else\n        # Single architecture\n        install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n    fi\n    \n    # Fix dylib internal references\n    for lib in \"$RESOURCES_WHISPER\"/*.dylib; do\n        if [ -f \"$lib\" ] && [ ! -L \"$lib\" ]; then\n            install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libwhisper.1.dylib @loader_path/libwhisper.1.dylib \"$lib\" 2>/dev/null || true\n        fi\n    done\n    \n    echo \"Whisper library paths fixed\"\n    \n    # Verify\n    echo \"=== Verifying no @rpath remains ===\"\n    otool -L \"$RESOURCES_WHISPER/whisper-cli\" | grep @rpath && echo \"WARNING: @rpath still present!\" || echo \"whisper-cli: OK\"\n    \n    echo \"Copied Whisper binaries to $RESOURCES_WHISPER\"\nelse\n    echo \"Warning: Whisper binaries not found in ${SRCROOT}/Runner/Resources/whisper/\"\nfi\n\n# Copy llama-server binary to app bundle\nRESOURCES_LLAMA=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/llama\"\nmkdir -p \"$RESOURCES_LLAMA\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/llama/llama-server\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/llama/llama-server\" \"$RESOURCES_LLAMA/\"\n    chmod +x \"$RESOURCES_LLAMA/llama-server\"\n    xattr -cr \"$RESOURCES_LLAMA/\"\n\n    echo \"Fixing llama-server library paths...\"\n    install_name_tool -add_rpath @executable_path \"$RESOURCES_LLAMA/llama-server\" 2>/dev/null || true\n\n    echo \"=== Verifying llama-server ===\"\n    otool -L \"$RESOURCES_LLAMA/llama-server\" | grep @rpath && echo \"WARNING: @rpath still present!\" || echo \"llama-server: OK\"\n    file \"$RESOURCES_LLAMA/llama-server\"\n\n    echo \"Copied llama-server to $RESOURCES_LLAMA\"\nelse\n    echo \"Warning: llama-server not found in ${SRCROOT}/Runner/Resources/llama/\"\nfi\n\n# Copy DeepFilter binary and model to app bundle\nRESOURCES_DEEPFILTER=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/deepfilter\"\nmkdir -p \"$RESOURCES_DEEPFILTER\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/deepfilter/deep-filter\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/deepfilter/deep-filter\" \"$RESOURCES_DEEPFILTER/\"\n    cp \"${SRCROOT}/Runner/Resources/deepfilter/DeepFilterNet3.tar.gz\" \"$RESOURCES_DEEPFILTER/\"\n    chmod +x \"$RESOURCES_DEEPFILTER/deep-filter\"\n    xattr -cr \"$RESOURCES_DEEPFILTER/\"\n\n    echo \"=== Verifying deep-filter ===\"\n    otool -L \"$RESOURCES_DEEPFILTER/deep-filter\" | grep @rpath && echo \"WARNING: @rpath still present!\" || echo \"deep-filter: OK\"\n    file \"$RESOURCES_DEEPFILTER/deep-filter\"\n\n    echo \"Copied DeepFilter to $RESOURCES_DEEPFILTER\"\nelse\n    echo \"Warning: deep-filter not found in ${SRCROOT}/Runner/Resources/deepfilter/\"\nfi\n\n# Re-sign the app after modifying binaries\ncodesign --force --deep --sign - \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app\"\necho \"Re-signed app\"\n";
+			shellScript = "# Copy FFmpeg binaries to app bundle\nRESOURCES_BIN=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/bin\"\nmkdir -p \"$RESOURCES_BIN\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" \"$RESOURCES_BIN/\"\n    cp \"${SRCROOT}/Runner/Resources/bin/ffprobe\" \"$RESOURCES_BIN/\"\n    chmod +x \"$RESOURCES_BIN/ffmpeg\"\n    chmod +x \"$RESOURCES_BIN/ffprobe\"\n    xattr -cr \"$RESOURCES_BIN/\"\n    echo \"Copied FFmpeg binaries to $RESOURCES_BIN and removed quarantine flags\"\nelse\n    echo \"Warning: FFmpeg binaries not found in ${SRCROOT}/Runner/Resources/bin/\"\nfi\n\n# Copy Whisper binaries and libraries to app bundle\nRESOURCES_WHISPER=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/whisper\"\nmkdir -p \"$RESOURCES_WHISPER\"\n\nif [ -d \"${SRCROOT}/Runner/Resources/whisper\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/whisper/\"* \"$RESOURCES_WHISPER/\"\n    chmod +x \"$RESOURCES_WHISPER/whisper-cli\"\n    xattr -cr \"$RESOURCES_WHISPER/\"\n    \n    # Fix dylib paths for whisper-cli (replace @rpath with @executable_path)\n    echo \"Fixing whisper-cli library paths...\"\n    \n    # Check if universal binary and fix both architectures\n    if lipo -info \"$RESOURCES_WHISPER/whisper-cli\" 2>/dev/null | grep -q \"x86_64 arm64\"; then\n        # Extract, fix, recombine universal binary\n        lipo \"$RESOURCES_WHISPER/whisper-cli\" -thin x86_64 -output \"$RESOURCES_WHISPER/whisper-cli-x86\"\n        lipo \"$RESOURCES_WHISPER/whisper-cli\" -thin arm64 -output \"$RESOURCES_WHISPER/whisper-cli-arm\"\n        \n        for arch in \"$RESOURCES_WHISPER/whisper-cli-x86\" \"$RESOURCES_WHISPER/whisper-cli-arm\"; do\n            install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib \"$arch\"\n            install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib \"$arch\"\n        done\n        \n        lipo -create \"$RESOURCES_WHISPER/whisper-cli-x86\" \"$RESOURCES_WHISPER/whisper-cli-arm\" -output \"$RESOURCES_WHISPER/whisper-cli\"\n        rm \"$RESOURCES_WHISPER/whisper-cli-x86\" \"$RESOURCES_WHISPER/whisper-cli-arm\"\n    else\n        # Single architecture\n        install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n        install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib \"$RESOURCES_WHISPER/whisper-cli\"\n    fi\n    \n    # Fix dylib internal references\n    for lib in \"$RESOURCES_WHISPER\"/*.dylib; do\n        if [ -f \"$lib\" ] && [ ! -L \"$lib\" ]; then\n            install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib \"$lib\" 2>/dev/null || true\n            install_name_tool -change @rpath/libwhisper.1.dylib @loader_path/libwhisper.1.dylib \"$lib\" 2>/dev/null || true\n        fi\n    done\n    \n    echo \"Whisper library paths fixed\"\n    \n    # Verify\n    echo \"=== Verifying no @rpath remains ===\"\n    otool -L \"$RESOURCES_WHISPER/whisper-cli\" | grep @rpath && echo \"WARNING: @rpath still present!\" || echo \"whisper-cli: OK\"\n    \n    echo \"Copied Whisper binaries to $RESOURCES_WHISPER\"\nelse\n    echo \"Warning: Whisper binaries not found in ${SRCROOT}/Runner/Resources/whisper/\"\nfi\n\n# Copy DeepFilter binary and model to app bundle\nRESOURCES_DEEPFILTER=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/deepfilter\"\nmkdir -p \"$RESOURCES_DEEPFILTER\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/deepfilter/deep-filter\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/deepfilter/deep-filter\" \"$RESOURCES_DEEPFILTER/\"\n    cp \"${SRCROOT}/Runner/Resources/deepfilter/DeepFilterNet3.tar.gz\" \"$RESOURCES_DEEPFILTER/\"\n    chmod +x \"$RESOURCES_DEEPFILTER/deep-filter\"\n    xattr -cr \"$RESOURCES_DEEPFILTER/\"\n\n    echo \"=== Verifying deep-filter ===\"\n    otool -L \"$RESOURCES_DEEPFILTER/deep-filter\" | grep @rpath && echo \"WARNING: @rpath still present!\" || echo \"deep-filter: OK\"\n    file \"$RESOURCES_DEEPFILTER/deep-filter\"\n\n    echo \"Copied DeepFilter to $RESOURCES_DEEPFILTER\"\nelse\n    echo \"Warning: deep-filter not found in ${SRCROOT}/Runner/Resources/deepfilter/\"\nfi\n\n# Re-sign the app after modifying binaries\ncodesign --force --deep --sign - \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app\"\necho \"Re-signed app\"\n";
 		};
 		9FB7D7CE3811E4337A4455AF /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -829,12 +829,14 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
 /* Begin XCLocalSwiftPackageReference section */
-		781AD8BC2B33823900A9FFBB /* XCLocalSwiftPackageReference "Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage" */ = {
+		781AD8BC2B33823900A9FFBB /* XCLocalSwiftPackageReference "FlutterGeneratedPluginSwiftPackage" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage;
 		};
 /* End XCLocalSwiftPackageReference section */
+
 /* Begin XCSwiftPackageProductDependency section */
 		78A3181F2AECB46A00862997 /* FlutterGeneratedPluginSwiftPackage */ = {
 			isa = XCSwiftPackageProductDependency;

@@ -54,22 +54,6 @@ else
     echo "Checked: temp-whisper/ and $BUILD_DIR/whisper/"
 fi
 
-echo "Copying llama-server binary..."
-mkdir -p $APPDIR/usr/bin/llama
-
-if [ -f "temp-llama/llama-server" ]; then
-    echo "Using llama-server from temp-llama (artifact)..."
-    cp temp-llama/* $APPDIR/usr/bin/llama/
-    chmod +x $APPDIR/usr/bin/llama/llama-server
-elif [ -f "$BUILD_DIR/llama/llama-server" ]; then
-    echo "Using llama-server from Flutter bundle..."
-    cp $BUILD_DIR/llama/* $APPDIR/usr/bin/llama/
-    chmod +x $APPDIR/usr/bin/llama/llama-server
-else
-    echo "Warning: llama-server binary not found"
-    echo "Checked: temp-llama/ and $BUILD_DIR/llama/"
-fi
-
 echo "Copying DeepFilter binaries..."
 mkdir -p $APPDIR/usr/bin/deepfilter
 
@@ -112,7 +96,7 @@ cat > $APPDIR/AppRun << 'EOF'
 #!/bin/bash
 SELF=$(readlink -f "$0")
 HERE=${SELF%/*}
-export PATH="${HERE}/usr/bin/bin:${HERE}/usr/bin/llama:${PATH}"
+export PATH="${HERE}/usr/bin/bin"
 export LD_LIBRARY_PATH="${HERE}/usr/lib:${LD_LIBRARY_PATH}"
 cd "${HERE}/usr/bin"
 exec ./substitcher "$@"

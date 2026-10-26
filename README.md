@@ -449,7 +449,7 @@ paru -S substitcher-bin
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 28 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 14 MB ffmpeg, 10 MB llama.cpp, 5 MB whisper.cpp, 12 MB quran index, 322 MB tafsir, 203 MB hadeeth
+- 28 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 14 MB ffmpeg, 5 MB whisper.cpp, 12 MB quran index, 322 MB tafsir, 203 MB hadeeth
 - So Mac app size is about 95 MB real size of flutter app not accounting for all the assets
 - Never will get a light theme nor support music
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
