@@ -1,0 +1,584 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْعُصَاةِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic terms for wrongdoers and disbelievers",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "كَـٰفِرُونَ",
+            "en": "(are) disbelievers",
+            "ref": "21:36",
+            "verse": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَـٰنِ هُمْ كَـٰفِرُونَ",
+            "verseEn": "And when those who disbelieve see you, [O Muḥammad], they take you not except in ridicule, [saying], \"Is this the one who mentions [i.e., insults] your gods?\" And they are, at the mention of the Most Merciful, disbelievers."
+          },
+          {
+            "ar": "الظَّـٰلِمِينَ",
+            "en": "the wrongdoers",
+            "ref": "11:18",
+            "verse": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۚ أُو۟لَـٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَـٰدُ هَـٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِينَ",
+            "verseEn": "And who is more unjust than he who invents a lie about Allāh? Those will be presented before their Lord, and the witnesses will say, \"These are the ones who lied against their Lord.\" Unquestionably, the curse of Allāh is upon the wrongdoers."
+          },
+          {
+            "ar": "الْمُجْرِمِينَ",
+            "en": "(of) the criminals",
+            "ref": "27:69",
+            "verse": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ",
+            "verseEn": "Say, [O Muḥammad], \"Proceed [i.e., travel] through the land and observe how was the end of the criminals.\""
+          },
+          {
+            "ar": "الضَّالِّينَ",
+            "en": "those who are astray",
+            "ref": "26:20",
+            "verse": "قَالَ فَعَلْتُهَآ إِذًۭا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+            "verseEn": "[Moses] said, \"I did it, then, while I was of those astray [i.e., ignorant]."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ يَوْمِ الْقِيَامَةِ فِي الْقُرْآنِ",
+        "nameEn": "Names of the Last Day in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "السَّاعَةَ",
+            "en": "the Hour",
+            "ref": "19:75",
+            "verse": "قُلْ مَن كَانَ فِى ٱلضَّلَـٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَـٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا",
+            "verseEn": "Say, \"Whoever is in error - let the Most Merciful extend for him an extension [in wealth and time] until, when they see that which they were promised - either punishment [in this world] or the Hour [of resurrection] - they will come to know who is worst in position and weaker in soldiers.\""
+          },
+          {
+            "ar": "يَوْمَ الْقِيَامَةِ",
+            "en": "(of) the Resurrection",
+            "ref": "39:24",
+            "verse": "أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَقِيلَ لِلظَّـٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ",
+            "verseEn": "Then is he who will shield with his face the worst of the punishment on the Day of Resurrection [like one secure from it]? And it will be said to the wrongdoers, \"Taste what you used to earn.\""
+          },
+          {
+            "ar": "الْآخِرَةُ",
+            "en": "(is) the last",
+            "ref": "53:25",
+            "verse": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+            "verseEn": "Rather, to Allāh belongs the Hereafter and the first [life]."
+          },
+          {
+            "ar": "يَوْمُ الدِّينِ",
+            "en": "Day of Recompense",
+            "ref": "37:20",
+            "verse": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
+            "verseEn": "They will say, \"O woe to us! This is the Day of Recompense.\""
+          }
+        ]
+      },
+      {
+        "name": "جَمْعُ الْمُؤَنَّثِ السَّالِمُ فِي الْقُرْآنِ",
+        "nameEn": "Sound feminine plural nouns in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الطَّيِّبَاتِ",
+            "en": "the good things",
+            "ref": "10:93",
+            "verse": "وَلَقَدْ بَوَّأْنَا بَنِىٓ إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍۢ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+            "verseEn": "And We had certainly settled the Children of Israel in an agreeable settlement and provided them with good things. And they did not differ until [after] knowledge had come to them. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ."
+          },
+          {
+            "ar": "الصَّالِحَاتِ",
+            "en": "the good deeds",
+            "ref": "11:11",
+            "verse": "إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ",
+            "verseEn": "Except for those who are patient and do righteous deeds; those will have forgiveness and great reward."
+          },
+          {
+            "ar": "الْخَيْرَاتِ",
+            "en": "the good",
+            "ref": "23:56",
+            "verse": "نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ",
+            "verseEn": "Is [because] We hasten for them good things? Rather, they do not perceive."
+          },
+          {
+            "ar": "بَيِّنَاتٍ",
+            "en": "clear",
+            "ref": "19:73",
+            "verse": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا",
+            "verseEn": "And when Our verses are recited to them as clear evidences, those who disbelieve say to those who believe, \"Which of [our] two parties is best in position and best in association?\""
+          }
+        ]
+      },
+      {
+        "name": "جُمُوعُ التَّكْسِيرِ عَلَى وَزْنِ أَفْعَالٍ",
+        "nameEn": "Broken plurals on the pattern afʿāl in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَنْعَامٍ",
+            "en": "with cattle",
+            "ref": "26:133",
+            "verse": "أَمَدَّكُم بِأَنْعَـٰمٍۢ وَبَنِينَ",
+            "verseEn": "Provided you with grazing livestock and children"
+          },
+          {
+            "ar": "أَعْمَالٌ",
+            "en": "(are) deeds",
+            "ref": "23:63",
+            "verse": "بَلْ قُلُوبُهُمْ فِى غَمْرَةٍۢ مِّنْ هَـٰذَا وَلَهُمْ أَعْمَـٰلٌۭ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَـٰمِلُونَ",
+            "verseEn": "But their hearts are covered with confusion over this, and they have [evil] deeds besides that [i.e., disbelief] which they are doing,"
+          },
+          {
+            "ar": "الْأَنْبَاءُ",
+            "en": "the information",
+            "ref": "28:66",
+            "verse": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ يَوْمَئِذٍۢ فَهُمْ لَا يَتَسَآءَلُونَ",
+            "verseEn": "But the information will be unapparent to them that Day, so they will not [be able to] ask one another."
+          },
+          {
+            "ar": "أَيَّامِ",
+            "en": "the days",
+            "ref": "10:102",
+            "verse": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+            "verseEn": "So do they wait except for like [what occurred in] the days of those who passed on before them? Say, \"Then wait; indeed, I am with you among those who wait.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "رعب",
+    "display": "رُعْب",
+    "hint": "This is cast into the hearts of those who disbelieve when divine help arrives.",
+    "verseRef": "8:12",
+    "arabicVerse": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَـٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ ۚ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍۢ",
+    "verse": "8:12 - [Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\""
+  },
+  "deduction": {
+    "title": "The Whisper in the Wind",
+    "intro": "Imagine a realm where the unseen and the seen intertwined, and you stand before a figure at the heart of a kingdom unlike any other. This soul possesses knowledge beyond ordinary reach, commanding forces that others could only imagine. Yet, even the mightiest can be humbled by a tiny creature, and the truth may remain hidden until the appointed time. Who is this figure whose legacy echoes through the ages?",
+    "clues": [
+      "I was given a kingdom that no one after me would have.",
+      "I inherited knowledge and wisdom from a beloved parent.",
+      "The wind was under my command, traveling by my order wherever I wished.",
+      "I could understand the speech of the birds, and they served in my army.",
+      "I received news from a small bird about a queen who worshipped the sun.",
+      "My death remained hidden until a creature of the earth devoured my staff, and only then did the jinn realize they did not know the unseen."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Sulayman (Solomon)",
+          "Prophet Dawud (David)",
+          "Prophet Musa (Moses)",
+          "Prophet Isa (Jesus)",
+          "Prophet Nuh (Noah)"
+        ],
+        "answer": "Prophet Sulayman (Solomon)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The visit of the Queen of Sheba",
+          "Being thrown into a fire",
+          "Parting the sea",
+          "Building an ark",
+          "Being swallowed by a whale"
+        ],
+        "answer": "The visit of the Queen of Sheba"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The staff consumed by a creature of the earth",
+          "The staff that turned into a serpent",
+          "The she-camel",
+          "The ark",
+          "The whale"
+        ],
+        "answer": "The staff consumed by a creature of the earth"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "His death was concealed from the jinn until his staff was eaten",
+          "He was raised to the heavens alive",
+          "He was saved from the fire by Allah's command",
+          "He was given the Torah",
+          "He was saved from the whale"
+        ],
+        "answer": "His death was concealed from the jinn until his staff was eaten"
+      }
+    },
+    "verseRef": "34:14",
+    "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+    "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+  },
+  "scramble": {
+    "verseRef": "36:83",
+    "reference": "Surah Ya-Sin (36:83)",
+    "segments": [
+      "فَسُبْحَانَ الَّذِي",
+      "بِيَدِهِ مَلَكُوتُ",
+      "كُلِّ شَيْءٍ",
+      "وَإِلَيْهِ تُرْجَعُونَ"
+    ],
+    "translations": [
+      "So glory be (to) the One who",
+      "in Whose hand is (the) dominion",
+      "(of) all things",
+      "and to Him you will be returned"
+    ],
+    "hint": "This verse glorifies Allah's absolute sovereignty over all creation and reminds that everything will return to Him.",
+    "arabic": "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍۢ وَإِلَيْهِ تُرْجَعُونَ",
+    "words": [
+      "فَسُبْحَـٰنَ ٱلَّذِى",
+      "بِيَدِهِۦ مَلَكُوتُ",
+      "كُلِّ شَىْءٍۢ",
+      "وَإِلَيْهِ تُرْجَعُونَ"
+    ],
+    "verseEn": "So exalted is He in whose hand is the realm of all things, and to Him you will be returned."
+  },
+  "roothive": {
+    "center": "ك",
+    "outer": [
+      "و",
+      "ز",
+      "ا",
+      "ي",
+      "ه",
+      "ل"
+    ],
+    "root": {
+      "letters": "زكو",
+      "display": "ز ك و",
+      "translit": "z-k-w",
+      "meaning": "This root carries the idea of purity that brings increase and blessing. Words formed from it describe cleansing, making oneself pure, or giving charity, because such acts both purify and cause spiritual or worldly growth.",
+      "occurrences": 59,
+      "lemmaCount": 7
+    },
+    "words": [
+      {
+        "w": "اكل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَكَلَ",
+            "gloss": "eat",
+            "type": "verb",
+            "root": "أكل",
+            "count": 93,
+            "ref": "5:3",
+            "pos": 17,
+            "alt": [
+              "eating",
+              "ate"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "أُكُل",
+            "gloss": "producing fruit",
+            "type": "noun",
+            "root": "أكل",
+            "count": 7,
+            "ref": "34:16",
+            "pos": 10
+          },
+          {
+            "lemma": "أَكْل",
+            "gloss": "devouring",
+            "type": "verbal noun",
+            "root": "أكل",
+            "count": 4,
+            "ref": "89:19",
+            "pos": 3
+          },
+          {
+            "lemma": "آكِل",
+            "gloss": "eat",
+            "type": "active participle",
+            "root": "أكل",
+            "count": 3,
+            "ref": "23:20",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "زكي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "زَكَّى",
+            "gloss": "purifies",
+            "type": "verb",
+            "root": "زكو",
+            "count": 12,
+            "ref": "4:49",
+            "pos": 9,
+            "form": 2
+          },
+          {
+            "lemma": "زَكِيّ",
+            "gloss": "pure",
+            "type": "adjective",
+            "root": "زكو",
+            "count": 1,
+            "ref": "19:19",
+            "pos": 9
+          },
+          {
+            "lemma": "زَكَى",
+            "gloss": "have been pure",
+            "type": "verb",
+            "root": "زكو",
+            "count": 1,
+            "ref": "24:21",
+            "pos": 22,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كالُ",
+            "gloss": "measure",
+            "type": "verb",
+            "root": "كيل",
+            "count": 2,
+            "ref": "17:35",
+            "pos": 4,
+            "alt": [
+              "give by measure"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَهْل",
+            "gloss": "maturity",
+            "type": "noun",
+            "root": "كهل",
+            "count": 2,
+            "ref": "3:46",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "كيل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَيْل",
+            "gloss": "measurement",
+            "type": "noun",
+            "root": "كيل",
+            "count": 10,
+            "ref": "12:60",
+            "pos": 6,
+            "alt": [
+              "measure"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "هلك",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هَلَكَ",
+            "gloss": "died",
+            "type": "verb",
+            "root": "هلك",
+            "count": 5,
+            "ref": "4:176",
+            "pos": 9,
+            "alt": [
+              "destroyed",
+              "is gone"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "وكل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وُكِّلَ",
+            "gloss": "has been put in charge",
+            "type": "verb",
+            "root": "وكل",
+            "count": 2,
+            "ref": "32:11",
+            "pos": 6,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "ازكي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَزْكَى",
+            "gloss": "purer",
+            "type": "noun",
+            "root": "زكو",
+            "count": 4,
+            "ref": "2:232",
+            "pos": 26,
+            "alt": [
+              "more virtuous",
+              "purest"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اهلك",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَهْلَكَ",
+            "gloss": "destroy",
+            "type": "verb",
+            "root": "هلك",
+            "count": 51,
+            "ref": "5:17",
+            "pos": 20,
+            "alt": [
+              "be destroyed",
+              "destroyed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "زكاه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "زَكاة",
+            "gloss": "zakah",
+            "type": "noun",
+            "root": "زكو",
+            "count": 32,
+            "ref": "18:81",
+            "pos": 7,
+            "alt": [
+              "purity"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "زكيه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "زَكِيَّة",
+            "gloss": "pure",
+            "type": "noun",
+            "root": "زكو",
+            "count": 1,
+            "ref": "18:74",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "هالك",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "هالِك",
+            "gloss": "destroyed",
+            "type": "active participle",
+            "root": "هلك",
+            "count": 2,
+            "ref": "28:88",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "وكيل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "وَكِيل",
+            "gloss": "guardian",
+            "type": "noun",
+            "root": "وكل",
+            "count": 24,
+            "ref": "4:81",
+            "pos": 24,
+            "alt": [
+              "disposer of affairs",
+              "trustee"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كلاله",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "كَلالَة",
+            "gloss": "no parent or child",
+            "type": "noun",
+            "root": "كلل",
+            "count": 2,
+            "ref": "4:12",
+            "pos": 54
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "تَزَكَّى",
+        "gloss": "purifies himself",
+        "type": "verb",
+        "root": "زكو",
+        "count": 8,
+        "ref": "20:76",
+        "pos": 12,
+        "alt": [
+          "purifies",
+          "purify himself"
+        ],
+        "form": 5
+      }
+    ],
+    "maxScore": 30,
+    "featuredRoot": "زكو"
+  }
+}

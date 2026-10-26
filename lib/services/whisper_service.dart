@@ -4,6 +4,7 @@ import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'whisper_bundled.dart';
+import 'vtt_sanitizer.dart';
 import 'dart:math' show min;
 
 class WhisperService {
@@ -1175,7 +1176,9 @@ class WhisperService {
       cumulativeTime += chapterDuration - (msOffset / 1000.0);
     }
 
-    await File(mergedVttOriginal).writeAsString(output.toString());
+    // Raw merged file (kept for debugging, excluded from re-merge/md steps)
+    final mergedContent = output.toString();
+    await File(mergedVttOriginal).writeAsString(mergedContent);
 
     String finalVtt = path.join(outputPath, '$baseFilename.vtt');
     int counter = 1;
@@ -1189,7 +1192,9 @@ class WhisperService {
       print('VTT file already existed, saved as: ${path.basename(finalVtt)}');
     }
 
-    await _fixOverlappingTimecodes(mergedVttOriginal, finalVtt);
+    final sanitized = VttSanitizer.sanitize(mergedContent);
+    print('Merged VTT timecode fixes: ${sanitized.fixes}');
+    await File(finalVtt).writeAsString(sanitized.content);
   }
 
   Future<double> _getOpusDuration(String opusPath) async {
@@ -1242,19 +1247,13 @@ class WhisperService {
     final m = int.tryParse(parts[1]) ?? 0;
     final sParts = parts[2].split('.');
     final s = int.tryParse(sParts[0]) ?? 0;
-    final ms = sParts.length > 1 ? int.tryParse(sParts[1]) ?? 0 : 0;
+    final msStr = sParts.length > 1 ? sParts[1] : '0';
+    final ms = int.tryParse(msStr.length > 3 ? msStr.substring(0, 3) : msStr.padRight(3, '0')) ?? 0;
 
-    double totalSeconds = h * 3600.0 + m * 60.0 + s + ms / 1000.0;
-    totalSeconds += shiftSeconds;
+    int totalMs = ((h * 3600 + m * 60 + s) * 1000) + ms + (shiftSeconds * 1000).round();
+    if (totalMs < 0) totalMs = 0;
 
-    final newH = (totalSeconds / 3600).floor();
-    totalSeconds -= newH * 3600;
-    final newM = (totalSeconds / 60).floor();
-    totalSeconds -= newM * 60;
-    final newS = totalSeconds.floor();
-    final newMs = ((totalSeconds - newS) * 1000).round();
-
-    return '${newH.toString().padLeft(2, '0')}:${newM.toString().padLeft(2, '0')}:${newS.toString().padLeft(2, '0')}.${newMs.toString().padLeft(3, '0')}';
+    return VttSanitizer.formatMs(totalMs); // always ms 000..999
   }
 
   Future<void> _addHourToTimecodes(String inputPath, String outputPath) async {
@@ -1268,131 +1267,12 @@ class WhisperService {
     await File(outputPath).writeAsString(modified);
   }
 
-  String _normalizeTimecode(String timecode) {
-    final parts = timecode.split(':');
-    if (parts.length != 3) return timecode;
-    final hours = int.parse(parts[0]);
-    final minutes = int.parse(parts[1]);
-    final secondsParts = parts[2].split('.');
-    int seconds = int.parse(secondsParts[0]);
-    int milliseconds = secondsParts.length > 1 ? int.parse(secondsParts[1]) : 0;
-
-    if (milliseconds >= 1000) {
-      seconds += milliseconds ~/ 1000;
-      milliseconds = milliseconds % 1000;
-    }
-
-    return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}.${milliseconds.toString().padLeft(3, '0')}';
-  }
-
-  int _timecodeToMilliseconds(String timecode) {
-    final normalized = _normalizeTimecode(timecode);
-    final parts = normalized.split(':');
-    if (parts.length != 3) return 0;
-
-    final h = int.tryParse(parts[0]) ?? 0;
-    final m = int.tryParse(parts[1]) ?? 0;
-    final sParts = parts[2].split('.');
-    final s = int.tryParse(sParts[0]) ?? 0;
-    final ms = sParts.length > 1 ? int.tryParse(sParts[1]) ?? 0 : 0;
-
-    return (h * 3600 + m * 60 + s) * 1000 + ms;
-  }
-
-  String _millisecondsToTimecode(int ms) {
-    final h = ms ~/ 3600000;
-    final m = (ms % 3600000) ~/ 60000;
-    final s = (ms % 60000) ~/ 1000;
-    final msRemainder = ms % 1000;
-
-    return '${h.toString().padLeft(2, '0')}:${m.toString().padLeft(2, '0')}:${s.toString().padLeft(2, '0')}.${msRemainder.toString().padLeft(3, '0')}';
-  }
-
   Future<void> _fixOverlappingTimecodes(
       String inputPath, String outputPath) async {
     final content = await File(inputPath).readAsString();
-    final blocks =
-        content.split('\n\n').where((b) => b.trim().isNotEmpty).toList();
-
-    final List<Map<String, dynamic>> subtitleBlocks = [];
-
-    for (final block in blocks) {
-      if (block.trim() == 'WEBVTT') continue;
-
-      final lines = block.split('\n');
-      String? timeLine;
-      final textLines = <String>[];
-
-      for (final line in lines) {
-        if (line.contains('-->')) {
-          timeLine = line;
-        } else if (line.trim().isNotEmpty) {
-          textLines.add(line);
-        }
-      }
-
-      if (timeLine != null && textLines.isNotEmpty) {
-        final parts = timeLine.split('-->');
-        if (parts.length == 2) {
-          final startTime = parts[0].trim();
-          final endTime = parts[1].trim();
-
-          int startMs = _timecodeToMilliseconds(startTime);
-          int endMs = _timecodeToMilliseconds(endTime);
-
-          if (endMs < startMs) {
-            startMs = endMs;
-          }
-
-          subtitleBlocks.add({
-            'startMs': startMs,
-            'endMs': endMs,
-            'text': textLines,
-          });
-        }
-      }
-    }
-
-    for (int i = 0; i < subtitleBlocks.length - 1; i++) {
-      final current = subtitleBlocks[i];
-      final next = subtitleBlocks[i + 1];
-
-      final currentEnd = current['endMs'] as int;
-      final nextStart = next['startMs'] as int;
-
-      if (nextStart < currentEnd) {
-        current['endMs'] = nextStart;
-      } else if (nextStart > currentEnd) {
-        current['endMs'] = nextStart;
-      }
-    }
-
-    final output = StringBuffer();
-    output.writeln('WEBVTT');
-    output.writeln();
-
-    for (final block in subtitleBlocks) {
-      final startMs = block['startMs'] as int;
-      final endMs = block['endMs'] as int;
-      final text = block['text'] as List<String>;
-
-      output.writeln(
-          '${_millisecondsToTimecode(startMs)} --> ${_millisecondsToTimecode(endMs)}');
-      for (final line in text) {
-        output.writeln(line);
-      }
-      output.writeln();
-    }
-
-    String finalOutput = output.toString();
-
-    finalOutput = finalOutput.replaceAll('\r\n', '\n').replaceAll('\r', '\n');
-    finalOutput = finalOutput.replaceAll(RegExp(r'\n{3,}'), '\n\n');
-    finalOutput =
-        finalOutput.split('\n').map((line) => line.trimRight()).join('\n');
-    finalOutput = finalOutput.trim() + '\n';
-
-    await File(outputPath).writeAsString(finalOutput);
+    final result = VttSanitizer.sanitize(content);
+    print('Merged VTT timecode fixes: ${result.fixes}');
+    await File(outputPath).writeAsString(result.content);
   }
 
   Future<void> _addWebvttHeader(String inputPath, String outputPath) async {

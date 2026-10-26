@@ -1,0 +1,918 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أُمُورٌ تَخُصُّ مُلْكَ اللهِ فِي الزُّخْرُفِ",
+        "nameEn": "Aspects of Allah's Sovereignty in Surah Az-Zukhruf",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "(of) the heavens",
+            "ref": "43:82",
+            "verse": "سُبْحَـٰنَ رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+            "verseEn": "Exalted is the Lord of the heavens and the earth, Lord of the Throne, above what they describe."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth ",
+            "ref": "43:84",
+            "verse": "وَهُوَ ٱلَّذِى فِى ٱلسَّمَآءِ إِلَـٰهٌۭ وَفِى ٱلْأَرْضِ إِلَـٰهٌۭ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ",
+            "verseEn": "And it is He [i.e., Allāh] who is [the only] deity in the heaven, and on the earth [the only] deity. And He is the Wise, the Knowing."
+          },
+          {
+            "ar": "السَّاعَةِ",
+            "en": "(of) the Hour",
+            "ref": "43:85",
+            "verse": "وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَعِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ",
+            "verseEn": "And blessed is He to whom belongs the dominion of the heavens and the earth and whatever is between them and with whom is knowledge of the Hour and to whom you will be returned."
+          },
+          {
+            "ar": "الشَّفَاعَةَ",
+            "en": "(for) the intercession",
+            "ref": "43:86",
+            "verse": "وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَـٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ",
+            "verseEn": "And those they invoke besides Him do not possess [power of] intercession; but only those who testify to the truth [can benefit], and they know."
+          }
+        ]
+      },
+      {
+        "name": "مَظَاهِرُ عَجْزِ الشُّرَكَاءِ فِي سُورَةِ الْأَعْرَافِ",
+        "nameEn": "Aspects of the False Gods' Inability in Surah Al-A'raf",
+        "color": "green",
+        "items": [
+          {
+            "ar": "شُرَكَاءَ",
+            "en": "partners",
+            "ref": "7:190",
+            "verse": "فَلَمَّآ ءَاتَىٰهُمَا صَـٰلِحًۭا جَعَلَا لَهُۥ شُرَكَآءَ فِيمَآ ءَاتَىٰهُمَا ۚ فَتَعَـٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ",
+            "verseEn": "But when He gives them a good [child], they ascribe partners to Him concerning that which He has given them. Exalted is Allāh above what they associate with Him."
+          },
+          {
+            "ar": "يُخْلَقُونَ",
+            "en": "are created",
+            "ref": "7:191",
+            "verse": "أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ",
+            "verseEn": "Do they associate with Him those who create nothing and they are [themselves] created?"
+          },
+          {
+            "ar": "نَصْرًا",
+            "en": "any help",
+            "ref": "7:192",
+            "verse": "وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًۭا وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+            "verseEn": "And they [i.e., the false deities] are unable to [give] them help, nor can they help themselves."
+          },
+          {
+            "ar": "الْهُدَىٰ",
+            "en": "the guidance",
+            "ref": "7:193",
+            "verse": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ ۚ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ أَمْ أَنتُمْ صَـٰمِتُونَ",
+            "verseEn": "And if you [believers] invite them to guidance, they will not follow you. It is all the same for you whether you invite them or you are silent."
+          }
+        ]
+      },
+      {
+        "name": "حِوَارُ أَهْلِ النَّارِ مَعَ رَبِّهِمْ فِي سُورَةِ الْمُؤْمِنُون",
+        "nameEn": "Dialogue of the People of the Fire with their Lord in Surah Al-Mu'minun",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَرْجِعُونِ",
+            "en": "Send me back",
+            "ref": "23:99",
+            "verse": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ",
+            "verseEn": "[For such is the state of the disbelievers] until, when death comes to one of them, he says, \"My Lord, send me back"
+          },
+          {
+            "ar": "غَلَبَتْ",
+            "en": "Overcame",
+            "ref": "23:106",
+            "verse": "قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًۭا ضَآلِّينَ",
+            "verseEn": "They will say, \"Our Lord, our wretchedness overcame us, and we were a people astray."
+          },
+          {
+            "ar": "أَخْرِجْنَا",
+            "en": "Bring us out",
+            "ref": "23:107",
+            "verse": "رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَـٰلِمُونَ",
+            "verseEn": "Our Lord, remove us from it, and if we were to return [to evil], we would indeed be wrongdoers.\""
+          },
+          {
+            "ar": "اِخْسَئُوا",
+            "en": "Remain despised",
+            "ref": "23:108",
+            "verse": "قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ",
+            "verseEn": "He will say, \"Remain despised therein and do not speak to Me."
+          }
+        ]
+      },
+      {
+        "name": "عَنَاصِرُ مُوَاجَهَةِ السَّحَرَةِ لِمُوسَى فِي سُورَةِ الشُّعَرَاءِ",
+        "nameEn": "Elements of the Magicians' Confrontation with Musa in Surah Ash-Shu'ara",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَجْرًا",
+            "en": "a reward",
+            "ref": "26:41",
+            "verse": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَـٰلِبِينَ",
+            "verseEn": "And when the magicians arrived, they said to Pharaoh, \"Is there indeed for us a reward if we are the predominant?\""
+          },
+          {
+            "ar": "الْمُقَرَّبِينَ",
+            "en": "the ones who are brought near",
+            "ref": "26:42",
+            "verse": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًۭا لَّمِنَ ٱلْمُقَرَّبِينَ",
+            "verseEn": "He said, \"Yes, and indeed, you will then be of those near [to me].\""
+          },
+          {
+            "ar": "أَلْقُوا",
+            "en": "Throw",
+            "ref": "26:43",
+            "verse": "قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+            "verseEn": "Moses said to them, \"Throw whatever you will throw.\""
+          },
+          {
+            "ar": "حِبَالَهُمْ",
+            "en": "their ropes",
+            "ref": "26:44",
+            "verse": "فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَـٰلِبُونَ",
+            "verseEn": "So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "العصر",
+    "display": "الْعَصْرِ",
+    "hint": "The fleeting span named in the final chapter, by which human beings are shown to be in loss.",
+    "verseRef": "115:1",
+    "arabicVerse": "",
+    "verse": "115:1"
+  },
+  "deduction": {
+    "title": "The Complaint Heard Above the Noise",
+    "intro": "You hear a voice rising from a society where oppression has become routine. No display of power answers the grievance; instead, a direct appeal reaches Allah, and the response strikes at the heart of worship itself. Who made that complaint, what question followed, and what truth was affirmed?",
+    "clues": [
+      "I became troubled by the oppression of the people around me.",
+      "I voiced that grievance directly to Allah in a personal complaint.",
+      "Allah heard the complaint and answered with a challenge about my own belief.",
+      "The answer asked how I could fail to believe in Allah, who is One and Supreme.",
+      "I then asked why Allah should favor a people who were disbelieving.",
+      "I am Uzair, named in Surah Az-Zukhruf as the one whose complaint Allah heard."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Uzair",
+          "The companion who sailed on the great flood",
+          "The servant who walked upon water",
+          "The sleeper protected within a cave",
+          "The servant who brought stones to a river"
+        ],
+        "answer": "Uzair"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Complaining to Allah about the oppression of the people",
+          "Walking upon water during a storm",
+          "Carrying stones to a river that lacked water",
+          "Sailing through a great flood aboard the Ark",
+          "Receiving the key to an immense treasure"
+        ],
+        "answer": "Complaining to Allah about the oppression of the people"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A direct complaint addressed to Allah",
+          "A staff that became a serpent",
+          "A furnace made cool and peaceful",
+          "An ark floating over floodwaters",
+          "A fish swallowing a servant"
+        ],
+        "answer": "A direct complaint addressed to Allah"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Allah heard the complaint and affirmed divine Oneness and Supreme Lordship",
+          "Walking safely on water during a storm",
+          "Crossing a great flood safely aboard the Ark",
+          "Regaining sight within a palace of arrogance",
+          "Receiving dominion stretching from the East to the West"
+        ],
+        "answer": "Allah heard the complaint and affirmed divine Oneness and Supreme Lordship"
+      }
+    },
+    "verseRef": "43:7",
+    "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+  },
+  "scramble": {
+    "verseRef": "54:55",
+    "reference": "Surah Ar-Rahman (54:55)",
+    "segments": [
+      "words 1-3",
+      "word 4",
+      "words 5-6",
+      "word 7",
+      "words 8-9"
+    ],
+    "translations": [
+      "In a seat",
+      "(of) honor",
+      "near",
+      "a King",
+      "Most Powerful"
+    ],
+    "hint": "The concluding du'a of Surah Ar-Rahman, emphasizing Allah's immense mercy, forgiveness for those who repent, and acceptance of charitable deeds.",
+    "arabic": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍۢ مُّقْتَدِرٍۭ",
+    "words": [
+      "فِى مَقْعَدِ",
+      "صِدْقٍ",
+      "عِندَ",
+      "مَلِيكٍۢ",
+      "مُّقْتَدِرٍۭ"
+    ],
+    "verseEn": "In a seat of honor near a Sovereign, Perfect in Ability."
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "ه",
+      "ا",
+      "م",
+      "و",
+      "ت",
+      "د"
+    ],
+    "root": {
+      "letters": "عدد",
+      "display": "ع د د",
+      "translit": "ʿ-d-d",
+      "meaning": "This root conveys counting, numbering, or determining how many something is. Its derived words extend this idea to preparation or readiness, as when something is made ready or arranged for a purpose.",
+      "occurrences": 57,
+      "lemmaCount": 11
+    },
+    "words": [
+      {
+        "w": "اعد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَعَدَّ",
+            "gloss": "has prepared",
+            "type": "verb",
+            "root": "عدد",
+            "count": 20,
+            "ref": "2:24",
+            "pos": 12,
+            "alt": [
+              "prepared",
+              "allah has prepared"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "داع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "داع",
+            "gloss": "caller",
+            "type": "active participle",
+            "root": "دعو",
+            "count": 3,
+            "ref": "2:186",
+            "pos": 9,
+            "alt": [
+              "supplicant"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "دعا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دَعا",
+            "gloss": "invoke",
+            "type": "verb",
+            "root": "دعو",
+            "count": 170,
+            "ref": "2:68",
+            "pos": 2,
+            "alt": [
+              "calls",
+              "call"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "دمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دَمْع",
+            "gloss": "tears",
+            "type": "noun",
+            "root": "دمع",
+            "count": 2,
+            "ref": "5:83",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "عاد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عادّ",
+            "gloss": "keep count",
+            "type": "active participle",
+            "root": "عدد",
+            "count": 1,
+            "ref": "23:113",
+            "pos": 8
+          },
+          {
+            "lemma": "عاد",
+            "gloss": "aad",
+            "type": "proper noun",
+            "root": "عود",
+            "count": 24,
+            "ref": "7:65",
+            "pos": 2
+          },
+          {
+            "lemma": "عادَ",
+            "gloss": "return",
+            "type": "verb",
+            "root": "عود",
+            "count": 18,
+            "ref": "2:275",
+            "pos": 39,
+            "alt": [
+              "repeated",
+              "returned"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عاد",
+            "gloss": "transgressor",
+            "type": "active participle",
+            "root": "عدو",
+            "count": 6,
+            "ref": "2:173",
+            "pos": 18,
+            "alt": [
+              "transgressing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عتو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُتُوّ",
+            "gloss": "insolence",
+            "type": "noun",
+            "root": "عتو",
+            "count": 2,
+            "ref": "25:21",
+            "pos": 18,
+            "alt": [
+              "pride"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عدد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عَدَد",
+            "gloss": "number",
+            "type": "noun",
+            "root": "عدد",
+            "count": 6,
+            "ref": "10:5",
+            "pos": 11
+          },
+          {
+            "lemma": "عَدَّدَ",
+            "gloss": "counts",
+            "type": "verb",
+            "root": "عدد",
+            "count": 1,
+            "ref": "104:2",
+            "pos": 4,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "عده",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عِدَّة",
+            "gloss": "waiting period",
+            "type": "noun",
+            "root": "عدد",
+            "count": 11,
+            "ref": "9:36",
+            "pos": 2,
+            "alt": [
+              "number"
+            ]
+          },
+          {
+            "lemma": "عُدَّة",
+            "gloss": "preparation",
+            "type": "noun",
+            "root": "عدد",
+            "count": 1,
+            "ref": "9:46",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "عدو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَدُوّ",
+            "gloss": "enemy",
+            "type": "noun",
+            "root": "عدو",
+            "count": 50,
+            "ref": "2:36",
+            "pos": 12,
+            "alt": [
+              "enemies",
+              "hostile"
+            ]
+          },
+          {
+            "lemma": "عَدْو",
+            "gloss": "enmity",
+            "type": "noun",
+            "root": "عدو",
+            "count": 2,
+            "ref": "6:108",
+            "pos": 10
+          }
+        ]
+      },
+      {
+        "w": "عمد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمَد",
+            "gloss": "pillars",
+            "type": "noun",
+            "root": "عمد",
+            "count": 3,
+            "ref": "13:2",
+            "pos": 6,
+            "alt": [
+              "columns"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عمه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمَّة",
+            "gloss": "paternal aunts",
+            "type": "noun",
+            "root": "عمم",
+            "count": 3,
+            "ref": "4:23",
+            "pos": 6,
+            "alt": [
+              "father's sisters"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عهد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَهْد",
+            "gloss": "promise",
+            "type": "noun",
+            "root": "عهد",
+            "count": 29,
+            "ref": "2:27",
+            "pos": 3,
+            "alt": [
+              "covenant"
+            ]
+          },
+          {
+            "lemma": "عَهِدَ",
+            "gloss": "taken promise",
+            "type": "verb",
+            "root": "عهد",
+            "count": 6,
+            "ref": "3:183",
+            "pos": 5,
+            "alt": [
+              "has promised",
+              "enjoin"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "متع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَتَّعْ",
+            "gloss": "provide for",
+            "type": "verb",
+            "root": "متع",
+            "count": 18,
+            "ref": "2:126",
+            "pos": 22,
+            "alt": [
+              "grant him enjoyment",
+              "make provision for"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "وعد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَعَدَ",
+            "gloss": "promised",
+            "type": "verb",
+            "root": "وعد",
+            "count": 70,
+            "ref": "4:95",
+            "pos": 24,
+            "alt": [
+              "allah has promised",
+              "is promised"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "وَعْد",
+            "gloss": "promise",
+            "type": "noun",
+            "root": "وعد",
+            "count": 49,
+            "ref": "4:122",
+            "pos": 14,
+            "alt": [
+              "promise of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تمتع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَمَتَّعَ",
+            "gloss": "took advantage",
+            "type": "verb",
+            "root": "متع",
+            "count": 11,
+            "ref": "2:196",
+            "pos": 37,
+            "alt": [
+              "enjoy"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "دعوه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "دَعْوَة",
+            "gloss": "invocation",
+            "type": "noun",
+            "root": "دعو",
+            "count": 6,
+            "ref": "2:186",
+            "pos": 8,
+            "alt": [
+              "supplication",
+              "call"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عاهد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عاهَدَ",
+            "gloss": "has covenanted",
+            "type": "verb",
+            "root": "عهد",
+            "count": 11,
+            "ref": "9:75",
+            "pos": 3,
+            "alt": [
+              "made a covenant"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "عدوه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عُدْوَة",
+            "gloss": "on side of the valley",
+            "type": "noun",
+            "root": "عدو",
+            "count": 2,
+            "ref": "8:42",
+            "pos": 3,
+            "alt": [
+              "on the side"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَتاع",
+            "gloss": "enjoyment",
+            "type": "noun",
+            "root": "متع",
+            "count": 35,
+            "ref": "2:236",
+            "pos": 21,
+            "alt": [
+              "provision",
+              "enjoy"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "معتد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُعْتَد",
+            "gloss": "transgressor",
+            "type": "active participle",
+            "root": "عدو",
+            "count": 3,
+            "ref": "50:25",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "موعد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَوْعِد",
+            "gloss": "appointment",
+            "type": "noun",
+            "root": "وعد",
+            "count": 12,
+            "ref": "18:48",
+            "pos": 16,
+            "alt": [
+              "appointed time"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واعد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "واعَدْ",
+            "gloss": "appointed",
+            "type": "verb",
+            "root": "وعد",
+            "count": 4,
+            "ref": "2:51",
+            "pos": 2,
+            "alt": [
+              "promise",
+              "made a covenant with"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "اعتدت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَعْتَدَتْ",
+            "gloss": "have prepared",
+            "type": "verb",
+            "root": "عتد",
+            "count": 14,
+            "ref": "4:18",
+            "pos": 21,
+            "alt": [
+              "prepared"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "عداوه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "عَداوَة",
+            "gloss": "enmity",
+            "type": "noun",
+            "root": "عدو",
+            "count": 6,
+            "ref": "5:82",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "متعمد",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُتَعَمِّد",
+            "gloss": "intentionally",
+            "type": "active participle",
+            "root": "عمد",
+            "count": 2,
+            "ref": "4:93",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "معدود",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَعْدُود",
+            "gloss": "limited",
+            "type": "passive participle",
+            "root": "عدد",
+            "count": 1,
+            "ref": "11:104",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "معدوده",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مَعْدُودَة",
+            "gloss": "few",
+            "type": "passive participle",
+            "root": "عدد",
+            "count": 6,
+            "ref": "2:80",
+            "pos": 7,
+            "alt": [
+              "numbered",
+              "determined"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "عَدَّ",
+        "gloss": "count",
+        "type": "verb",
+        "root": "عدد",
+        "count": 7,
+        "ref": "19:84",
+        "pos": 5,
+        "form": 1
+      },
+      {
+        "lemma": "عَدّ",
+        "gloss": "number",
+        "type": "noun",
+        "root": "عدد",
+        "count": 2,
+        "ref": "19:84",
+        "pos": 7,
+        "alt": [
+          "counting"
+        ]
+      },
+      {
+        "lemma": "تَعْتَدُّ",
+        "gloss": "count concerning",
+        "type": "verb",
+        "root": "عدد",
+        "count": 1,
+        "ref": "33:49",
+        "pos": 18,
+        "form": 8
+      }
+    ],
+    "maxScore": 59,
+    "featuredRoot": "عدد"
+  }
+}

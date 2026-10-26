@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:file_picker/file_picker.dart';
 import 'dart:io';
 import 'dart:convert';
+import '../services/vtt_sanitizer.dart';
 import 'package:path/path.dart' as path;
 
 class RepeatsScreen extends StatefulWidget {
@@ -221,11 +222,11 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       final subDir = path.join(dir, '${baseName}_vtt');
       await Directory(subDir).create(recursive: true);
       final beforeZeroDuration = content;
-      content = _fixZeroDurationSubtitles(content);
+      // content = _fixZeroDurationSubtitles(content);   // removed: deletes cue text
       final afterZeroDuration = content;
-      content = _deleteRogueChunkBlocks(content);
+      // content = _deleteRogueChunkBlocks(content);     // removed: deletes cue text
       final beforeOverlap = content;
-      content = _fixOverlappingTimecodes(content);
+      content = VttSanitizer.sanitize(content).content;
       final afterOverlap = content;
       for (final word in _preserveWords) {
         content = content.replaceAll(
