@@ -268,6 +268,15 @@ class EncodeProgressOverlay extends StatelessWidget {
                 '${progress.toStringAsFixed(1)}%  ·  elapsed ${_formatElapsed(elapsed)}',
                 style: const TextStyle(color: Colors.white70, fontSize: 11),
               ),
+              if (encodeSettings != null) ...[
+                const SizedBox(height: 4),
+                Text(
+                  _buildSettingsSummary(encodeSettings!).replaceAll('\n', ' · '),
+                  style: const TextStyle(color: Colors.white54, fontSize: 11),
+                  maxLines: 3,
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ],
               const SizedBox(height: 4),
               Text(
                 step,

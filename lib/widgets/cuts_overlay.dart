@@ -6,6 +6,7 @@ import 'package:media_kit/media_kit.dart';
 import 'package:media_kit_video/media_kit_video.dart';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
+import 'package:file_picker/file_picker.dart';
 import '../services/video_edit_service.dart';
 
 class CutsOverlay extends StatefulWidget {
@@ -16,6 +17,7 @@ class CutsOverlay extends StatefulWidget {
   final Function(VideoCodec) onCutCodecChanged;
   final VoidCallback onOpenDirectory;
   final VoidCallback onClose;
+  final Function(List<String>, EncodeSettings) onBatchEncode;
 
   const CutsOverlay({
     super.key,
@@ -26,6 +28,7 @@ class CutsOverlay extends StatefulWidget {
     required this.onCutCodecChanged,
     required this.onOpenDirectory,
     required this.onClose,
+    required this.onBatchEncode,
   });
 
   @override
@@ -407,6 +410,28 @@ class _CutsOverlayState extends State<CutsOverlay> {
     if (_filterBW) filters.add('format=gray');
     final joined = filters.where((f) => f.isNotEmpty).join(',');
     return joined.isEmpty ? null : joined;
+  }
+
+  Future<void> _pickBatchVideos() async {
+    final dynamic result = await FilePicker.pickFiles(
+      type: FileType.custom,
+      allowedExtensions: const [
+        'mp4', 'mkv', 'mov', 'avi', 'webm', 'm4v', 'ts', 'flv', 'wmv',
+      ],
+      dialogTitle: 'Select videos to batch encode',
+    );
+    if (result == null) return;
+
+    // Handles either return shape: a List<PlatformFile> or a result object with .files
+    final Iterable<dynamic> picked = result is Iterable ? result : result.files;
+    final files = picked
+        .map((f) => f.path as String?)
+        .whereType<String>()
+        .toList()
+      ..sort();
+    if (files.isEmpty) return;
+
+    widget.onBatchEncode(files, _buildEncodeSettings());
   }
 
   EncodeSettings _buildEncodeSettings() => EncodeSettings(
@@ -1044,6 +1069,17 @@ class _CutsOverlayState extends State<CutsOverlay> {
                     side: const BorderSide(color: Colors.white24),
                     padding: const EdgeInsets.symmetric(
                         horizontal: 20, vertical: 16),
+                  ),
+                ),
+                const SizedBox(width: 12),
+                OutlinedButton.icon(
+                  onPressed: _pickBatchVideos,
+                  icon: const Icon(Icons.video_library, size: 18),
+                  label: const Text('Batch Encode Videos'),
+                  style: OutlinedButton.styleFrom(
+                    foregroundColor: Colors.white70,
+                    side: const BorderSide(color: Colors.white24),
+                    padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
                   ),
                 ),
                 const SizedBox(width: 12),

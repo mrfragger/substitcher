@@ -7653,6 +7653,155 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
+  Future<void> _performBatchEncode(
+      List<String> files, EncodeSettings settings) async {
+    if (_currentAudiobook == null || files.isEmpty) return;
+
+    final sourceDir = path.dirname(_currentAudiobook!.path);
+    final outDir = path.join(sourceDir, 'batch_encode');
+    await Directory(outDir).create(recursive: true);
+
+    // Plan output paths up front; de-dupe identical basenames from different folders.
+    final used = <String>{};
+    final outputs = <String>[];
+    for (final f in files) {
+      final base = path.basenameWithoutExtension(f);
+      var name = '${base}_encoded';
+      var n = 2;
+      while (used.contains(name) || File(path.join(outDir, '$name.mp4')).existsSync()) {
+        name = '${base}_encoded_$n';
+        n++;
+      }
+      used.add(name);
+      outputs.add(path.join(outDir, '$name.mp4'));
+    }
+
+    int inputBytes = 0;
+    for (final f in files) {
+      try {
+        inputBytes += File(f).lengthSync();
+      } catch (_) {}
+    }
+
+    setState(() {
+      _showCutsOverlay = false;
+      _lastEncodeSettings = settings;
+      _isCombining = true;
+      _combineCancelled = false;
+      _combineProgress = 0.0;
+      _combineStep = 'Starting batch (${files.length} videos)...';
+      _combineStartTime = DateTime.now();
+      _combineFinishTime = null;
+      _combineInputBytes = inputBytes;
+      _combineOutputBytes = null;
+      _combineSourceBytes = null;
+      _combineSourceSecs = null;
+      _combineOutputSecs = null;
+    });
+
+    final failures = <String>[];
+    int outputBytes = 0;
+    double outputSecs = 0;
+
+    try {
+      for (var i = 0; i < files.length; i++) {
+        if (_combineCancelled) break;
+        final input = files[i];
+        final output = outputs[i];
+        final label = '[${i + 1}/${files.length}] ${path.basename(input)}';
+
+        try {
+          await for (final progress in VideoEditService.stitchAndEncode(
+            segmentFiles: [input],
+            outputPath: output,
+            settings: settings,
+            onProcessStarted: (p) => _combineProcess = p,
+          )) {
+            if (_combineCancelled) {
+              _combineProcess?.kill();
+              break;
+            }
+            if (mounted) {
+              setState(() {
+                _combineProgress = (i * 100 + progress.percent) / files.length;
+                _combineStep = '$label · ${progress.step}';
+              });
+            }
+          }
+          _combineProcess = null;
+
+          if (_combineCancelled) {
+            try {
+              await File(output).delete();
+            } catch (_) {}
+            break;
+          }
+
+          try {
+            outputBytes += File(output).lengthSync();
+          } catch (_) {}
+          outputSecs += await VideoEditService.getFileDuration(output) ?? 0.0;
+        } catch (e) {
+          _combineProcess = null;
+          failures.add('${path.basename(input)}: $e');
+          try {
+            await File(output).delete();
+          } catch (_) {}
+        }
+      }
+
+      if (!mounted) return;
+
+      if (_combineCancelled) {
+        setState(() {
+          _isCombining = false;
+          _combineFinishTime = null;
+          _combineProgress = 0.0;
+          _combineStep = '';
+          _combineStartTime = null;
+          _combineInputBytes = null;
+          _combineOutputBytes = null;
+        });
+        return;
+      }
+
+      setState(() {
+        _isCombining = false;
+        _combineFinishTime = DateTime.now();
+        _combineOutputBytes = outputBytes;
+        _combineOutputSecs = outputSecs;
+      });
+
+      if (failures.isNotEmpty) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(
+                '${failures.length} of ${files.length} failed:\n${failures.join('\n')}'),
+            backgroundColor: Colors.red,
+            duration: const Duration(seconds: 30),
+          ),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        setState(() {
+          _isCombining = false;
+          _combineFinishTime = null;
+          _combineProgress = 0.0;
+          _combineStep = '';
+          _combineStartTime = null;
+          _combineInputBytes = null;
+        });
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Batch encode failed: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
+  }
+
   Future<void> _performCombine(
       List<String> cutFiles, EncodeSettings settings) async {
     final baseName = path.basenameWithoutExtension(_currentAudiobook!.path);
@@ -8953,6 +9102,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                       ..sort();
                   }(),
                   onCombine: _performCombine,
+                  onBatchEncode: _performBatchEncode,
                   onCutCodecChanged: (codec) {
                     setState(() => _selectedCutCodec = codec);
                   },
