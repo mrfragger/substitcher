@@ -30,6 +30,7 @@ enum ColoringMode { words, letters }
 enum PauseMode { disabled, pause2s, pause3s, pause5s, pause10s, dictionary }
 enum SleepTimerAction { closeApp, pauseOnly }
 enum FontColorOverride { none, white }
+enum SubsSearchScope { subs, chapters }
 enum PanelMode {
   chapters,
   history,
@@ -160,19 +161,8 @@ class SidePanel extends StatelessWidget {
   final String indexingStatus;
   final int indexedFiles;
   final int totalFilesToIndex;
-  final bool hasChapterIndex;
-  final VoidCallback? onIndexPlaylistChapters;
-  final String chapterSearchQuery;
-  final TextEditingController chapterSearchController;
-  final FocusNode chapterSearchFocusNode;
-  final Function(String) onSearchPlaylistChapters;
-  final bool chapterSearchUseAnd;
-  final VoidCallback onChapterSearchAndSelected;
-  final VoidCallback onChapterSearchOrSelected;
-  final String chapterExcludeTerms;
-  final TextEditingController chapterExcludeController;
-  final FocusNode chapterExcludeFocusNode;
-  final Function(String) onChapterExcludeChanged;
+  final SubsSearchScope searchScope;
+  final ValueChanged<SubsSearchScope> onSearchScopeChanged;
   final ColoringMode coloringMode;
   final Function(ColoringMode) onColoringModeChanged;
   final int historyCount;
@@ -375,19 +365,8 @@ class SidePanel extends StatelessWidget {
     required this.indexingStatus,
     required this.indexedFiles,
     required this.totalFilesToIndex,
-    required this.hasChapterIndex,
-    required this.onIndexPlaylistChapters,
-    required this.chapterSearchQuery,
-    required this.chapterSearchController,
-    required this.chapterSearchFocusNode,
-    required this.onSearchPlaylistChapters,
-    required this.chapterSearchUseAnd,
-    required this.onChapterSearchAndSelected,
-    required this.onChapterSearchOrSelected,
-    required this.chapterExcludeTerms,
-    required this.chapterExcludeController,
-    required this.chapterExcludeFocusNode,
-    required this.onChapterExcludeChanged,
+    required this.searchScope,
+    required this.onSearchScopeChanged,
     required this.historyCount,
     required this.playlistCount,
     required this.bookmarksCount,
@@ -2275,6 +2254,7 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildSubsPanel(BuildContext context) {
+    final inChapters = searchScope == SubsSearchScope.chapters;
     return Column(
       children: [
         Container(
@@ -2288,9 +2268,11 @@ class SidePanel extends StatelessWidget {
                 children: [
                   Expanded(
                     child: ElevatedButton(
-                      onPressed: () => onSearchSubtitles(subsSearchQuery),
+                      onPressed: () => onSearchSubtitles(searchController.text),
                       style: _compactButtonStyle(Colors.deepPurple),
-                      child: const Text('Search Subtitles & Paragraphs'),
+                      child: Text(inChapters
+                          ? 'Search Playlist Chapters'
+                          : 'Search Subtitles & Paragraphs'),
                     ),
                   ),
                   const SizedBox(width: 8),
@@ -2307,37 +2289,23 @@ class SidePanel extends StatelessWidget {
                           )
                         : const Icon(Icons.file_download, size: 16),
                     label: const Text('Export md'),
-                    style: _compactButtonStyle(Colors.blueGrey[700]!, horizontal: 20),
+                    style: _compactButtonStyle(Colors.blueGrey[300]!, horizontal: 20),
                   ),
                   const SizedBox(width: 8),
                   Expanded(
-                    child: Tooltip(
-                      message: hasChapterIndex
-                          ? 'Chapter index loaded'
-                          : 'Index all chapters in current playlist',
-                      child: ElevatedButton.icon(
-                        onPressed: isIndexingChapters
-                            ? null
-                            : (hasChapterIndex ? null : onIndexPlaylistChapters),
-                        icon: isIndexingChapters
-                            ? const SizedBox(
-                                width: 14,
-                                height: 14,
-                                child: CircularProgressIndicator(
-                                    strokeWidth: 2, color: Colors.white),
-                              )
-                            : Icon(
-                                hasChapterIndex
-                                    ? Icons.check_circle
-                                    : Icons.manage_search,
-                                color: Colors.white,
-                                size: 16,
-                              ),
-                        label: Text(hasChapterIndex
-                            ? 'Search Playlist Chapters'
-                            : 'Index Playlist Chapters'),
-                        style: _compactButtonStyle(Colors.lightBlue),
-                      ),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        const Text('Search:', style: TextStyle(color: Colors.white70)),
+                        const SizedBox(width: 8),
+                        _compactChip('Subs', !inChapters,
+                            () => onSearchScopeChanged(SubsSearchScope.subs),
+                            selectedColor: Colors.lightBlue),
+                        const SizedBox(width: 4),
+                        _compactChip('Chapters', inChapters,
+                            () => onSearchScopeChanged(SubsSearchScope.chapters),
+                            selectedColor: Colors.lightBlue),
+                      ],
                     ),
                   ),
                 ],
@@ -2381,42 +2349,6 @@ class SidePanel extends StatelessWidget {
                 Text(
                   indexingStatus,
                   style: const TextStyle(color: Colors.white70, fontSize: 12),
-                ),
-              ],
-              if (hasChapterIndex) ...[
-                const SizedBox(height: 12),
-                Row(
-                  children: [
-                    Expanded(
-                      flex: 3,
-                      child: _compactField(
-                        controller: chapterSearchController,
-                        focusNode: chapterSearchFocusNode,
-                        hint: 'Search playlist chapters...',
-                        icon: Icons.search,
-                        showClear: chapterSearchQuery.isNotEmpty,
-                        onChanged: onSearchPlaylistChapters,
-                      ),
-                    ),
-                    const SizedBox(width: 8),
-                    _compactChip('AND', chapterSearchUseAnd, onChapterSearchAndSelected,
-                        selectedColor: Colors.lightBlue),
-                    const SizedBox(width: 4),
-                    _compactChip('OR', !chapterSearchUseAnd, onChapterSearchOrSelected,
-                        selectedColor: Colors.lightBlue),
-                    const SizedBox(width: 8),
-                    Expanded(
-                      flex: 2,
-                      child: _compactField(
-                        controller: chapterExcludeController,
-                        focusNode: chapterExcludeFocusNode,
-                        hint: 'Exclude...',
-                        icon: Icons.block,
-                        showClear: chapterExcludeTerms.isNotEmpty,
-                        onChanged: onChapterExcludeChanged,
-                      ),
-                    ),
-                  ],
                 ),
               ],
             ],

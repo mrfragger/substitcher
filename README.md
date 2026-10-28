@@ -226,10 +226,11 @@ only 1-9, basic latin and ligatures
 - sorted by most recently added
 
 ### Colors
-- 750+ color palettes
+- 509 color palettes
 - choose between coloring words or letters
 - 20 and 12 colors per palette
-- 91 same (similar) Palettes (font, stroke, shadow)
+- 24 same (similar) Palettes (font, stroke, shadow)
+- 45 three (similar shade) Palettes
 - monochromatic, food palettes
 - letters work with alternates but not with ligatures
 - favorites list, shortcut key R (rang रंग Hindi is color)
@@ -240,16 +241,17 @@ only 1-9, basic latin and ligatures
 - analyzing vtt subtitles for word frequencies
 - top 500 words by frequency
 - click top 500 words to search subtitles and paragraphs
-- top 7-word, 6-word, 5-word, 4-word, 3-word phrases
+- top 8-word, 7-word, 6-word, 5-word, 4-word, 3-word phrases
 - click phrases to do exact phrase match in subs and paragraphs
-- words are automatically analyzed after 20 seconds of audiobook loading
+- words are automatically analyzed after 20 to 30 seconds of audiobook loading
 
 ### Subs
 - search through entire subs and click on results to navigate to time position in audiobook
 - search paragraphs too, paragraphs are ~ 8 sentences
 - click paragraph to copy to clipboard 
 - search through entire playlist chapters of entire playlist
-- indexes all chapters for every audiobook to be searched
+- choose to Search: Subs (Subtitles and Paragraphs) or Chapters (PLaylist Chapters)
+- search all chapters for every audiobook in playlist, requires indexing
 - press ENTER to search subtitles
 - / to start search (focus in search field)
 - Ctrl+Backspace or Cmd+Backspace to clear search results
@@ -319,6 +321,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - cuts are huge in file size but combine all cuts encodes to x264 or x265 which are cpu encoded and small in file size
 - LosslessCut works great but can't make accurate cuts
 - blur up to two regions, only for cuts
+- batch encode videos, choose parameters first
 - even though ffmpeg is bundled with SubStitcher it is limited to audio only pretty much due to licensing restrictions since x264 and x265 are GPL so if wish to use Video Editing must install the full ffmpeg
 - flutter limitations with media_kit don't allow filters to be applied in realtime unlike mpv lua scripts.  So can't have audio filtering nor LUTs showing on video
 - HOME seek to start of media, END seek to end of media

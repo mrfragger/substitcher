@@ -192,6 +192,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   final TextEditingController _chapterSearchController =
       TextEditingController();
   final FocusNode _chapterSearchFocusNode = FocusNode();
+  SubsSearchScope _searchScope = SubsSearchScope.subs;
 
   List<HistoryItem> _history = [];
   List<Bookmark> _bookmarks = [];
@@ -3189,13 +3190,18 @@ class _PlayerScreenState extends State<PlayerScreen>
                   ),
                   child: Row(
                     children: [
-                      CircleAvatar(
-                        backgroundColor: const Color(0xFF006064),
-                        radius: 12,
+                      Container(
+                        constraints: const BoxConstraints(minWidth: 24),
+                        height: 24,
+                        padding: const EdgeInsets.symmetric(horizontal: 6),
+                        alignment: Alignment.center,
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF006064),
+                          borderRadius: BorderRadius.circular(12),
+                        ),
                         child: Text(
                           '${index + 1}',
-                          style: const TextStyle(
-                              fontSize: 12, color: Colors.white),
+                          style: const TextStyle(fontSize: 12, color: Colors.white),
                         ),
                       ),
                       const SizedBox(width: 12),
@@ -6199,13 +6205,13 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
     final results = <ChapterSearchResult>[];
     final excludeList =
-        _chapterExcludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
+        _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     _playlistChapterIndex.forEach((audioPath, chapters) {
       final audioTitle = path.basenameWithoutExtension(audioPath);
       for (int i = 0; i < chapters.length; i++) {
         final chapter = chapters[i];
         if (_matchesSearch(chapter.title, query, excludeList,
-            useAnd: _chapterSearchUseAnd)) {
+            useAnd: _searchUseAnd)) {
           results.add(ChapterSearchResult(
             audiobookPath: audioPath,
             audiobookTitle: audioTitle,
@@ -6232,6 +6238,42 @@ class _PlayerScreenState extends State<PlayerScreen>
       await Future.delayed(const Duration(milliseconds: 500));
     }
     await _seekTo(result.startTime + const Duration(milliseconds: 200));
+  }
+
+
+  String get _activeSubsQuery => _searchScope == SubsSearchScope.chapters
+      ? _chapterSearchQuery
+      : _subsSearchQuery;
+
+  void _runSearch(String query) {
+    if (_searchScope == SubsSearchScope.chapters) {
+      // keep results exclusive: _buildSearchContent checks chapter query first
+      setState(() {
+        _subsSearchQuery = '';
+        _subtitleSearchResults = [];
+      });
+      _searchPlaylistChapters(query);
+    } else {
+      setState(() {
+        _chapterSearchQuery = '';
+        _chapterSearchResults = [];
+      });
+      _searchSubtitles(query);
+    }
+  }
+
+  Future<void> _setSearchScope(SubsSearchScope scope) async {
+    if (scope == _searchScope) return;
+    final query = _searchController.text;
+    setState(() => _searchScope = scope);
+
+    if (scope == SubsSearchScope.chapters &&
+      _playlistChapterIndex.length < _playlist.length &&
+        !_isIndexingChapters) {
+      await _indexPlaylistChapters();
+    }
+    if (!mounted) return;
+    _runSearch(query);
   }
 
   Future<void> _togglePlayPause() async {
@@ -8074,7 +8116,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             _showPanel &&
             _panelMode == PanelMode.subs &&
             _searchFocusNode.hasFocus) {
-          _searchSubtitles(_searchQuery);
+          _runSearch(_searchQuery);
           return KeyEventResult.handled;
         }
 
@@ -8378,6 +8420,8 @@ class _PlayerScreenState extends State<PlayerScreen>
               _searchController.clear();
               _excludeController.clear();
               setState(() {
+                _chapterSearchQuery = '';
+                _chapterSearchResults = [];
                 _searchQuery = '';
                 _excludeTerms = '';
               });
@@ -9227,19 +9271,22 @@ class _PlayerScreenState extends State<PlayerScreen>
                     });
                   },
                   onExcludeChanged: (value) {
-                    setState(() {
-                      _excludeTerms = value;
-                    });
+                    setState(() => _excludeTerms = value);
+                    if (_panelMode == PanelMode.subs && _activeSubsQuery.isNotEmpty) {
+                      _runSearch(_activeSubsQuery);
+                    }
                   },
                   onSearchAndSelected: () {
-                    setState(() {
-                      _searchUseAnd = true;
-                    });
+                    setState(() => _searchUseAnd = true);
+                    if (_panelMode == PanelMode.subs && _activeSubsQuery.isNotEmpty) {
+                      _runSearch(_activeSubsQuery);
+                    }
                   },
                   onSearchOrSelected: () {
-                    setState(() {
-                      _searchUseAnd = false;
-                    });
+                    setState(() => _searchUseAnd = false);
+                    if (_panelMode == PanelMode.subs && _activeSubsQuery.isNotEmpty) {
+                      _runSearch(_activeSubsQuery);
+                    }
                   },
                   getFilteredChapters: _getFilteredChapters,
                   onJumpToChapter: _jumpToChapter,
@@ -9515,6 +9562,9 @@ class _PlayerScreenState extends State<PlayerScreen>
                   subtitleFilePath: _subtitleFilePath,
                   onWordSearch: (word) {
                     setState(() {
+                      _searchScope = SubsSearchScope.subs;
+                      _chapterSearchQuery = '';
+                      _chapterSearchResults = [];
                       _panelMode = PanelMode.subs;
                       _searchQuery = word;
                       _searchController.text = word;
@@ -9523,9 +9573,12 @@ class _PlayerScreenState extends State<PlayerScreen>
                   },
                   onPhraseSearch: (phrase) {
                     setState(() {
+                      _searchScope = SubsSearchScope.subs;
+                      _chapterSearchQuery = '';
+                      _chapterSearchResults = [];
                       _panelMode = PanelMode.subs;
-                      _subsSearchQuery = phrase;
-                      _subsSearchController.text = phrase;
+                      _searchQuery = phrase;
+                      _searchController.text = phrase;
                     });
                     _searchSubtitles(phrase);
                   },
@@ -9538,46 +9591,14 @@ class _PlayerScreenState extends State<PlayerScreen>
                   subsSearchQuery: _subsSearchQuery,
                   subsSearchController: _subsSearchController,
                   subsSearchFocusNode: _subsSearchFocusNode,
-                  onSearchSubtitles: _searchSubtitles,
+                  onSearchSubtitles: _runSearch,
+                  searchScope: _searchScope,
+                  onSearchScopeChanged: _setSearchScope,
                   buildSearchContent: _buildSearchContent,
                   isIndexingChapters: _isIndexingChapters,
                   indexingStatus: _indexingStatus,
                   indexedFiles: _indexedFiles,
                   totalFilesToIndex: _totalFilesToIndex,
-                  hasChapterIndex: _playlistChapterIndex.isNotEmpty,
-                  onIndexPlaylistChapters: _indexPlaylistChapters,
-                  chapterSearchQuery: _chapterSearchQuery,
-                  chapterSearchController: _chapterSearchController,
-                  chapterSearchFocusNode: _chapterSearchFocusNode,
-                  onSearchPlaylistChapters: _searchPlaylistChapters,
-                  chapterSearchUseAnd: _chapterSearchUseAnd,
-                  onChapterSearchAndSelected: () {
-                    setState(() {
-                      _chapterSearchUseAnd = true;
-                    });
-                    if (_chapterSearchQuery.isNotEmpty) {
-                      _searchPlaylistChapters(_chapterSearchQuery);
-                    }
-                  },
-                  onChapterSearchOrSelected: () {
-                    setState(() {
-                      _chapterSearchUseAnd = false;
-                    });
-                    if (_chapterSearchQuery.isNotEmpty) {
-                      _searchPlaylistChapters(_chapterSearchQuery);
-                    }
-                  },
-                  chapterExcludeTerms: _chapterExcludeTerms,
-                  chapterExcludeController: _chapterExcludeController,
-                  chapterExcludeFocusNode: _chapterExcludeFocusNode,
-                  onChapterExcludeChanged: (value) {
-                    setState(() {
-                      _chapterExcludeTerms = value;
-                    });
-                    if (_chapterSearchQuery.isNotEmpty) {
-                      _searchPlaylistChapters(_chapterSearchQuery);
-                    }
-                  },
                   historyCount: _history.length,
                   playlistCount: _playlist.length,
                   bookmarksCount: _bookmarks.length,
