@@ -376,6 +376,19 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - from https://hadeethenc.com and takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
+### Edit Captions vtt subs on images
+- copy to clipboard or save to file as avif, jpg, png
+
+### avif Masonry Gallery
+- choose a folder of images to process
+- about 3x to 4x smaller than jpg
+- random slideshow
+
+### Image to Animated svg (mac only)
+- choose a folder of images and builds a gallery and choose an image with background or without then choose 5 favorite color palettes amongst 752.
+- Save Animated svg which each second reveals the 5 color groups, holds 3s, then each 3s shows next favorite palette then back to 1st favorite then stops. 
+- Lazy load them on html..  Specify height and width to get lazy load ot work.
+
 ### Translate vtt Subtitles
 Easy to translate vtt subtitle to almost any language (free)
 [https://tools.newzone.top/en/subtitle-translator](https://tools.newzone.top/en/subtitle-translator)

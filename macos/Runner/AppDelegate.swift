@@ -73,18 +73,6 @@ class AppDelegate: FlutterAppDelegate {
     }
   }
 
-  // override func application(_ application: NSApplication, open urls: [URL]) {
-  //   guard let url = urls.first, url.pathExtension == "opus" else { return }
-
-  //   let filePath = url.path
-
-  //   if methodChannel != nil {
-  //     methodChannel?.invokeMethod("openFile", arguments: filePath)
-  //   } else {
-  //     pendingFilePath = filePath
-  //   }
-  // }
-  //
   private let supportedExtensions: Set<String> = [
     "opus",
     "jpg", "jpeg", "png", "gif", "webp", "bmp", "mkv", "mp4", "webm", "avi", "mov", "m4v",

@@ -1,0 +1,768 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْبِيَاءٌ مَذْكُورُونَ فِي الْقُرْآنِ",
+        "nameEn": "Prophets named in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "نُوحُ",
+            "en": "O Nuh",
+            "ref": "11:32",
+            "verse": "قَالُوا۟ يَـٰنُوحُ قَدْ جَـٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+            "verseEn": "They said, \"O Noah, you have disputed [i.e., opposed] us and been frequent in dispute of us. So bring us what you threaten us, if you should be of the truthful.\""
+          },
+          {
+            "ar": "لُوطٍ",
+            "en": "of Lut",
+            "ref": "15:59",
+            "verse": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+            "verseEn": "Except the family of Lot; indeed, we will save them all"
+          },
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "51:38",
+            "verse": "وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَـٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
+            "verseEn": "And in Moses [was a sign], when We sent him to Pharaoh with clear authority."
+          },
+          {
+            "ar": "يُونُسَ",
+            "en": "(of) Yunus",
+            "ref": "10:98",
+            "verse": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+            "verseEn": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time."
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ الْمُكَذِّبِينَ فِي الْقُرْآنِ",
+        "nameEn": "Quranic epithets for the disbelievers",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْمُجْرِمِينَ",
+            "en": "with the criminals",
+            "ref": "37:34",
+            "verse": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+            "verseEn": "Indeed, that is how We deal with the criminals."
+          },
+          {
+            "ar": "ظَالِمِينَ",
+            "en": "wrongdoers",
+            "ref": "21:46",
+            "verse": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَـٰوَيْلَنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+            "verseEn": "And if [as much as] a whiff of the punishment of your Lord should touch them, they would surely say, \"O woe to us! Indeed, we have been wrongdoers.\""
+          },
+          {
+            "ar": "الْكَافِرِينَ",
+            "en": "for the disbelievers",
+            "ref": "39:32",
+            "verse": "۞ فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدْقِ إِذْ جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًۭى لِّلْكَـٰفِرِينَ",
+            "verseEn": "So who is more unjust than one who lies about Allāh and denies the truth when it has come to him? Is there not in Hell a residence for the disbelievers?"
+          },
+          {
+            "ar": "الْمُكَذِّبِينَ",
+            "en": "(of) the deniers",
+            "ref": "16:36",
+            "verse": "وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَـٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+            "verseEn": "And We certainly sent into every nation a messenger, [saying], \"Worship Allāh and avoid ṭāghūt.\" And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ النَّارِ فِي الْقُرْآنِ",
+        "nameEn": "Names of Hellfire in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "النَّارَ",
+            "en": "the Fire",
+            "ref": "21:39",
+            "verse": "لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ",
+            "verseEn": "If those who disbelieved but knew the time when they will not avert the Fire from their faces or from their backs and they will not be aided..."
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "19:68",
+            "verse": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَـٰطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّۭا",
+            "verseEn": "So by your Lord, We will surely gather them and the devils; then We will bring them to be present around Hell upon their knees."
+          },
+          {
+            "ar": "الْجَحِيمِ",
+            "en": "(of) the Hellfire",
+            "ref": "37:23",
+            "verse": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+            "verseEn": "Other than Allāh, and guide them to the path of Hellfire"
+          },
+          {
+            "ar": "الْحَرِيقِ",
+            "en": "(of) the Blazing Fire",
+            "ref": "8:50",
+            "verse": "وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ۙ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+            "verseEn": "And if you could but see when the angels take the souls of those who disbelieved... They are striking their faces and their backs and [saying], \"Taste the punishment of the Burning Fire."
+          }
+        ]
+      },
+      {
+        "name": "صِفَاتٌ عَلَى وَزْنِ فَعِيلٍ فِي الْقُرْآنِ",
+        "nameEn": "Adjectives on the pattern fa'eel in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "سَقِيمٌ",
+            "en": "sick",
+            "ref": "37:89",
+            "verse": "فَقَالَ إِنِّى سَقِيمٌۭ",
+            "verseEn": "And said, \"Indeed, I am [about to be] ill.\""
+          },
+          {
+            "ar": "الْعَلِيمُ",
+            "en": "the All-Knower",
+            "ref": "51:30",
+            "verse": "قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ",
+            "verseEn": "They said, \"Thus has said your Lord; indeed, He is the Wise, the Knowing.\""
+          },
+          {
+            "ar": "الْأَلِيمُ",
+            "en": "the most painful",
+            "ref": "15:50",
+            "verse": "وَأَنَّ عَذَابِى هُوَ ٱلْعَذَابُ ٱلْأَلِيمُ",
+            "verseEn": "And that it is My punishment which is the painful punishment."
+          },
+          {
+            "ar": "الشَّدِيدَ",
+            "en": "the severe",
+            "ref": "10:70",
+            "verse": "مَتَـٰعٌۭ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ",
+            "verseEn": "[For them is brief] enjoyment in this world; then to Us is their return; then We will make them taste the severe punishment because they used to disbelieve."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "شهادة",
+    "display": "شَهَادَة",
+    "hint": "Legal testimony or witness in Islamic law.",
+    "verseRef": "24:6",
+    "arabicVerse": "وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَـٰدَةُ أَحَدِهِمْ أَرْبَعُ شَهَـٰدَٰتٍۭ بِٱللَّهِ ۙ إِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+    "verse": "24:6 - And those who accuse their wives [of adultery] and have no witnesses except themselves - then the witness of one of them [shall be] four testimonies [swearing] by Allāh that indeed, he is of the truthful."
+  },
+  "deduction": {
+    "title": "A Siege Under a Sudden Sky",
+    "intro": "You are standing before a formidable army approaching a revered sanctuary, with every weapon ready and victory seemingly certain. Before the assault can begin, an unexpected power appears overhead, and the contest takes a turn no one foresaw.",
+    "clues": [
+      "We marched with a confidence that no earthly power could shake.",
+      "We brought mighty elephants, and our force seemed built around them.",
+      "We had come to tear down a revered sanctuary, believing our victory was already certain.",
+      "When we reached it, a flock swept across the sky above us.",
+      "The birds hurled stones of hardened clay at our warriors.",
+      "We were defeated so completely that our mighty force crumbled and scattered like ash."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The People of the Elephant",
+          "The Two Princes",
+          "Joseph's Brothers",
+          "The Servant of Allah in Dhul-Kifl",
+          "The Companions of the Righteous Man"
+        ],
+        "answer": "The People of the Elephant"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The elephant-led assault on the Kaaba",
+          "The sea parting before a delivered group",
+          "The seizure of the Ark by a tyrannical people",
+          "The night journey between two mosques",
+          "The healing of a leper by divine power"
+        ],
+        "answer": "The elephant-led assault on the Kaaba"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Birds carrying pellets of clay",
+          "An ark of gopherwood",
+          "A staff turned into a serpent",
+          "A stone sealed with a sign",
+          "A burning bush"
+        ],
+        "answer": "Birds carrying pellets of clay"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Their mighty force crumbled like ash",
+          "They crossed the sea safely",
+          "They walked unharmed through a blazing furnace",
+          "They entered Paradise in pairs",
+          "They slept in a cave for 309 years"
+        ],
+        "answer": "Their mighty force crumbled like ash"
+      }
+    },
+    "verseRef": "105:8",
+    "arabic": "",
+    "verse": "105:8"
+  },
+  "scramble": {
+    "verseRef": "13:9",
+    "reference": "Surah Ar-Ra'd (13:9)",
+    "segments": [
+      "words 1-3",
+      "word 4",
+      "words 5-7",
+      "word 8",
+      "words 9-11"
+    ],
+    "translations": [
+      "Knower",
+      "(of) the unseen",
+      "and the witnessed",
+      "the Most Great",
+      "the Most High"
+    ],
+    "hint": "Allah’s constant presence and awareness of all our deeds.",
+    "arabic": "عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْكَبِيرُ ٱلْمُتَعَالِ",
+    "words": [
+      "عَـٰلِمُ",
+      "ٱلْغَيْبِ",
+      "وَٱلشَّهَـٰدَةِ",
+      "ٱلْكَبِيرُ",
+      "ٱلْمُتَعَالِ"
+    ],
+    "verseEn": "[He is] Knower of the unseen and the witnessed, the Grand, the Exalted."
+  },
+  "roothive": {
+    "center": "ق",
+    "outer": [
+      "ت",
+      "د",
+      "ي",
+      "م",
+      "ص",
+      "ه"
+    ],
+    "root": {
+      "letters": "صدق",
+      "display": "ص د ق",
+      "translit": "ṣ-d-q",
+      "meaning": "It means truth, truthfulness, or being true. Its related words express speaking or being truthful, confirming or proving true, and charity, which is an upright gift that earns truthfulness.",
+      "occurrences": 155,
+      "lemmaCount": 18
+    },
+    "words": [
+      {
+        "w": "تقي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تَقِيّ",
+            "gloss": "righteous",
+            "type": "noun",
+            "root": "وقي",
+            "count": 4,
+            "ref": "19:13",
+            "pos": 6,
+            "alt": [
+              "god fearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "صدق",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "صَدَقَ",
+            "gloss": "allah has fulfilled",
+            "type": "verb",
+            "root": "صدق",
+            "count": 15,
+            "ref": "3:95",
+            "pos": 2,
+            "alt": [
+              "spoken the truth"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "صِدْق",
+            "gloss": "sound",
+            "type": "noun",
+            "root": "صدق",
+            "count": 14,
+            "ref": "6:115",
+            "pos": 4,
+            "alt": [
+              "honor",
+              "truth"
+            ]
+          },
+          {
+            "lemma": "صَدَّقَ",
+            "gloss": "found true",
+            "type": "verb",
+            "root": "صدق",
+            "count": 10,
+            "ref": "34:20",
+            "pos": 2,
+            "alt": [
+              "accepted truth"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "قدم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَدَّمَ",
+            "gloss": "sent forth",
+            "type": "verb",
+            "root": "قدم",
+            "count": 27,
+            "ref": "2:95",
+            "pos": 5,
+            "alt": [
+              "have sent forth",
+              "has sent forth"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "قَدَم",
+            "gloss": "respectable position",
+            "type": "noun",
+            "root": "قدم",
+            "count": 8,
+            "ref": "10:2",
+            "pos": 17,
+            "alt": [
+              "foot"
+            ]
+          },
+          {
+            "lemma": "قَدِمْ",
+            "gloss": "precede",
+            "type": "verb",
+            "root": "قدم",
+            "count": 2,
+            "ref": "11:98",
+            "pos": 1,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "قصص",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَصَص",
+            "gloss": "retracing",
+            "type": "noun",
+            "root": "قصص",
+            "count": 6,
+            "ref": "18:64",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "قيم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَيِّم",
+            "gloss": "straight",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 5,
+            "ref": "18:2",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "مقت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَقْت",
+            "gloss": "hatred",
+            "type": "noun",
+            "root": "مقت",
+            "count": 6,
+            "ref": "35:39",
+            "pos": 18,
+            "alt": [
+              "hateful"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تصدق",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "تَصَدَّقَ",
+            "gloss": "gives charity",
+            "type": "verb",
+            "root": "صدق",
+            "count": 6,
+            "ref": "5:45",
+            "pos": 18,
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "تقدم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَقَدَّمَ",
+            "gloss": "preceded",
+            "type": "verb",
+            "root": "قدم",
+            "count": 2,
+            "ref": "48:2",
+            "pos": 5,
+            "alt": [
+              "proceed"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "صدقه",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "صَدَقَة",
+            "gloss": "charities",
+            "type": "noun",
+            "root": "صدق",
+            "count": 13,
+            "ref": "2:196",
+            "pos": 31,
+            "alt": [
+              "charity"
+            ]
+          },
+          {
+            "lemma": "صَدُقَة",
+            "gloss": "dower",
+            "type": "noun",
+            "root": "صدق",
+            "count": 1,
+            "ref": "4:4",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "صديق",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "صِدِّيق",
+            "gloss": "man of truth",
+            "type": "noun",
+            "root": "صدق",
+            "count": 5,
+            "ref": "19:41",
+            "pos": 7,
+            "alt": [
+              "truthful"
+            ]
+          },
+          {
+            "lemma": "صَدِيق",
+            "gloss": "friend",
+            "type": "noun",
+            "root": "صدق",
+            "count": 2,
+            "ref": "26:101",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "قديم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قَدِيم",
+            "gloss": "ancient",
+            "type": "adjective",
+            "root": "قدم",
+            "count": 3,
+            "ref": "46:11",
+            "pos": 19
+          }
+        ]
+      },
+      {
+        "w": "قميص",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قَمِيص",
+            "gloss": "shirt",
+            "type": "noun",
+            "root": "قمص",
+            "count": 6,
+            "ref": "12:18",
+            "pos": 3,
+            "alt": [
+              "this shirt of mine"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قيمه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قَيِّمَة",
+            "gloss": "correct",
+            "type": "adjective",
+            "root": "قوم",
+            "count": 2,
+            "ref": "98:3",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "متقي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُتَّقي",
+            "gloss": "fear",
+            "type": "active participle",
+            "root": "وقي",
+            "count": 49,
+            "ref": "2:2",
+            "pos": 7,
+            "alt": [
+              "righteous",
+              "god-fearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مصدق",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُصَدِّق",
+            "gloss": "confirming",
+            "type": "active participle",
+            "root": "صدق",
+            "count": 19,
+            "ref": "2:41",
+            "pos": 4
+          },
+          {
+            "lemma": "مُصَّدِّق",
+            "gloss": "men who give charity",
+            "type": "active participle",
+            "root": "صدق",
+            "count": 1,
+            "ref": "57:18",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "مقيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُقِيم",
+            "gloss": "lasting",
+            "type": "active participle",
+            "root": "قوم",
+            "count": 10,
+            "ref": "5:37",
+            "pos": 12,
+            "alt": [
+              "enduring",
+              "establisher"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تصديق",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَصْدِيق",
+            "gloss": "confirmation",
+            "type": "verbal noun",
+            "root": "صدق",
+            "count": 2,
+            "ref": "10:37",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "صديقه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "صِدِّيقَة",
+            "gloss": "truthful",
+            "type": "noun",
+            "root": "صدق",
+            "count": 1,
+            "ref": "5:75",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "متصدق",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُتَصَدِّق",
+            "gloss": "charitable",
+            "type": "active participle",
+            "root": "صدق",
+            "count": 2,
+            "ref": "12:88",
+            "pos": 21,
+            "alt": [
+              "men who give charity"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مصدقه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُصَّدِّقَة",
+            "gloss": "women who give charity",
+            "type": "active participle",
+            "root": "صدق",
+            "count": 1,
+            "ref": "57:18",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "مقتصد",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُقْتَصِد",
+            "gloss": "moderate",
+            "type": "active participle",
+            "root": "قصد",
+            "count": 2,
+            "ref": "31:32",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "متصدقه",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مُتَصَدِّقَة",
+            "gloss": "women who give charity",
+            "type": "active participle",
+            "root": "صدق",
+            "count": 1,
+            "ref": "33:35",
+            "pos": 15
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "صادِق",
+        "gloss": "truthful",
+        "type": "active participle",
+        "root": "صدق",
+        "count": 59,
+        "ref": "2:23",
+        "pos": 20,
+        "alt": [
+          "true"
+        ]
+      },
+      {
+        "lemma": "أَصْدَق",
+        "gloss": "more truthful",
+        "type": "noun",
+        "root": "صدق",
+        "count": 2,
+        "ref": "4:87",
+        "pos": 14,
+        "alt": [
+          "truer"
+        ]
+      },
+      {
+        "lemma": "صادِقَة",
+        "gloss": "truthful women",
+        "type": "active participle",
+        "root": "صدق",
+        "count": 1,
+        "ref": "33:35",
+        "pos": 9
+      }
+    ],
+    "maxScore": 65,
+    "featuredRoot": "صدق"
+  }
+}

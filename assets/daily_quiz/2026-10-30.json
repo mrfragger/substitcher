@@ -1,0 +1,777 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْصَافٌ ذَمِيمَةٌ لِجَمَاعَاتٍ فِي الْقُرْآنِ",
+        "nameEn": "Negative descriptions of groups in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْأَسْفَلِينَ",
+            "en": "the lowest",
+            "ref": "37:98",
+            "verse": "فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ",
+            "verseEn": "And they intended for him a plan [i.e., harm], but We made them the most debased."
+          },
+          {
+            "ar": "الْأَرْذَلُونَ",
+            "en": "the lowest",
+            "ref": "26:111",
+            "verse": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ",
+            "verseEn": "They said, \"Should we believe you while you are followed by the lowest [class of people]?\""
+          },
+          {
+            "ar": "جَبَّارِينَ",
+            "en": "(as) tyrants",
+            "ref": "26:130",
+            "verse": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+            "verseEn": "And when you strike, you strike as tyrants."
+          },
+          {
+            "ar": "كَاذِبُونَ",
+            "en": "(are) liars",
+            "ref": "26:223",
+            "verse": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَـٰذِبُونَ",
+            "verseEn": "They pass on what is heard, and most of them are liars."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْأَمْرِ فِي الْقُرْآنِ",
+        "nameEn": "Imperative Verbs in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "اخْفِضْ",
+            "en": "And lower",
+            "ref": "26:215",
+            "verse": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "And lower your wing [i.e., show kindness] to those who follow you of the believers."
+          },
+          {
+            "ar": "تَوَكَّلْ",
+            "en": "And put (your) trust",
+            "ref": "26:217",
+            "verse": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+            "verseEn": "And rely upon the Exalted in Might, the Merciful,"
+          },
+          {
+            "ar": "تَوَلَّ",
+            "en": "So turn away",
+            "ref": "37:174",
+            "verse": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
+            "verseEn": "So, [O Muḥammad], leave them for a time."
+          },
+          {
+            "ar": "أَبْصِرْهُمْ",
+            "en": "And see them",
+            "ref": "37:175",
+            "verse": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+            "verseEn": "And see [what will befall] them, for they are going to see."
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ الصَّالِحِينَ فِي الْقُرْآنِ",
+        "nameEn": "Titles of the Righteous in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمُؤْمِنِينَ",
+            "en": "believing",
+            "ref": "37:132",
+            "verse": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+            "verseEn": "Indeed, he was of Our believing servants."
+          },
+          {
+            "ar": "الْمُحْسِنِينَ",
+            "en": "the good-doers",
+            "ref": "37:131",
+            "verse": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "verseEn": "Indeed, We thus reward the doers of good."
+          },
+          {
+            "ar": "الصَّافُّونَ",
+            "en": "stand in rows",
+            "ref": "37:165",
+            "verse": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+            "verseEn": "And indeed, we are those who line up [for prayer]."
+          },
+          {
+            "ar": "الْمُسَبِّحُونَ",
+            "en": "glorify (Allah)",
+            "ref": "37:166",
+            "verse": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+            "verseEn": "And indeed, we are those who exalt Allāh.\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالٌ تُؤَدَّى بِالْيَدِ",
+        "nameEn": "Actions performed with the hands",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ضَرْبًا",
+            "en": "striking",
+            "ref": "37:93",
+            "verse": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+            "verseEn": "And he turned upon them a blow with [his] right hand."
+          },
+          {
+            "ar": "تَنْحِتُونَ",
+            "en": "you carve",
+            "ref": "37:95",
+            "verse": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+            "verseEn": "He said, \"Do you worship that which you [yourselves] carve,"
+          },
+          {
+            "ar": "ابْنُوا",
+            "en": "Build",
+            "ref": "37:97",
+            "verse": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+            "verseEn": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\""
+          },
+          {
+            "ar": "فَأْتُوا",
+            "en": "Then bring",
+            "ref": "37:157",
+            "verse": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "Then produce your scripture, if you should be truthful."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "يعيد",
+    "display": "يُعِيدُ",
+    "hint": "Allah's action of bringing back creation after it has ended",
+    "verseRef": "85:13",
+    "arabicVerse": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+    "verse": "85:13 - Indeed, it is He who originates [creation] and repeats."
+  },
+  "deduction": {
+    "title": "The Vigil of the Bereaved",
+    "intro": "You are about to encounter a soul tested by the deepest separation, whose eyes knew the language of tears yet whose heart never lost hope. In a story of deception, longing, and eventual reunion, this noble servant of Allah became a symbol of patience for all time. Who endured the years of hidden pain, only to have sight and joy restored in a single moment?",
+    "clues": [
+      "I am a prophet whose name became a symbol of patience in the face of great loss.",
+      "I was blessed with many sons, but one was taken from me by the jealousy of others.",
+      "My love for that lost one was so profound that my eyes turned white from grief, yet I never complained except to Allah.",
+      "I sent my sons back to search for the one I had lost and his brother, urging them not to give up hope.",
+      "When the bearer of good tidings arrived, a shirt was cast over my face, and suddenly the world became clear again.",
+      "I am known as Israel, and from my twelve sons came the twelve tribes of a great nation."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ya'qub (Jacob)",
+          "Prophet Yusuf (Joseph)",
+          "Prophet Ishaq (Isaac)",
+          "Prophet Ibrahim (Abraham)",
+          "Prophet Ayyub (Job)"
+        ],
+        "answer": "Prophet Ya'qub (Jacob)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Separation from a beloved son for many years",
+          "Being thrown into a blazing fire",
+          "Swallowed by a great fish",
+          "Afflicted with a severe skin disease",
+          "Being childless until old age"
+        ],
+        "answer": "Separation from a beloved son for many years"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The shirt of Yusuf",
+          "The staff of Musa",
+          "The ark of Nuh",
+          "The she-camel of Salih",
+          "The ring of Sulayman"
+        ],
+        "answer": "The shirt of Yusuf"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Sight restored and reunited with his son",
+          "Granted victory over a tyrant king",
+          "Raised to the heavens alive",
+          "Appointed as a ruler over Egypt",
+          "Given a son in old age as a miracle"
+        ],
+        "answer": "Sight restored and reunited with his son"
+      }
+    },
+    "verseRef": "12:96",
+    "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+  },
+  "scramble": {
+    "verseRef": "57:2",
+    "reference": "Al-Hadid (57:2)",
+    "segments": [
+      "لَهُ مُلْكُ",
+      "السَّمَاوَاتِ وَالْأَرْضِ",
+      "يُحْيِي وَيُمِيتُ",
+      "وَهُوَ عَلَىٰ",
+      "كُلِّ شَيْءٍ قَدِيرٌ"
+    ],
+    "translations": [
+      "For Him (is the) dominion (of) the heavens",
+      "and the earth He gives life",
+      "and causes death and He",
+      "(is) over all",
+      "things All-Powerful"
+    ],
+    "hint": "This verse highlights Allah's absolute sovereignty, His control over life and death, and His power over all things.",
+    "arabic": "لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "words": [
+      "لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ",
+      "وَٱلْأَرْضِ ۖ يُحْىِۦ",
+      "وَيُمِيتُ ۖ وَهُوَ",
+      "عَلَىٰ كُلِّ",
+      "شَىْءٍۢ قَدِيرٌ"
+    ],
+    "verseEn": "His is the dominion of the heavens and earth. He gives life and causes death, and He is over all things competent."
+  },
+  "roothive": {
+    "center": "ل",
+    "outer": [
+      "م",
+      "ا",
+      "و",
+      "غ",
+      "ه",
+      "ف"
+    ],
+    "root": {
+      "letters": "غفل",
+      "display": "غ ف ل",
+      "translit": "gh-f-l",
+      "meaning": "This root centers on being heedless or unaware, failing to notice what matters. Its derived words express that state, the act of neglecting, or causing someone to become unmindful.",
+      "occurrences": 35,
+      "lemmaCount": 5
+    },
+    "words": [
+      {
+        "w": "افل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَفَلَ",
+            "gloss": "set",
+            "type": "verb",
+            "root": "أفل",
+            "count": 3,
+            "ref": "6:76",
+            "pos": 11,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "الف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَلْف",
+            "gloss": "thousand",
+            "type": "noun",
+            "root": "ألف",
+            "count": 14,
+            "ref": "2:96",
+            "pos": 13,
+            "alt": [
+              "thousands",
+              "two thousand"
+            ]
+          },
+          {
+            "lemma": "أَلَّفَ",
+            "gloss": "put affection",
+            "type": "verb",
+            "root": "ألف",
+            "count": 5,
+            "ref": "8:63",
+            "pos": 16,
+            "alt": [
+              "joins"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "أَلْفَ",
+            "gloss": "found",
+            "type": "verb",
+            "root": "لفو",
+            "count": 3,
+            "ref": "2:170",
+            "pos": 12,
+            "alt": [
+              "both found"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اله",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "إِلٰه",
+            "gloss": "god",
+            "type": "noun",
+            "root": "أله",
+            "count": 147,
+            "ref": "2:133",
+            "pos": 23,
+            "alt": [
+              "gods",
+              "one god"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمَل",
+            "gloss": "hope",
+            "type": "noun",
+            "root": "أمل",
+            "count": 2,
+            "ref": "18:46",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "اهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَهْل",
+            "gloss": "people",
+            "type": "noun",
+            "root": "أهل",
+            "count": 127,
+            "ref": "2:105",
+            "pos": 6,
+            "alt": [
+              "people of the book",
+              "worthy"
+            ]
+          },
+          {
+            "lemma": "أُهِلَّ",
+            "gloss": "has been dedicated",
+            "type": "verb",
+            "root": "هلل",
+            "count": 4,
+            "ref": "2:173",
+            "pos": 9,
+            "alt": [
+              "dedicated"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اول",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَوَّل",
+            "gloss": "first",
+            "type": "noun",
+            "root": "أول",
+            "count": 82,
+            "ref": "2:41",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "غلف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "غُلْف",
+            "gloss": "wrapped",
+            "type": "noun",
+            "root": "غلف",
+            "count": 2,
+            "ref": "2:88",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "لغو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "لَغْو",
+            "gloss": "vain talk",
+            "type": "noun",
+            "root": "لغو",
+            "count": 9,
+            "ref": "19:62",
+            "pos": 4,
+            "alt": [
+              "ill speech",
+              "any vain talk"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "لهو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "لَهْو",
+            "gloss": "amusement",
+            "type": "noun",
+            "root": "لهو",
+            "count": 10,
+            "ref": "7:51",
+            "pos": 4,
+            "alt": [
+              "pastime",
+              "idle tales"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مال",
+            "gloss": "wealth",
+            "type": "noun",
+            "root": "مول",
+            "count": 86,
+            "ref": "2:188",
+            "pos": 13,
+            "alt": [
+              "any wealth",
+              "wealth of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ملا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَلَأ",
+            "gloss": "chiefs",
+            "type": "noun",
+            "root": "ملأ",
+            "count": 30,
+            "ref": "11:38",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "مله",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مِلَّة",
+            "gloss": "religion",
+            "type": "noun",
+            "root": "ملل",
+            "count": 15,
+            "ref": "2:130",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "مهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مُهْل",
+            "gloss": "like molten brass",
+            "type": "noun",
+            "root": "مهل",
+            "count": 3,
+            "ref": "18:29",
+            "pos": 22,
+            "alt": [
+              "like the murky oil",
+              "like molten copper"
+            ]
+          },
+          {
+            "lemma": "مَهِّلِ",
+            "gloss": "allow them respite",
+            "type": "verb",
+            "root": "مهل",
+            "count": 2,
+            "ref": "73:11",
+            "pos": 5,
+            "alt": [
+              "give respite"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "هلم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هَلُمّ",
+            "gloss": "bring forward",
+            "type": "noun",
+            "root": "هلم",
+            "count": 2,
+            "ref": "6:150",
+            "pos": 2,
+            "alt": [
+              "come"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اغفل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَغْفَلْ",
+            "gloss": "have made heedless",
+            "type": "verb",
+            "root": "غفل",
+            "count": 1,
+            "ref": "18:28",
+            "pos": 22,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "الاف",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "إِلاف",
+            "gloss": "familiarity",
+            "type": "verbal noun",
+            "root": "ألف",
+            "count": 2,
+            "ref": "106:1",
+            "pos": 1
+          }
+        ]
+      },
+      {
+        "w": "الله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "اللَّه",
+            "gloss": "besides allah",
+            "type": "proper noun",
+            "root": "أله",
+            "count": 2699,
+            "ref": "1:1",
+            "pos": 2,
+            "alt": [
+              "allah",
+              "allah lets go astray"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "غافل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "غافِل",
+            "gloss": "unaware",
+            "type": "active participle",
+            "root": "غفل",
+            "count": 27,
+            "ref": "6:131",
+            "pos": 10,
+            "alt": [
+              "heedless"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "غفله",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "غَفْلَة",
+            "gloss": "heedlessness",
+            "type": "noun",
+            "root": "غفل",
+            "count": 5,
+            "ref": "19:39",
+            "pos": 9,
+            "alt": [
+              "inattention"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "غلام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "غُلام",
+            "gloss": "son",
+            "type": "noun",
+            "root": "غلم",
+            "count": 13,
+            "ref": "3:40",
+            "pos": 6,
+            "alt": [
+              "boy",
+              "boys"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "لولو",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "لُؤْلُؤ",
+            "gloss": "pearls",
+            "type": "noun",
+            "root": "لؤلؤ",
+            "count": 6,
+            "ref": "52:24",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "ملوم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَلُوم",
+            "gloss": "blameworthy",
+            "type": "passive participle",
+            "root": "لوم",
+            "count": 5,
+            "ref": "17:29",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "اللهم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اللَّهُمَّ",
+            "gloss": "o allah",
+            "type": "proper noun",
+            "root": "أله",
+            "count": 5,
+            "ref": "3:26",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "غافله",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "غافِلَة",
+            "gloss": "unaware women",
+            "type": "active participle",
+            "root": "غفل",
+            "count": 1,
+            "ref": "24:23",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "مغلوله",
+        "family": false,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَغْلُولَة",
+            "gloss": "chained",
+            "type": "passive participle",
+            "root": "غلل",
+            "count": 2,
+            "ref": "5:64",
+            "pos": 5
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "تَغْفُلُ",
+        "gloss": "neglect",
+        "type": "verb",
+        "root": "غفل",
+        "count": 1,
+        "ref": "4:102",
+        "pos": 32,
+        "form": 1
+      }
+    ],
+    "maxScore": 48,
+    "featuredRoot": "غفل"
+  }
+}

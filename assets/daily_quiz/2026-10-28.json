@@ -1,0 +1,830 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "وَزْنُ فَاعِلٍ",
+        "nameEn": "Active participles on the pattern fāʿil (فاعل) in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "دَاخِرُونَ",
+            "en": "(will be) humiliated",
+            "ref": "37:18",
+            "verse": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+            "verseEn": "Say, \"Yes, and you will be [rendered] contemptible.\""
+          },
+          {
+            "ar": "سَاحِرٍ",
+            "en": "magician",
+            "ref": "10:79",
+            "verse": "وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَـٰحِرٍ عَلِيمٍۢ",
+            "verseEn": "And Pharaoh said, \"Bring to me every learned magician.\""
+          },
+          {
+            "ar": "الظَّالِمِينَ",
+            "en": "the wrongdoers",
+            "ref": "23:94",
+            "verse": "رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "My Lord, then do not place me among the wrongdoing people.\""
+          },
+          {
+            "ar": "قَانِطِينَ",
+            "en": "the despairing",
+            "ref": "15:55",
+            "verse": "قَالُوا۟ بَشَّرْنَـٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَـٰنِطِينَ",
+            "verseEn": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالٌ مَاضِيَةٌ بِصِيغَةِ الْمُتَكَلِّمِينَ (نَا الْفَاعِلِينَ)",
+        "nameEn": "Past tense verbs in the first person plural (we) form",
+        "color": "green",
+        "items": [
+          {
+            "ar": "فَأَغْرَقْنَاهُمْ",
+            "en": "and We drowned them",
+            "ref": "43:55",
+            "verse": "فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ أَجْمَعِينَ",
+            "verseEn": "And when they angered Us, We took retribution from them and drowned them all."
+          },
+          {
+            "ar": "فَنَجَّيْنَاهُ",
+            "en": "So We saved him",
+            "ref": "26:170",
+            "verse": "فَنَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+            "verseEn": "So We saved him and his family, all,"
+          },
+          {
+            "ar": "قَدَّرْنَا",
+            "en": "We have decreed",
+            "ref": "15:60",
+            "verse": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ",
+            "verseEn": "Except his wife.\" We [i.e., Allāh] decreed that she is of those who remain behind."
+          },
+          {
+            "ar": "بَعَثْنَا",
+            "en": "We sent",
+            "ref": "10:74",
+            "verse": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِۦ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَمَا كَانُوا۟ لِيُؤْمِنُوا۟ بِمَا كَذَّبُوا۟ بِهِۦ مِن قَبْلُ ۚ كَذَٰلِكَ نَطْبَعُ عَلَىٰ قُلُوبِ ٱلْمُعْتَدِينَ",
+            "verseEn": "Then We sent after him messengers to their peoples, and they came to them with clear proofs. But they were not to believe in that which they had denied before. Thus We seal over the hearts of the transgressors."
+          }
+        ]
+      },
+      {
+        "name": "اِسْمُ مَفْعُولٍ بِصِيغَةِ جَمْعِ الْمُذَكَّرِ السَّالِمِ",
+        "nameEn": "Passive participles in the sound masculine plural form in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "لَمُحْضَرُونَ",
+            "en": "(will) surely be brought",
+            "ref": "37:127",
+            "verse": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+            "verseEn": "And they denied him, so indeed, they will be brought [for punishment],"
+          },
+          {
+            "ar": "الْمُخْلَصِينَ",
+            "en": "the chosen ones",
+            "ref": "37:128",
+            "verse": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+            "verseEn": "Except the chosen servants of Allāh."
+          },
+          {
+            "ar": "الْمَرْجُومِينَ",
+            "en": "those who are stoned",
+            "ref": "26:116",
+            "verse": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+            "verseEn": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\""
+          },
+          {
+            "ar": "الْمُعَذَّبِينَ",
+            "en": "those punished",
+            "ref": "26:213",
+            "verse": "فَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ",
+            "verseEn": "So do not invoke with Allāh another deity and [thus] be among the punished."
+          }
+        ]
+      },
+      {
+        "name": "ألفاظ الزمان في القرآن",
+        "nameEn": "Time-related words in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "اللَّيْلِ",
+            "en": "the night",
+            "ref": "15:65",
+            "verse": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَـٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌۭ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ",
+            "verseEn": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\""
+          },
+          {
+            "ar": "سِنِينَ",
+            "en": "(for) years",
+            "ref": "26:205",
+            "verse": "أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ سِنِينَ",
+            "verseEn": "Then have you considered if We gave them enjoyment for years"
+          },
+          {
+            "ar": "مُصْبِحِينَ",
+            "en": "(in the) morning",
+            "ref": "37:137",
+            "verse": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+            "verseEn": "And indeed, you pass by them in the morning"
+          },
+          {
+            "ar": "حِينٍ",
+            "en": "a while",
+            "ref": "37:148",
+            "verse": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+            "verseEn": "And they believed, so We gave them enjoyment [of life] for a time."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "جند",
+    "display": "جُندٌ",
+    "hint": "A military force or soldiers that provide support; a term for an army or troops.",
+    "verseRef": "67:20",
+    "arabicVerse": "أَمَّنْ هَـٰذَا ٱلَّذِى هُوَ جُندٌۭ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَـٰنِ ۚ إِنِ ٱلْكَـٰفِرُونَ إِلَّا فِى غُرُورٍ",
+    "verse": "67:20 - Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion."
+  },
+  "deduction": {
+    "title": "A Promise Spoken Over Embers",
+    "intro": "You stand beside a desert fire as its embers are carefully spread. Visitors arrive for an encounter in the stillness, and a single message opens a story of promise, surprise, and a future not yet fulfilled.",
+    "clues": [
+      "We crossed the distance to reach a faithful servant in the desert.",
+      "We asked that embers be spread to prepare a fire.",
+      "We spoke to one who had called out to a flame for coolness and safety.",
+      "We brought tidings of a newborn to someone who had passed the age of having children.",
+      "We named the promised child Isaac.",
+      "We brought glad tidings of a son to Ibrahim, and the astonishing news left Ibrahim laughing."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Angels Who Brought Glad Tidings of Isaac to Ibrahim",
+          "The Angels Who Warned Lut",
+          "The Throne-Bearing Angels",
+          "The Angels of Hell",
+          "The Angels Sent to Noah"
+        ],
+        "answer": "The Angels Who Brought Glad Tidings of Isaac to Ibrahim"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Bringing glad tidings of Isaac's birth to Ibrahim",
+          "Warning Lut before the punishment of his people",
+          "Announcing the birth of Yahya to Zakariyya",
+          "Bearing the Throne on the Day of Judgment",
+          "Announcing the birth of Isa to Maryam"
+        ],
+        "answer": "Bringing glad tidings of Isaac's birth to Ibrahim"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A fire prepared from spread embers",
+          "An ark floating on floodwater",
+          "A cave sealed by a rolling stone",
+          "A mountain of clay hardened by brine",
+          "A ladder extending into the sky"
+        ],
+        "answer": "A fire prepared from spread embers"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Glad tidings of a son named Isaac",
+          "Glad tidings of a son named Yahya",
+          "The selection of Talut as ruler over the Children of Israel",
+          "A warning before the punishment of Lut's people",
+          "A command to build an ark before the Flood"
+        ],
+        "answer": "Glad tidings of a son named Isaac"
+      }
+    },
+    "verseRef": "15:51",
+    "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+    "verse": "And inform them about the guests of Abraham, (15:51)"
+  },
+  "scramble": {
+    "verseRef": "24:51",
+    "reference": "Surah An-Nur (24:51)",
+    "segments": [
+      "words 1-3",
+      "words 4-5",
+      "word 6",
+      "word 7",
+      "words 8-9",
+      "words 10-11"
+    ],
+    "translations": [
+      "Only is (the) statement",
+      "(of) the believers when they are called",
+      "to Allah and His Messenger",
+      "to judge between them (is) that",
+      "they say We hear and we obey",
+      "And those [they] (are) the successful"
+    ],
+    "hint": "Taqwa opens the door to relief and provision from unexpected sources.",
+    "arabic": "إِنَّمَا كَانَ قَوْلَ ٱلْمُؤْمِنِينَ إِذَا دُعُوٓا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحْكُمَ بَيْنَهُمْ أَن يَقُولُوا۟ سَمِعْنَا وَأَطَعْنَا ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "words": [
+      "إِنَّمَا كَانَ قَوْلَ",
+      "ٱلْمُؤْمِنِينَ إِذَا دُعُوٓا۟",
+      "إِلَى ٱللَّهِ وَرَسُولِهِۦ",
+      "لِيَحْكُمَ بَيْنَهُمْ أَن",
+      "يَقُولُوا۟ سَمِعْنَا وَأَطَعْنَا ۚ",
+      "وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
+    ],
+    "verseEn": "The only statement of the [true] believers when they are called to Allāh and His Messenger to judge between them is that they say, \"We hear and we obey.\" And those are the successful."
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "ا",
+      "س",
+      "ت",
+      "و",
+      "م",
+      "ل"
+    ],
+    "root": {
+      "letters": "متع",
+      "display": "م ت ع",
+      "translit": "m-t-ʿ",
+      "meaning": "It conveys giving or receiving benefit, provision, or enjoyment that sustains life. Its derived words extend this idea to being provided for, profiting, and taking advantage.",
+      "occurrences": 70,
+      "lemmaCount": 4
+    },
+    "words": [
+      {
+        "w": "تسع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "تِسْع",
+            "gloss": "nine",
+            "type": "noun",
+            "root": "تسع",
+            "count": 5,
+            "ref": "17:101",
+            "pos": 4,
+            "alt": [
+              "ninety-nine"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَمِعَ",
+            "gloss": "heard",
+            "type": "verb",
+            "root": "سمع",
+            "count": 78,
+            "ref": "2:171",
+            "pos": 9,
+            "alt": [
+              "hear",
+              "hears"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "سَمْع",
+            "gloss": "hear",
+            "type": "noun",
+            "root": "سمع",
+            "count": 22,
+            "ref": "18:101",
+            "pos": 11,
+            "alt": [
+              "hearing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عتو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُتُوّ",
+            "gloss": "insolence",
+            "type": "noun",
+            "root": "عتو",
+            "count": 2,
+            "ref": "25:21",
+            "pos": 18,
+            "alt": [
+              "pride"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "علا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَلا",
+            "gloss": "exalted himself",
+            "type": "verb",
+            "root": "علو",
+            "count": 6,
+            "ref": "28:4",
+            "pos": 3,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "علم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَلِمَ",
+            "gloss": "knew",
+            "type": "verb",
+            "root": "علم",
+            "count": 382,
+            "ref": "2:30",
+            "pos": 25,
+            "alt": [
+              "knows",
+              "know"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عِلْم",
+            "gloss": "knowledge",
+            "type": "noun",
+            "root": "علم",
+            "count": 105,
+            "ref": "2:32",
+            "pos": 4,
+            "alt": [
+              "any knowledge",
+              "having known"
+            ]
+          },
+          {
+            "lemma": "عَلَّمَ",
+            "gloss": "taught",
+            "type": "verb",
+            "root": "علم",
+            "count": 41,
+            "ref": "55:2",
+            "pos": 1,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "علو",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عُلُوّ",
+            "gloss": "haughtiness",
+            "type": "noun",
+            "root": "علو",
+            "count": 4,
+            "ref": "17:4",
+            "pos": 12,
+            "alt": [
+              "height",
+              "exaltedness"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عمل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمِلَ",
+            "gloss": "does",
+            "type": "verb",
+            "root": "عمل",
+            "count": 276,
+            "ref": "3:30",
+            "pos": 6,
+            "alt": [
+              "do",
+              "did"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "عَمَل",
+            "gloss": "deed",
+            "type": "noun",
+            "root": "عمل",
+            "count": 71,
+            "ref": "3:195",
+            "pos": 7,
+            "alt": [
+              "deeds",
+              "work"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متع",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَتَّعْ",
+            "gloss": "provide for",
+            "type": "verb",
+            "root": "متع",
+            "count": 18,
+            "ref": "2:126",
+            "pos": 22,
+            "alt": [
+              "grant him enjoyment",
+              "make provision for"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "وسع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَسِعَ",
+            "gloss": "encompasses",
+            "type": "verb",
+            "root": "وسع",
+            "count": 6,
+            "ref": "2:255",
+            "pos": 41,
+            "alt": [
+              "extends",
+              "has encompassed"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "وُسْع",
+            "gloss": "capacity",
+            "type": "noun",
+            "root": "وسع",
+            "count": 5,
+            "ref": "2:233",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "اسمع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْمَعَ",
+            "gloss": "cause to hear",
+            "type": "verb",
+            "root": "سمع",
+            "count": 13,
+            "ref": "10:42",
+            "pos": 6,
+            "alt": [
+              "cause the deaf to hear",
+              "how they will hear"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اعلم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَعْلَم",
+            "gloss": "most knowing",
+            "type": "noun",
+            "root": "علم",
+            "count": 49,
+            "ref": "2:140",
+            "pos": 15,
+            "alt": [
+              "knows best",
+              "know best"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تمتع",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "تَمَتَّعَ",
+            "gloss": "took advantage",
+            "type": "verb",
+            "root": "متع",
+            "count": 11,
+            "ref": "2:196",
+            "pos": 37,
+            "alt": [
+              "enjoy"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "سماع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سَمّاع",
+            "gloss": "listeners",
+            "type": "noun",
+            "root": "سمع",
+            "count": 4,
+            "ref": "5:41",
+            "pos": 20,
+            "alt": [
+              "would have listened"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عالم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عالَم",
+            "gloss": "worlds",
+            "type": "noun",
+            "root": "علم",
+            "count": 73,
+            "ref": "1:2",
+            "pos": 4,
+            "alt": [
+              "to the worlds",
+              "universe"
+            ]
+          },
+          {
+            "lemma": "عالِم",
+            "gloss": "knower",
+            "type": "active participle",
+            "root": "علم",
+            "count": 18,
+            "ref": "6:73",
+            "pos": 19,
+            "alt": [
+              "all-knower",
+              "well-knowing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عامل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عامِل",
+            "gloss": "working",
+            "type": "active participle",
+            "root": "عمل",
+            "count": 12,
+            "ref": "3:195",
+            "pos": 8,
+            "alt": [
+              "doer",
+              "worker"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "علام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "عَلّام",
+            "gloss": "all-knower",
+            "type": "noun",
+            "root": "علم",
+            "count": 4,
+            "ref": "5:109",
+            "pos": 14,
+            "alt": [
+              "knower"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متاع",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَتاع",
+            "gloss": "enjoy",
+            "type": "noun",
+            "root": "متع",
+            "count": 35,
+            "ref": "2:236",
+            "pos": 21,
+            "alt": [
+              "enjoyment",
+              "provision"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "موسع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُوسِع",
+            "gloss": "wealthy",
+            "type": "active participle",
+            "root": "وسع",
+            "count": 2,
+            "ref": "2:236",
+            "pos": 16,
+            "alt": [
+              "expanders"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واسع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "واسِع",
+            "gloss": "vast",
+            "type": "active participle",
+            "root": "وسع",
+            "count": 9,
+            "ref": "2:115",
+            "pos": 11,
+            "alt": [
+              "all-encompassing"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "استمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اسْتَمَعَ",
+            "gloss": "listen",
+            "type": "verb",
+            "root": "سمع",
+            "count": 16,
+            "ref": "6:25",
+            "pos": 3,
+            "alt": [
+              "listened",
+              "listens"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اعلام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَعْلام",
+            "gloss": "like mountains",
+            "type": "noun",
+            "root": "علم",
+            "count": 2,
+            "ref": "42:32",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "مستمع",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُسْتَمِع",
+            "gloss": "listening",
+            "type": "active participle",
+            "root": "سمع",
+            "count": 2,
+            "ref": "26:15",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "معلوم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَعْلُوم",
+            "gloss": "known",
+            "type": "passive participle",
+            "root": "علم",
+            "count": 11,
+            "ref": "15:4",
+            "pos": 8,
+            "alt": [
+              "well-known",
+              "determined"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "استمتع",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اسْتَمْتَعَ",
+            "gloss": "profited",
+            "type": "verb",
+            "root": "متع",
+            "count": 6,
+            "ref": "6:128",
+            "pos": 15,
+            "alt": [
+              "enjoyed"
+            ],
+            "form": 10
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 54,
+    "featuredRoot": "متع"
+  }
+}

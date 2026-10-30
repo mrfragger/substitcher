@@ -23,6 +23,7 @@ import 'metadata_editor_screen.dart';
 import 'encoder_screen.dart';
 import 'avif_gallery_screen.dart';
 import 'join_images_screen.dart';
+import 'svg_palette_screen.dart';
 import '../data/lut_list.dart';
 import '../models/adhan_settings.dart';
 import '../models/audiobook_metadata.dart';
@@ -8656,6 +8657,13 @@ class _PlayerScreenState extends State<PlayerScreen>
             });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyD) {
+            if (HardwareKeyboard.instance.isControlPressed &&
+                event.logicalKey == LogicalKeyboardKey.keyD) {
+              if (event is KeyDownEvent && SvgPaletteScreen.isSupported) {
+                SvgPaletteScreen.open(context);
+              }
+              return KeyEventResult.handled;
+            }
             if (HardwareKeyboard.instance.isShiftPressed) {
               _showDownloadDialog();
               return KeyEventResult.handled;
@@ -12906,6 +12914,18 @@ class _PlayerScreenState extends State<PlayerScreen>
                         textStyle: const TextStyle(fontSize: 18),
                       ),
                     ),
+                    if (SvgPaletteScreen.isSupported) ...[
+                      const SizedBox(width: 16),
+                      ElevatedButton.icon(
+                        onPressed: () => SvgPaletteScreen.open(context),
+                        icon: const Icon(Icons.palette),
+                        label: const Text('Image to Animated SVG (Ctrl+d)'),
+                        style: ElevatedButton.styleFrom(
+                          padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                          textStyle: const TextStyle(fontSize: 18),
+                        ),
+                      ),
+                    ],
                   ],
                 ),
                 const SizedBox(height: 16),

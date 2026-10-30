@@ -1,0 +1,30 @@
+name: Build vtracer (macOS arm64)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/build_vtracer.yml'
+
+jobs:
+  build-vtracer-macos:
+    runs-on: macos-latest   # Apple silicon runner
+    steps:
+      - name: Build vtracer
+        run: |
+          cargo install vtracer-cli --version 1.0.0-alpha.4 --root "$PWD/vt"
+          mkdir -p out
+          cp vt/bin/vtracer out/vtracer
+          strip out/vtracer
+          chmod +x out/vtracer
+          file out/vtracer          # should say arm64
+          out/vtracer --version
+
+      - name: Upload vtracer
+        uses: actions/upload-artifact@v4
+        with:
+          name: vtracer-macos-arm64
+          path: out/
+          retention-days: 90

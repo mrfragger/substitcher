@@ -1,7 +1,7 @@
 name: substitcher
 description: opus chaptered audiobook player and encoder with colored vtt subtitles and fancy fonts, Quran vtt translations, video and audio editor
 publish_to: "none"
-version: 26.10.26
+version: 26.10.30
 
 environment:
   sdk: ">=3.13.0 <4.0.0"
@@ -41,7 +41,7 @@ dependencies:
   window_manager: ^0.5.1
   package_info_plus: ^10.2.2
 
-  # Character handling for CJK tokenization
+  # Character handling for CJK, Thai, Khmer tokenization
   characters: ^1.4.0
   tiny_segmenter_dart: ^1.0.0
   dart_jieba: ^1.0.1
@@ -92,22 +92,22 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/fonts/
     - assets/adhanclock/
-    - assets/lut/
+    - assets/alif/
+    - assets/audioword/
     - assets/daily_quiz/
-    - assets/tafsir_index/katheer.bin
-    - assets/tafsir_index/kathir.bin
-    - assets/tafsir_index/baghawi.bin
+    - assets/fonts/
+    - assets/jieba/dict.dgz
+    - assets/lut/
     - assets/quran_index/word_audio.bin
+    - assets/quran_wbw/
     - assets/quranroots/roots.json
     - assets/quranroots/vocab.json
-    - assets/quranversebyverse/versebyversequran.zip
     - assets/quranversebyverse/001001.mp3
-    - assets/audioword/
-    - assets/quran_wbw/
-    - assets/alif/
-    - assets/jieba/dict.dgz
+    - assets/quranversebyverse/versebyversequran.zip
+    - assets/tafsir_index/baghawi.bin
+    - assets/tafsir_index/katheer.bin
+    - assets/tafsir_index/kathir.bin
 
   fonts:
     - family: CustomFonts

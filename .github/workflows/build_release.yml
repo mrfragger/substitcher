@@ -41,6 +41,14 @@ jobs:
           path: macos/Runner/Resources/deepfilter/
           if_no_artifact_found: fail
 
+      - name: Download arm64 vtracer
+        uses: dawidd6/action-download-artifact@v11
+        with:
+          workflow: build_vtracer.yml
+          name: vtracer-macos-arm64
+          path: macos/Runner/Resources/vtracer/
+          if_no_artifact_found: fail
+
       - name: Build macOS (arm64 only)
         run: |
           flutter pub get

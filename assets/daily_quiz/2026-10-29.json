@@ -1,0 +1,639 @@
+{
+  "harf": {
+    "word": "فتنة",
+    "display": "فِتْنَةٌ",
+    "hint": "A test that separates the sincere from the false — the Qur'an likens wealth and children to this.",
+    "verseRef": "64:15",
+    "arabicVerse": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌۭ ۚ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌۭ",
+    "verse": "64:15 - Your wealth and your children are but a trial, and Allāh has with Him a great reward."
+  },
+  "deduction": {
+    "title": "A Tiny Warning Before a Marching Host",
+    "intro": "Step into a valley where a mighty ruler and a vast host are approaching, and picture a tiny traveler giving a warning that saves an entire community. As the threatened community reaches shelter, the danger passes by. Follow the clues to identify the overlooked figure behind that warning.",
+    "clues": [
+      "I am among the small creatures associated with a ruler's kingdom.",
+      "My community lives in dwellings inside a valley, where one of us can call to the others.",
+      "We face a threat from that ruler and the armies traveling with the ruler.",
+      "I am the one who calls my community to enter their dwellings and warns us not to be crushed unknowingly.",
+      "The ruler is Sulayman, and my species is among the creatures placed under his command.",
+      "I am the ant of that valley; after my warning, we entered our dwellings and escaped the crushing that would otherwise have caught us unaware."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Ant of the Valley",
+          "The Hoopoe",
+          "The Crow",
+          "The Serpent",
+          "The Mule"
+        ],
+        "answer": "The Ant of the Valley"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "A warning that spared an ant community",
+          "A request for a ring from a fish",
+          "A search for a missing throne",
+          "The rescue of stolen eyes",
+          "A refusal to eat a ruler's food"
+        ],
+        "answer": "A warning that spared an ant community"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Valley of the Ants",
+          "The Signet Ring of Sulayman",
+          "The Bloodstained Shirt of Yusuf",
+          "The Golden Calf of the Exodus",
+          "The Staff of Musa"
+        ],
+        "answer": "The Valley of the Ants"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The community was spared after taking shelter",
+          "The community was destroyed without taking shelter",
+          "The community was spared because the army retreated",
+          "The community was rewarded with control over the birds",
+          "The community was taken captive to the royal court"
+        ],
+        "answer": "The community was spared after taking shelter"
+      }
+    },
+    "verseRef": "29:48",
+    "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+    "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+  },
+  "scramble": {
+    "verseRef": "30:31",
+    "reference": "Surah Ar-Rum (30:31)",
+    "segments": [
+      "words 1-3",
+      "words 4-6",
+      "word 7",
+      "words 8-9",
+      "words 10-11"
+    ],
+    "translations": [
+      "Turning to Him",
+      "and fear Him and establish",
+      "the prayer and (do) not",
+      "be of",
+      "the polytheists"
+    ],
+    "hint": "The verse teaches that all honor and power belong to Allah, emphasizing His supreme lordship and wisdom.",
+    "arabic": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ",
+    "words": [
+      "۞ مُنِيبِينَ إِلَيْهِ",
+      "وَٱتَّقُوهُ وَأَقِيمُوا۟",
+      "ٱلصَّلَوٰةَ وَلَا",
+      "تَكُونُوا۟ مِنَ",
+      "ٱلْمُشْرِكِينَ"
+    ],
+    "verseEn": "[Adhere to it], turning in repentance to Him, and fear Him and establish prayer and do not be of those who associate others with Allāh"
+  },
+  "roothive": {
+    "center": "ل",
+    "outer": [
+      "ا",
+      "ن",
+      "د",
+      "ه",
+      "خ",
+      "م"
+    ],
+    "root": {
+      "letters": "دخل",
+      "display": "د خ ل",
+      "translit": "d-kh-l",
+      "meaning": "It means to enter, go in, or be admitted. Its derived words express entering, admitting, an entrance, deception, or a place or means of entry.",
+      "occurrences": 126,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "اله",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "إِلٰه",
+            "gloss": "god",
+            "type": "noun",
+            "root": "أله",
+            "count": 147,
+            "ref": "2:133",
+            "pos": 23,
+            "alt": [
+              "gods",
+              "one god"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمَل",
+            "gloss": "hope",
+            "type": "noun",
+            "root": "أمل",
+            "count": 2,
+            "ref": "18:46",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "اهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَهْل",
+            "gloss": "people",
+            "type": "noun",
+            "root": "أهل",
+            "count": 127,
+            "ref": "2:105",
+            "pos": 6,
+            "alt": [
+              "people of the book",
+              "worthy"
+            ]
+          },
+          {
+            "lemma": "أُهِلَّ",
+            "gloss": "has been dedicated",
+            "type": "verb",
+            "root": "هلل",
+            "count": 4,
+            "ref": "2:173",
+            "pos": 9,
+            "alt": [
+              "dedicated"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "خال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خال",
+            "gloss": "maternal uncles",
+            "type": "noun",
+            "root": "خول",
+            "count": 2,
+            "ref": "24:61",
+            "pos": 40
+          }
+        ]
+      },
+      {
+        "w": "خلا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خَلا",
+            "gloss": "passed away",
+            "type": "verb",
+            "root": "خلو",
+            "count": 25,
+            "ref": "2:76",
+            "pos": 8,
+            "alt": [
+              "has passed away",
+              "had passed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "خلد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "خُلْد",
+            "gloss": "eternity",
+            "type": "noun",
+            "root": "خلد",
+            "count": 6,
+            "ref": "10:52",
+            "pos": 7,
+            "alt": [
+              "everlasting",
+              "immortality"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "دخل",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "دَخَلَ",
+            "gloss": "entered",
+            "type": "verb",
+            "root": "دخل",
+            "count": 76,
+            "ref": "2:111",
+            "pos": 3,
+            "alt": [
+              "enter",
+              "had been entered"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "دَخَل",
+            "gloss": "deception",
+            "type": "noun",
+            "root": "دخل",
+            "count": 2,
+            "ref": "16:92",
+            "pos": 12
+          }
+        ]
+      },
+      {
+        "w": "لدن",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "لَدُن",
+            "gloss": "from",
+            "type": "noun",
+            "root": "لدن",
+            "count": 18,
+            "ref": "11:1",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "مال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مال",
+            "gloss": "wealth",
+            "type": "noun",
+            "root": "مول",
+            "count": 86,
+            "ref": "2:188",
+            "pos": 13,
+            "alt": [
+              "any wealth",
+              "wealth of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ملا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَلَأ",
+            "gloss": "chiefs",
+            "type": "noun",
+            "root": "ملأ",
+            "count": 30,
+            "ref": "11:38",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "مله",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مِلَّة",
+            "gloss": "religion",
+            "type": "noun",
+            "root": "ملل",
+            "count": 15,
+            "ref": "2:130",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "مهل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مُهْل",
+            "gloss": "like molten brass",
+            "type": "noun",
+            "root": "مهل",
+            "count": 3,
+            "ref": "18:29",
+            "pos": 22,
+            "alt": [
+              "like the murky oil",
+              "like molten copper"
+            ]
+          },
+          {
+            "lemma": "مَهِّلِ",
+            "gloss": "allow them respite",
+            "type": "verb",
+            "root": "مهل",
+            "count": 2,
+            "ref": "73:11",
+            "pos": 5,
+            "alt": [
+              "give respite"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "نخل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَخْل",
+            "gloss": "date-palms",
+            "type": "noun",
+            "root": "نخل",
+            "count": 11,
+            "ref": "54:20",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "نمل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "نَمْل",
+            "gloss": "ants",
+            "type": "noun",
+            "root": "نمل",
+            "count": 2,
+            "ref": "27:18",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "هلم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هَلُمّ",
+            "gloss": "bring forward",
+            "type": "noun",
+            "root": "هلم",
+            "count": 2,
+            "ref": "6:150",
+            "pos": 2,
+            "alt": [
+              "come"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اخلد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَخْلَدَ",
+            "gloss": "adhered",
+            "type": "verb",
+            "root": "خلد",
+            "count": 2,
+            "ref": "7:176",
+            "pos": 6,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "ادخل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أُدْخِلَ",
+            "gloss": "admit",
+            "type": "verb",
+            "root": "دخل",
+            "count": 42,
+            "ref": "3:192",
+            "pos": 4,
+            "alt": [
+              "admits",
+              "enters"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "الله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "اللَّه",
+            "gloss": "besides allah",
+            "type": "proper noun",
+            "root": "أله",
+            "count": 2699,
+            "ref": "1:1",
+            "pos": 2,
+            "alt": [
+              "allah",
+              "allah lets go astray"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خالد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خالِد",
+            "gloss": "abide forever",
+            "type": "active participle",
+            "root": "خلد",
+            "count": 74,
+            "ref": "2:25",
+            "pos": 34,
+            "alt": [
+              "abiding forever",
+              "abide"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خاله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خالَة",
+            "gloss": "maternal aunts",
+            "type": "noun",
+            "root": "خول",
+            "count": 3,
+            "ref": "4:23",
+            "pos": 7,
+            "alt": [
+              "mother's sisters"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "خلال",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "خِلال",
+            "gloss": "any friendship",
+            "type": "noun",
+            "root": "خلل",
+            "count": 8,
+            "ref": "14:31",
+            "pos": 21,
+            "alt": [
+              "inner most part"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "داخل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "داخِل",
+            "gloss": "enter",
+            "type": "active participle",
+            "root": "دخل",
+            "count": 2,
+            "ref": "5:22",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "مخلد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُخَلَّد",
+            "gloss": "immortal",
+            "type": "passive participle",
+            "root": "خلد",
+            "count": 2,
+            "ref": "56:17",
+            "pos": 4,
+            "alt": [
+              "made eternal"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مدخل",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُدْخَل",
+            "gloss": "entrance",
+            "type": "passive participle",
+            "root": "دخل",
+            "count": 3,
+            "ref": "4:31",
+            "pos": 11
+          },
+          {
+            "lemma": "مُدَّخَل",
+            "gloss": "place to enter",
+            "type": "passive participle",
+            "root": "دخل",
+            "count": 1,
+            "ref": "9:57",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "نخله",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "نَخْلَة",
+            "gloss": "date-palm",
+            "type": "noun",
+            "root": "نخل",
+            "count": 2,
+            "ref": "19:23",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "اللهم",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اللَّهُمَّ",
+            "gloss": "o allah",
+            "type": "proper noun",
+            "root": "أله",
+            "count": 5,
+            "ref": "3:26",
+            "pos": 2
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 46,
+    "featuredRoot": "دخل"
+  }
+}
