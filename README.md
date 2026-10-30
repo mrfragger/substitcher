@@ -37,7 +37,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 35 demo fonts + 3 free foreign fonts or search for them to download on font websites
+- download 36 demo fonts + 3 free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 24 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -70,6 +70,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Axaria.ttf (Letterara)
 │   ├── Carevo.ttf (Letterara)
 │   ├── Chocolate Chips.otf (inermedia)
+│   ├── Efiafys.ttf (Dhabee)
 │   ├── Fortunish.ttf (Letterara) 
 │   ├── Row Vatikano.ttf (authentype Lab)
 │   ├── Sophia Melanie.otf (Grezline)
@@ -378,6 +379,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Edit Captions vtt subs on images
 - copy to clipboard or save to file as avif, jpg, png
+- paste ctrl+v, cmd+v any image from clipboard
 
 ### avif Masonry Gallery
 - choose a folder of images to process
