@@ -48,17 +48,13 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
   bool _scanning = false;
   String? _outputParent; // null = <input>/output
 
-  // options (persisted). Colour groups are fixed at 5; AVIF thumbnails are fixed.
-  bool _makeBackground = true;
-  bool _makeCutout = true;
+  // options (persisted). Fixed (see SvgPaletteOptions): 5 color groups, every variant (background,
+  // cutout, smart crop, faces, masks, original, text), image size 512, speckle 2, path precision 2, 8 images at once.
   bool _stacked = false;
   bool _watershed = false;
   int _size = 512;
   int _smooth = 1;
-  int _speckle = 6;
-  int _pathPrecision = 2;
-  int _watershedDetail = 128;
-  int _jobs = 6;
+  int _watershedDetail = 255;
   double _simplify = 1.5;
 
   // vtracer
@@ -89,33 +85,13 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
     final sp = await SharedPreferences.getInstance();
     if (!mounted) return;
     setState(() {
-      _makeBackground = sp.getBool('svgp_bg') ?? _makeBackground;
-      _makeCutout = sp.getBool('svgp_cut') ?? _makeCutout;
       _stacked = sp.getBool('svgp_stacked') ?? _stacked;
-      _watershed = sp.getBool('svgp_watershed') ?? _watershed;
-      _size = sp.getInt('svgp_size') ?? _size;
-      _smooth = sp.getInt('svgp_smooth') ?? _smooth;
-      _speckle = sp.getInt('svgp_speckle') ?? _speckle;
-      _pathPrecision = sp.getInt('svgp_precision') ?? _pathPrecision;
-      _watershedDetail = sp.getInt('svgp_wsdetail') ?? _watershedDetail;
-      _jobs = sp.getInt('svgp_jobs') ?? _jobs;
-      _simplify = sp.getDouble('svgp_simplify') ?? _simplify;
     });
   }
 
   Future<void> _savePrefs() async {
     final sp = await SharedPreferences.getInstance();
-    await sp.setBool('svgp_bg', _makeBackground);
-    await sp.setBool('svgp_cut', _makeCutout);
     await sp.setBool('svgp_stacked', _stacked);
-    await sp.setBool('svgp_watershed', _watershed);
-    await sp.setInt('svgp_size', _size);
-    await sp.setInt('svgp_smooth', _smooth);
-    await sp.setInt('svgp_speckle', _speckle);
-    await sp.setInt('svgp_precision', _pathPrecision);
-    await sp.setInt('svgp_wsdetail', _watershedDetail);
-    await sp.setInt('svgp_jobs', _jobs);
-    await sp.setDouble('svgp_simplify', _simplify);
   }
 
   void _set(VoidCallback fn) {
@@ -207,17 +183,11 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
         files: files,
         options: SvgPaletteOptions(
           outputRoot: outputRoot,
-          size: _size,
-          jobs: _jobs,
-          speckle: _speckle,
           smooth: _smooth,
           simplify: _simplify,
-          pathPrecision: _pathPrecision,
           stacked: _stacked,
           watershed: _watershed,
           watershedDetail: _watershedDetail,
-          makeBackground: _makeBackground,
-          makeCutout: _makeCutout,
         ),
         cancel: cancel,
         onProgress: (d, t) {
@@ -269,7 +239,7 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
       );
     }
 
-    final canRun = !_busy && _vtracerOK && _files.isNotEmpty && (_makeBackground || _makeCutout);
+    final canRun = !_busy && _vtracerOK && _files.isNotEmpty;
     final outputShown = _outputParent ??
         (_folder == null ? '(choose a folder first)' : p.join(_folder!, 'output'));
 
@@ -331,27 +301,6 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
                     style: const TextStyle(color: _green, fontWeight: FontWeight.bold),
                   ),
                 ),
-              const SizedBox(height: 4),
-              _box(
-                'Variants',
-                Column(children: [
-                  _check('With background', _makeBackground,
-                      (v) => _set(() => _makeBackground = v)),
-                  _check('Background removed (Apple Vision)', _makeCutout,
-                      (v) => _set(() => _makeCutout = v)),
-                ]),
-              ),
-              _box(
-                'Image',
-                Column(children: [
-                  _slider('Image size (px)', _size.toDouble(), 256, 2048, 28, '$_size',
-                      'Longest side before tracing. Bigger = more detail and slower.',
-                      (v) => _set(() => _size = v.round())),
-                  _slider('Smoothing passes', _smooth.toDouble(), 0, 4, 4, '$_smooth',
-                      'Median-filter passes before reducing colors. Removes JPEG noise; too many blurs detail.',
-                      (v) => _set(() => _smooth = v.round())),
-                ]),
-              ),
               _box(
                 'Tracing (vtracer)',
                 Column(children: [
@@ -362,32 +311,14 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
                           value: false,
                           groupValue: _stacked,
                           onChanged: _busy ? null : (v) => _set(() => _stacked = v!)),
-                      const Text('seam-free mosaic', style: TextStyle(color: Colors.white70)),
+                      const Text('seam-free mosaic (cutout) for logos', style: TextStyle(color: Colors.white70)),
                       Radio<bool>(
                           value: true,
                           groupValue: _stacked,
                           onChanged: _busy ? null : (v) => _set(() => _stacked = v!)),
-                      const Text('stacked layers', style: TextStyle(color: Colors.white70)),
+                      const Text('stacked layers for photos', style: TextStyle(color: Colors.white70)),
                     ],
                   ),
-                  _slider('Filter speckle', _speckle.toDouble(), 0, 128, 128, '$_speckle',
-                      'Discard patches smaller than this many pixels (0–128).',
-                      (v) => _set(() => _speckle = v.round())),
-                  _slider('Simplify', _simplify, 0, 5, 50, _simplify.toStringAsFixed(1),
-                      'Curve simplification tolerance in px. Higher = fewer nodes and smaller files, 0 = off. Try 1–2.5.',
-                      (v) => _set(() => _simplify = (v * 10).round() / 10)),
-                  _slider('Path precision', _pathPrecision.toDouble(), 0, 8, 8,
-                      '$_pathPrecision', 'Decimal places in path coordinates. Lower = smaller files.',
-                      (v) => _set(() => _pathPrecision = v.round())),
-                  _check('Watershed regions (experimental)', _watershed,
-                      (v) => _set(() => _watershed = v)),
-                  if (_watershed)
-                    _slider('Watershed detail', _watershedDetail.toDouble(), 0, 512, 64,
-                        '$_watershedDetail', 'Higher = more regions.',
-                        (v) => _set(() => _watershedDetail = (v / 8).round() * 8)),
-                  _slider('Images in parallel', _jobs.toDouble(), 1, 8, 7, '$_jobs',
-                      'Each image uses its own isolate and vtracer process.',
-                      (v) => _set(() => _jobs = v.round())),
                   const SizedBox(height: 4),
                   Row(
                     children: [
@@ -575,9 +506,10 @@ class _SvgPaletteScreenState extends State<SvgPaletteScreen> {
   Widget _buildInfo() {
     const bullets = [
       'Every image becomes an SVG whose shapes are grouped into 5 color slots, so a palette can recolor it.',
-      'Two variants per image: with background, and background removed (Apple Vision, the same technology as Finder\'s Remove Background).',
-      'Open any SVG in the gallery to try 752 palettes, shuffle and move colors, save favorites and export an animated SVG.',
-      'SVG files keep their look: their colors are grouped into 5 slots and rewritten as var(--cN, original). The original file is used as the thumbnail.',
+      'Every image produces: the original (the same AVIF thumbnail size, to compare with the SVGs), with background, background removed (Apple Vision, the same technology as Finder\'s Remove Background), smart crop (saliency), crop with the background removed (cropcut), face and facecut (Apple Vision face detection: a padded crop of each face and the same crop with the background removed, only that person kept; up to 8 faces, "face 1", "facecut 1", "face 2", … when there are several) and Mask 1, Mask 2, … (one per separate subject, only when Vision finds two or more).',
+      'Text (Apple Vision OCR): only for images that contain text. The card shows the image as AVIF with the recognized text below it (two lines); click the text to copy all of it to the clipboard.',
+      'Open any SVG in the gallery to try 752 palettes, shuffle and move colors, save favorites and save an animated stroke SVG.',
+      'SVG files keep their look: their colors are grouped into 5 slots and rewritten as var(--cN, original), so they recolor and can be saved as an animated stroke SVG too (flat fills and line work; gradients and patterns stay static). The original file is used as the thumbnail.',
       'Gallery thumbnails are AVIF.',
       'Output goes to <folder>/output/<date_time>/ with index.html, pages/, th/ and palettes.js.',
     ];

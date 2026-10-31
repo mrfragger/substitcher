@@ -67,11 +67,16 @@ class SvgPaletteOptions {
   final int watershedDetail;
   final bool makeBackground;
   final bool makeCutout;
+  final bool makeCrop; // Vision saliency: crop to the most interesting region
+  final bool makeFaces; // Vision face detection: per face a crop (face) and a background-removed crop (facecut)
+  final bool makeOriginal; // the source image as the usual AVIF thumbnail, to compare against the SVGs
+  final bool makeOcr; // Vision text recognition: an item only when the image contains text
+  final bool makeMasks; // Vision instance masks: one item per separate subject (Mask 1, 2, ...)
   final String outputRoot; // run folders (yyyy_MM_dd_HH_mm_ss) are created inside
 
   const SvgPaletteOptions({
     required this.outputRoot,
-    this.size = 512,
+    this.size = 640,
     this.jobs = 8,
     this.speckle = 2,
     this.smooth = 1,
@@ -82,7 +87,18 @@ class SvgPaletteOptions {
     this.watershedDetail = 232,
     this.makeBackground = true,
     this.makeCutout = true,
+    this.makeCrop = true,
+    this.makeFaces = true,
+    this.makeOriginal = true,
+    this.makeOcr = true,
+    this.makeMasks = true,
   });
+
+  /// Upper limit of Mask N items per image.
+  static const int maxMasks = 8;
+
+  /// Upper limit of face crops per image.
+  static const int maxFaces = 8;
 }
 
 class SvgPaletteSummary {
@@ -103,15 +119,38 @@ class SvgPaletteNative {
   static Future<bool> alreadyCutOut(String input) async =>
       (await _ch.invokeMethod<bool>('probe', {'input': input})) ?? false;
 
-  /// Loads [input] (EXIF orientation applied), optionally removes the background with Apple
-  /// Vision (cropped to the subject), scales the longest side to [maxSide] (Lanczos), applies
-  /// [smooth] median-filter passes and writes an RGBA PNG to [output].
+  /// Number of faces Vision finds (large and confident enough to be worth a card).
+  static Future<int> faceCount(String input) async =>
+      (await _ch.invokeMethod<int>('faces', {'input': input})) ?? 0;
+
+  /// Number of separate foreground subjects Vision finds (0 before macOS 14).
+  static Future<int> instanceCount(String input) async =>
+      (await _ch.invokeMethod<int>('instances', {'input': input})) ?? 0;
+
+  /// Text recognised in [input] by Apple Vision, lines joined with '\n'. Empty when none.
+  static Future<String> recognizeText(String input) async =>
+      (await _ch.invokeMethod<String>('ocr', {'input': input})) ?? '';
+
+  /// Loads [input] (EXIF orientation applied), then depending on [mode]:
+  ///   orig     the image untouched, only shrunk to fit [maxSide] (no smoothing)
+  ///   bg       the image as is
+  ///   cut      background removed with Apple Vision (cropped to the subject)
+  ///   crop     cropped to the most salient region (Vision saliency)
+  ///   cropcut  the same crop, then the background removed
+  ///   face     crop around face number [instance] (1-based, Vision face detection)
+  ///   facecut  the same crop with the background removed (only that face's subject is kept)
+  ///   mask     only subject number [instance] (1-based, Vision instance masks)
+  /// [cutout] says whether bg/cut must run the Vision cutout (false when the image is
+  /// already transparent). Then scales the longest side to [maxSide] (Lanczos), applies [smooth]
+  /// median-filter passes and writes an RGBA PNG to [output].
   static Future<void> render({
     required String input,
     required String output,
     required int maxSide,
     required int smooth,
     required bool cutout,
+    String mode = 'bg',
+    int instance = 1,
   }) async {
     await _ch.invokeMethod<void>('render', {
       'input': input,
@@ -119,6 +158,8 @@ class SvgPaletteNative {
       'maxSide': maxSide,
       'smooth': smooth,
       'cutout': cutout,
+      'mode': mode,
+      'instance': instance,
     });
   }
 }
@@ -285,8 +326,15 @@ _PrepOut _prepare(_PrepIn a) {
     }
     over[o + 3] = 255;
   }
-  final (tw, th) = _fit(w, h, a.thumbSize);
-  var thumb = _toImage(over, w, h);
+  _writeAvif(over, w, h, a.thumbSize, a.quantizer, a.speed, a.thumbAvif);
+  return _PrepOut(q.palette);
+}
+
+/// Opaque RGBA -> (resized to fit [maxDim]) -> AVIF file. Same encoder settings for every image.
+void _writeAvif(Uint8List opaqueRgba, int w, int h, int maxDim, int quantizer, int speed,
+    String path) {
+  final (tw, th) = _fit(w, h, maxDim);
+  var thumb = _toImage(opaqueRgba, w, h);
   if (tw != w || th != h) {
     thumb = img.copyResize(thumb,
         width: tw,
@@ -299,14 +347,43 @@ _PrepOut _prepare(_PrepIn a) {
     height: thumb.height,
     frames: [AvifEncodeFrame(rgba: thumbRgba, duration: const Duration(milliseconds: 100))],
     options: AvifEncodeOptions(
-      speed: a.speed,
-      minQuantizer: a.quantizer,
-      maxQuantizer: a.quantizer,
+      speed: speed,
+      minQuantizer: quantizer,
+      maxQuantizer: quantizer,
       maxThreads: 1, // parallelism comes from several images at once
     ),
   );
-  File(a.thumbAvif).writeAsBytesSync(bytes);
-  return _PrepOut(q.palette);
+  File(path).writeAsBytesSync(bytes);
+}
+
+class _OrigIn {
+  final String srcPng, avif;
+  final int maxDim, quantizer, speed;
+  _OrigIn(this.srcPng, this.avif, this.maxDim, this.quantizer, this.speed);
+}
+
+/// The untouched image (already shrunk natively) -> AVIF. Transparent parts are blended over the
+/// gallery card colour (42, 42, 46) so the AVIF needs no alpha.
+void _encodeOriginal(_OrigIn a) {
+  final decoded = img.decodePng(File(a.srcPng).readAsBytesSync());
+  if (decoded == null) throw SvgPaletteException('could not read the original image');
+  final src = (decoded.numChannels == 4 && decoded.format == img.Format.uint8)
+      ? decoded
+      : decoded.convert(format: img.Format.uint8, numChannels: 4, alpha: 255);
+  final w = src.width, h = src.height;
+  final rgba = src.getBytes(order: img.ChannelOrder.rgba);
+  final over = Uint8List(w * h * 4);
+  const bg = [42, 42, 46];
+  for (var i = 0; i < w * h; i++) {
+    final o = i * 4;
+    final al = rgba[o + 3];
+    for (var c = 0; c < 3; c++) {
+      // Straight (non-premultiplied) alpha, as the native side writes it.
+      over[o + c] = ((rgba[o + c] * al + bg[c] * (255 - al)) / 255).round();
+    }
+    over[o + 3] = 255;
+  }
+  _writeAvif(over, w, h, a.maxDim, a.quantizer, a.speed, a.avif);
 }
 
 class _ThemifyIn {
@@ -344,7 +421,90 @@ String _safeName(String path, int index) {
   return '$stem-$index';
 }
 
-/// One source image -> up to two gallery items (with background, background removed).
+/// One variant of a source image that becomes one gallery item.
+class _Variant {
+  final String tag; // bg, cut, crop, cropcut, face, facecut, mask
+  final bool cutout; // run the Vision cutout (bg/cut)
+  final int instance; // 1-based, face, facecut and mask only
+  const _Variant(this.tag, {this.cutout = false, this.instance = 0});
+  String get suffix => tag == 'mask' || tag == 'face' || tag == 'facecut' ? '$tag$instance' : tag;
+}
+
+/// The source image as an AVIF thumbnail (same size as the others, never enlarged) so it can be
+/// compared with the SVG variants.
+/// Writes `th/<base>-orig.avif` and returns its gallery item, or null on failure.
+Future<SvgGalleryItem?> _processOriginal(File file, int index, String base, _Job job) async {
+  final name = '$base-orig';
+  final srcPng = p.join(job.workDir, '$name.src.png');
+  try {
+    await SvgPaletteNative.render(
+        input: file.path,
+        output: srcPng,
+        maxSide: _avif.thumbMaxDim,
+        smooth: 0,
+        cutout: false,
+        mode: 'orig');
+    final avifPath = p.join(job.thumbDir, '$name.avif');
+    await _inIsolate(
+        _encodeOriginal,
+        _OrigIn(srcPng, avifPath, _avif.thumbMaxDim, _avif.quantizer, _avif.speed));
+    final size = await _pngSize(srcPng);
+    return SvgGalleryItem(
+      index: index,
+      name: name,
+      tag: 'orig',
+      w: size.$1,
+      h: size.$2,
+      palette: const [],
+      thumbExt: 'avif',
+      bytes: File(avifPath).lengthSync(),
+    );
+  } catch (e) {
+    job.log('${p.basename(file.path)}: no original ($e)');
+    return null;
+  } finally {
+    try {
+      File(srcPng).deleteSync();
+    } catch (_) {}
+  }
+}
+
+/// Pixel size of a PNG (read from its header, no full decode).
+Future<(int, int)> _pngSize(String png) async {
+  final raf = await File(png).open();
+  try {
+    final head = await raf.read(24); // 8 signature + 4 length + 4 'IHDR' + 4 width + 4 height
+    final b = ByteData.sublistView(Uint8List.fromList(head));
+    return (b.getUint32(16), b.getUint32(20));
+  } finally {
+    await raf.close();
+  }
+}
+
+/// OCR: an item only when Vision finds text. It reuses the original's AVIF (same image).
+Future<SvgGalleryItem?> _processOcr(
+    File file, int index, String base, SvgGalleryItem? orig, _Job job) async {
+  try {
+    final text = (await SvgPaletteNative.recognizeText(file.path)).trim();
+    if (text.isEmpty) return null;
+    return SvgGalleryItem(
+      index: index,
+      name: '$base-ocr',
+      tag: 'ocr',
+      w: orig?.w ?? _avif.thumbMaxDim,
+      h: orig?.h ?? _avif.thumbMaxDim,
+      palette: const [],
+      thumbExt: 'avif',
+      thumbName: orig?.name,
+      text: text,
+    );
+  } catch (e) {
+    job.log('${p.basename(file.path)}: no OCR ($e)');
+    return null;
+  }
+}
+
+/// One source image -> several gallery items (original, background, cutout, smart crop, faces, masks, text).
 Future<List<SvgGalleryItem>> _processImage(File file, int index, _Job job) async {
   if (job.cancel.cancelled) return [];
   if (p.extension(file.path).toLowerCase() == '.svg') return _processSvg(file, index, job);
@@ -354,17 +514,61 @@ Future<List<SvgGalleryItem>> _processImage(File file, int index, _Job job) async
   final results = <SvgGalleryItem>[];
   final fileName = p.basename(file.path);
   try {
-    final alreadyCut = await SvgPaletteNative.alreadyCutOut(file.path);
-    final variants = <(String, bool)>[]; // (tag, needs Vision)
-    if (alreadyCut) {
-      if (o.makeCutout) variants.add(('cut', false));
-    } else {
-      if (o.makeBackground) variants.add(('bg', false));
-      if (o.makeCutout) variants.add(('cut', true));
+    // The OCR card shows the original's AVIF, so it is made whenever either is wanted.
+    SvgGalleryItem? orig;
+    if (o.makeOriginal || o.makeOcr) {
+      orig = await _processOriginal(file, index, base, job);
+      if (orig != null && o.makeOriginal) results.add(orig);
+    }
+    if (o.makeOcr && orig != null) {
+      final ocr = await _processOcr(file, index, base, orig, job);
+      if (ocr != null) results.add(ocr);
     }
 
-    for (final (tag, cutout) in variants) {
-      final name = '$base-$tag';
+    final alreadyCut = await SvgPaletteNative.alreadyCutOut(file.path);
+    final variants = <_Variant>[];
+    var faceTotal = 0;
+    if (alreadyCut) {
+      if (o.makeCutout) variants.add(const _Variant('cut'));
+    } else {
+      if (o.makeBackground) variants.add(const _Variant('bg'));
+      if (o.makeCutout) variants.add(const _Variant('cut', cutout: true));
+    }
+    if (o.makeCrop) {
+      variants.add(const _Variant('crop'));
+      // Only when there is a crop; an already transparent image would just repeat it.
+      if (!alreadyCut) variants.add(const _Variant('cropcut', cutout: true));
+    }
+    if (o.makeFaces) {
+      try {
+        faceTotal = min(await SvgPaletteNative.faceCount(file.path), SvgPaletteOptions.maxFaces);
+        for (var i = 1; i <= faceTotal; i++) {
+          variants.add(_Variant('face', instance: i));
+          variants.add(_Variant('facecut', instance: i));
+        }
+      } catch (e) {
+        job.log('$fileName: no faces ($e)');
+      }
+    }
+    if (o.makeMasks) {
+      try {
+        final n = await SvgPaletteNative.instanceCount(file.path);
+        // One subject would just repeat the cutout.
+        if (n >= 2) {
+          for (var i = 1; i <= min(n, SvgPaletteOptions.maxMasks); i++) {
+            variants.add(_Variant('mask', instance: i));
+          }
+        }
+      } catch (e) {
+        job.log('$fileName: no masks ($e)');
+      }
+    }
+
+    var cropFailed = false;
+    for (final v in variants) {
+      final tag = v.tag;
+      if (tag == 'cropcut' && cropFailed) continue; // no useful crop, so no cropcut either
+      final name = '$base-${v.suffix}';
       final srcPng = p.join(job.workDir, '$name.src.png');
       final flatPng = p.join(job.workDir, '$name.png');
       final rawSvg = p.join(job.workDir, '$name.svg');
@@ -375,11 +579,14 @@ Future<List<SvgGalleryItem>> _processImage(File file, int index, _Job job) async
               output: srcPng,
               maxSide: o.size,
               smooth: o.smooth,
-              cutout: cutout);
+              cutout: v.cutout,
+              mode: tag,
+              instance: v.instance);
         } catch (e) {
-          if (cutout) {
-            job.log('$fileName: no cutout ($e)');
-            continue; // the "with background" variant is still kept
+          if (tag == 'crop') cropFailed = true;
+          if (tag != 'bg') {
+            job.log('$fileName: no $tag variant ($e)');
+            continue; // the other variants are still kept
           }
           rethrow;
         }
@@ -418,6 +625,9 @@ Future<List<SvgGalleryItem>> _processImage(File file, int index, _Job job) async
           h: themed.height,
           palette: prep.palette.map((c) => c.hex).toList(),
           thumbExt: 'avif',
+          // A single face is just 'face' / 'facecut'; several are 'face 1', 'facecut 1', 'face 2', ...
+          variant: (v.tag == 'face' || v.tag == 'facecut') && faceTotal == 1 ? 0 : v.instance,
+          bytes: utf8.encode(themed.svg).length,
         );
         await File(p.join(job.pageDir, '$name.html')).writeAsString(themePage(item, themed.svg));
         results.add(item);
@@ -435,7 +645,8 @@ Future<List<SvgGalleryItem>> _processImage(File file, int index, _Job job) async
   return results;
 }
 
-/// SVG input: re-slot its colours and embed it in a theme page. The original file is the thumbnail.
+/// SVG input: re-slot its colours and embed it in a theme page (recolor + stroke animation).
+/// The original file is the thumbnail.
 Future<List<SvgGalleryItem>> _processSvg(File file, int index, _Job job) async {
   final name = '${_safeName(file.path, index)}-svg';
   try {
@@ -454,8 +665,10 @@ Future<List<SvgGalleryItem>> _processSvg(File file, int index, _Job job) async {
       h: imported.height,
       palette: imported.palette.map((c) => c.hex).toList(),
       thumbExt: 'svg',
+      bytes: utf8.encode(imported.svg).length,
     );
-    await File(p.join(job.pageDir, '$name.html')).writeAsString(themePage(item, imported.svg));
+    await File(p.join(job.pageDir, '$name.html'))
+        .writeAsString(themePage(item, imported.svg, slotMap: imported.slotMap));
     return [item];
   } catch (e) {
     job.log('FAILED ${p.basename(file.path)}: $e');
@@ -509,11 +722,20 @@ Future<SvgPaletteSummary> runSvgPalette({
     await Future.wait(List.generate(max(1, options.jobs), (_) => worker()));
     items.sort((a, b) {
       final c = a.index.compareTo(b.index);
-      return c != 0 ? c : a.tag.compareTo(b.tag);
+      if (c != 0) return c;
+      final r = a.tagRank.compareTo(b.tagRank);
+      if (r != 0) return r;
+      // Faces pair up: face 1, facecut 1, face 2, facecut 2 ...
+      final v = a.variant.compareTo(b.variant);
+      if (v != 0) return v;
+      return SvgGalleryItem.tagOrder.indexOf(a.tag)
+          .compareTo(SvgGalleryItem.tagOrder.indexOf(b.tag));
     });
     final indexPath = p.join(runDir, 'index.html');
     await File(indexPath).writeAsString(galleryPage(items));
-    return SvgPaletteSummary(indexPath, runDir, items.length, files.length, sw.elapsed.inSeconds);
+    // Original and text cards are not SVGs.
+    final svgCount = items.where((it) => it.tag != 'orig' && it.tag != 'ocr').length;
+    return SvgPaletteSummary(indexPath, runDir, svgCount, files.length, sw.elapsed.inSeconds);
   } finally {
     try {
       await work.delete(recursive: true);

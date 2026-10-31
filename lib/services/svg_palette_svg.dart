@@ -23,7 +23,8 @@ class ImportedSvg {
   final String svg;
   final int width, height;
   final List<Rgb> palette;
-  const ImportedSvg(this.svg, this.width, this.height, this.palette);
+  final Map<String, int> slotMap; // '#rrggbb' of every original colour -> 0-based slot
+  const ImportedSvg(this.svg, this.width, this.height, this.palette, this.slotMap);
 }
 
 // ───────────────────────── helpers ─────────────────────────
@@ -436,5 +437,6 @@ ImportedSvg themifyExisting(String source, int k) {
   // Pass 2: rewrite every colour literal to var(--cN, original).
   String varFor(Rgb c) => 'var(--c${(q.slot[c] ?? 0) + 1},${c.hex})';
   final second = _rewrite(source, varFor, blackFill: needsBlack ? varFor(black) : null);
-  return ImportedSvg(second.text, second.width, second.height, q.palette);
+  final slotMap = {for (final e in q.slot.entries) e.key.hex: e.value};
+  return ImportedSvg(second.text, second.width, second.height, q.palette, slotMap);
 }
