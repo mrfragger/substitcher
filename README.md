@@ -475,9 +475,10 @@ paru -S substitcher-bin
 
 <details>
 <summary>Mac App Recommendations</summary>
-
-- Transnomino, free, file-renamer https://www.transnomino.com
-- Lulu, free, open-source firewall https://objective-see.org/products/lulu.html
-- Stats, free, menu bar stats monitoring https://github.com/exelban/stats
-- Mole, free, for terminal, cleans up disk space https://github.com/tw93/Mole
+all are free and most are open source
+- Transnomino, file-renamer https://www.transnomino.com
+- Lulu, open-source firewall https://objective-see.org/products/lulu.html
+- Stats, menu bar stats monitoring https://github.com/exelban/stats
+- Mole, for terminal, cleans up disk space https://github.com/tw93/Mole
+- Keyty, keyboard and mouse visualizer for video tutorial recording https://github.com/keytyapp/Keyty
 </details>
