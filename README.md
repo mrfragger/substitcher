@@ -391,10 +391,6 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - Save Animated svg which each second reveals the 5 color groups, holds 3s, then each 3s shows next favorite palette then back to 1st favorite then stops. 
 - Lazy load them on html..  Specify height and width to get lazy load ot work.
 
-### Translate vtt Subtitles
-Easy to translate vtt subtitle to almost any language (free)
-[https://tools.newzone.top/en/subtitle-translator](https://tools.newzone.top/en/subtitle-translator)
-
 ### Installation
 <details>
 <summary>macOS 12.0+ (arm64 Silicon m1,m2,m3,m4,m5) dmg or homebrew</summary>
@@ -474,6 +470,7 @@ paru -S substitcher-bin
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which conforms to vorbis comment specification
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player with some basic video editing
 - convert otf, ttf, woff, woff2 fonts https://fontsource.org/tools/converter (free)
+- Easy to translate vtt subtitle to almost any language (free) https://tools.newzone.top/en/subtitle-translator
 </details>
 
 <details>
