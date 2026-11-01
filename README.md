@@ -469,7 +469,7 @@ paru -S substitcher-bin
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which conforms to vorbis comment specification
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player with some basic video editing
-- convert otf, ttf, woff, woff2 fonts https://fontsource.org/tools/converter (free)
+- convert otf, ttf, woff, woff2 fonts (free) https://fontsource.org/tools/converter
 - Easy to translate vtt subtitle to almost any language (free) https://tools.newzone.top/en/subtitle-translator
 </details>
 
