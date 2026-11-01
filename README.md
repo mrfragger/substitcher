@@ -475,7 +475,7 @@ paru -S substitcher-bin
 
 <details>
 <summary>Mac App Recommendations</summary>
-all are free and most are open source
+- all are free and most are open source
 - Transnomino, file-renamer https://www.transnomino.com
 - Lulu, open-source firewall https://objective-see.org/products/lulu.html
 - Stats, menu bar stats monitoring https://github.com/exelban/stats
