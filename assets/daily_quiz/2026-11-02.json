@@ -1,0 +1,867 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَشَاعِرُ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Emotions expressed in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "خَشِيتُ",
+            "en": "[I] feared",
+            "ref": "20:94",
+            "verse": "قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى",
+            "verseEn": "[Aaron] said, \"O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.'\""
+          },
+          {
+            "ar": "تَحْزَنْ",
+            "en": "grieve",
+            "ref": "15:88",
+            "verse": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+            "verseEn": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of them [i.e., the disbelievers], and do not grieve over them. And lower your wing [i.e., show kindness] to the believers."
+          },
+          {
+            "ar": "تَفْرَحُونَ",
+            "en": "rejoice",
+            "ref": "40:75",
+            "verse": "ذَٰلِكُم بِمَا كُنتُمْ تَفْرَحُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَمْرَحُونَ",
+            "verseEn": "[The angels will say], \"That was because you used to exult upon the earth without right and you used to behave insolently."
+          },
+          {
+            "ar": "نَطْمَعُ",
+            "en": "hope",
+            "ref": "26:51",
+            "verse": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَـٰيَـٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "Indeed, we aspire that our Lord will forgive us our sins because we were the first of the believers.\""
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْآلِهَةِ الْبَاطِلَةِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for false deities and intercessors in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "آلِهَةٌ",
+            "en": "gods",
+            "ref": "21:43",
+            "verse": "أَمْ لَهُمْ ءَالِهَةٌۭ تَمْنَعُهُم مِّن دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ",
+            "verseEn": "Or do they have gods to defend them other than Us? They are unable [even] to help themselves, nor can they be protected from Us."
+          },
+          {
+            "ar": "شُرَكَاءَكُمْ",
+            "en": "your partners",
+            "ref": "28:64",
+            "verse": "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ",
+            "verseEn": "And it will be said, \"Invoke your 'partners,'\" and they will invoke them; but they will not respond to them, and they will see the punishment. If only they had followed guidance!"
+          },
+          {
+            "ar": "شُفَعَاءَ",
+            "en": "intercessors",
+            "ref": "39:43",
+            "verse": "أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًۭٔا وَلَا يَعْقِلُونَ",
+            "verseEn": "Or have they taken other than Allāh as intercessors? Say, \"Even though they do not possess [power over] anything, nor do they reason?\""
+          },
+          {
+            "ar": "أَوْلِيَاءَ",
+            "en": "(as) allies",
+            "ref": "7:30",
+            "verse": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ ٱلضَّلَـٰلَةُ ۗ إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَـٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+            "verseEn": "A group [of you] He guided, and a group deserved [to be in] error. Indeed, they [i.e., the latter] had taken the devils as allies instead of Allāh while they thought that they were guided."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ النَّارِ وَالْعَذَابِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Hell and its punishment in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "النَّارُ",
+            "en": "the Fire",
+            "ref": "11:16",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَيْسَ لَهُمْ فِى ٱلْـَٔاخِرَةِ إِلَّا ٱلنَّارُ ۖ وَحَبِطَ مَا صَنَعُوا۟ فِيهَا وَبَـٰطِلٌۭ مَّا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "Those are the ones for whom there is not in the Hereafter but the Fire. And lost is what they did therein, and worthless is what they used to do."
+          },
+          {
+            "ar": "الْجَحِيمِ",
+            "en": "(of) the Hellfire",
+            "ref": "44:56",
+            "verse": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+            "verseEn": "They will not taste death therein except the first death, and He will have protected them from the punishment of Hellfire"
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "19:86",
+            "verse": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًۭا",
+            "verseEn": "And will drive the criminals to Hell in thirst"
+          },
+          {
+            "ar": "الْعَذَابُ",
+            "en": "the punishment",
+            "ref": "39:25",
+            "verse": "كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+            "verseEn": "Those before them denied, and punishment came upon them from where they did not perceive."
+          }
+        ]
+      },
+      {
+        "name": "جُمُوعُ التَّكْسِيرِ عَلَى وَزْنِ فُعُولٍ",
+        "nameEn": "Broken plurals on the pattern fuʿūl (فُعُول) in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْقُرُونَ",
+            "en": "the generations",
+            "ref": "10:13",
+            "verse": "وَلَقَدْ أَهْلَكْنَا ٱلْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا۟ ۙ وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَمَا كَانُوا۟ لِيُؤْمِنُوا۟ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+            "verseEn": "And We had already destroyed generations before you when they wronged, and their messengers had come to them with clear proofs, but they were not to believe. Thus do We recompense the criminal people."
+          },
+          {
+            "ar": "رُءُوسِهِمْ",
+            "en": "their heads",
+            "ref": "21:65",
+            "verse": "ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَـٰٓؤُلَآءِ يَنطِقُونَ",
+            "verseEn": "Then they reversed themselves, [saying], \"You have already known that these do not speak!\""
+          },
+          {
+            "ar": "وُجُوهِ",
+            "en": "(the) faces",
+            "ref": "22:72",
+            "verse": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍۢ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَـٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّۢ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+            "verseEn": "And when Our verses are recited to them as clear evidences, you recognize in the faces of those who disbelieve disapproval. They are almost on the verge of assaulting those who recite to them Our verses. Say, \"Then shall I inform you of [what is] worse than that? [It is] the Fire which Allāh has promised those who disbelieve, and wretched is the destination.\""
+          },
+          {
+            "ar": "الْغُيُوبِ",
+            "en": "(of) the unseen",
+            "ref": "34:48",
+            "verse": "قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّـٰمُ ٱلْغُيُوبِ",
+            "verseEn": "Say, \"Indeed, my Lord projects the truth, Knower of the unseen.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سميع",
+    "display": "سَمِيعٌ",
+    "hint": "One of the Divine Names, meaning the All-Hearing.",
+    "verseRef": "58:1",
+    "arabicVerse": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+    "verse": "58:1 - Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing."
+  },
+  "deduction": {
+    "title": "The Unwavering Ally in a Trial of Gold",
+    "intro": "In the shadow of a great prophet, a soul of eloquence and faith was chosen to assist in a monumental mission. This figure stood firm when the masses wavered, preaching against a glaring transgression that threatened the very core of monotheism. When the prophet returned to witness the people's lapse, this figure's defense was not one of guilt but of duty and fear of division. Who is this devoted servant of Allah?",
+    "clues": [
+      "I was chosen by Allah for a sacred duty alongside another, and my role was one of support and proclamation.",
+      "I was granted clarity of speech, and I accompanied a messenger to confront a powerful oppressor.",
+      "During a critical journey, the messenger ascended a mountain alone, leaving me to watch over the people.",
+      "In their absence, the people crafted a golden image, and I pleaded with them to remain faithful, but they refused my counsel.",
+      "When the messenger returned, filled with anger and grief, I was seized, but I explained that I had been overpowered and feared causing discord among them.",
+      "I am the prophet who stood beside Musa, my brother, sharing his burden and remaining steadfast against idolatry."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Harun",
+          "Prophet Musa",
+          "Prophet Isa",
+          "Prophet Dawud",
+          "Prophet Zakariyya"
+        ],
+        "answer": "Prophet Harun"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "People worshipped a golden calf despite warnings",
+          "People threw me into a blazing fire",
+          "I was swallowed by a great fish",
+          "I was imprisoned on false charges",
+          "I was exiled from my city for preaching"
+        ],
+        "answer": "People worshipped a golden calf despite warnings"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Golden Calf",
+          "The Burning Bush",
+          "The Staff that turned into a serpent",
+          "The Tablets of the Covenant",
+          "The Ark of the Covenant"
+        ],
+        "answer": "The Golden Calf"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "I was exonerated and continued my prophetic mission",
+          "I was punished for the people's sin",
+          "I was given a new nation to guide",
+          "I was taken up to heaven alive",
+          "I was made a ruler over a kingdom"
+        ],
+        "answer": "I was exonerated and continued my prophetic mission"
+      }
+    },
+    "verseRef": "25:35",
+    "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+    "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+  },
+  "scramble": {
+    "verseRef": "75:40",
+    "reference": "Surah Al-Qiyamah (75:40)",
+    "segments": [
+      "أليس",
+      "ذلك",
+      "بقادر",
+      "على أن يحيي",
+      "الموتى"
+    ],
+    "translations": [
+      "Is not [that]",
+      "(He) Able [over]",
+      "to",
+      "give life",
+      "(to) the dead"
+    ],
+    "hint": "A rhetorical question affirming Allah's power to bring the dead back to life.",
+    "arabic": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+    "words": [
+      "أَلَيْسَ ذَٰلِكَ",
+      "بِقَـٰدِرٍ عَلَىٰٓ",
+      "أَن",
+      "يُحْـِۧىَ",
+      "ٱلْمَوْتَىٰ"
+    ],
+    "verseEn": "Is not that [Creator] Able to give life to the dead?"
+  },
+  "roothive": {
+    "center": "ك",
+    "outer": [
+      "ي",
+      "ا",
+      "س",
+      "ب",
+      "ر",
+      "ت"
+    ],
+    "root": {
+      "letters": "كبر",
+      "display": "ك ب ر",
+      "translit": "k-b-r",
+      "meaning": "This root centers on greatness or bigness in size, rank, or importance. From it grow words for greater or greatest, old age, something difficult or heavy, and arrogance—seeing oneself as greater than others.",
+      "occurrences": 161,
+      "lemmaCount": 18
+    },
+    "words": [
+      {
+        "w": "بكت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَكَتْ",
+            "gloss": "wept",
+            "type": "verb",
+            "root": "بكي",
+            "count": 5,
+            "ref": "44:29",
+            "pos": 2,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "بكر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بِكْر",
+            "gloss": "young",
+            "type": "adjective",
+            "root": "بكر",
+            "count": 3,
+            "ref": "2:68",
+            "pos": 17,
+            "alt": [
+              "virgins"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ركب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَكِبَ",
+            "gloss": "embark",
+            "type": "verb",
+            "root": "ركب",
+            "count": 9,
+            "ref": "11:42",
+            "pos": 14,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كاس",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَأْس",
+            "gloss": "cup",
+            "type": "noun",
+            "root": "كأس",
+            "count": 6,
+            "ref": "52:23",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "كبت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كُبِتَ",
+            "gloss": "were disgraced",
+            "type": "verb",
+            "root": "كبت",
+            "count": 3,
+            "ref": "58:5",
+            "pos": 8,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كبر",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "كَبُرَ",
+            "gloss": "hard",
+            "type": "verb",
+            "root": "كبر",
+            "count": 8,
+            "ref": "6:35",
+            "pos": 3,
+            "alt": [
+              "difficult",
+              "great"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "كِبَر",
+            "gloss": "old age",
+            "type": "noun",
+            "root": "كبر",
+            "count": 6,
+            "ref": "2:266",
+            "pos": 20
+          },
+          {
+            "lemma": "كَبِّرْ",
+            "gloss": "magnify",
+            "type": "verb",
+            "root": "كبر",
+            "count": 4,
+            "ref": "2:185",
+            "pos": 38,
+            "alt": [
+              "may magnify"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "كِبْر",
+            "gloss": "greatness",
+            "type": "noun",
+            "root": "كبر",
+            "count": 2,
+            "ref": "40:56",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "كتب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَتَبَ",
+            "gloss": "prescribed",
+            "type": "verb",
+            "root": "كتب",
+            "count": 49,
+            "ref": "2:79",
+            "pos": 19,
+            "alt": [
+              "is prescribed",
+              "was prescribed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "كرب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَرْب",
+            "gloss": "distress",
+            "type": "noun",
+            "root": "كرب",
+            "count": 4,
+            "ref": "6:64",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "كسب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَسَبَ",
+            "gloss": "earned",
+            "type": "verb",
+            "root": "كسب",
+            "count": 62,
+            "ref": "2:81",
+            "pos": 3,
+            "alt": [
+              "earns",
+              "has earned"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اركس",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَرْكَسَ",
+            "gloss": "cast them back",
+            "type": "verb",
+            "root": "ركس",
+            "count": 2,
+            "ref": "4:88",
+            "pos": 7,
+            "alt": [
+              "are plunged"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اكبر",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَكْبَر",
+            "gloss": "greater",
+            "type": "noun",
+            "root": "كبر",
+            "count": 24,
+            "ref": "2:217",
+            "pos": 22,
+            "alt": [
+              "greatest"
+            ]
+          },
+          {
+            "lemma": "أَكْبَرْ",
+            "gloss": "greatly admired",
+            "type": "verb",
+            "root": "كبر",
+            "count": 1,
+            "ref": "12:31",
+            "pos": 19,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "بارك",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "بارَكَ",
+            "gloss": "blessed is",
+            "type": "verb",
+            "root": "برك",
+            "count": 8,
+            "ref": "27:8",
+            "pos": 5,
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "تارك",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تارِك",
+            "gloss": "give up",
+            "type": "active participle",
+            "root": "ترك",
+            "count": 3,
+            "ref": "11:12",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "كاتب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كاتِب",
+            "gloss": "scribe",
+            "type": "active participle",
+            "root": "كتب",
+            "count": 6,
+            "ref": "2:282",
+            "pos": 13,
+            "alt": [
+              "recorders",
+              "recording"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كبار",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "كُبّار",
+            "gloss": "great",
+            "type": "adjective",
+            "root": "كبر",
+            "count": 1,
+            "ref": "71:22",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "كبري",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "كُبْرَى",
+            "gloss": "greatest",
+            "type": "adjective",
+            "root": "كبر",
+            "count": 7,
+            "ref": "20:23",
+            "pos": 4,
+            "alt": [
+              "great"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كبير",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "كَبِير",
+            "gloss": "large",
+            "type": "adjective",
+            "root": "كبر",
+            "count": 40,
+            "ref": "2:217",
+            "pos": 10,
+            "alt": [
+              "great",
+              "most great"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كتاب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كِتاب",
+            "gloss": "book",
+            "type": "noun",
+            "root": "كتب",
+            "count": 260,
+            "ref": "2:89",
+            "pos": 3,
+            "alt": [
+              "record",
+              "decree"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كرسي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "كُرْسِيّ",
+            "gloss": "seat",
+            "type": "noun",
+            "root": "كرس",
+            "count": 2,
+            "ref": "2:255",
+            "pos": 42,
+            "alt": [
+              "throne"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ابكار",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "إِبْكار",
+            "gloss": "morning",
+            "type": "noun",
+            "root": "بكر",
+            "count": 2,
+            "ref": "3:41",
+            "pos": 20
+          }
+        ]
+      },
+      {
+        "w": "ارايك",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَرائِك",
+            "gloss": "couches",
+            "type": "noun",
+            "root": "أرك",
+            "count": 5,
+            "ref": "18:31",
+            "pos": 24,
+            "alt": [
+              "thrones",
+              "adorned couches"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اكتسب",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "اكْتَسَبَ",
+            "gloss": "earned",
+            "type": "verb",
+            "root": "كسب",
+            "count": 5,
+            "ref": "2:286",
+            "pos": 12,
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "تبارك",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "تَبارَكَ",
+            "gloss": "blessed is he",
+            "type": "verb",
+            "root": "برك",
+            "count": 9,
+            "ref": "7:54",
+            "pos": 29,
+            "alt": [
+              "blessed is",
+              "blessed"
+            ],
+            "form": 6
+          }
+        ]
+      },
+      {
+        "w": "تكبير",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَكْبِير",
+            "gloss": "magnificence",
+            "type": "verbal noun",
+            "root": "كبر",
+            "count": 1,
+            "ref": "17:111",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "سكاري",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "سُكارَى",
+            "gloss": "intoxicated",
+            "type": "noun",
+            "root": "سكر",
+            "count": 3,
+            "ref": "4:43",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "استكبر",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اسْتَكْبَرَ",
+            "gloss": "was arrogant",
+            "type": "verb",
+            "root": "كبر",
+            "count": 40,
+            "ref": "38:74",
+            "pos": 3,
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "استكبار",
+        "family": true,
+        "points": 7,
+        "senses": [
+          {
+            "lemma": "اسْتِكْبار",
+            "gloss": "pride",
+            "type": "verbal noun",
+            "root": "كبر",
+            "count": 2,
+            "ref": "35:43",
+            "pos": 1,
+            "alt": [
+              "arrogance"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "كَبِيرَة",
+        "gloss": "great",
+        "type": "noun",
+        "root": "كبر",
+        "count": 7,
+        "ref": "4:31",
+        "pos": 3,
+        "alt": [
+          "big",
+          "greater"
+        ]
+      },
+      {
+        "lemma": "مُتَكَبِّر",
+        "gloss": "arrogant one",
+        "type": "active participle",
+        "root": "كبر",
+        "count": 7,
+        "ref": "40:27",
+        "pos": 9,
+        "alt": [
+          "arrogant"
+        ]
+      },
+      {
+        "lemma": "مُسْتَكْبِر",
+        "gloss": "arrogant",
+        "type": "active participle",
+        "root": "كبر",
+        "count": 6,
+        "ref": "16:22",
+        "pos": 11,
+        "alt": [
+          "arrogantly"
+        ]
+      },
+      {
+        "lemma": "يَتَكَبَّرُ",
+        "gloss": "be arrogant",
+        "type": "verb",
+        "root": "كبر",
+        "count": 2,
+        "ref": "7:13",
+        "pos": 8,
+        "form": 5
+      },
+      {
+        "lemma": "كِبْرِياء",
+        "gloss": "greatness",
+        "type": "noun",
+        "root": "كبر",
+        "count": 2,
+        "ref": "10:78",
+        "pos": 10
+      },
+      {
+        "lemma": "كُبَراء",
+        "gloss": "great men",
+        "type": "noun",
+        "root": "كبر",
+        "count": 1,
+        "ref": "33:67",
+        "pos": 6
+      }
+    ],
+    "maxScore": 72,
+    "featuredRoot": "كبر"
+  }
+}
