@@ -72,6 +72,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Chocolate Chips.otf (inermedia)
 │   ├── Efiafys.ttf (Dhabee)
 │   ├── Fortunish.ttf (Letterara) 
+│   ├── Maple Peachy.otf (Keithzo)
 │   ├── Relia Maliks.otf (Keithzo)
 │   ├── Row Vatikano.ttf (authentype Lab)
 │   ├── Sophia Melanie.otf (Grezline)
