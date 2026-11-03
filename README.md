@@ -37,7 +37,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 40 demo fonts + 3 free foreign fonts or search for them to download on font websites
+- download 38 demo fonts + 3 free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 24 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -73,7 +73,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Efiafys.ttf (Dhabee)
 │   ├── Fortunish.ttf (Letterara) 
 │   ├── Maple Peachy.otf (Keithzo)
-│   ├── Relia Maliks.otf (Keithzo)
 │   ├── Row Vatikano.ttf (authentype Lab)
 │   ├── Sophia Melanie.otf (Grezline)
 │   ├── Zentaro.ttf (Letterara)
