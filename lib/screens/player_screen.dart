@@ -138,7 +138,11 @@ class _PlayerScreenState extends State<PlayerScreen>
   FontColorOverride _fontColorOverride = FontColorOverride.white;
   FontColorOverride _secondaryFontColorOverride = FontColorOverride.none;
   bool _secondaryBlurShadowEnabled = false;
-  late final WindowListener _windowListener;
+  ListenerId? _windowListenerId;
+  Window? get _nativeWindow =>
+      (Platform.isMacOS || Platform.isLinux || Platform.isWindows)
+          ? WindowManager.instance.getCurrent()
+          : null;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
   late final VideoController _videoController;
@@ -566,11 +570,13 @@ class _PlayerScreenState extends State<PlayerScreen>
   @override
   void initState() {
     super.initState();
-    _windowListener = _WindowCloseListener(
-      onClose: _handleWindowClose,
-    );
-
-    windowManager.addListener(_windowListener);
+    // Async listener: the window closes once _handleWindowClose finishes,
+    // unless a listener cancels the request.
+    _windowListenerId = _nativeWindow?.addListener((event) async {
+      if (event is WindowCloseRequestedEvent) {
+        await _handleWindowClose();
+      }
+    });
     _adhanClockService = AdhanClockService();
     _adhanClockService.initialize();
     _adhanClockService.setMainPlayerPauseCallback(() async {
@@ -623,7 +629,8 @@ class _PlayerScreenState extends State<PlayerScreen>
     _saveDefaultSettings();
     WidgetsBinding.instance.removeObserver(this);
     WakelockPlus.disable();
-    windowManager.removeListener(_windowListener);
+    final listenerId = _windowListenerId;
+    if (listenerId != null) _nativeWindow?.removeListener(listenerId);
     _frequencyGenerationTimer?.cancel();
     _sleepTimerCountdownTimer?.cancel();
     _adhanClockService.dispose();
@@ -2420,7 +2427,7 @@ class _PlayerScreenState extends State<PlayerScreen>
           _sleepTimerCountdownSeconds = 0;
           _showSleepTimerCountdown = false;
         });
-        windowManager.close();
+        _nativeWindow?.close();
         return;
       }
       setState(() {
@@ -11323,8 +11330,8 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   Future<void> _toggleFullscreen() async {
     if (Platform.isMacOS || Platform.isLinux || Platform.isWindows) {
-      final isFullscreen = await windowManager.isFullScreen();
-      await windowManager.setFullScreen(!isFullscreen);
+      final window = _nativeWindow;
+      if (window != null) window.isFullScreen = !window.isFullScreen;
     }
   }
 
@@ -13746,16 +13753,4 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
 //don't delete } as it closes entire class _PlayerScreenState
-}
-
-class _WindowCloseListener extends WindowListener {
-  final Future<void> Function() onClose;
-
-  _WindowCloseListener({required this.onClose});
-
-  @override
-  Future<void> onWindowClose() async {
-    await onClose();
-    await windowManager.destroy();
-  }
 }

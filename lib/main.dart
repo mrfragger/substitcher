@@ -15,20 +15,15 @@ void main() async {
   final appTitle = 'SubStitcher $version';
 
   if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
-    await windowManager.ensureInitialized();
-
-    WindowOptions windowOptions = WindowOptions(
-      title: appTitle,
-      skipTaskbar: false,
-      titleBarStyle: TitleBarStyle.normal,
-    );
-
-    await windowManager.waitUntilReadyToShow(windowOptions, () async {
-      await windowManager.setTitle(appTitle);
-      await windowManager.maximize();
-      await windowManager.show();
-      await windowManager.focus();
-    });
+    final window = WindowManager.instance.getCurrent();
+    if (window != null) {
+      window.title = appTitle;
+      window.isVisibleInTaskbar = true;
+      window.titleBarStyle = TitleBarStyle.normal;
+      window.maximize();
+      window.show();
+      window.focus();
+    }
   }
 
   await CustomFontLoader.loadFonts();
