@@ -1,0 +1,812 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "السَّمَاءُ وَالْأَرْضُ وَالْمَاءُ وَالنَّارُ",
+        "nameEn": "Sky, earth, water, and fire — components of the natural world",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلسَّمَآءِ",
+            "en": "the heaven",
+            "ref": "51:22",
+            "verse": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+            "verseEn": "And in the heaven is your provision and whatever you are promised."
+          },
+          {
+            "ar": "ٱلْأَرْضُ",
+            "en": "the earth",
+            "ref": "23:84",
+            "verse": "قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ",
+            "verseEn": "Say, [O Muḥammad], \"To whom belongs the earth and whoever is in it, if you should know?\""
+          },
+          {
+            "ar": "ٱلْمَآءَ",
+            "en": "the water",
+            "ref": "56:69",
+            "verse": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+            "verseEn": "Is it you who brought it down from the clouds, or is it We who bring it down?"
+          },
+          {
+            "ar": "ٱلنَّارَ",
+            "en": "(into) the Fire",
+            "ref": "11:98",
+            "verse": "يَقْدُمُ قَوْمَهُۥ يَوْمَ ٱلْقِيَـٰمَةِ فَأَوْرَدَهُمُ ٱلنَّارَ ۖ وَبِئْسَ ٱلْوِرْدُ ٱلْمَوْرُودُ",
+            "verseEn": "He will precede his people on the Day of Resurrection and lead them into the Fire; and wretched is the place to which they are led."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظٌ لِلْجَمَاعَاتِ فِي الْقُرْآنِ",
+        "nameEn": "Qur'anic words for a group or community of people",
+        "color": "green",
+        "items": [
+          {
+            "ar": "قَوْمٍ",
+            "en": "a people",
+            "ref": "51:32",
+            "verse": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ",
+            "verseEn": "They said, \"Indeed, we have been sent to a people of criminals"
+          },
+          {
+            "ar": "أُمَّةٍ",
+            "en": "nation",
+            "ref": "10:47",
+            "verse": "وَلِكُلِّ أُمَّةٍۢ رَّسُولٌۭ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+            "verseEn": "And for every nation is a messenger. So when their messenger comes, it will be judged between them in justice, and they will not be wronged."
+          },
+          {
+            "ar": "شِرْذِمَةٌ",
+            "en": "(are) certainly a band",
+            "ref": "26:54",
+            "verse": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌۭ قَلِيلُونَ",
+            "verseEn": "[And said], \"Indeed, those are but a small band,"
+          },
+          {
+            "ar": "ٱلْمَلَأُ",
+            "en": "the chiefs",
+            "ref": "11:27",
+            "verse": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًۭا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَـٰذِبِينَ",
+            "verseEn": "So the eminent among those who disbelieved from his people said, \"We do not see you but as a man like ourselves, and we do not see you followed except by those who are the lowest of us [and] at first suggestion. And we do not see in you over us any merit; rather, we think you are liars.\""
+          }
+        ]
+      },
+      {
+        "name": "أفعال أمر بصيغة الجمع المذكر في القرآن",
+        "nameEn": "Plural masculine imperative verbs in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "اُدْخُلُوا",
+            "en": "Enter",
+            "ref": "5:21",
+            "verse": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+            "verseEn": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\""
+          },
+          {
+            "ar": "وَقِفُوهُمْ",
+            "en": "And stop them",
+            "ref": "37:24",
+            "verse": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+            "verseEn": "And stop them; indeed, they are to be questioned.\""
+          },
+          {
+            "ar": "وَاتَّبِعُوا",
+            "en": "And follow",
+            "ref": "39:55",
+            "verse": "وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةًۭ وَأَنتُمْ لَا تَشْعُرُونَ",
+            "verseEn": "And follow the best of what was revealed to you from your Lord [i.e., the Qur’ān] before the punishment comes upon you suddenly while you do not perceive,"
+          },
+          {
+            "ar": "فَذُوقُوا",
+            "en": "So taste",
+            "ref": "6:30",
+            "verse": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+            "verseEn": "If you could but see when they will be made to stand before their Lord. He will say, \"Is this not the truth?\" They will say, \"Yes, by our Lord.\" He will [then] say, \"So taste the punishment for what you used to deny.\""
+          }
+        ]
+      },
+      {
+        "name": "نعوت المذنبين في القرآن",
+        "nameEn": "Epithets for disbelievers and wrongdoers in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱلْفَاسِقِينَ",
+            "en": "(the) defiantly disobedient",
+            "ref": "5:25",
+            "verse": "قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+            "verseEn": "[Moses] said, \"My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us from the defiantly disobedient people.\""
+          },
+          {
+            "ar": "ٱلظَّالِمِينَ",
+            "en": "(will be) for the wrongdoers",
+            "ref": "22:71",
+            "verse": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًۭا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌۭ ۗ وَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍۢ",
+            "verseEn": "And they worship besides Allāh that for which He has not sent down authority and that of which they have no knowledge. And there will not be for the wrongdoers any helper."
+          },
+          {
+            "ar": "ٱلْمُجْرِمُونَ",
+            "en": "the criminals",
+            "ref": "10:17",
+            "verse": "فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ",
+            "verseEn": "So who is more unjust than he who invents a lie about Allāh or denies His signs? Indeed, the criminals will not succeed."
+          },
+          {
+            "ar": "ٱلْمُكَذِّبِينَ",
+            "en": "the deniers",
+            "ref": "56:92",
+            "verse": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+            "verseEn": "But if he was of the deniers [who were] astray,"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "غفلة",
+    "display": "غَفْلَة",
+    "hint": "A state of heedlessness or unawareness",
+    "verseRef": "21:97",
+    "arabicVerse": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَـٰخِصَةٌ أَبْصَـٰرُ ٱلَّذِينَ كَفَرُوا۟ يَـٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍۢ مِّنْ هَـٰذَا بَلْ كُنَّا ظَـٰلِمِينَ",
+    "verse": "21:97 - And [when] the true promise [i.e., the resurrection] has approached; then suddenly the eyes of those who disbelieved will be staring [in horror, while they say], \"O woe to us; we had been unmindful of this; rather, we were wrongdoers.\""
+  },
+  "deduction": {
+    "title": "The Slumber of the Righteous",
+    "intro": "In a time when faith was dangerous and the powerful sought to crush belief, a small band of young souls made a choice that would echo through ages. Fleeing all they knew, they sought refuge in the hidden darkness of a mountain and placed their trust entirely in Allah. What happened next would become a timeless sign for those who reflect.",
+    "clues": [
+      "We were a group of young people who believed in our Lord, and He increased us in guidance.",
+      "We stood before our people and declared that we would never call upon any deity besides Allah.",
+      "We sought refuge in a cave, saying, 'Our Lord, grant us mercy from Yourself and guide us rightly in our affair.'",
+      "We slept for a great number of years, and the sun would incline away from our cave and not touch us.",
+      "Our dog lay stretched out at the entrance of the cave, guarding us as if on watch.",
+      "When we were awakened, we wondered how long we had tarried, and one of us was sent with silver coins to buy food."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "People of the Cave",
+          "People of the Trench",
+          "People of the Sabbath",
+          "People of the Elephant",
+          "Companions of the Wood"
+        ],
+        "answer": "People of the Cave"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Fled to a cave to escape persecution for their faith",
+          "Destroyed by a violent wind",
+          "Swallowed by the earth",
+          "Drowned in the sea",
+          "Struck by a storm of stones"
+        ],
+        "answer": "Fled to a cave to escape persecution for their faith"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A dog guarding the cave entrance",
+          "A great ark",
+          "A staff that turned into a snake",
+          "A hoopoe bird",
+          "A golden calf"
+        ],
+        "answer": "A dog guarding the cave entrance"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "They remained in the cave for 309 years and were then raised as a sign",
+          "They were turned into apes",
+          "They were destroyed by a flood",
+          "They were made to cross the sea",
+          "They were given a kingdom"
+        ],
+        "answer": "They remained in the cave for 309 years and were then raised as a sign"
+      }
+    },
+    "verseRef": "18:25",
+    "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+    "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+  },
+  "scramble": {
+    "verseRef": "29:59",
+    "reference": "Surah Al-Ankabut (29:59)",
+    "segments": [
+      "word 1",
+      "word 2",
+      "word 3",
+      "word 4",
+      "word 5"
+    ],
+    "translations": [
+      "Those who",
+      "(are) patient",
+      "and upon",
+      "their Lord",
+      "put their trust"
+    ],
+    "hint": "A verse about patience and trusting in Allah.",
+    "arabic": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+    "words": [
+      "ٱلَّذِينَ",
+      "صَبَرُوا۟",
+      "وَعَلَىٰ",
+      "رَبِّهِمْ",
+      "يَتَوَكَّلُونَ"
+    ],
+    "verseEn": "Who have been patient and upon their Lord rely."
+  },
+  "roothive": {
+    "center": "م",
+    "outer": [
+      "س",
+      "ي",
+      "ه",
+      "ت",
+      "ك",
+      "ا"
+    ],
+    "root": {
+      "letters": "مسك",
+      "display": "م س ك",
+      "translit": "m-s-k",
+      "meaning": "The core idea is to grasp, hold, or retain something securely. Its Quranic forms branch into keeping, withholding, holding fast, and even musk as something that retains fragrance.",
+      "occurrences": 27,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "اتم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَتَمَّ",
+            "gloss": "perfect",
+            "type": "verb",
+            "root": "تمم",
+            "count": 16,
+            "ref": "2:233",
+            "pos": 9,
+            "alt": [
+              "complete",
+              "completes"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اسم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "اسْم",
+            "gloss": "name",
+            "type": "noun",
+            "root": "سمو",
+            "count": 39,
+            "ref": "5:4",
+            "pos": 23,
+            "alt": [
+              "names",
+              "name of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أُمَّة",
+            "gloss": "nation",
+            "type": "noun",
+            "root": "أمم",
+            "count": 64,
+            "ref": "2:128",
+            "pos": 7,
+            "alt": [
+              "community",
+              "nations"
+            ]
+          },
+          {
+            "lemma": "أَمَة",
+            "gloss": "bondwoman",
+            "type": "noun",
+            "root": "أمو",
+            "count": 2,
+            "ref": "2:221",
+            "pos": 6,
+            "alt": [
+              "female slaves"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أُمِّيّ",
+            "gloss": "unlettered ones",
+            "type": "noun",
+            "root": "أمم",
+            "count": 6,
+            "ref": "2:78",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "سمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَمَّى",
+            "gloss": "named",
+            "type": "verb",
+            "root": "سمو",
+            "count": 8,
+            "ref": "76:18",
+            "pos": 3,
+            "form": 2
+          },
+          {
+            "lemma": "سَمِيّ",
+            "gloss": "name",
+            "type": "noun",
+            "root": "سمو",
+            "count": 2,
+            "ref": "19:7",
+            "pos": 12,
+            "alt": [
+              "any similarity"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "كتم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "كَتَمَ",
+            "gloss": "conceal",
+            "type": "verb",
+            "root": "كتم",
+            "count": 21,
+            "ref": "2:140",
+            "pos": 21,
+            "alt": [
+              "concealed"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مات",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ماتَ",
+            "gloss": "die",
+            "type": "verb",
+            "root": "موت",
+            "count": 39,
+            "ref": "3:144",
+            "pos": 11,
+            "alt": [
+              "dies",
+              "died"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مسك",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مِسْك",
+            "gloss": "musk",
+            "type": "noun",
+            "root": "مسك",
+            "count": 1,
+            "ref": "83:26",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "ميت",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَيِّت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 38,
+            "ref": "2:28",
+            "pos": 5,
+            "alt": [
+              "die"
+            ]
+          },
+          {
+            "lemma": "مَيْت",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 5,
+            "ref": "6:122",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "اكمه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَكْمَه",
+            "gloss": "blind",
+            "type": "noun",
+            "root": "كمه",
+            "count": 2,
+            "ref": "3:49",
+            "pos": 25,
+            "alt": [
+              "born blind"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَماتَ",
+            "gloss": "causes death",
+            "type": "verb",
+            "root": "موت",
+            "count": 21,
+            "ref": "53:44",
+            "pos": 3,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "إِمام",
+            "gloss": "leaders",
+            "type": "noun",
+            "root": "أمم",
+            "count": 12,
+            "ref": "2:124",
+            "pos": 11,
+            "alt": [
+              "leader",
+              "guide"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امسك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَمْسَكَ",
+            "gloss": "upholds",
+            "type": "verb",
+            "root": "مسك",
+            "count": 18,
+            "ref": "33:37",
+            "pos": 9,
+            "alt": [
+              "keep",
+              "withholds"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "تيمم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَيَمَّمُ",
+            "gloss": "aim",
+            "type": "verb",
+            "root": "يمم",
+            "count": 3,
+            "ref": "2:267",
+            "pos": 15,
+            "alt": [
+              "tayammum",
+              "tayyammum"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "سيما",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سِيما",
+            "gloss": "marks",
+            "type": "noun",
+            "root": "سوم",
+            "count": 6,
+            "ref": "2:273",
+            "pos": 18,
+            "alt": [
+              "mark"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مايه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مِائَة",
+            "gloss": "hundred",
+            "type": "noun",
+            "root": "مأي",
+            "count": 10,
+            "ref": "2:259",
+            "pos": 19,
+            "alt": [
+              "two hundred",
+              "one hundred"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "متكي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُتَّكِئ",
+            "gloss": "reclining",
+            "type": "active participle",
+            "root": "وكأ",
+            "count": 8,
+            "ref": "18:31",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "مسمي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُسَمًّى",
+            "gloss": "appointed",
+            "type": "passive participle",
+            "root": "سمو",
+            "count": 21,
+            "ref": "2:282",
+            "pos": 9,
+            "alt": [
+              "specified",
+              "fixed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ممات",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَمات",
+            "gloss": "dying",
+            "type": "noun",
+            "root": "موت",
+            "count": 3,
+            "ref": "6:162",
+            "pos": 6,
+            "alt": [
+              "death"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ممسك",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُمْسِك",
+            "gloss": "withhold",
+            "type": "active participle",
+            "root": "مسك",
+            "count": 1,
+            "ref": "35:2",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "ميته",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَيْتَة",
+            "gloss": "dead",
+            "type": "noun",
+            "root": "موت",
+            "count": 6,
+            "ref": "6:139",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "يتيم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَتِيم",
+            "gloss": "orphan",
+            "type": "noun",
+            "root": "يتم",
+            "count": 23,
+            "ref": "4:127",
+            "pos": 14,
+            "alt": [
+              "orphans",
+              "two orphan boys"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اكمام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَكْمام",
+            "gloss": "coverings",
+            "type": "noun",
+            "root": "كمم",
+            "count": 2,
+            "ref": "41:47",
+            "pos": 10,
+            "alt": [
+              "sheaths"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امساك",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "إِمْساك",
+            "gloss": "to retain",
+            "type": "verbal noun",
+            "root": "مسك",
+            "count": 1,
+            "ref": "2:229",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "ممسكه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُمْسِكَة",
+            "gloss": "withholders",
+            "type": "active participle",
+            "root": "مسك",
+            "count": 1,
+            "ref": "39:38",
+            "pos": 29
+          }
+        ]
+      },
+      {
+        "w": "استمسك",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "اسْتَمْسَكَ",
+            "gloss": "grasped",
+            "type": "verb",
+            "root": "مسك",
+            "count": 3,
+            "ref": "2:256",
+            "pos": 16,
+            "alt": [
+              "has grasped"
+            ],
+            "form": 10
+          }
+        ]
+      },
+      {
+        "w": "مستمسك",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مُسْتَمْسِك",
+            "gloss": "holding fast",
+            "type": "active participle",
+            "root": "مسك",
+            "count": 1,
+            "ref": "43:21",
+            "pos": 8
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يُمَسِّكُ",
+        "gloss": "hold fast",
+        "type": "verb",
+        "root": "مسك",
+        "count": 1,
+        "ref": "7:170",
+        "pos": 2,
+        "form": 2
+      }
+    ],
+    "maxScore": 66,
+    "featuredRoot": "مسك"
+  }
+}

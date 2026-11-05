@@ -1,0 +1,650 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أفراد العائلة والنسل",
+        "nameEn": "Family members and offspring",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "وَبَنِينَ",
+            "en": "And children",
+            "ref": "74:13",
+            "verse": "وَبَنِينَ شُهُودًۭا",
+            "verseEn": "And children present [with him]"
+          },
+          {
+            "ar": "آبَاءَنَا",
+            "en": "our forefathers",
+            "ref": "26:74",
+            "verse": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+            "verseEn": "They said, \"But we found our fathers doing thus.\""
+          },
+          {
+            "ar": "ذُرِّيَّتِهِ",
+            "en": "his offsprings",
+            "ref": "29:27",
+            "verse": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ وَءَاتَيْنَـٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+            "verseEn": "And We gave to him Isaac and Jacob and placed in his descendants prophethood and scripture. And We gave him his reward in this world, and indeed, he is in the Hereafter among the righteous."
+          },
+          {
+            "ar": "وَلَدٍ",
+            "en": "a son",
+            "ref": "19:92",
+            "verse": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ أَن يَتَّخِذَ وَلَدًا",
+            "verseEn": "And it is not appropriate for the Most Merciful that He should take a son."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الزَّمَنِ فِي الْقُرْآنِ",
+        "nameEn": "Time expressions in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "مُصْبِحِينَ",
+            "en": "(by) early morning",
+            "ref": "15:66",
+            "verse": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقْطُوعٌۭ مُّصْبِحِينَ",
+            "verseEn": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning."
+          },
+          {
+            "ar": "يَوْمَئِذٍ",
+            "en": "that Day",
+            "ref": "77:34",
+            "verse": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+            "verseEn": "Woe, that Day, to the deniers."
+          },
+          {
+            "ar": "ٱلسَّاعَةُ",
+            "en": "the Hour",
+            "ref": "22:55",
+            "verse": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍۢ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+            "verseEn": "But those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly or there comes to them the punishment of a barren Day."
+          },
+          {
+            "ar": "أَبَدًا",
+            "en": "ever",
+            "ref": "9:83",
+            "verse": "فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍۢ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًۭا وَلَن تُقَـٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍۢ فَٱقْعُدُوا۟ مَعَ ٱلْخَـٰلِفِينَ",
+            "verseEn": "If Allāh should return you to a faction of them [after the expedition] and then they ask your permission to go out [to battle], say, \"You will not go out with me, ever, and you will never fight with me an enemy. Indeed, you were satisfied with sitting [at home] the first time, so sit [now] with those who stay behind.\""
+          }
+        ]
+      },
+      {
+        "name": "الموت والبعث",
+        "nameEn": "Words describing death and resurrection",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "مَوْتَتُنَا",
+            "en": "our death",
+            "ref": "44:35",
+            "verse": "إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ",
+            "verseEn": "\"There is not but our first death, and we will not be resurrected."
+          },
+          {
+            "ar": "نُبَدِّلَ",
+            "en": "We (will) change",
+            "ref": "56:61",
+            "verse": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+            "verseEn": "In that We will change your likenesses and produce you in that [form] which you do not know."
+          },
+          {
+            "ar": "خَلْقٍ",
+            "en": "a creation",
+            "ref": "34:7",
+            "verse": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍۢ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍۢ جَدِيدٍ",
+            "verseEn": "But those who disbelieve say, \"Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation?"
+          },
+          {
+            "ar": "رَاجِعُونَ",
+            "en": "(will) return",
+            "ref": "23:60",
+            "verse": "وَٱلَّذِينَ يُؤْتُونَ مَآ ءَاتَوا۟ وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَٰجِعُونَ",
+            "verseEn": "And they who give what they give while their hearts are fearful because they will be returning to their Lord -"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الْقُرْآنِ",
+        "nameEn": "Names of the Qur'an in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْقُرْآنِ",
+            "en": "Quran",
+            "ref": "41:26",
+            "verse": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَـٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ",
+            "verseEn": "And those who disbelieve say, \"Do not listen to this Qur’ān and speak noisily during [the recitation of] it that perhaps you will overcome.\""
+          },
+          {
+            "ar": "الْكِتَابَ",
+            "en": "the Book",
+            "ref": "16:64",
+            "verse": "وَمَآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِى ٱخْتَلَفُوا۟ فِيهِ ۙ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "And We have not revealed to you the Book, [O Muḥammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe."
+          },
+          {
+            "ar": "الْهُدَىٰ",
+            "en": "the guidance",
+            "ref": "40:53",
+            "verse": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْهُدَىٰ وَأَوْرَثْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ",
+            "verseEn": "And We had certainly given Moses guidance, and We caused the Children of Israel to inherit the Scripture"
+          },
+          {
+            "ar": "الْحَدِيثِ",
+            "en": "statement",
+            "ref": "53:59",
+            "verse": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+            "verseEn": "Then at this statement do you wonder?"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "مخلص",
+    "display": "مُخْلِص",
+    "hint": "Sincere and devoted with pure intention toward God alone",
+    "verseRef": "39:2",
+    "arabicVerse": "إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ",
+    "verse": "39:2 - Indeed, We have sent down to you the Book, [O Muḥammad], in truth. So worship Allāh, [being] sincere to Him in religion."
+  },
+  "deduction": {
+    "title": "the melody of the mountains at dusk",
+    "intro": "Listen as valleys echo with praise alongside a chosen servant of Allah. A voice gifted with melody, a judgment sought by disputants at the chamber, and metal softened by divine command await discovery. Which figure of worship and just rule speaks through these signs?",
+    "clues": [
+      "I was blessed by Allah with bounty and a melodious voice of praise.",
+      "I was taught by Allah to understand the language of just judgment between disputants.",
+      "I faced a mighty giant warrior in battle and by Allah's will I prevailed over them.",
+      "I was given wisdom, authority and a revealed scripture of psalms from Allah.",
+      "I was joined by the mountains and the birds in glorifying Allah with me in the evening and at sunrise.",
+      "I was taught by Allah to fashion coats of mail from iron that was made soft for me."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Dawud (David)",
+          "Prophet Ismail (Ishmael)",
+          "Prophet Yahya (John)",
+          "Dhul-Kifl",
+          "Prophet Al-Yasa (Elisha)"
+        ],
+        "answer": "Prophet Dawud (David)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Defeated Jalut (Goliath) in battle by Allah's will",
+          "Built the Ark to survive the great flood",
+          "Was thrown into a fire that Allah made cool",
+          "Was swallowed by a great fish in the sea",
+          "Was raised to the heavens without tasting death"
+        ],
+        "answer": "Defeated Jalut (Goliath) in battle by Allah's will"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Mountains and birds joining in praise of Allah",
+          "A staff that turned into a serpent",
+          "A fire that became cool and peaceful",
+          "A she-camel sent as a sign to the people",
+          "A wooden Ark resting on Mount Judi"
+        ],
+        "answer": "Mountains and birds joining in praise of Allah"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Granted kingship, wisdom, and the Zabur (Psalms)",
+          "Granted a son in old age after earnest prayer",
+          "Granted safety in the cave for many years",
+          "Granted a spring of Zamzam in the desert",
+          "Granted drowning of the army in the sea"
+        ],
+        "answer": "Granted kingship, wisdom, and the Zabur (Psalms)"
+      }
+    },
+    "verseRef": "38:18",
+    "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+    "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+  },
+  "scramble": {
+    "verseRef": "39:62",
+    "reference": "Az-Zumar (39:62)",
+    "segments": [
+      "اللَّهُ خَالِقُ",
+      "كُلِّ شَيْءٍ",
+      "وَهُوَ عَلَى",
+      "كُلِّ شَيْءٍ وَكِيلٌ"
+    ],
+    "translations": [
+      "Allah (is the) Creator (of) all",
+      "things and He",
+      "(is) over all",
+      "things a Guardian"
+    ],
+    "hint": "Allah as the Creator and Guardian over all things",
+    "arabic": "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍۢ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ",
+    "words": [
+      "ٱللَّهُ خَـٰلِقُ كُلِّ",
+      "شَىْءٍۢ ۖ وَهُوَ",
+      "عَلَىٰ كُلِّ",
+      "شَىْءٍۢ وَكِيلٌۭ"
+    ],
+    "verseEn": "Allāh is the Creator of all things, and He is, over all things, Disposer of affairs."
+  },
+  "roothive": {
+    "center": "ع",
+    "outer": [
+      "ط",
+      "و",
+      "ه",
+      "ا",
+      "ق",
+      "م"
+    ],
+    "root": {
+      "letters": "قطع",
+      "display": "ق ط ع",
+      "translit": "q-ṭ-ʿ",
+      "meaning": "The core idea is cutting or separating something so it is no longer whole or connected. Its forms describe the act of cutting, being cut apart, broken pieces, and even a final decision that cuts off debate.",
+      "occurrences": 36,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "طعم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "طَعِمُ",
+            "gloss": "taste",
+            "type": "verb",
+            "root": "طعم",
+            "count": 5,
+            "ref": "2:249",
+            "pos": 17,
+            "alt": [
+              "ate",
+              "can eat"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "طمع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "طَمَع",
+            "gloss": "hope",
+            "type": "noun",
+            "root": "طمع",
+            "count": 4,
+            "ref": "7:56",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "طوع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "طَوْع",
+            "gloss": "willingly",
+            "type": "noun",
+            "root": "طوع",
+            "count": 4,
+            "ref": "3:83",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "عام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عام",
+            "gloss": "year",
+            "type": "noun",
+            "root": "عوم",
+            "count": 9,
+            "ref": "2:259",
+            "pos": 20,
+            "alt": [
+              "one year",
+              "two years"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "عمه",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "عَمَّة",
+            "gloss": "paternal aunts",
+            "type": "noun",
+            "root": "عمم",
+            "count": 3,
+            "ref": "4:23",
+            "pos": 6,
+            "alt": [
+              "father's sisters"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قطع",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قُطِعَ",
+            "gloss": "cut off",
+            "type": "verb",
+            "root": "قطع",
+            "count": 12,
+            "ref": "2:27",
+            "pos": 8,
+            "alt": [
+              "cut",
+              "may cut off"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "قَطَّعَ",
+            "gloss": "be cut off",
+            "type": "verb",
+            "root": "قطع",
+            "count": 12,
+            "ref": "5:33",
+            "pos": 16,
+            "alt": [
+              "could be cloven asunder",
+              "be cut out"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "قِطَع",
+            "gloss": "pieces",
+            "type": "noun",
+            "root": "قطع",
+            "count": 2,
+            "ref": "10:27",
+            "pos": 18,
+            "alt": [
+              "are tracks"
+            ]
+          },
+          {
+            "lemma": "قِطْع",
+            "gloss": "part",
+            "type": "noun",
+            "root": "قطع",
+            "count": 2,
+            "ref": "11:81",
+            "pos": 11,
+            "alt": [
+              "portion"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وقع",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَقَعَ",
+            "gloss": "incumbent",
+            "type": "verb",
+            "root": "وقع",
+            "count": 12,
+            "ref": "4:100",
+            "pos": 24,
+            "alt": [
+              "has fallen",
+              "fell"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اطاع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَطاعَ",
+            "gloss": "obey",
+            "type": "verb",
+            "root": "طوع",
+            "count": 72,
+            "ref": "4:13",
+            "pos": 5,
+            "alt": [
+              "obeys",
+              "obeyed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اطعم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَطْعَمَ",
+            "gloss": "feed",
+            "type": "verb",
+            "root": "طعم",
+            "count": 13,
+            "ref": "6:14",
+            "pos": 10,
+            "alt": [
+              "feeds",
+              "is fed"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "طاعه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "طاعَة",
+            "gloss": "obedience",
+            "type": "noun",
+            "root": "طوع",
+            "count": 3,
+            "ref": "4:81",
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "w": "طعام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "طَعام",
+            "gloss": "food",
+            "type": "noun",
+            "root": "طعم",
+            "count": 24,
+            "ref": "2:61",
+            "pos": 7,
+            "alt": [
+              "feeding",
+              "feed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مهطع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُهْطِع",
+            "gloss": "racing ahead",
+            "type": "active participle",
+            "root": "هطع",
+            "count": 3,
+            "ref": "14:43",
+            "pos": 1,
+            "alt": [
+              "hasten"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واقع",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "واقِع",
+            "gloss": "fall",
+            "type": "active participle",
+            "root": "وقع",
+            "count": 6,
+            "ref": "7:171",
+            "pos": 9,
+            "alt": [
+              "befall",
+              "bound to happen"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اطعام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "إِطْعام",
+            "gloss": "feeding",
+            "type": "verbal noun",
+            "root": "طعم",
+            "count": 3,
+            "ref": "5:89",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "قاطعه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "قاطِعَة",
+            "gloss": "one to decide",
+            "type": "active participle",
+            "root": "قطع",
+            "count": 1,
+            "ref": "27:32",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "مقطوع",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَقْطُوع",
+            "gloss": "would be cut off",
+            "type": "passive participle",
+            "root": "قطع",
+            "count": 1,
+            "ref": "15:66",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "واقعه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "واقِعَة",
+            "gloss": "event",
+            "type": "active participle",
+            "root": "وقع",
+            "count": 2,
+            "ref": "56:1",
+            "pos": 3,
+            "alt": [
+              "occurrence"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مقطوعه",
+        "family": true,
+        "points": 6,
+        "senses": [
+          {
+            "lemma": "مَقْطُوعَة",
+            "gloss": "limited",
+            "type": "passive participle",
+            "root": "قطع",
+            "count": 1,
+            "ref": "56:33",
+            "pos": 2
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "تَقَطَّعَ",
+        "gloss": "have been severed",
+        "type": "verb",
+        "root": "قطع",
+        "count": 5,
+        "ref": "6:94",
+        "pos": 23,
+        "alt": [
+          "cut into pieces"
+        ],
+        "form": 5
+      }
+    ],
+    "maxScore": 43,
+    "featuredRoot": "قطع"
+  }
+}

@@ -2,6 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import '../models/audiobook_metadata.dart';
 import '../models/color_palette.dart';
+import '../screens/svg_palette_screen.dart';
 import '../widgets/side_panel.dart';
 import 'package:path/path.dart' as path;
 
@@ -682,7 +683,7 @@ class PlayerControls extends StatelessWidget {
             const PopupMenuItem<String>(
               enabled: false,
               height: 30,
-              child: Text('Font Line Space (Ctrl+↑/↓)', style: TextStyle(fontSize: 12)),
+              child: Text('Font Line Space (^↑/↓)', style: TextStyle(fontSize: 12)),
             ),
             const PopupMenuItem<String>(
               enabled: false,
@@ -704,11 +705,11 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'copyCurrentSubtitle',
-              child: Text('Copy Current Subtitle (u / U / Ctrl+u)'),
+              child: Text('Copy Current Subtitle (u / U / ^u)'),
             ),
             const PopupMenuItem(
               value: 'set_default',
-              child: Text('Set Font/Color as Default (Ctrl+t)'),
+              child: Text('Set Font/Color as Default (^t)'),
             ),
             PopupMenuItem(
               value: 'apply_default',
@@ -856,7 +857,7 @@ class PlayerControls extends StatelessWidget {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Text(
-                            'Prev Chapter (Shift+←)',
+                            'Prev Chapter (⇧←)',
                             textAlign: TextAlign.center,
                             style: const TextStyle(
                               color: Colors.white,
@@ -937,7 +938,7 @@ class PlayerControls extends StatelessWidget {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Text(
-                            'Next Chapter (Shift+→)',
+                            'Next Chapter (⇧→)',
                             textAlign: TextAlign.center,
                             style: const TextStyle(
                               color: Colors.white,
@@ -1128,7 +1129,7 @@ class PlayerControls extends StatelessWidget {
                       ),
                       SizedBox(height: 4),
                       Text(
-                        'Ctrl+1 to Ctrl+0 (1x-10x)',
+                        '^1 to ^0 (1x-10x)',
                         style: TextStyle(
                           color: Colors.orange,
                           fontSize: 12,
@@ -1256,7 +1257,7 @@ class PlayerControls extends StatelessWidget {
               const PopupMenuItem(value: 'set_in_last_out', child: Text('Set In Point to Last Out Point ( ⇧i )')),
               const PopupMenuItem(value: 'handleBlurCycle', child: Text('Blur Regions ( - )')),
               const PopupMenuItem(value: 'startDefiningTrackedBlur', child: Text('(Mac) Motion-Tracking Blur ( _ )')),
-              const PopupMenuItem(value: 'open_lut_picker', child: Text('LUTs Picker ( Ctrl+L )')),
+              const PopupMenuItem(value: 'open_lut_picker', child: Text('LUTs Picker ( ^L )')),
               const PopupMenuItem(value: 'combine_cuts', child: Text('All Cuts Combine → Encode  ( ⇧A )')),
               const PopupMenuItem(value: 'seek_back_1s', child: Text('Back 1s ( j )')),
               const PopupMenuItem(value: 'seek_forward_1s', child: Text('Forward 1s ( k )')),
@@ -1269,43 +1270,48 @@ class PlayerControls extends StatelessWidget {
             icon: const Icon(Icons.image, color: Colors.white70, size: 24),
             tooltip: 'Images',
             onSelected: (value) => onSettingsMenuSelected(context, value),
-            itemBuilder: (context) => const [
-              PopupMenuItem(
+            itemBuilder: (context) => [
+              const PopupMenuItem(
                 value: 'openAvifGallery',
-                child: Text('avif Gallery (Ctrl+g)'),
+                child: Text('avif Gallery (^g)'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'openJoinImages',
-                child: Text('Join Images (Ctrl+G)'),
+                child: Text('Join Images (^G)'),
               ),
-              PopupMenuDivider(),
-              PopupMenuItem(
+              if (SvgPaletteScreen.isSupported)
+                const PopupMenuItem(
+                  value: 'openSvgPalette',
+                  child: Text('Image to Animated SVG (^d)'),
+                ),
+              const PopupMenuDivider(),
+              const PopupMenuItem(
                 value: 'openImage',
-                child: Text('Open Image (Ctrl+b)'),
+                child: Text('Open Image (^b)'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'pasteImage',
-                child: Text('Paste Image (Ctrl/⌘+v)'),
+                child: Text('Paste Image (^/⌘+v)'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'prevImage',
                 child: Text('Prev Image ( { )'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'nextImage',
                 child: Text('Next Image ( } )'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'copyImage',
-                child: Text('Copy Image/sub to Clipboard (Ctrl/⌘+c)'),
+                child: Text('Copy Image/sub to Clipboard (^/⌘+c)'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'exportImage',
-                child: Text('Export Image avif/jpg/png (Ctrl+⌘+e)'),
+                child: Text('Export Image avif/jpg/png (^⌘+e)'),
               ),
-              PopupMenuItem(
+              const PopupMenuItem(
                 value: 'open_lut_picker',
-                child: Text('LUT Picker (Ctrl+L)'),
+                child: Text('LUT Picker (^L)'),
               ),
             ],
           ),

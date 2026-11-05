@@ -11,23 +11,20 @@ class FontDatabase {
 
     // ==================== free/Various ====================
     'Audiowide': FontMetadata(fontName: 'Audiowide', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Bisten': FontMetadata(fontName: 'Bisten', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Chrisye': FontMetadata(fontName: 'Chrisye', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Basenji': FontMetadata(fontName: 'Basenji', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Coaster Black': FontMetadata(fontName: 'Coaster Black', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Devinne Swash': FontMetadata(fontName: 'Devinne Swash', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'History of Wawa': FontMetadata(fontName: 'History of Wawa', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Glf-Cikutra': FontMetadata(fontName: 'Glf-Cikutra', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Junegull': FontMetadata(fontName: 'Junegull', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Ketupat Ramadhan': FontMetadata(fontName: 'Ketupat Ramadhan', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Kinesthesia': FontMetadata(fontName: 'Kinesthesia', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Kingthings Sans': FontMetadata(fontName: 'Kingthings Sans', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Marhey': FontMetadata(fontName: 'Marhey', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Righteous': FontMetadata(fontName: 'Righteous', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Shojumaru': FontMetadata(fontName: 'Shojumaru', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Spicy Rice': FontMetadata(fontName: 'Spicy Rice', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Spongeboytt2': FontMetadata(fontName: 'Spongeboytt2', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Syndra': FontMetadata(fontName: 'Syndra', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Ultra': FontMetadata(fontName: 'Ultra', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
-    'Yang Bagus': FontMetadata(fontName: 'Yang Bagus', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
 
  // ==================== free/foreign/languages ====================
      '0xProto': FontMetadata(fontName: '0xProto', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),

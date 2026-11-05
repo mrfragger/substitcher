@@ -1,0 +1,736 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْرَادُ الْعَائِلَةِ",
+        "nameEn": "Family relatives mentioned in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "وَأَخِي",
+            "en": "And my brother",
+            "ref": "28:34",
+            "verse": "وَأَخِى هَـٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًۭا فَأَرْسِلْهُ مَعِىَ رِدْءًۭا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+            "verseEn": "And my brother Aaron is more fluent than me in tongue, so send him with me as support, verifying me. Indeed, I fear that they will deny me.\""
+          },
+          {
+            "ar": "آبَائِكُمُ",
+            "en": "(of) your forefathers",
+            "ref": "26:26",
+            "verse": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+            "verseEn": "[Moses] said, \"Your Lord and the Lord of your first forefathers.\""
+          },
+          {
+            "ar": "لِأَزْوَاجِكَ",
+            "en": "to your wives",
+            "ref": "33:28",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًۭا جَمِيلًۭا",
+            "verseEn": "O Prophet, say to your wives, \"If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release."
+          },
+          {
+            "ar": "أَهْلِهِ",
+            "en": "his household",
+            "ref": "51:26",
+            "verse": "فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ",
+            "verseEn": "Then he went to his family and came with a fat [roasted] calf."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الْقُرْآنِ",
+        "nameEn": "Names of the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْقُرْآنِ",
+            "en": "Quran",
+            "ref": "39:27",
+            "verse": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+            "verseEn": "And We have certainly presented for the people in this Qur’ān from every [kind of] example - that they might remember."
+          },
+          {
+            "ar": "تَنزِيلَ",
+            "en": "A revelation",
+            "ref": "36:5",
+            "verse": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ",
+            "verseEn": "[This is] a revelation of the Exalted in Might, the Merciful,"
+          },
+          {
+            "ar": "كِتَابًا",
+            "en": "a book",
+            "ref": "43:21",
+            "verse": "أَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًۭا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ",
+            "verseEn": "Or have We given them a book before it [i.e., the Qur’ān] to which they are adhering?"
+          },
+          {
+            "ar": "ذِكْرٌ",
+            "en": "a reminder",
+            "ref": "81:27",
+            "verse": "إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَـٰلَمِينَ",
+            "verseEn": "It is not except a reminder to the worlds"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الْعَذَابِ وَالنَّارِ",
+        "nameEn": "Words for Hellfire and its torment",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْعَذَابِ",
+            "en": "the punishment",
+            "ref": "44:30",
+            "verse": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
+            "verseEn": "And We certainly saved the Children of Israel from the humiliating torment -"
+          },
+          {
+            "ar": "سَعِيرًا",
+            "en": "(in) a Blaze",
+            "ref": "84:12",
+            "verse": "وَيَصْلَىٰ سَعِيرًا",
+            "verseEn": "And [enter to] burn in a Blaze."
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "50:24",
+            "verse": "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍۢ",
+            "verseEn": "[Allāh will say], \"Throw into Hell every obstinate disbeliever,"
+          },
+          {
+            "ar": "النَّارِ",
+            "en": "the Fire",
+            "ref": "38:61",
+            "verse": "قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًۭا ضِعْفًۭا فِى ٱلنَّارِ",
+            "verseEn": "They will say, \"Our Lord, whoever brought this upon us - increase for him double punishment in the Fire.\""
+          }
+        ]
+      },
+      {
+        "name": "أَمَاكِنُ مَسْكُونَةٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Inhabited places mentioned in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْمَدَائِنِ",
+            "en": "the cities",
+            "ref": "26:36",
+            "verse": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+            "verseEn": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers"
+          },
+          {
+            "ar": "الْقُرَى",
+            "en": "the towns",
+            "ref": "28:59",
+            "verse": "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًۭا يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا ۚ وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَـٰلِمُونَ",
+            "verseEn": "And never would your Lord have destroyed the cities until He had sent to their mother [i.e., principal city] a messenger reciting to them Our verses. And We would not destroy the cities except while their people were wrongdoers."
+          },
+          {
+            "ar": "الدَّارُ",
+            "en": "the Home",
+            "ref": "28:83",
+            "verse": "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّۭا فِى ٱلْأَرْضِ وَلَا فَسَادًۭا ۚ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+            "verseEn": "That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption. And the [best] outcome is for the righteous."
+          },
+          {
+            "ar": "الْمَسْجِدَ",
+            "en": "the Masjid",
+            "ref": "17:7",
+            "verse": "إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ ۖ وَإِنْ أَسَأْتُمْ فَلَهَا ۚ فَإِذَا جَآءَ وَعْدُ ٱلْـَٔاخِرَةِ لِيَسُـۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍۢ وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا",
+            "verseEn": "[And said], \"If you do good, you do good for yourselves; and if you do evil, [you do it] to them [i.e., yourselves].\" Then when the final [i.e., second] promise came, [We sent your enemies] to sadden your faces and to enter the masjid [i.e., the temple in Jerusalem], as they entered it the first time, and to destroy what they had taken over with [total] destruction."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سكن",
+    "display": "سَكَنَ",
+    "hint": "That which settles and comes to rest, dwelling quietly in night and day",
+    "verseRef": "6:13",
+    "arabicVerse": "۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "verse": "6:13 - And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing."
+  },
+  "deduction": {
+    "title": "the treasure that sank beneath pride",
+    "intro": "Imagine standing before piles of wealth so vast that merely carrying the keys would exhaust a group of strong individuals. Around you, voices urge humility and remembrance, yet pride grows louder than gratitude. What happens when bounty becomes a test and arrogance seals the outcome?",
+    "clues": [
+      "I was from among the people of Musa, yet I transgressed against them.",
+      "I was granted treasures so immense that the keys to them would burden a band of strong men.",
+      "I was advised by my people not to exult and to seek the Hereafter without forgetting my share of this world.",
+      "I claimed that what I possessed was given to me only because of knowledge I had.",
+      "I paraded before my people in adornment, and those desiring worldly life wished for the like of what I had.",
+      "I was swallowed by the earth along with my dwelling, and none could help me nor could I help myself."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Qarun",
+          "Namrud",
+          "Jalut",
+          "Azar",
+          "Qabil"
+        ],
+        "answer": "Qarun"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Boasted of wealth and denied Allah's favor despite counsel",
+          "Challenged Ibrahim about giving life and death",
+          "Led an army against Talut and Dawud",
+          "Carved idols for the people to worship",
+          "Killed a brother out of envy over an offering"
+        ],
+        "answer": "Boasted of wealth and denied Allah's favor despite counsel"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Keys to immense treasures",
+          "The Ark of the Covenant",
+          "A golden calf of adornments",
+          "A dam between two mountains",
+          "Eleven stars in a dream"
+        ],
+        "answer": "Keys to immense treasures"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Swallowed by the earth with dwelling and wealth",
+          "Drowned in the sea while pursuing Musa",
+          "Struck down by a stone from Dawud's sling",
+          "Destroyed by a mighty blast for hamstringing a she-camel",
+          "Turned into apes for breaking the Sabbath"
+        ],
+        "answer": "Swallowed by the earth with dwelling and wealth"
+      }
+    },
+    "verseRef": "28:81",
+    "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+    "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+  },
+  "scramble": {
+    "verseRef": "7:200",
+    "reference": "Al-A'raf (7:200)",
+    "segments": [
+      "وَإِمَّا يَنزَغَنَّكَ",
+      "مِنَ الشَّيْطَانِ نَزْغٌ",
+      "فَاسْتَعِذْ بِاللَّهِ",
+      "إِنَّهُ سَمِيعٌ",
+      "عَلِيمٌ"
+    ],
+    "translations": [
+      "And if an evil suggestion comes to you",
+      "from [the] Shaitaan",
+      "[an evil suggestion] then seek refuge",
+      "in Allah Indeed, He",
+      "(is) All-Hearing All-Knowing"
+    ],
+    "hint": "Seeking refuge in Allah when tempted by Satan",
+    "arabic": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَـٰنِ نَزْغٌۭ فَٱسْتَعِذْ بِٱللَّهِ ۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
+    "words": [
+      "وَإِمَّا يَنزَغَنَّكَ",
+      "مِنَ ٱلشَّيْطَـٰنِ",
+      "نَزْغٌۭ فَٱسْتَعِذْ",
+      "بِٱللَّهِ ۚ إِنَّهُۥ",
+      "سَمِيعٌ عَلِيمٌ"
+    ],
+    "verseEn": "And if an evil suggestion comes to you from Satan, then seek refuge in Allāh. Indeed, He is Hearing and Knowing."
+  },
+  "roothive": {
+    "center": "ر",
+    "outer": [
+      "ض",
+      "ي",
+      "ا",
+      "ت",
+      "م",
+      "و"
+    ],
+    "root": {
+      "letters": "رضو",
+      "display": "ر ض و",
+      "translit": "r-ḍ-w",
+      "meaning": "The core idea is pleasure and willing acceptance. Its words grow into being pleased, seeking approval, living in contentment, and reaching mutual agreement.",
+      "occurrences": 73,
+      "lemmaCount": 11
+    },
+    "words": [
+      {
+        "w": "ارض",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَرْض",
+            "gloss": "earth",
+            "type": "noun",
+            "root": "أرض",
+            "count": 461,
+            "ref": "4:97",
+            "pos": 18,
+            "alt": [
+              "land"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَرَيْ",
+            "gloss": "show",
+            "type": "verb",
+            "root": "رأي",
+            "count": 40,
+            "ref": "6:75",
+            "pos": 2,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "امر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمْر",
+            "gloss": "command",
+            "type": "noun",
+            "root": "أمر",
+            "count": 166,
+            "ref": "2:117",
+            "pos": 6,
+            "alt": [
+              "matter",
+              "affair"
+            ]
+          },
+          {
+            "lemma": "أَمَرَ",
+            "gloss": "commands",
+            "type": "verb",
+            "root": "أمر",
+            "count": 77,
+            "ref": "2:27",
+            "pos": 10,
+            "alt": [
+              "commanded",
+              "has ordered"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "راي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَأَى",
+            "gloss": "see",
+            "type": "verb",
+            "root": "رأي",
+            "count": 271,
+            "ref": "2:55",
+            "pos": 8,
+            "alt": [
+              "saw",
+              "seen"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "رَأْى",
+            "gloss": "sight",
+            "type": "noun",
+            "root": "رأي",
+            "count": 2,
+            "ref": "3:13",
+            "pos": 17
+          }
+        ]
+      },
+      {
+        "w": "رضي",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "رَضِيَ",
+            "gloss": "be pleased",
+            "type": "verb",
+            "root": "رضو",
+            "count": 38,
+            "ref": "2:120",
+            "pos": 2,
+            "alt": [
+              "pleased",
+              "allah is pleased"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "رَضِيّ",
+            "gloss": "pleasing",
+            "type": "noun",
+            "root": "رضو",
+            "count": 1,
+            "ref": "19:6",
+            "pos": 8
+          }
+        ]
+      },
+      {
+        "w": "رمي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رَمَى",
+            "gloss": "throws",
+            "type": "verb",
+            "root": "رمي",
+            "count": 9,
+            "ref": "4:112",
+            "pos": 7,
+            "alt": [
+              "threw",
+              "throws up"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "ضار",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "ضارّ",
+            "gloss": "at all harm",
+            "type": "active participle",
+            "root": "ضرر",
+            "count": 2,
+            "ref": "2:102",
+            "pos": 45,
+            "alt": [
+              "harm"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مرض",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَض",
+            "gloss": "disease",
+            "type": "noun",
+            "root": "مرض",
+            "count": 13,
+            "ref": "2:10",
+            "pos": 3
+          }
+        ]
+      },
+      {
+        "w": "وري",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وُۥرِيَ",
+            "gloss": "to hide",
+            "type": "verb",
+            "root": "وري",
+            "count": 4,
+            "ref": "5:31",
+            "pos": 9,
+            "alt": [
+              "was concealed",
+              "covers"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "امري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "امْرِئ",
+            "gloss": "person",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 5,
+            "ref": "24:11",
+            "pos": 16,
+            "alt": [
+              "man"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تراض",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "تَراضَ",
+            "gloss": "agree",
+            "type": "verb",
+            "root": "رضو",
+            "count": 2,
+            "ref": "2:232",
+            "pos": 12,
+            "alt": [
+              "mutually agree"
+            ],
+            "form": 6
+          },
+          {
+            "lemma": "تَراض",
+            "gloss": "mutual consent",
+            "type": "verbal noun",
+            "root": "رضو",
+            "count": 2,
+            "ref": "2:233",
+            "pos": 38
+          }
+        ]
+      },
+      {
+        "w": "رميم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "رَمِيم",
+            "gloss": "decomposed",
+            "type": "noun",
+            "root": "رمم",
+            "count": 2,
+            "ref": "36:78",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "ضرار",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "ضِرار",
+            "gloss": "hurt",
+            "type": "verbal noun",
+            "root": "ضرر",
+            "count": 2,
+            "ref": "2:231",
+            "pos": 13,
+            "alt": [
+              "harm"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مرضي",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَرْضِيّ",
+            "gloss": "pleasing",
+            "type": "passive participle",
+            "root": "رضو",
+            "count": 1,
+            "ref": "19:55",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "مريض",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَرِيض",
+            "gloss": "sick",
+            "type": "noun",
+            "root": "مرض",
+            "count": 10,
+            "ref": "2:184",
+            "pos": 6,
+            "alt": [
+              "ill"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ارتضي",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "ارْتَضَى",
+            "gloss": "has approved",
+            "type": "verb",
+            "root": "رضو",
+            "count": 3,
+            "ref": "21:28",
+            "pos": 11,
+            "alt": [
+              "approves"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "امرات",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "امْرَأَت",
+            "gloss": "wife",
+            "type": "noun",
+            "root": "مرأ",
+            "count": 26,
+            "ref": "3:35",
+            "pos": 3,
+            "alt": [
+              "woman",
+              "women"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "توارت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "تَوارَتْ",
+            "gloss": "hides himself",
+            "type": "verb",
+            "root": "وري",
+            "count": 2,
+            "ref": "16:59",
+            "pos": 1,
+            "alt": [
+              "were hidden"
+            ],
+            "form": 6
+          }
+        ]
+      },
+      {
+        "w": "مرضات",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَرْضات",
+            "gloss": "please",
+            "type": "verbal noun",
+            "root": "رضو",
+            "count": 5,
+            "ref": "2:207",
+            "pos": 7,
+            "alt": [
+              "pleasure"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ممتري",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُمْتَري",
+            "gloss": "doubters",
+            "type": "active participle",
+            "root": "مري",
+            "count": 4,
+            "ref": "2:147",
+            "pos": 7,
+            "alt": [
+              "ones who doubt"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "رِضْوان",
+        "gloss": "pleasure",
+        "type": "noun",
+        "root": "رضو",
+        "count": 13,
+        "ref": "3:162",
+        "pos": 3
+      },
+      {
+        "lemma": "راضِيَة",
+        "gloss": "pleasant",
+        "type": "active participle",
+        "root": "رضو",
+        "count": 4,
+        "ref": "69:21",
+        "pos": 4,
+        "alt": [
+          "satisfied",
+          "well pleased"
+        ]
+      },
+      {
+        "lemma": "يُرْضُ",
+        "gloss": "satisfy",
+        "type": "verb",
+        "root": "رضو",
+        "count": 3,
+        "ref": "9:8",
+        "pos": 11,
+        "alt": [
+          "to please",
+          "should please"
+        ],
+        "form": 4
+      },
+      {
+        "lemma": "مَرْضِيَّة",
+        "gloss": "pleasing",
+        "type": "passive participle",
+        "root": "رضو",
+        "count": 1,
+        "ref": "89:28",
+        "pos": 5
+      }
+    ],
+    "maxScore": 46,
+    "featuredRoot": "رضو"
+  }
+}
