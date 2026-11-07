@@ -25,7 +25,7 @@ dependencies:
   process_run: ^1.4.1
 
   # State management
-  flutter_riverpod: ^3.2.1
+  flutter_riverpod: ^3.5.0
   wakelock_plus: ^1.8.2
 
   # Audio player
@@ -52,7 +52,7 @@ dependencies:
   # anki apkg files
   archive: ^4.6.0
   csv: ^8.0.0
-  sqlite3: ^3.8.0
+  sqlite3: ^3.9.0
   html: ^0.15.6
 
   # images decoding / encoding
