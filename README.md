@@ -389,6 +389,11 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - about 3x to 4x smaller than jpg
 - random slideshow
 
+### join images
+- put many images into one
+- export as avif, png or jpg
+- export html with subdir of aviff images that does a scroll slideshow or scroll zoom on different parts of an image or combine both
+
 ### Image to Animated svg (mac only)
 - choose a folder of images and builds a gallery and choose an image with background or without then choose 5 favorite color palettes amongst 752.
 - Save Animated svg which each second reveals the 5 color groups, holds 3s, then each 3s shows next favorite palette then back to 1st favorite then stops. 

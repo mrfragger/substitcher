@@ -74,7 +74,7 @@ __SVG__
   <div class="row"><button id="stroke">(S)ave Animated svg</button></div>
   <small>Drag the color boxes to reorder them. Slot 1 is the darkest color, the last slot the lightest. A palette is applied dark to light; Move colors (Space) shifts every color one slot along.<br>
   The original colors are the first favorite (remove it with &times; if you don't want it). Save up to 5 (F)avorites.<br>
-  "(A)nimated Stroke" previews the stroke-draw reveal: each group's outline draws in, then its fill fades in. With two or more favorites the colors then cross-fade through them and back to the first; with just one favorite in the list it holds that one. "(S)ave Animated Stroke svg" downloads that animation for use in a browser.</small>
+  "(A)nimated Stroke" previews the stroke-draw reveal: each group's outline draws in, then its fill fades in. It starts with the colors on screen. With two or more different favorites the colors then cross-fade through them and back to the first; with just one favorite in the list it holds that one. "(S)ave Animated Stroke svg" downloads that animation for use in a browser.</small>
 </aside>
 <script src="../palettes.js"></script>
 <script>
@@ -270,17 +270,29 @@ function strokeWidthPx(){
   return +(2*m/512).toFixed(2);                            // 2px at the default 512px trace
 }
 function strokeFavs(){
-  // Identical favorites (e.g. a saved one equal to the original) would only add a hold and a no-op fade.
-  // Every favorite in the list takes part, the first one (normally the original colors) draws the
-  // strokes, the others cross-fade in turn and it ends back on the first.
-  const pool=allFavs();
+  // The colors on screen (after Move colors, a palette, a flip...) come first: they draw the strokes and are
+  // what the saved file starts and ends on. The favorites follow and cross-fade in turn, ending back on the first.
+  // Identical palettes (e.g. a favorite equal to the colors on screen) would only add a hold and a no-op fade.
+  const pool=[cur.slice()].concat(allFavs());
   const seen=new Set(), F=[];
   pool.map(f=>fit(f,K)).forEach(f=>{const k=f.join();if(!seen.has(k)){seen.add(k);F.push(f);}});
-  return F.length?F:[cur.slice()];
+  return F;
 }
 // Traced SVGs only hold <path>; SVG sources may hold any basic shape (tagged .sk / .cN by tagSlots()).
 function shapeSel(scope,suffix){
   return (imported?SHAPES.split(','):['path']).map(t=>scope+t+suffix).join(',');
+}
+// SVG sources: shapes with BOTH a flat fill and a stroke of their own are tagged .fsFsS (fill slot F, stroke
+// slot S; S=0 = stroke is not a flat colour, left as is). Collect the pairs in use.
+function fillStrokePairs(){
+  const seen=new Set(), out=[];
+  svg.querySelectorAll(SHAPES).forEach(el=>{
+    el.classList.forEach(c=>{
+      const m=/^fs(\d+)s(\d+)$/.exec(c);
+      if(m&&!seen.has(c)){seen.add(c);out.push([+m[1],+m[2]]);}
+    });
+  });
+  return out;
 }
 // [scope] prefixes every selector (the live preview uses '#stage svg '; the export uses none).
 function strokeCascadeCSS(F,K,draw,overlap,sw,scope){
@@ -290,6 +302,7 @@ function strokeCascadeCSS(F,K,draw,overlap,sw,scope){
   const pct=s=>(100*s/T.total).toFixed(4)+'%';
   const sec=s=>s.toFixed(3)+'s';
   const out=[];
+  const pairs=imported?fillStrokePairs():[];
 
   out.push(shapeSel(scope,imported?'.sk':'')+'{stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:'+sw+
            ';stroke-dasharray:1;stroke-dashoffset:1}');
@@ -319,11 +332,18 @@ function strokeCascadeCSS(F,K,draw,overlap,sw,scope){
     }else{
       out.push(shapeSel(scope,'.c'+g)+'{fill-opacity:0;animation:'+drawA+','+fillA+','+colA+','+outA+'}');
     }
+    // SVG sources, shapes with a fill AND their own stroke in a different slot: draw the stroke in its own
+    // colour (and width, cap, join), fade the fill in with the fill colour, never fade the stroke out.
+    if(imported) pairs.filter(pr=>pr[0]===g).forEach(([f,s])=>{
+      out.push(shapeSel(scope,'.fs'+f+'s'+s)+'{stroke-dasharray:1;stroke-dashoffset:1;fill-opacity:0;animation:'+
+               drawA+','+fillA+',sk-fcol-c'+g+' '+sec(T.total)+' linear both'+
+               (s>0?',sk-scol-c'+s+' '+sec(T.total)+' linear both':'')+'}');
+    });
 
     // colour track: fill and stroke together, real crossfade between favorites
     // (stroke-only shapes of SVG sources get the same track with the stroke alone)
     const tracks=[['sk-col-c',c=>'fill:'+c+';stroke:'+c]];
-    if(imported) tracks.push(['sk-scol-c',c=>'stroke:'+c]);
+    if(imported) tracks.push(['sk-scol-c',c=>'stroke:'+c],['sk-fcol-c',c=>'fill:'+c]);
     tracks.forEach(([name,decl])=>{
       out.push('@keyframes '+name+g+'{');
       out.push('0%{'+decl(slices[0][g-1])+'}');
@@ -377,6 +397,10 @@ const imported=svg.getAttribute('data-input')==='svg';
 function exportSVG(mode){
   const clone=svg.cloneNode(true);
   clone.removeAttribute('style'); clone.removeAttribute('class'); clone.removeAttribute('data-input');
+  // Keep the colors on screen as --c1..--cN, so what the animation does not touch (text, arrowheads, shadows)
+  // is not reset to the original colors. For the stroke export that is the animation's first palette.
+  const F=mode==='stroke'?strokeFavs():null;
+  clone.setAttribute('style',(F?F[0]:cur).map((c,i)=>'--c'+(i+1)+':'+c).join(';'));
   const ttl=document.createElementNS(NS,'title');
   ttl.textContent='__NAME__-animated-stroke';
   clone.insertBefore(ttl,clone.firstChild);
@@ -384,7 +408,7 @@ function exportSVG(mode){
     if(!imported) clone.querySelectorAll('style').forEach(s=>s.remove());   // SVG sources keep theirs (classes, gradients)
     clone.querySelectorAll(SHAPES).forEach(p=>p.setAttribute('pathLength','1'));
     const st=document.createElementNS(NS,'style');
-    st.textContent=strokeCascadeCSS(strokeFavs(),K,strokeDraw,strokeOverlap,strokeWidthPx(),'');
+    st.textContent=strokeCascadeCSS(F,K,strokeDraw,strokeOverlap,strokeWidthPx(),'');
     clone.insertBefore(st,ttl.nextSibling);
   }
   let xml=new XMLSerializer().serializeToString(clone);
@@ -418,8 +442,13 @@ function tagSlots(){
     const cs=getComputedStyle(el);
     const fs=slotOfCss(cs.fill);
     if(fs>=0){
-      el.classList.add('c'+(fs+1),'sk');
-      if(cs.stroke==='none'||!(parseFloat(cs.strokeWidth)>0)) el.classList.add('ns');   // no stroke of its own
+      if(cs.stroke==='none'||!(parseFloat(cs.strokeWidth)>0)){
+        el.classList.add('c'+(fs+1),'sk','ns');   // no stroke of its own: the outline is only the draw-in effect
+      }else{
+        // Fill and a real stroke: remember both slots so each keeps its own colour (and the stroke is kept).
+        const ss=slotOfCss(cs.stroke);
+        el.classList.add('fs'+(fs+1)+'s'+(ss>=0?ss+1:0));
+      }
       return;
     }
     // No flat fill: a line / outline shape. Follow its stroke colour and animate only the stroke.

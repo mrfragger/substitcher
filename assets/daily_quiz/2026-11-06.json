@@ -1,0 +1,591 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْآخِرَةِ وَالْبَعْثِ",
+        "nameEn": "Terms for the Hereafter and Resurrection",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "السَّاعَةِ",
+            "en": "of the Hour",
+            "ref": "43:61",
+            "verse": "وَإِنَّهُۥ لَعِلْمٌۭ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ ۚ هَـٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ",
+            "verseEn": "And indeed, he [i.e., Jesus] will be [a sign for] knowledge of the Hour, so be not in doubt of it, and follow Me. This is a straight path."
+          },
+          {
+            "ar": "الْقِيَامَةِ",
+            "en": "(of) the Resurrection",
+            "ref": "39:47",
+            "verse": "وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًۭا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ",
+            "verseEn": "And if those who did wrong had all that is in the earth entirely and the like of it with it, they would [attempt to] ransom themselves thereby from the worst of the punishment on the Day of Resurrection. And there will appear to them from Allāh that which they had not taken into account."
+          },
+          {
+            "ar": "بِالْآخِرَةِ",
+            "en": "in the Hereafter",
+            "ref": "53:27",
+            "verse": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+            "verseEn": "Indeed, those who do not believe in the Hereafter name the angels female names,"
+          },
+          {
+            "ar": "يُبْعَثُونَ",
+            "en": "they are resurrected",
+            "ref": "26:87",
+            "verse": "وَلَا تُخْزِنِى يَوْمَ يُبْعَثُونَ",
+            "verseEn": "And do not disgrace me on the Day they are [all] resurrected -"
+          }
+        ]
+      },
+      {
+        "name": "أَعْلَامُ الأَشْخَاصِ فِي الْقُرْآنِ",
+        "nameEn": "Famous Individuals Named in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "مُوسَىٰ",
+            "en": "O Musa",
+            "ref": "20:49",
+            "verse": "قَالَ فَمَن رَّبُّكُمَا يَـٰمُوسَىٰ",
+            "verseEn": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\""
+          },
+          {
+            "ar": "إِبْرَاهِيمَ",
+            "en": "(of) Ibrahim",
+            "ref": "26:69",
+            "verse": "وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ",
+            "verseEn": "And recite to them the news of Abraham,"
+          },
+          {
+            "ar": "وَهَارُونَ",
+            "en": "and Harun",
+            "ref": "7:122",
+            "verse": "رَبِّ مُوسَىٰ وَهَـٰرُونَ",
+            "verseEn": "The Lord of Moses and Aaron.\""
+          },
+          {
+            "ar": "فِرْعَوْنَ",
+            "en": "Firaun",
+            "ref": "10:83",
+            "verse": "فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ",
+            "verseEn": "But no one believed Moses, except [some] offspring [i.e., youths] among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْإِدْرَاكِ الْحِسِّيِّ",
+        "nameEn": "Verbs of seeing, hearing and blind wandering",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَفَرَأَيْتُم",
+            "en": "And do you see",
+            "ref": "56:63",
+            "verse": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+            "verseEn": "And have you seen that [seed] which you sow?"
+          },
+          {
+            "ar": "يَنظُرُوا",
+            "en": "they look",
+            "ref": "7:185",
+            "verse": "أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا خَلَقَ ٱللَّهُ مِن شَىْءٍۢ وَأَنْ عَسَىٰٓ أَن يَكُونَ قَدِ ٱقْتَرَبَ أَجَلُهُمْ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+            "verseEn": "Do they not look into the realm of the heavens and the earth and everything that Allāh has created and [think] that perhaps their appointed time has come near? So in what statement [i.e., message] hereafter will they believe?"
+          },
+          {
+            "ar": "تُسْمِعُ",
+            "en": "cause to hear",
+            "ref": "27:80",
+            "verse": "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+            "verseEn": "Indeed, you will not make the dead hear, nor will you make the deaf hear the call when they have turned their backs retreating."
+          },
+          {
+            "ar": "يَعْمَهُونَ",
+            "en": "wandering blindly",
+            "ref": "15:72",
+            "verse": "لَعَمْرُكَ إِنَّهُمْ لَفِى سَكْرَتِهِمْ يَعْمَهُونَ",
+            "verseEn": "By your life, [O Muḥammad], indeed they were, in their intoxication, wandering blindly."
+          }
+        ]
+      },
+      {
+        "name": "أَمَاكِنُ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Places mentioned in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْمَدِينَةِ",
+            "en": "(of) the city",
+            "ref": "15:67",
+            "verse": "وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ",
+            "verseEn": "And the people of the city came rejoicing."
+          },
+          {
+            "ar": "السَّمَاوَاتِ",
+            "en": "(of) the heavens",
+            "ref": "39:63",
+            "verse": "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+            "verseEn": "To Him belong the keys of the heavens and the earth. And they who disbelieve in the verses of Allāh - it is those who are the losers."
+          },
+          {
+            "ar": "جَنَّاتٍ",
+            "en": "Gardens",
+            "ref": "70:35",
+            "verse": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍۢ مُّكْرَمُونَ",
+            "verseEn": "They will be in gardens, honored."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "(of) the land",
+            "ref": "12:55",
+            "verse": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ",
+            "verseEn": "[Joseph] said, \"Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "ذنب",
+    "display": "ذَنْب",
+    "hint": "A moral burden one seeks forgiveness for",
+    "verseRef": "12:29",
+    "arabicVerse": "يُوسُفُ أَعْرِضْ عَنْ هَـٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ",
+    "verse": "12:29 - Joseph, ignore this. And, [my wife], ask forgiveness for your sin. Indeed, you were of the sinful.\""
+  },
+  "deduction": {
+    "title": "The First Blood Spilled in Envy",
+    "intro": "Picture the earliest days of humanity, when the whole world was one family. You watch as two offerings are placed before Allah — one accepted, the other rejected. Envy takes root in a heart, and a threat is whispered in anger. What follows will leave a mark on history forever, and even a small bird will become a teacher.",
+    "clues": [
+      "I belong to the very first family on earth.",
+      "I presented an offering to Allah, but mine was not accepted while the other offering was.",
+      "I spoke out in envy and threatened to take a life.",
+      "I committed the first unjust killing on earth.",
+      "I saw a crow scratching the ground to show me how to hide a body.",
+      "I was left full of regret and became among the losers for what my hands had done."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Qabil (Cain), son of Adam",
+          "Samiri, the maker of the calf",
+          "Namrud, the tyrant who argued with Ibrahim",
+          "Azar, the maker of idols",
+          "Kan'an, the drowned son of Nuh"
+        ],
+        "answer": "Qabil (Cain), son of Adam"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Murder of a sibling out of envy after rejected offering",
+          "Building a lofty tower to look at the heavens",
+          "Fashioning a golden calf for worship",
+          "Demanding a table spread from heaven",
+          "Leading an army of elephants to destroy the Kaaba"
+        ],
+        "answer": "Murder of a sibling out of envy after rejected offering"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A crow scratching the earth to show burial",
+          "A golden calf that lowed",
+          "A great ark upon the flood waters",
+          "A staff that became a serpent",
+          "A table spread with food from heaven"
+        ],
+        "answer": "A crow scratching the earth to show burial"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became remorseful and among the losers",
+          "Was drowned in the great flood",
+          "Was swallowed by the earth with treasure",
+          "Was struck with leprosy for seven years",
+          "Was granted a kingdom with control of the winds"
+        ],
+        "answer": "Became remorseful and among the losers"
+      }
+    },
+    "verseRef": "5:30",
+    "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+    "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+  },
+  "scramble": {
+    "verseRef": "28:69",
+    "reference": "Al-Qasas (28:69)",
+    "segments": [
+      "وَرَبُّكَ يَعْلَمُ",
+      "مَا تُكِنُّ",
+      "صُدُورُهُمْ",
+      "وَمَا يُعْلِنُونَ"
+    ],
+    "translations": [
+      "And your Lord knows",
+      "what conceals",
+      "their breasts and what",
+      "they declare"
+    ],
+    "hint": "Allah's complete knowledge of what hearts hide and what is made open",
+    "arabic": "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+    "words": [
+      "وَرَبُّكَ يَعْلَمُ",
+      "مَا تُكِنُّ",
+      "صُدُورُهُمْ وَمَا",
+      "يُعْلِنُونَ"
+    ],
+    "verseEn": "And your Lord knows what their breasts conceal and what they declare."
+  },
+  "roothive": {
+    "center": "ح",
+    "outer": [
+      "ف",
+      "ه",
+      "ظ",
+      "ل",
+      "ا",
+      "ي"
+    ],
+    "root": {
+      "letters": "حفظ",
+      "display": "ح ف ظ",
+      "translit": "ḥ-f-ẓ",
+      "meaning": "The core idea is keeping something safe from harm or loss. Its words grow by showing a guarding person or a thing kept secure through care.",
+      "occurrences": 44,
+      "lemmaCount": 8
+    },
+    "words": [
+      {
+        "w": "احل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَحَلَّ",
+            "gloss": "permitted",
+            "type": "verb",
+            "root": "حلل",
+            "count": 20,
+            "ref": "2:187",
+            "pos": 1,
+            "alt": [
+              "are made lawful",
+              "has made lawful"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "حال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حالَ",
+            "gloss": "comes",
+            "type": "verb",
+            "root": "حول",
+            "count": 3,
+            "ref": "8:24",
+            "pos": 14,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "حفظ",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "حَفِظَ",
+            "gloss": "them to guard",
+            "type": "verb",
+            "root": "حفظ",
+            "count": 7,
+            "ref": "4:34",
+            "pos": 20,
+            "form": 1
+          },
+          {
+            "lemma": "حِفْظ",
+            "gloss": "guard",
+            "type": "noun",
+            "root": "حفظ",
+            "count": 3,
+            "ref": "2:255",
+            "pos": 47,
+            "alt": [
+              "guarding of both of"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حفي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حَفِيّ",
+            "gloss": "well informed",
+            "type": "noun",
+            "root": "حفو",
+            "count": 2,
+            "ref": "7:187",
+            "pos": 26,
+            "alt": [
+              "ever gracious"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حلف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حَلَفْ",
+            "gloss": "swear",
+            "type": "verb",
+            "root": "حلف",
+            "count": 12,
+            "ref": "4:62",
+            "pos": 10,
+            "alt": [
+              "swearing",
+              "have sworn"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "حلل",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "حَلَلْ",
+            "gloss": "settles",
+            "type": "verb",
+            "root": "حلل",
+            "count": 14,
+            "ref": "2:228",
+            "pos": 7,
+            "alt": [
+              "lawful",
+              "on whom descends"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "احيا",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَحْيا",
+            "gloss": "revives",
+            "type": "verb",
+            "root": "حيي",
+            "count": 51,
+            "ref": "2:73",
+            "pos": 5,
+            "alt": [
+              "gives life",
+              "give life"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "افلح",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَفْلَحَ",
+            "gloss": "succeed",
+            "type": "verb",
+            "root": "فلح",
+            "count": 27,
+            "ref": "6:21",
+            "pos": 13,
+            "alt": [
+              "be successful",
+              "successful"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "حافظ",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "حافِظ",
+            "gloss": "protector",
+            "type": "active participle",
+            "root": "حفظ",
+            "count": 13,
+            "ref": "12:64",
+            "pos": 14,
+            "alt": [
+              "guardians",
+              "guardian"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حفيظ",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "حَفِيظ",
+            "gloss": "guardian",
+            "type": "active participle",
+            "root": "حفظ",
+            "count": 12,
+            "ref": "4:80",
+            "pos": 12,
+            "alt": [
+              "guardians",
+              "guarded"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "حلال",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "حَلال",
+            "gloss": "lawful",
+            "type": "noun",
+            "root": "حلل",
+            "count": 6,
+            "ref": "2:168",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "حليه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "حِلْيَة",
+            "gloss": "ornaments",
+            "type": "noun",
+            "root": "حلي",
+            "count": 4,
+            "ref": "13:17",
+            "pos": 18
+          }
+        ]
+      },
+      {
+        "w": "حياه",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "حَياة",
+            "gloss": "life",
+            "type": "noun",
+            "root": "حيي",
+            "count": 76,
+            "ref": "2:96",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "يحيي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "يَحْيَى",
+            "gloss": "yahya",
+            "type": "proper noun",
+            "root": "حيي",
+            "count": 5,
+            "ref": "19:7",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "حافظه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "حافِظَة",
+            "gloss": "guarding",
+            "type": "active participle",
+            "root": "حفظ",
+            "count": 2,
+            "ref": "4:34",
+            "pos": 17
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "يُحافِظُ",
+        "gloss": "guard strictly",
+        "type": "verb",
+        "root": "حفظ",
+        "count": 4,
+        "ref": "2:238",
+        "pos": 1,
+        "alt": [
+          "guarding",
+          "guard"
+        ],
+        "form": 3
+      },
+      {
+        "lemma": "مَحْفُوظ",
+        "gloss": "protected",
+        "type": "passive participle",
+        "root": "حفظ",
+        "count": 2,
+        "ref": "21:32",
+        "pos": 4,
+        "alt": [
+          "guarded"
+        ]
+      },
+      {
+        "lemma": "اسْتُحْفِظُ",
+        "gloss": "were entrusted",
+        "type": "verb",
+        "root": "حفظ",
+        "count": 1,
+        "ref": "5:44",
+        "pos": 17,
+        "form": 10
+      }
+    ],
+    "maxScore": 33,
+    "featuredRoot": "حفظ"
+  }
+}

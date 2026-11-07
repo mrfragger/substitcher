@@ -1,0 +1,738 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَشْخَاصٌ سُمُّوا فِي الْقُرْآنِ",
+        "nameEn": "Individuals named in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "17:2",
+            "verse": "وَءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ إِسْرَٰٓءِيلَ أَلَّا تَتَّخِذُوا۟ مِن دُونِى وَكِيلًۭا",
+            "verseEn": "And We gave Moses the Scripture and made it a guidance for the Children of Israel that you not take other than Me as Disposer of affairs,"
+          },
+          {
+            "ar": "هَارُونُ",
+            "en": "Harun",
+            "ref": "20:90",
+            "verse": "وَلَقَدْ قَالَ لَهُمْ هَـٰرُونُ مِن قَبْلُ يَـٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَـٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى",
+            "verseEn": "And Aaron had already told them before [the return of Moses], \"O my people, you are only being tested by it, and indeed, your Lord is the Most Merciful, so follow me and obey my order.\""
+          },
+          {
+            "ar": "هُودُ",
+            "en": "O Hud",
+            "ref": "11:53",
+            "verse": "قَالُوا۟ يَـٰهُودُ مَا جِئْتَنَا بِبَيِّنَةٍۢ وَمَا نَحْنُ بِتَارِكِىٓ ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ",
+            "verseEn": "They said, \"O Hūd, you have not brought us clear evidence, and we are not ones to leave our gods on your say-so. Nor are we believers in you."
+          },
+          {
+            "ar": "فِرْعَوْنُ",
+            "en": "Firaun said",
+            "ref": "26:23",
+            "verse": "قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "Said Pharaoh, \"And what is the Lord of the worlds?\""
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالٌ مَذْمُومَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Sinful acts condemned in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "يَسْرِقْنَ",
+            "en": "they will steal",
+            "ref": "60:12",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allāh, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allāh. Indeed, Allāh is Forgiving and Merciful."
+          },
+          {
+            "ar": "يَلْمِزُونَ",
+            "en": "criticize",
+            "ref": "9:79",
+            "verse": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَـٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ ۙ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "verseEn": "Those who criticize the contributors among the believers concerning [their] charities and [criticize] the ones who find nothing [to spend] except their effort, so they ridicule them - Allāh will ridicule them, and they will have a painful punishment."
+          },
+          {
+            "ar": "الْكَذِبَ",
+            "en": "the lie",
+            "ref": "16:62",
+            "verse": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ",
+            "verseEn": "And they attribute to Allāh that which they dislike [i.e., daughters], and their tongues assert the lie that they will have the best [from Him]. Assuredly, they will have the Fire, and they will be [therein] neglected."
+          },
+          {
+            "ar": "يَفْتَرُونَ",
+            "en": "invent",
+            "ref": "6:138",
+            "verse": "وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌۭ وَحَرْثٌ حِجْرٌۭ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌۭ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+            "verseEn": "And they say, \"These animals and crops are forbidden; no one may eat from them except whom we will,\" by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْكَلَامِ وَالسَّمْعِ",
+        "nameEn": "Verbs of speaking and listening in the Qur'an",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "يَسْتَمِعُونَ",
+            "en": "they listen",
+            "ref": "52:38",
+            "verse": "أَمْ لَهُمْ سُلَّمٌۭ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَـٰنٍۢ مُّبِينٍ",
+            "verseEn": "Or have they a stairway [into the heaven] upon which they listen? Then let their listener produce a clear authority [i.e., proof]."
+          },
+          {
+            "ar": "يَنطِقُونَ",
+            "en": "they will speak",
+            "ref": "77:35",
+            "verse": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+            "verseEn": "This is a Day they will not speak,"
+          },
+          {
+            "ar": "يَتَسَاءَلُونَ",
+            "en": "questioning one another",
+            "ref": "37:50",
+            "verse": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+            "verseEn": "And they will approach one another, inquiring of each other."
+          },
+          {
+            "ar": "يَصِفُونَ",
+            "en": "they attribute",
+            "ref": "23:91",
+            "verse": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍۢ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًۭا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍۢ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+            "verseEn": "Allāh has not taken any son, nor has there ever been with Him any deity. [If there had been], then each deity would have taken what it created, and some of them would have [sought to] overcome others. Exalted is Allāh above what they describe [concerning Him]."
+          }
+        ]
+      },
+      {
+        "name": "مَظَاهِرُ الكَوْنِ الطَّبِيعِيَّةُ",
+        "nameEn": "Natural phenomena and realms in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "السَّمَاءِ",
+            "en": "the heaven",
+            "ref": "22:70",
+            "verse": "أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۗ إِنَّ ذَٰلِكَ فِى كِتَـٰبٍ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ",
+            "verseEn": "Do you not know that Allāh knows what is in the heaven and earth? Indeed, that is in a Record. Indeed that, for Allāh, is easy."
+          },
+          {
+            "ar": "وَاللَّيْلِ",
+            "en": "And the night",
+            "ref": "81:17",
+            "verse": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+            "verseEn": "And by the night as it closes in"
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "4:131",
+            "verse": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ غَنِيًّا حَمِيدًۭا",
+            "verseEn": "And to Allāh belongs whatever is in the heavens and whatever is on the earth. And We have instructed those who were given the Scripture before you and yourselves to fear Allāh. But if you disbelieve - then to Allāh belongs whatever is in the heavens and whatever is on the earth. And ever is Allāh Free of need and Praiseworthy."
+          },
+          {
+            "ar": "نَارٍ",
+            "en": "fire",
+            "ref": "38:76",
+            "verse": "قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ",
+            "verseEn": "He said, \"I am better than him. You created me from fire and created him from clay.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "ساعة",
+    "display": "سَاعَة",
+    "hint": "The promised moment of reckoning that doubters think will never stand",
+    "verseRef": "18:36",
+    "arabicVerse": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا",
+    "verse": "18:36 - And I do not think the Hour will occur. And even if I should be brought back to my Lord, I will surely find better than this as a return.\""
+  },
+  "deduction": {
+    "title": "the starlit search for certainty",
+    "intro": "Picture standing beneath a vast night sky, watching bright lights rise and then fade while searching for what truly deserves devotion. Around you, silent carved images receive praise and offerings, yet clear reason questions their power. A fearless voice is about to challenge inherited tradition and point toward the Creator of the heavens and the earth.",
+    "clues": [
+      "I looked to the stars, the moon, and the sun, and I reasoned they could not be my Lord because they set and disappear.",
+      "I openly disavowed what my people worshipped besides Allah and called them to worship the Creator alone.",
+      "I debated a boastful ruler who claimed to give life and death, and I answered by mentioning Allah bringing the sun from the east.",
+      "I struck the idols and shattered them, leaving only the largest among them so the people might return to it.",
+      "I was seized and condemned by my people, who said to build a structure and cast me into the blazing fire.",
+      "I was saved when Allah commanded the fire to be coolness and safety for me."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ibrahim (Abraham)",
+          "Prophet Yahya (John)",
+          "Prophet Al-Yasa (Elisha)",
+          "The Samiri",
+          "Namrud (Nimrod)"
+        ],
+        "answer": "Prophet Ibrahim (Abraham)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Confronted idol worship and debated the meaning of celestial bodies",
+          "Was swallowed by a great fish after departing in anger",
+          "Led followers through a sea parted by Allah",
+          "Was raised alive to the heavens without tasting death",
+          "Slept in a cave with companions for many years"
+        ],
+        "answer": "Confronted idol worship and debated the meaning of celestial bodies"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A blazing fire made cool and safe by Allah",
+          "The ark that carried believers through the flood",
+          "The staff that became a serpent",
+          "The table spread from heaven",
+          "The she-camel sent as a sign"
+        ],
+        "answer": "A blazing fire made cool and safe by Allah"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Protected from fire and granted righteous descendants",
+          "Drowned with deniers in a great flood",
+          "Transformed for violating the Sabbath",
+          "Destroyed by birds carrying stones of clay",
+          "Swallowed by the earth with treasures"
+        ],
+        "answer": "Protected from fire and granted righteous descendants"
+      }
+    },
+    "verseRef": "6:75",
+    "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+    "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+  },
+  "scramble": {
+    "verseRef": "2:157",
+    "reference": "Surah Al-Baqarah (2:157)",
+    "segments": [
+      "أُولَٰئِكَ عَلَيْهِمْ",
+      "صَلَوَاتٌ مِّن رَّبِّهِمْ",
+      "وَرَحْمَةٌ",
+      "وَأُولَٰئِكَ هُمُ",
+      "الْمُهْتَدُونَ"
+    ],
+    "translations": [
+      "Those on them",
+      "(are) blessings from",
+      "their Lord and Mercy",
+      "And those [they]",
+      "(are) the guided ones"
+    ],
+    "hint": "Allah's reward and guidance for the patient who say 'Indeed we belong to Allah' in calamity",
+    "arabic": "أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌۭ مِّن رَّبِّهِمْ وَرَحْمَةٌۭ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+    "words": [
+      "أُو۟لَـٰٓئِكَ عَلَيْهِمْ",
+      "صَلَوَٰتٌۭ مِّن",
+      "رَّبِّهِمْ وَرَحْمَةٌۭ ۖ",
+      "وَأُو۟لَـٰٓئِكَ هُمُ",
+      "ٱلْمُهْتَدُونَ"
+    ],
+    "verseEn": "Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided."
+  },
+  "roothive": {
+    "center": "د",
+    "outer": [
+      "ا",
+      "س",
+      "ه",
+      "م",
+      "و",
+      "ج"
+    ],
+    "root": {
+      "letters": "سجد",
+      "display": "س ج د",
+      "translit": "s-j-d",
+      "meaning": "The core idea is humble bowing down in worship. From it come words for the action itself, the person doing it, and the place where it happens.",
+      "occurrences": 92,
+      "lemmaCount": 4
+    },
+    "words": [
+      {
+        "w": "ادم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آدَم",
+            "gloss": "adam",
+            "type": "proper noun",
+            "root": "أدم",
+            "count": 25,
+            "ref": "2:31",
+            "pos": 2,
+            "alt": [
+              "children of adam",
+              "adam disobeyed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمَدَّ",
+            "gloss": "extend",
+            "type": "verb",
+            "root": "مدد",
+            "count": 10,
+            "ref": "17:20",
+            "pos": 2,
+            "form": 4
+          },
+          {
+            "lemma": "أَمَد",
+            "gloss": "distance",
+            "type": "noun",
+            "root": "أمد",
+            "count": 4,
+            "ref": "3:30",
+            "pos": 19,
+            "alt": [
+              "time",
+              "term"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "جسد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَسَد",
+            "gloss": "body",
+            "type": "noun",
+            "root": "جسد",
+            "count": 4,
+            "ref": "7:148",
+            "pos": 9,
+            "alt": [
+              "image",
+              "bodies"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "جهد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "جَهْد",
+            "gloss": "strongest",
+            "type": "verbal noun",
+            "root": "جهد",
+            "count": 5,
+            "ref": "5:53",
+            "pos": 8,
+            "alt": [
+              "strong"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "دام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دامُ",
+            "gloss": "as long as remain",
+            "type": "verb",
+            "root": "دوم",
+            "count": 7,
+            "ref": "11:107",
+            "pos": 4,
+            "alt": [
+              "as long as remains"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "سجد",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "سَجَدَ",
+            "gloss": "prostrate",
+            "type": "verb",
+            "root": "سجد",
+            "count": 35,
+            "ref": "7:12",
+            "pos": 5,
+            "alt": [
+              "prostrates"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "سدس",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سُدُس",
+            "gloss": "sixth",
+            "type": "noun",
+            "root": "سدس",
+            "count": 3,
+            "ref": "4:11",
+            "pos": 27
+          }
+        ]
+      },
+      {
+        "w": "مهد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَهْد",
+            "gloss": "bed",
+            "type": "noun",
+            "root": "مهد",
+            "count": 5,
+            "ref": "20:53",
+            "pos": 5
+          }
+        ]
+      },
+      {
+        "w": "هاد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هادُ",
+            "gloss": "are jews",
+            "type": "verb",
+            "root": "هود",
+            "count": 11,
+            "ref": "2:62",
+            "pos": 5,
+            "alt": [
+              "were jews",
+              "became jews"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "هاد",
+            "gloss": "guide",
+            "type": "active participle",
+            "root": "هدي",
+            "count": 7,
+            "ref": "13:7",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "هود",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "هُود",
+            "gloss": "hud",
+            "type": "proper noun",
+            "root": "هود",
+            "count": 10,
+            "ref": "2:111",
+            "pos": 8,
+            "alt": [
+              "jews",
+              "jew"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "واد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "واد",
+            "gloss": "valley",
+            "type": "noun",
+            "root": "ودي",
+            "count": 7,
+            "ref": "26:225",
+            "pos": 6
+          }
+        ]
+      },
+      {
+        "w": "وجد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَجَدَ",
+            "gloss": "find",
+            "type": "verb",
+            "root": "وجد",
+            "count": 106,
+            "ref": "2:196",
+            "pos": 47,
+            "alt": [
+              "found",
+              "is found"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "جاهد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "جاهَدَ",
+            "gloss": "strive",
+            "type": "verb",
+            "root": "جهد",
+            "count": 27,
+            "ref": "9:73",
+            "pos": 3,
+            "alt": [
+              "strives"
+            ],
+            "form": 3
+          }
+        ]
+      },
+      {
+        "w": "جهاد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "جِهاد",
+            "gloss": "striving",
+            "type": "noun",
+            "root": "جهد",
+            "count": 4,
+            "ref": "25:52",
+            "pos": 6,
+            "alt": [
+              "strive"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ساجد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "ساجِد",
+            "gloss": "prostrating",
+            "type": "active participle",
+            "root": "سجد",
+            "count": 23,
+            "ref": "2:58",
+            "pos": 13,
+            "alt": [
+              "prostrate",
+              "prostration"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سادس",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سادِس",
+            "gloss": "sixth of",
+            "type": "noun",
+            "root": "سدس",
+            "count": 2,
+            "ref": "18:22",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "سجود",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "سُجُود",
+            "gloss": "prostration",
+            "type": "adjective",
+            "root": "سجد",
+            "count": 6,
+            "ref": "2:125",
+            "pos": 22,
+            "alt": [
+              "prostrate"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مسجد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مَسْجِد",
+            "gloss": "masjid",
+            "type": "noun",
+            "root": "سجد",
+            "count": 28,
+            "ref": "2:114",
+            "pos": 5,
+            "alt": [
+              "masajid of allah",
+              "masajid"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مسود",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُسْوَدّ",
+            "gloss": "dark",
+            "type": "active participle",
+            "root": "سود",
+            "count": 2,
+            "ref": "16:58",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "مهاد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مِهاد",
+            "gloss": "bed",
+            "type": "noun",
+            "root": "مهد",
+            "count": 7,
+            "ref": "7:41",
+            "pos": 4,
+            "alt": [
+              "resting place"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "موده",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَوَدَّة",
+            "gloss": "love",
+            "type": "noun",
+            "root": "ودد",
+            "count": 8,
+            "ref": "4:73",
+            "pos": 12,
+            "alt": [
+              "any affection",
+              "affection"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ودود",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "وَدُود",
+            "gloss": "most loving",
+            "type": "adjective",
+            "root": "ودد",
+            "count": 2,
+            "ref": "11:90",
+            "pos": 9
+          }
+        ]
+      },
+      {
+        "w": "مجاهد",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مُجاهِد",
+            "gloss": "ones who strive",
+            "type": "active participle",
+            "root": "جهد",
+            "count": 4,
+            "ref": "4:95",
+            "pos": 9,
+            "alt": [
+              "strive"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ممدود",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مَمْدُود",
+            "gloss": "extensive",
+            "type": "passive participle",
+            "root": "مدد",
+            "count": 2,
+            "ref": "56:30",
+            "pos": 2,
+            "alt": [
+              "extended"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 46,
+    "featuredRoot": "سجد"
+  }
+}
